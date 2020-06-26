@@ -1,3 +1,10 @@
+# local cache / virtual environment
+.DS_Store
+./src/__pycache__/
+./src/.DS_Store
+./template/.DS_Store
+./newscloud
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

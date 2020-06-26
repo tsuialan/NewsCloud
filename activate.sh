@@ -1,0 +1,1 @@
+. ./newscloud/bin/activate
