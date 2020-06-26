@@ -4,6 +4,7 @@
 ./src/.DS_Store
 ./template/.DS_Store
 newscloud/
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
