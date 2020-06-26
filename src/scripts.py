@@ -1,3 +1,8 @@
+# Filename: scripts.py
+# Author: Alan Tsui
+# Description: compiliation of python methods 
+#       and scripts needed for newscloud
+
 from bs4 import BeautifulSoup
 
 def webscrape():

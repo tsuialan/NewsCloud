@@ -1,6 +1,6 @@
 # Filename: Makefile
 # Author: Alan Tsui
-# Description: a makefile
+# Description: a makefile for convenience
 # Run: set noexpandtab
 
 .PHONY: run scripts install update clean
