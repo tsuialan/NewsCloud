@@ -3,7 +3,7 @@
 ./src/__pycache__/
 ./src/.DS_Store
 ./template/.DS_Store
-./newscloud
+./newscloud/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
