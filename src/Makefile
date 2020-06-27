@@ -9,11 +9,12 @@ all: run
 
 run:
 			@echo "[*] [++++++++++ NewsCloud ++++++++++]"
-			python3 ./src/flask.py
+			export FLASK_APP=main.py
+			flask run --host=0.0.0.0
 
 scripts:
 			@echo "[*] Testing scripts.py"
-			python3 ./src/scripts.py
+			python3 scripts.py
 
 install:
 			@echo "[*] Installing required pytho packages"
@@ -25,4 +26,4 @@ update:
 
 clean:
 			@echo "[*] Cleaning files"
-			-rm -rf ./src/__pycache__/
+			-rm -rf __pycache__/
