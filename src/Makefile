@@ -13,10 +13,9 @@ run:
 			export FLASK_APP=main.py
 			python -m flask run --host=0.0.0.0
 
-scripts:
+newscloud:
 			@echo "[*] Testing scripts.py"
-			python3 scripts.py
-			cat nytheadlines.txt
+			python3 newscloud.py
 
 install:
 			@echo "[*] Installing required pytho packages"
