@@ -9,12 +9,14 @@ all: run
 
 run:
 			@echo "[*] [++++++++++ NewsCloud ++++++++++]"
+			export FLASK_ENV=newscloud
 			export FLASK_APP=main.py
-			flask run --host=0.0.0.0
+			python -m flask run --host=0.0.0.0
 
 scripts:
 			@echo "[*] Testing scripts.py"
 			python3 scripts.py
+			cat nytheadlines.txt
 
 install:
 			@echo "[*] Installing required pytho packages"
