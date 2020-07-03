@@ -7,52 +7,63 @@ from bs4 import BeautifulSoup
 import requests
 
 class News:
-    def __init__( self, paper, headlines):
+    def __init__(self, paper, headlines):
         self.paper = paper
         self.headlines = headlines
+        self.keywords = []
+        
+    def addKeywords(self, keywords):
+        self.keywords = keywords
 
 def newscrape():
+    # scrapes new york times
     r1 = requests.get('https://www.nytimes.com/')
     nyt = r1.content
-
     bs1 = BeautifulSoup(nyt, 'lxml')
     bs_nyt = bs1.find_all('h2')
 
+    # writes headline into file
     nyt_hl = []
     f = open("nytheadlines.txt", "w")
-    
     for headline in bs_nyt:
         nyt_hl.append(headline.getText())
         f.write(headline.getText() + '\n')
+    f.write('\n')
+    f.close()
 
+    # creates an object, calls analysis
     nyt = News('New York Times', nyt_hl)
-
-    #print(nyt.paper)
-    #print(nyt.headlines)
-
     newsAnalysis(nyt)
 
 def newsAnalysis(news):
-    print("Hello World")
-
+    # break up headlines into words 
     wordbank = {}
     for headline in news.headlines:
-        print(headline)
         words = headline.split()
         for word in words:
             word = word.replace(",", "").replace(".", "").replace("?", "").replace("!", "")
             word = word.replace("'", "").replace('"', "").replace("’", "").replace("‘", "")
             word = word.lower()
-            print(word)
             if word not in wordbank.keys():
                 wordbank[word] = 1
             else:
-                wordbank[word] += 1
-    #print(word_bank)
+                wordbank[word] = wordbank.get(word) + 1
 
+    # alphabetized dictionary
+    lst = wordbank.items()
+    lst = sorted(lst, key = lambda x : x[0])
     f = open("nytheadlines.txt", "a")
-    for key, value in wordbank.items():
-        f.write(key + " : " + str(value) + '\n')
+    for index in lst:
+        f.write(index[0] + " : " + str(index[1]) + '\n')
+    f.close()
+
+    # finds most frequent keywords
+    mostFrequent(wordbank)
+
+def mostFrequent(words):
+    lst = words.items()
+    lst = sorted(lst, key = lambda x : x[1], reverse = True)
+    print(lst)
 
 if __name__ == '__main__':
     newscrape()
