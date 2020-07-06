@@ -6,6 +6,7 @@
 from bs4 import BeautifulSoup
 import requests
 from urllib.parse import urlparse, urlsplit, urljoin
+from queue import PriorityQueue
 
 """
 
@@ -19,21 +20,27 @@ NEWS (object) |-> newspaper (identifier)
 
 # news headline object
 class News:
-    def __init__(self, paper, headlines):
+    def __init__(self, paper):
         self.paper = paper
-        self.headlines = headlines
-        self.keywords = {}
+        self.headlines = PriorityQueue()
+    def addheadline(self, headline):
+        self.headlines.put(headline.frequency, headline)
         
-    def addKeywords(self, keywords):
-        self.keywords = keywords
-
-class Headlines:
-    def __init__(self, headline, url):
+class Headline:
+    def __init__(self, keyword):
+        self.keyword = keyword
+        self.headline = NULL
+        self.url = NULL
+        self.freq = NULL
+    def setfrequency(self, freq):
+        self.freq = freq
+    def setheadline(self, headline):
         self.headline = headline
+    def seturl(self, url):
         self.url = url
 
 def main():
-    nytscrape()
+    #nytscrape()
     sfscrape()
 
 # https://www.sfchronicle.com/
@@ -44,11 +51,13 @@ def sfscrape():
     bs1 = BeautifulSoup(sf, 'lxml')
     bs_sf = bs1.find_all("a", {"class": "hdn-analytics"})
 
+    # creates news object
+    sf = News("sfchronicle")
+
     # writes headline into txt file
-    sf_hl = []
-    sf_url = []
-    tfile = "./headlines/sfchronicle.txt"
+    tfile = "./headlines/sfchronicle.txt"         # local text file
     f = open(tfile, "w")
+    # iterate through each headline, reformats it
     for headlines in bs_sf:
         # reset format, removes excess spaces
         hurl = headlines['href']
@@ -57,18 +66,18 @@ def sfscrape():
         # skip single word 'headlines'
         if (len(headlines) <= 3):
             continue
+        # headline is reformatted 'headlines'
         for word in headlines:
             headline += word + " "
-        sf_hl.append(headline)
-        sf_url.append(hurl)
+        # get keywords
+        #sf = genkeywords(sf, tfile)
+
+        # adds headline to sf_hl list
+        #sf_hl.append(headline)
+        #sf_url.append(hurl)
         f.write(headline + "\t" + hurl + '\n')
     f.write('\n')
     f.close()
-
-    # creates news object
-    sf = News("sfchronicle", sf_hl)
-
-    sf = genkeywords(sf, tfile)
 
 # https://www.nytimes.com/
 def nytscrape():
@@ -118,14 +127,12 @@ def genkeywords(news, tfile):
     keywords = sorted(keywords, key = lambda x : x[0])
     """
 
-    # write to txt file
+    # write to txt file, create headline objects
     f = open(tfile, "a")
     for index in keywords:
         f.write(index[0] + " : " + str(index[1]) + '\n')
     f.close()
     
-    # add list to news object
-    news.addKeywords(keywords)
     return news
 
 if __name__ == '__main__':

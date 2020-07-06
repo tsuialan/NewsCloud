@@ -1,42 +1,44 @@
 Portals of the Past 	http://www.sfchronicle.com/local/portalsofthepast/
 Do Not Sell My Info 	/mydata/
-Coronavirus live updates: Broadway star Nick Cordero dies of COVID-19 in Los Angeles 	/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
-Vallejo police investigate possible kidnapping 	/crime/article/Vallejo-police-investigate-possible-kidnapping-15387881.php
-Uber to purchase Postmates for $2.65 billion 	/business/article/Uber-to-purchase-Postmates-for-2-65-billion-15387834.php
-Fast-moving wildfire east of Gilroy grows to more than 1,000 acres 	/bayarea/article/Fast-moving-wildfire-breaks-out-east-of-Gilroy-15387595.php
-Bicylist killed by SMART commuter train in San Rafael 	/bayarea/article/Bicylist-killed-by-SMART-commuter-train-in-San-15387778.php
-BLM mural in Martinez vandalized in ‘hateful and senseless’ act 	/crime/article/Black-Lives-Matter-mural-in-Martinez-vandalized-15387592.php
-Jane Morrison, longtime SF progressive organizer, dies at 100 	/bayarea/article/Jane-Morrison-longtime-S-F-progressive-15387653.php
-6-year-old boy fatally shot in SF’s Bayview neighborhood 	/crime/article/6-year-old-boy-fatally-shot-in-SF-s-Bayview-15387425.php
-International AIDS Conference returns to SF, overshadowed by coronavirus 	/bayarea/article/International-AIDS-Conference-returns-to-SF-15387691.php
-The International AIDS Conference was set to return to San Francisco for the first time in 30 years, but a new pandemic has made it a virtual affair. 	/bayarea/article/International-AIDS-Conference-returns-to-SF-15387691.php
-How did we get here? California struggling to stay on top of pandemic 	/bayarea/article/How-did-we-get-here-California-struggling-to-15386509.php
-Covering mouth, nose best shield against virus, experts say 	/bayarea/article/Want-to-stay-safe-Bay-Area-experts-say-masks-15386562.php
-No, wearing a mask does not cut off your oxygen. Here are the facts. 	/bayarea/article/Is-wearing-a-mask-bad-for-you-We-asked-the-15386582.php
-Marin County stops indoor dining amid increase in coronavirus cases 	/bayarea/article/Marin-County-shuts-down-indoor-dining-amid-uptick-15387520.php
-Marin County officials will shut down indoor dining for at least three weeks after landing on the state’s coronavirus watch list, which tracks counties facing an uptick in cases. 	/bayarea/article/Marin-County-shuts-down-indoor-dining-amid-uptick-15387520.php
-Restaurants with outdoor dining baffled by state effort to shut them down 	/bayarea/article/Morgan-Hill-restaurants-with-outdoor-dining-15386524.php
-California’s new surge restrictions could last for a long while 	/bayarea/article/New-state-restrictions-on-indoor-dining-and-bars-15383648.php
-SF homeless project: As crisis worsens, seeking signs of hope 	/bayarea/article/SF-homeless-project-As-crisis-worsens-seeking-15383255.php
-Starting Monday, The Chronicle will present its fifth annual S.F. Homeless Project, a week of coverage focused on a crisis in San Francisco and across the Bay Area that has only worsened in recent years. The bedrock belief underlying the project has always been as simple as it is vexing: Mass homelessness in a wealthy society is not acceptable and must be eradicated. To that end, we seek to... 	/bayarea/article/SF-homeless-project-As-crisis-worsens-seeking-15383255.php
-SF Homeless Project: Complete coverage 	https://projects.sfchronicle.com/sf-homeless/landing/
-How you can help the homeless in the Bay Area 	https://projects.sfchronicle.com/sf-homeless/how-to-help/
-Hundreds of Fourth of July fires in Bay Area, many from illegal fireworks 	/bayarea/article/Hundreds-of-4th-of-July-fires-in-Bay-Area-many-15387382.php
-Fire officials across the Bay Area remained on high alert Sunday after battling more than 200 fires on the Fourth of July — almost all ignited by illegal fireworks — that threatened multiple homes and buildings and injured a father and his child. 	/bayarea/article/Hundreds-of-4th-of-July-fires-in-Bay-Area-many-15387382.php
-Stienstra: Busy parks, masks, distancing the rule on Fourth of July 	/bayarea/article/Busy-parks-masks-distancing-the-rule-of-the-day-15387489.php
-Pandemic has Fisherman’s Wharf floundering amid absent tourists 	/business/article/Pandemic-has-Fisherman-s-Wharf-floundering-amid-15385590.php
-Fisherman’s Wharf and Pier 39 were the most popular destinations for San Francisco’s tourists. Now, restaurants and shops are looking to locals to stay afloat — and they’re not coming. 	/business/article/Pandemic-has-Fisherman-s-Wharf-floundering-amid-15385590.php
-Perfect time for A’s to swim to Reality Island, build ballpark at Coliseum 	/sports/ostler/article/Perfect-time-for-A-s-to-swim-to-Reality-Island-15387558.php
-If the Oakland A’s were to throw all their new-ballpark eggs into the Coliseum basket, that good news might lift this A’s team to the World Series. 	/sports/ostler/article/Perfect-time-for-A-s-to-swim-to-Reality-Island-15387558.php
-Tracking COVID-19 cases across California 	https://projects.sfchronicle.com/2020/coronavirus-map/
+Coronavirus live updates: California sees another day of record hospitalizations 	/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
+California regulators find most people followed coronavirus rules over holiday weekend 	/news/article/California-regulators-find-most-people-followed-15389522.php
+Giants’ Cueto says he’s ready to pitch after Dominican’s strict... 	/giants/article/Giants-Cueto-says-he-s-ready-to-pitch-after-15389544.php
+6-year-old boy killed by gunfire on 4th of July in SF identified 	/crime/article/SF-police-chief-DA-call-for-justice-after-15388547.php
+Appeals Court says Trump’s ban on asylum-seekers violates immigration law 	/nation/article/Ninth-U-S-Court-of-Appeals-says-Trump-s-ban-on-15389482.php
+Feds extend deadline for Paycheck Protection Program 	/business/article/Feds-extend-deadline-for-Paycheck-Protection-15389389.php
+SF mayor nominates former Supervisor Malia Cohen to Police Commission 	/bayarea/article/SF-Mayor-Breed-nominates-former-Supervisor-Malia-15389297.php
+Bay Area students facing turbulent summer job market adapt on the fly 	/bayarea/article/Bay-Area-students-facing-turbulent-summer-job-15387442.php
+Fire on I-680 shuts down lanes by Benicia Bridge; crews battle... 	/california-wildfires/article/Crews-Fire-near-Gilroy-consumes-2-000-acres-15388683.php
+What can we do to save the restaurant industry? Why is it ours to save? 	/restaurants/article/What-can-we-do-to-save-the-restaurant-industry-15383710.php
+SOLEIL HO: Echoing the sentiments of the majority of my fellow food critics, I’m not going to eat at restaurants until there is a vaccine. Any time a server has to remind a customer to wear a mask or not touch her shoulder, that is a failure of public policy. 	/restaurants/article/What-can-we-do-to-save-the-restaurant-industry-15383710.php
+What should restaurant owners do when employees test positive? 	/restaurants/article/What-should-Bay-Area-restaurant-owners-do-when-15385625.php
 Undocumented restaurant workers may need most help, get the least 	/restaurants/article/Bay-Area-s-undocumented-restaurant-workers-may-15380764.php
-The restaurant business depends on undocumented workers who are ineligible for many unemployment benefits and loans. Local and state efforts to provide aid are straining to fill the gap. 	/restaurants/article/Bay-Area-s-undocumented-restaurant-workers-may-15380764.php
-COVID-19 hospitalizations hit new peaks in the Bay Area 	/bayarea/article/COVID-19-hospitalizations-hit-new-peaks-in-the-15385539.php
-Hospitalizations for COVID-19 hit new peaks in the Bay Area this week, with one of the hotbeds in Marin County, where officials are grappling with more than 1,400 cases among prisoners in San... 	/bayarea/article/COVID-19-hospitalizations-hit-new-peaks-in-the-15385539.php
-Backyard cottages boom as parents and students flee coronavirus 	/bayarea/article/Bay-Area-backyard-cottages-boom-as-elderly-15385477.php
+152 Bay Area restaurants now open for outdoor dining 	/restaurants/article/63-Bay-Area-restaurants-now-open-for-outdoor-15336551.php
+Interactive: What’s open and what’s still shut down by county 	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
+If MLB can’t handle coronavirus tests, how are games to be played? 	/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
+ANN KILLION: Two days into the restart of Major League Baseball’s “season,” the system was already breaking down. Teams had to cancel or postpone workouts. Confusion reigned. Players were angry. The issue? Testing for COVID-19. In other words, the most important issue. 	/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
+Giants’ Zaidi says club has averted testing snafu 	/giants/article/Giants-Zaidi-says-club-has-averted-testing-15389227.php
+A’s at-risk reliever Jake Diekman blasts delays with MLB test results 	/athletics/article/A-s-at-risk-reliever-Jake-Diekman-blasts-delays-15389183.php
+Bay Area’s homeless crisis was severe before coronavirus made it worse 	/bayarea/article/Bay-Area-s-homeless-crisis-was-severe-before-15366766.php
+Homeless numbers all over the Bay Area and West Coast were shooting upward even before the coronavirus crisis hit, and now the pandemic threatens to create catastrophe. 	/bayarea/article/Bay-Area-s-homeless-crisis-was-severe-before-15366766.php
+Letter from the editor: As crisis worsens, seeking signs of hope 	/bayarea/article/SF-homeless-project-As-crisis-worsens-seeking-15383255.php
+How you can help the homeless in the Bay Area 	https://projects.sfchronicle.com/sf-homeless/how-to-help/
+Idea of splitting Public Works gains steam amid Nuru fraud allegations 	/bayarea/article/Idea-of-splitting-SF-Public-Works-gains-steam-15387482.php
+A politically fraught proposal to create a new department dedicated to cleaning up San Francisco’s notoriously filthy streets while also clearing the cloud of scandal hanging over the city’s Public Works Department is hurtling toward the November ballot. 	/bayarea/article/Idea-of-splitting-SF-Public-Works-gains-steam-15387482.php
+Progressives target Dianne Feinstein as head of Senate Judiciary Committee 	/politics/article/Progressives-target-Dianne-Feinstein-atop-15387445.php
+Under President Trump, Republicans have been confirming federal judges at a relentless pace. Now, progressives want Democrats to replace Sen. Dianne Feinstein atop a key committee to keep up — especially as they face another possible Supreme Court confirmation fight and the prospect of flipping Senate control. 	/politics/article/Progressives-target-Dianne-Feinstein-atop-15387445.php
+San Quentin coronavirus outbreak underscores cruel treatment of prisoners 	/bayarea/otisrtaylorjr/article/San-Quentin-coronavirus-outbreak-underscores-15387380.php
+The spread of the virus marks a shameful failure of the prison system, a booming business that is built on bias. 	/bayarea/otisrtaylorjr/article/San-Quentin-coronavirus-outbreak-underscores-15387380.php
+See what’s open and what’s still shut down by county 	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
+Have sensitive news, documents or information you want to share confidentially? Here's how to contact us. 	https://projects.sfchronicle.com/newstips/
+SF, Oakland hang AIDS quilt to commemorate international conference 	/health/article/SF-Oakland-hang-AIDS-quilt-to-commemorate-15389503.php
+Activists and local officials unfurled 10 segments of the AIDS Memorial Quilt quilt Monday morning to hang from San Francisco and Oakland City Halls in honor of a major conference about the... 	/health/article/SF-Oakland-hang-AIDS-quilt-to-commemorate-15389503.php
+No, wearing a mask does not cut off your oxygen. Here are the facts. 	/bayarea/article/Is-wearing-a-mask-bad-for-you-We-asked-the-15386582.php
+Wearing face coverings is one of the most effective ways to slow the spread of the coronavirus. So why do so many people refuse to do it? 	/bayarea/article/Is-wearing-a-mask-bad-for-you-We-asked-the-15386582.php
+Covering mouth, nose best shield against virus, experts say 	/bayarea/article/Want-to-stay-safe-Bay-Area-experts-say-masks-15386562.php
 Bay Area doctors explain the COVID-19 treatments they’re using now 	/health/article/Bay-Area-doctors-explain-the-COVID-19-treatments-15385507.php
-Health officer: Adapt because virus ‘will be with us for a long time’ 	/bayarea/article/Health-officer-Adapt-because-coronavirus-will-15383939.php
-Giants return to Oracle Park for strange first glimpse of pandemic baseball 	/giants/article/Giants-return-to-Oracle-Park-for-strange-first-15385423.php
+Backyard cottages boom as parents and students flee coronavirus 	/bayarea/article/Bay-Area-backyard-cottages-boom-as-elderly-15385477.php
+COVID-19 hospitalizations hit new peaks in the Bay Area 	/bayarea/article/COVID-19-hospitalizations-hit-new-peaks-in-the-15385539.php
 Face masks: When and how to use them 	/news/article/Coronavirus-FAQ-Should-you-wear-a-face-mask-15147298.php
 Should I get a test? Will testing ramp up? 	/health/article/Do-you-need-to-be-tested-for-coronavirus-and-15154779.php
 Where can I get a test in the Bay Area? 	/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php
@@ -48,53 +50,52 @@ Bay Area Layoff Tracker 	https://projects.sfchronicle.com/2020/layoff-tracker/
 Search this regional database to see the number of job cuts by company and city. 	https://projects.sfchronicle.com/2020/layoff-tracker/
 Protesters at Coliseum oppose Howard Terminal project 	/athletics/article/Protesters-at-Coliseum-oppose-Howard-Terminal-15387646.php
 Oakland A’s President Dave Kaval said he welcomes dissent such as the small group of protesters at the Coliseum on Sunday who oppose the Athletics’ proposed Howard Terminal Stadium project.... 	/athletics/article/Protesters-at-Coliseum-oppose-Howard-Terminal-15387646.php
+Kaepernick will be featured in Disney series on race, social injustice 	/sports/article/Kaepernick-will-be-featured-in-Disney-series-on-15388935.php
 Kapler praises Giants, Mike Trout for setting good mask example 	/giants/article/Gabe-Kapler-praises-Giants-players-Mike-Trout-15387696.php
 Giants’ Brandon Belt believes team 'can get through this season safely’ 	/giants/article/Giants-Brandon-Belt-I-still-believe-we-can-15387671.php
 A’s postpone first position player workout awaiting test results 	/athletics/article/A-s-postpone-first-position-player-workout-15387470.php
-Giants’ Buster Posey arrives in camp but says he still might opt out 	/giants/article/Giants-Buster-Posey-arrives-in-camp-but-says-15386356.php
-State shutting off parking at beaches for July 4 weekend 	/bayarea/article/State-shutting-off-parking-at-beaches-for-July-4-15381007.php
-In a sweeping move intended to help stop the spread of COVID-19 over the Fourth of July Weekend, California State Parks will shut down parking at all state beaches on the Bay Area coast. 	/bayarea/article/State-shutting-off-parking-at-beaches-for-July-4-15381007.php
-Guide: Where to hike, run, and get outside right now 	https://projects.sfchronicle.com/guides/outdoors-guide/
-5 campgrounds you can walk into this Fourth of July weekend 	/bayarea/article/5-campgrounds-you-can-walk-into-this-crowded-15378268.php
 Is it safe to fly? Far-flung families weigh coronavirus risk 	/travel/article/Is-it-safe-to-fly-Far-flung-Bay-Area-families-15351374.php
+For those with relatives a plane ride away, deciding whether to visit means weighing the possibility of exposing family against not seeing each other until a vaccine is complete. 	/travel/article/Is-it-safe-to-fly-Far-flung-Bay-Area-families-15351374.php
+Pacific Crest Trail can’t escape coronavirus debate 	/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
+Guide: Where to hike, run, and get outside right now 	https://projects.sfchronicle.com/guides/outdoors-guide/
 Road trip checklist: How to prep for car travel in the pandemic 	/travel/article/Road-trip-checklist-How-to-prep-for-California-15353693.php
-NBA hatches a dumb second-bubble plan, but Warriors fans... 	/warriors/article/NBA-hatches-a-dumb-second-bubble-plan-but-15385179.php
-The NBA reportedly wants to assemble the eight teams not invited to the Orlando bubble, a group that includes the Warriors, to a quarantined site... 	/warriors/article/NBA-hatches-a-dumb-second-bubble-plan-but-15385179.php
-After basketball, Jennifer Azzi has career and family at 51 	/sports/annkillion/article/After-basketball-at-Stanford-and-USF-Jennifer-15386295.php
-Jennifer Azzi and her wife Blair Hardiek are growing tomatoes and cudding a newborn while sheltering at home in the pandemic. While bringing a... 	/sports/annkillion/article/After-basketball-at-Stanford-and-USF-Jennifer-15386295.php
+Everything you need to know about camping in California this summer 	/travel/article/Everything-you-need-to-know-about-camping-in-15360912.php
 Perfect time for A’s to swim to Reality Island, build... 	/sports/ostler/article/Perfect-time-for-A-s-to-swim-to-Reality-Island-15387558.php
 If the Oakland A’s were to throw all their new-ballpark eggs into the Coliseum basket, that good news might lift this A’s team to the World... 	/sports/ostler/article/Perfect-time-for-A-s-to-swim-to-Reality-Island-15387558.php
+NBA hatches a dumb second-bubble plan, but Warriors fans... 	/warriors/article/NBA-hatches-a-dumb-second-bubble-plan-but-15385179.php
+The NBA reportedly wants to assemble the eight teams not invited to the Orlando bubble, a group that includes the Warriors, to a quarantined site... 	/warriors/article/NBA-hatches-a-dumb-second-bubble-plan-but-15385179.php
+If MLB can’t handle coronavirus tests, how are games... 	/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
+Two days into the restart of Major League Baseball’s “season,” the system was already breaking down. Teams had to cancel or postpone... 	/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
 Ten life-and-death moments in 40 years in the outdoors 	/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
 On Tom Stienstra’s 40th anniversary as the outdoors writer for The Chronicle, editors asked him to describe the most provocative encounters of... 	/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
+Undocumented restaurant workers may need most help, get the least 	/restaurants/article/Bay-Area-s-undocumented-restaurant-workers-may-15380764.php
+The restaurant business depends on undocumented workers who are ineligible for many unemployment benefits and loans. Local and state efforts to provide aid are straining to fill the gap. 	/restaurants/article/Bay-Area-s-undocumented-restaurant-workers-may-15380764.php
 What should restaurant owners do when employees test positive? 	/restaurants/article/What-should-Bay-Area-restaurant-owners-do-when-15385625.php
-Restaurant owners are starting to realize that following the state’s guidelines isn’t necessarily enough to prevent a coronavirus outbreak. 	/restaurants/article/What-should-Bay-Area-restaurant-owners-do-when-15385625.php
 Wood-fired pupusas on an ample, friendly patio at Oakland’s Popoca 	/restaurants/article/Wood-fired-pupusas-on-an-ample-friendly-patio-at-15380769.php
 Herbal, plus other new Bay Area restaurants open for takeout 	/food/article/David-Kinch-s-Mentone-and-other-new-Bay-Area-15159295.php
 Berkeley’s Cafe Ohlone is gone, long live Cafe Ohlone 	/food/article/Berkeley-s-Cafe-Ohlone-is-gone-long-live-Cafe-15383064.php
-Green Chile Patty Melt as the salve for a stressful move 	/recipes/article/Green-Chile-Patty-Melt-as-the-salve-for-a-15380761.php
-Have Bay Area restaurants been following COVID-19 rules? 	/restaurants/article/Have-Bay-Area-restaurants-been-following-COVID-19-15381071.php
-All Bay Area counties have opened for outdoor dining, but many might be wondering if business owners are heeding coronavirus guidelines, and how counties are enforcing the rules, if at all. 	/restaurants/article/Have-Bay-Area-restaurants-been-following-COVID-19-15381071.php
 Searchable list of Black-owned restaurants in the Bay Area 	https://projects.sfchronicle.com/2020/black-owned-restaurants/
+A crowd-sourced directory of black-owned food businesses that are open right now. 	https://projects.sfchronicle.com/2020/black-owned-restaurants/
+Interactive: Changes restaurants may make to reopen 	https://projects.sfchronicle.com/2020/future-of-restaurants/
+Have Bay Area restaurants been following COVID-19 rules? 	/restaurants/article/Have-Bay-Area-restaurants-been-following-COVID-19-15381071.php
 152 Bay Area restaurants now open for outdoor dining 	/restaurants/article/63-Bay-Area-restaurants-now-open-for-outdoor-15336551.php
 Permanent restaurant closures since shelter-in-place 	/food/article/Bay-Area-restaurants-latest-updates-Food-15130419.php
-43 Sonoma County wineries that are open for visitors now 	/wine/article/23-Sonoma-County-wineries-that-are-open-for-15301764.php
-A food podcast, hosted by Soleil Ho and Justin Phillips 	https://www.sfchronicle.com/projects/podcasts/extra-spicy/
 The chaos of reopening California bars, and a racial reckoning... 	/wine/article/The-chaos-of-reopening-California-bars-and-a-15379887.php
 We’re reviewing the big news on the drinking beat from the past week, and tasting some delightfully experimental California wines that take... 	/wine/article/The-chaos-of-reopening-California-bars-and-a-15379887.php
-Bay Area’s undocumented restaurant workers may need most... 	/restaurants/article/Bay-Area-s-undocumented-restaurant-workers-may-15380764.php
-The restaurant business depends on undocumented workers who are ineligible for many unemployment benefits and loans. Local and state efforts to... 	/restaurants/article/Bay-Area-s-undocumented-restaurant-workers-may-15380764.php
-Fires linked to fireworks erupt across SF, Bay Area on Fourth of July 	/bayarea/article/Fire-churns-through-four-acres-in-McLaren-Park-15386762.php
-Grass fires — many linked to illegal fireworks — flared across the Bay Area on the Fourth of July, straining firefighter resources and causing injuries. 	/bayarea/article/Fire-churns-through-four-acres-in-McLaren-Park-15386762.php
-Willie Brown: California’s confused fight against the coronavirus 	/bayarea/williesworld/article/Willie-Brown-California-s-confused-fight-15384033.php
-Oakland A’s get unwelcome feedback from Sierra Club on new ballpark 	/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
+Hawa Hassan will put Somali food in the spotlight 	/food/article/Hawa-Hassan-will-put-Somali-food-in-the-spotlight-15380459.php
+Hawa Hassan, CEO of Basbaas Somali Foods, discusses her upcoming cookbook, In Bibi’s Kitchen, which centers African grandmothers. She also talks... 	/food/article/Hawa-Hassan-will-put-Somali-food-in-the-spotlight-15380459.php
 Bookworm, 82, marks his place outside Opera Plaza shop for 30 years 	/bayarea/article/Bookworm-82-has-marked-his-place-outside-Opera-15385788.php
+For the past 30 years, Eric Tee has rolled his wheelchair to a tree in front of the bookstore at Opera Plaza in San Francisco, pulled out a book and read. He’s become a neighborhood... 	/bayarea/article/Bookworm-82-has-marked-his-place-outside-Opera-15385788.php
+Black Lives Matter mural in Martinez vandalized in ‘hateful’ act 	/crime/article/Black-Lives-Matter-mural-in-Martinez-vandalized-15387592.php
+Jane Morrison, longtime SF progressive organizer, dies at 100 	/bayarea/article/Jane-Morrison-longtime-S-F-progressive-15387653.php
+Hundreds of Fourth of July fires in Bay Area, many from illegal fireworks 	/bayarea/article/Hundreds-of-4th-of-July-fires-in-Bay-Area-many-15387382.php
 AC Transit could cut 30% of bus service in East Bay as revenue sinks 	/bayarea/article/AC-Transit-could-cut-30-of-bus-service-in-East-15386659.php
 Should I get a coronavirus test before seeing friends and family? 	/bayarea/article/Should-I-get-a-coronavirus-test-before-seeing-15322424.php
 As the pandemic conitnues, keeping many families apart for longer than ever before, many are getting tested, or considering getting tested, before seeing family and friends. 	/bayarea/article/Should-I-get-a-coronavirus-test-before-seeing-15322424.php
+Interactive graphic: What school will look like with pandemic protocols 	https://projects.sfchronicle.com/2020/schools-pandemic-protocols-graphic/
 From picnics to pools, experts rate the risk of popular activities 	/bayarea/article/From-picnics-to-pools-coronavirus-experts-rate-15334210.php
 Face mask rules: When and how to use them 	/news/article/Coronavirus-FAQ-Should-you-wear-a-face-mask-15147298.php
 Bay Area coronavirus tests: Where can I get one? 	/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php
-Is risk of transmission lower outside? What to know before going outdoors 	/news/article/Is-risk-of-coronavirus-transmission-lower-15287602.php
 Ting, Chiu hearing from Chinese Americans about affirmative action 	/bayarea/philmatier/article/Lawmakers-Ting-and-Chiu-hearing-from-Chinese-15383269.php
 Assemblyman David Chiu said the opposition appears to be organized by conservative groups and “very much” focused on college admissions rather than the benefits affirmative action could have... 	/bayarea/philmatier/article/Lawmakers-Ting-and-Chiu-hearing-from-Chinese-15383269.php
 Bill Duplissea, one of the Bay Area’s last Republican legislators, dies 	/bayarea/article/Bill-Duplissea-one-of-the-Bay-Area-s-last-15386304.php
@@ -119,12 +120,12 @@ MoveOn endorses Joe Biden, a sign that progressives are... 	/politics/article/Mo
 Liberal organization’s blessing shows that progressives are starting to coalesce behind former vice president, unlike how they resisted Hillary... 	/politics/article/MoveOn-endorses-Joe-Biden-a-sign-that-15380631.php
 Timeline: How Bay Area has combated the coronavirus 	https://projects.sfchronicle.com/2020/coronavirus-timeline/
 A look back at the coronavirus outbreak across the Bay Area and the country. 	https://projects.sfchronicle.com/2020/coronavirus-timeline/
+In buying Postmates, Uber is doubling its bets on food delivery 	/business/article/Uber-pays-2-65-billion-for-Postmates-in-15388841.php
+Uber is buying Postmates for $2.65 billion, sharpening its focus on food delivery while ride-hailing plunges during the pandemic. 	/business/article/Uber-pays-2-65-billion-for-Postmates-in-15388841.php
 If you inherit a retirement account, make sure you read this 	/business/networth/article/If-you-inherit-a-retirement-account-make-sure-15385544.php
-The Secure Act changed the rules for required minimum distributions from inherited IRAs, 401(k) plans. Make sure you know what “class” you’re in. 	/business/networth/article/If-you-inherit-a-retirement-account-make-sure-15385544.php
 How to exercise your online privacy rights in California 	/business/article/How-to-exercise-your-online-privacy-rights-in-15385611.php
 PG&E contractor with sketchy past made millions after California’s... 	/business/article/PG-E-contractor-with-sketchy-past-made-millions-15385090.php
 Restaurant suppliers make the switch to home groceries 	/business/article/Restaurant-suppliers-make-the-switch-to-home-15383738.php
-U.S. unemployment rate drops to 11.1% as 1.4 million file for benefits 	/business/article/U-S-unemployment-rate-drops-to-11-1-as-1-4-15381877.php
 Eviction ban: What renters and landlords need to know 	/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
 With many Californians facing economic distress because of the coronavirus, state officials have taken steps to block evictions and protect renters. 	/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
 Interactive Database: Bay Area Layoff Tracker 	https://projects.sfchronicle.com/2020/layoff-tracker/
@@ -137,23 +138,23 @@ The advertiser boycott of social media is just the beginning 	/business/article/
 When new recruits start to boycott Facebook, Twitter and the like, that’s when we’ll see real change happen in Silicon Valley. 	/business/article/The-advertiser-boycott-of-social-media-is-just-15378281.php
 Bay Area people share battles with COVID-19 	/news/article/It-s-almost-like-there-s-this-monster-15347676.php
 Being a survivor of the coronavirus doesn’t mean you’ve recovered. Those who have battled it say their lives will never be the same. 	/news/article/It-s-almost-like-there-s-this-monster-15347676.php
-Gina Prince-Blythewood has made a strong, smart superhero movie 	https://datebook.sfchronicle.com/movies-tv/gina-prince-blythewood-has-made-a-strong-smart-superhero-movie-for-adults
-"The Old Guard" stars Charlize Theron as a very old warrior who cannot be killed. 	https://datebook.sfchronicle.com/movies-tv/gina-prince-blythewood-has-made-a-strong-smart-superhero-movie-for-adults
 Tom Hanks says his love for the Navy set sail in Bay Area 	https://datebook.sfchronicle.com/movies-tv/greyhound-star-tom-hanks-says-his-love-for-the-navy-set-sail-in-bay-area
-Book salutes the all-female squad of WWII pilots that history forgot 	https://datebook.sfchronicle.com/books/book-salutes-the-all-female-squad-of-wwii-pilots-that-history-forgot
+Hanks looked strong and healthy during a virtual interview where he spoke about his latest film, the new “normal” and growing up in the Bay Area. 	https://datebook.sfchronicle.com/movies-tv/greyhound-star-tom-hanks-says-his-love-for-the-navy-set-sail-in-bay-area
+Gina Prince-Blythewood has made a strong, smart superhero movie 	https://datebook.sfchronicle.com/movies-tv/gina-prince-blythewood-has-made-a-strong-smart-superhero-movie-for-adults
 SFMOMA official resigns amid uproar over deletion of comment 	https://datebook.sfchronicle.com/art-exhibits/sfmoma-official-resigns-amid-uproar-over-deletion-of-comment-by-black-ex-employee
 Will voice actors of color finally be heard? 	https://datebook.sfchronicle.com/movies-tv/will-voice-actors-of-color-finally-be-heard
+Book salutes the all-female squad of WWII pilots that history forgot 	https://datebook.sfchronicle.com/books/book-salutes-the-all-female-squad-of-wwii-pilots-that-history-forgot
+Board game designers chase the brass ring in documentary 'Gamemaster' 	https://datebook.sfchronicle.com/movies-tv/review-board-game-designers-chase-the-brass-ring-in-beguiling-documentary-gamemaster
+As far as improbable tales of overnight success are concerned, it's not easy to beat the example of Exploding Kittens. When its designers first put the popular card game on Kickstarter in 2015,... 	https://datebook.sfchronicle.com/movies-tv/review-board-game-designers-chase-the-brass-ring-in-beguiling-documentary-gamemaster
 Nasim Pedrad is positively Sandra Bullock-like in ‘Desperados’ 	https://datebook.sfchronicle.com/movies-tv/review-nasim-pedrad-is-positively-sandra-bullock-like-in-funny-desperados
-The "Saturday Night Live" alum has a winning star turn in Netflix's new comedy. 	https://datebook.sfchronicle.com/movies-tv/review-nasim-pedrad-is-positively-sandra-bullock-like-in-funny-desperados
 'Hamilton' on Disney Plus, with original Broadway cast, still a treasure 	https://datebook.sfchronicle.com/theater/review-hamilton-on-disney-plus-with-original-broadway-cast-still-a-treasure-trove-to-be-mined
 'John Lewis: Good Trouble' an inspirational story of an American hero 	https://datebook.sfchronicle.com/movies-tv/review-good-trouble-an-inspirational-story-of-john-lewis-an-american-hero-who-keeps-fighting-the-good-fight
 'The Outpost,' starring Scott Eastwood, holds its ground 	https://datebook.sfchronicle.com/movies-tv/review-the-outpost-starring-scott-eastwood-holds-its-ground
-Netflix’s ‘Unsolved Mysteries’ reboot stays true 	https://datebook.sfchronicle.com/movies-tv/review-netflixs-unsolved-mysteries-reboot-stays-true-to-crime-shows-winning-formula
 A tribute to Michael Tilson Thomas 	https://datebook.sfchronicle.com/a-tribute-to-michael-tilson-thomas
 Our exclusive collection of articles on music director Michael Tilson Thomas and his 25 years with the San Francisco Symphony. 	https://datebook.sfchronicle.com/a-tribute-to-michael-tilson-thomas
 For working parents, simplest activities bring joy for all 	/columnists/article/For-working-parents-simplest-activities-bring-15382694.php
 We’re getting through a summer of uncertainty one water balloon and P opsicle at a time. 	/columnists/article/For-working-parents-simplest-activities-bring-15382694.php
-‘To hike or not to hike?’ Pacific Crest Trail can’t escape... 	/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
+‘To hike or not to hike?’ PCT can’t escape coronavirus debate 	/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
 Hikers have been advised to stay off the trail by the Pacific Crest Trail Association, which issues permits to thru-hikers months in advance, and many have bailed out. But a hard-core contingent... 	/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
 Reflecting on a lifetime of taking it to the streets 	/culture/article/Veterans-of-social-justice-protests-reflect-on-a-15383826.php
 The coronavirus and social movements gives fashion a reality check 	/culture/article/The-coronavirus-and-social-movements-gives-15383790.php
@@ -173,1103 +174,15 @@ When the world came to San Francisco to create the United Nations 	/chronicle_va
 Worth the wait: Grace Cathedral’s early days and biggest moments 	/chronicle_vault/article/Worth-the-wait-Archive-finds-of-Grace-15344573.php
 Explore the stories behind classic front pages 	https://www.sfchronicle.com/vault/chroniclecovers/
 The San Francisco Chronicle came into existence more than 150 years ago. See classic newspaper pages from our archive for every day of the year. 	https://www.sfchronicle.com/vault/chroniclecovers/
+Trump officials put California’s air quality at risk, just in time for... 	/opinion/openforum/article/Trump-officials-put-California-s-air-quality-at-15387766.php
+In the middle of the coronavirus crisis, the EPA decided to forgo strengthening the national air quality standard for fine particulate matter. 	/opinion/openforum/article/Trump-officials-put-California-s-air-quality-at-15387766.php
+What California must do to help Latinos affected by pandemic and... 	/opinion/openforum/article/What-California-must-do-to-help-Latinos-affected-15387769.php
+California is right to phase out diesel trucks. 	/opinion/editorials/article/California-is-right-to-phase-out-diesel-trucks-15389531.php
 Editorial: Trump’s July Fourth speeches were an affront to the occasion 	/opinion/editorials/article/Editorial-Trump-s-July-Fourth-speeches-were-an-15387539.php
-What the country received in a pair of July Fourth speeches by President Trump was the opposite of an assuring call to calm and coming together. 	/opinion/editorials/article/Editorial-Trump-s-July-Fourth-speeches-were-an-15387539.php
-America is in a negative spiral. It needs a spiritual reset 	/opinion/article/America-is-in-a-negative-spiral-It-needs-a-15386246.php
 Joe Mathews: Before Calexit, a final push to fix America 	/opinion/article/Joe-Mathews-Before-Calexit-a-final-push-to-fix-15386256.php
-Editorial: A quieter Fourth of July to reflect on togetherness as well... 	/opinion/editorials/article/Editorial-A-quieter-Fourth-of-July-to-reflect-on-15385229.php
-Last Word: A different theater experience 	/opinion/lastword/article/Last-Word-A-different-theater-experience-15385239.php
 Booking photos no longer fair game in SF 	/opinion/diaz/article/Booking-photos-no-longer-fair-game-in-SF-15386279.php
 SFPD Police Chief Bill Scott announced Wednesday that booking photos will be released only in limited circumstances, such as warning the public... 	/opinion/diaz/article/Booking-photos-no-longer-fair-game-in-SF-15386279.php
 Willie Brown: California’s confused fight against the... 	/bayarea/williesworld/article/Willie-Brown-California-s-confused-fight-15384033.php
 The rules are arcane, they change by the day and people who are affected can’t find anyone to explain them. From the top down, the fight against... 	/bayarea/williesworld/article/Willie-Brown-California-s-confused-fight-15384033.php
 Do Not Sell My Info 	/mydata/
 
-the : 125
-to : 80
-of : 48
-in : 48
-and : 48
-a : 48
-for : 36
-bay : 34
-area : 31
-as : 25
-on : 24
-coronavirus : 22
-are : 21
-at : 16
-how : 14
-that : 14
-get : 13
-with : 12
-from : 12
-by : 11
-sf : 11
-july : 11
-san : 10
-will : 10
-is : 10
-fourth : 10
-covid-19 : 9
-has : 9
-many : 9
-when : 9
-not : 8
-years : 8
-new : 8
-pandemic : 8
-california : 8
-state : 8
-be : 8
-you : 8
-restaurant : 8
-what : 8
-have : 8
-more : 7
-than : 7
-francisco : 7
-your : 7
-after : 7
-restaurants : 7
-chronicle : 7
-can : 7
-all : 7
-oakland : 7
-this : 7
-who : 7
-do : 6
-but : 6
-it : 6
-an : 6
-californias : 6
-across : 6
-his : 6
-were : 6
-most : 6
-now : 6
-if : 6
-i : 6
-photos : 6
-time : 5
-dining : 5
-help : 5
-— : 5
-coliseum : 5
-into : 5
-world : 5
-benefits : 5
-one : 5
-where : 5
-test : 5
-before : 5
-live : 4
-100 : 4
-made : 4
-here : 4
-stay : 4
-against : 4
-virus : 4
-no : 4
-county : 4
-cases : 4
-officials : 4
-down : 4
-them : 4
-homeless : 4
-its : 4
-project : 4
-week : 4
-fires : 4
-fireworks : 4
-their : 4
-good : 4
-might : 4
-undocumented : 4
-workers : 4
-giants : 4
-open : 4
-out : 4
-home : 4
-outdoors : 4
-rules : 4
-action : 4
-days : 4
-cant : 4
-past : 3
-my : 3
-dies : 3
-police : 3
-sfs : 3
-was : 3
-first : 3
-we : 3
-experts : 3
-mask : 3
-off : 3
-marin : 3
-amid : 3
-shut : 3
-list : 3
-counties : 3
-outdoor : 3
-could : 3
-last : 3
-long : 3
-while : 3
-starting : 3
-only : 3
-been : 3
-illegal : 3
-high : 3
-theyre : 3
-reality : 3
-ballpark : 3
-news : 3
-team : 3
-need : 3
-business : 3
-unemployment : 3
-local : 3
-efforts : 3
-health : 3
-because : 3
-should : 3
-parking : 3
-reopening : 3
-see : 3
-president : 3
-said : 3
-still : 3
-weekend : 3
-hike : 3
-outside : 3
-risk : 3
-family : 3
-moments : 3
-tom : 3
-owners : 3
-fight : 3
-sierra : 3
-club : 3
-getting : 3
-know : 3
-black : 3
-life : 3
-they : 3
-make : 3
-trail : 3
-archive : 3
-sell : 2
-info : 2
-broadway : 2
-star : 2
-east : 2
-killed : 2
-smart : 2
-rafael : 2
-act : 2
-international : 2
-aids : 2
-conference : 2
-set : 2
-return : 2
-30 : 2
-top : 2
-say : 2
-cut : 2
-indoor : 2
-least : 2
-weeks : 2
-states : 2
-which : 2
-facing : 2
-project: : 2
-crisis : 2
-coverage : 2
-focused : 2
-always : 2
-must : 2
-sunday : 2
-parks : 2
-fishermans : 2
-wharf : 2
-tourists : 2
-popular : 2
-coming : 2
-perfect : 2
-swim : 2
-island : 2
-build : 2
-throw : 2
-new-ballpark : 2
-eggs : 2
-basket : 2
-lift : 2
-may : 2
-depends : 2
-ineligible : 2
-loans : 2
-straining : 2
-hospitalizations : 2
-hit : 2
-peaks : 2
-parents : 2
-students : 2
-explain : 2
-treatments : 2
-us : 2
-face : 2
-use : 2
-up : 2
-transit : 2
-timeline: : 2
-layoff : 2
-tracker : 2
-city : 2
-protesters : 2
-oppose : 2
-howard : 2
-terminal : 2
-he : 2
-such : 2
-group : 2
-through : 2
-says : 2
-beaches : 2
-move : 2
-over : 2
-families : 2
-nba : 2
-plan : 2
-warriors : 2
-jennifer : 2
-azzi : 2
-sheltering : 2
-ten : 2
-life-and-death : 2
-40 : 2
-stienstras : 2
-anniversary : 2
-following : 2
-guidelines : 2
-outbreak : 2
-oaklands : 2
-plus : 2
-other : 2
-cafe : 2
-ohlone : 2
-racial : 2
-reckoning : 2
-some : 2
-areas : 2
-linked : 2
-willie : 2
-brown: : 2
-confused : 2
-unwelcome : 2
-feedback : 2
-place : 2
-seeing : 2
-friends : 2
-longer : 2
-tested : 2
-or : 2
-rate : 2
-activities : 2
-chiu : 2
-about : 2
-affirmative : 2
-bill : 2
-legislators : 2
-lives : 2
-weve : 2
-catholics : 2
-happening : 2
-these : 2
-public : 2
-joe : 2
-progressives : 2
-behind : 2
-back : 2
-country : 2
-sure : 2
-changed : 2
-renters : 2
-heres : 2
-boycott : 2
-social : 2
-like : 2
-well : 2
-change : 2
-people : 2
-old : 2
-netflixs : 2
-scott : 2
-michael : 2
-tilson : 2
-thomas : 2
-our : 2
-pacific : 2
-crest : 2
-find : 2
-year : 2
-student : 2
-submit : 2
-came : 2
-classic : 2
-pages : 2
-day : 2
-editorial: : 2
-speeches : 2
-america : 2
-booking : 2
-portals : 1
-updates: : 1
-nick : 1
-cordero : 1
-los : 1
-angeles : 1
-vallejo : 1
-investigate : 1
-possible : 1
-kidnapping : 1
-uber : 1
-purchase : 1
-postmates : 1
-$265 : 1
-billion : 1
-fast-moving : 1
-wildfire : 1
-gilroy : 1
-grows : 1
-1000 : 1
-acres : 1
-bicylist : 1
-commuter : 1
-train : 1
-blm : 1
-mural : 1
-martinez : 1
-vandalized : 1
-hateful : 1
-senseless : 1
-jane : 1
-morrison : 1
-longtime : 1
-progressive : 1
-organizer : 1
-6-year-old : 1
-boy : 1
-fatally : 1
-shot : 1
-bayview : 1
-neighborhood : 1
-returns : 1
-overshadowed : 1
-virtual : 1
-affair : 1
-did : 1
-struggling : 1
-covering : 1
-mouth : 1
-nose : 1
-best : 1
-shield : 1
-wearing : 1
-does : 1
-oxygen : 1
-facts : 1
-stops : 1
-increase : 1
-three : 1
-landing : 1
-watch : 1
-tracks : 1
-uptick : 1
-baffled : 1
-effort : 1
-surge : 1
-restrictions : 1
-worsens : 1
-seeking : 1
-signs : 1
-hope : 1
-monday : 1
-present : 1
-fifth : 1
-annual : 1
-worsened : 1
-recent : 1
-bedrock : 1
-belief : 1
-underlying : 1
-simple : 1
-vexing: : 1
-mass : 1
-homelessness : 1
-wealthy : 1
-society : 1
-acceptable : 1
-eradicated : 1
-end : 1
-seek : 1
-complete : 1
-hundreds : 1
-fire : 1
-remained : 1
-alert : 1
-battling : 1
-200 : 1
-almost : 1
-ignited : 1
-threatened : 1
-multiple : 1
-homes : 1
-buildings : 1
-injured : 1
-father : 1
-child : 1
-stienstra: : 1
-busy : 1
-masks : 1
-distancing : 1
-rule : 1
-floundering : 1
-absent : 1
-pier : 1
-39 : 1
-destinations : 1
-franciscos : 1
-shops : 1
-looking : 1
-locals : 1
-afloat : 1
-series : 1
-tracking : 1
-provide : 1
-aid : 1
-fill : 1
-gap : 1
-hotbeds : 1
-grappling : 1
-1400 : 1
-among : 1
-prisoners : 1
-backyard : 1
-cottages : 1
-boom : 1
-flee : 1
-doctors : 1
-using : 1
-officer: : 1
-adapt : 1
-oracle : 1
-park : 1
-strange : 1
-glimpse : 1
-baseball : 1
-masks: : 1
-testing : 1
-ramp : 1
-symptoms : 1
-show : 1
-updates : 1
-herd : 1
-immunity : 1
-dates : 1
-schools : 1
-search : 1
-regional : 1
-database : 1
-number : 1
-job : 1
-cuts : 1
-company : 1
-dave : 1
-kaval : 1
-welcomes : 1
-dissent : 1
-small : 1
-athletics : 1
-proposed : 1
-stadium : 1
-kapler : 1
-praises : 1
-mike : 1
-trout : 1
-setting : 1
-example : 1
-brandon : 1
-belt : 1
-believes : 1
-season : 1
-safely : 1
-postpone : 1
-position : 1
-player : 1
-workout : 1
-awaiting : 1
-results : 1
-buster : 1
-posey : 1
-arrives : 1
-camp : 1
-opt : 1
-shutting : 1
-4 : 1
-sweeping : 1
-intended : 1
-stop : 1
-spread : 1
-coast : 1
-guide: : 1
-run : 1
-right : 1
-5 : 1
-campgrounds : 1
-walk : 1
-safe : 1
-fly : 1
-far-flung : 1
-weigh : 1
-road : 1
-trip : 1
-checklist: : 1
-prep : 1
-car : 1
-travel : 1
-hatches : 1
-dumb : 1
-second-bubble : 1
-fans : 1
-reportedly : 1
-wants : 1
-assemble : 1
-eight : 1
-teams : 1
-invited : 1
-orlando : 1
-bubble : 1
-includes : 1
-quarantined : 1
-site : 1
-basketball : 1
-career : 1
-51 : 1
-her : 1
-wife : 1
-blair : 1
-hardiek : 1
-growing : 1
-tomatoes : 1
-cudding : 1
-newborn : 1
-bringing : 1
-40th : 1
-writer : 1
-editors : 1
-asked : 1
-him : 1
-describe : 1
-provocative : 1
-encounters : 1
-employees : 1
-positive : 1
-realize : 1
-isnt : 1
-necessarily : 1
-enough : 1
-prevent : 1
-wood-fired : 1
-pupusas : 1
-ample : 1
-friendly : 1
-patio : 1
-popoca : 1
-herbal : 1
-takeout : 1
-berkeleys : 1
-gone : 1
-green : 1
-chile : 1
-patty : 1
-melt : 1
-salve : 1
-stressful : 1
-opened : 1
-wondering : 1
-heeding : 1
-enforcing : 1
-searchable : 1
-black-owned : 1
-152 : 1
-permanent : 1
-closures : 1
-since : 1
-shelter-in-place : 1
-43 : 1
-sonoma : 1
-wineries : 1
-visitors : 1
-food : 1
-podcast : 1
-hosted : 1
-soleil : 1
-ho : 1
-justin : 1
-phillips : 1
-chaos : 1
-bars : 1
-reviewing : 1
-big : 1
-drinking : 1
-beat : 1
-tasting : 1
-delightfully : 1
-experimental : 1
-wines : 1
-take : 1
-erupt : 1
-grass : 1
-flared : 1
-firefighter : 1
-resources : 1
-causing : 1
-injuries : 1
-bookworm : 1
-82 : 1
-marks : 1
-opera : 1
-plaza : 1
-shop : 1
-ac : 1
-30% : 1
-bus : 1
-service : 1
-revenue : 1
-sinks : 1
-conitnues : 1
-keeping : 1
-apart : 1
-ever : 1
-considering : 1
-picnics : 1
-pools : 1
-rules: : 1
-tests: : 1
-transmission : 1
-lower : 1
-going : 1
-ting : 1
-hearing : 1
-chinese : 1
-americans : 1
-assemblyman : 1
-david : 1
-opposition : 1
-appears : 1
-organized : 1
-conservative : 1
-groups : 1
-“very : 1
-much” : 1
-college : 1
-admissions : 1
-rather : 1
-duplissea : 1
-republican : 1
-matter : 1
-transform : 1
-political : 1
-campaigns : 1
-newsom : 1
-appeals : 1
-protesters: : 1
-consider : 1
-others : 1
-inspired : 1
-defund : 1
-movement : 1
-learned : 1
-brought : 1
-standstill : 1
-around : 1
-scrambling : 1
-understand : 1
-causes : 1
-way : 1
-go : 1
-back: : 1
-learning : 1
-tests : 1
-easy : 1
-needed : 1
-economy : 1
-reshaped : 1
-shelter : 1
-vaccines : 1
-abound : 1
-ready : 1
-die: : 1
-survivors : 1
-diary : 1
-insurance : 1
-alone : 1
-arias : 1
-spent : 1
-fighting : 1
-sometimes : 1
-hallucinating : 1
-gasping : 1
-air : 1
-demand : 1
-demanding : 1
-whats : 1
-catholic : 1
-church : 1
-inextricable : 1
-politically : 1
-powerful : 1
-“serious : 1
-concerns” : 1
-waterfront : 1
-environmental : 1
-advocacy : 1
-furlough : 1
-animals: : 1
-zoo : 1
-two : 1
-treasures : 1
-continue : 1
-feed : 1
-care : 1
-thousands : 1
-animals : 1
-without : 1
-money : 1
-federal : 1
-moveon : 1
-endorses : 1
-biden : 1
-sign : 1
-liberal : 1
-organizations : 1
-blessing : 1
-shows : 1
-coalesce : 1
-former : 1
-vice : 1
-unlike : 1
-resisted : 1
-hillary : 1
-combated : 1
-look : 1
-inherit : 1
-retirement : 1
-account : 1
-read : 1
-secure : 1
-required : 1
-minimum : 1
-distributions : 1
-inherited : 1
-iras : 1
-401(k) : 1
-plans : 1
-“class” : 1
-youre : 1
-exercise : 1
-online : 1
-privacy : 1
-rights : 1
-pg&e : 1
-contractor : 1
-sketchy : 1
-millions : 1
-suppliers : 1
-switch : 1
-groceries : 1
-drops : 1
-111% : 1
-14 : 1
-million : 1
-file : 1
-eviction : 1
-ban: : 1
-landlords : 1
-californians : 1
-economic : 1
-distress : 1
-taken : 1
-steps : 1
-block : 1
-evictions : 1
-protect : 1
-interactive : 1
-database: : 1
-renew : 1
-drivers : 1
-license : 1
-vehicle : 1
-registration : 1
-pay : 1
-mortgage : 1
-affairs : 1
-order : 1
-furious : 1
-edd : 1
-limits : 1
-employment : 1
-development : 1
-department : 1
-revising : 1
-policy : 1
-expediting : 1
-constituent : 1
-case : 1
-per : 1
-advertiser : 1
-media : 1
-just : 1
-beginning : 1
-recruits : 1
-start : 1
-facebook : 1
-twitter : 1
-thats : 1
-real : 1
-happen : 1
-silicon : 1
-valley : 1
-share : 1
-battles : 1
-being : 1
-survivor : 1
-doesnt : 1
-mean : 1
-youve : 1
-recovered : 1
-those : 1
-battled : 1
-never : 1
-same : 1
-gina : 1
-prince-blythewood : 1
-strong : 1
-superhero : 1
-movie : 1
-guard : 1
-stars : 1
-charlize : 1
-theron : 1
-very : 1
-warrior : 1
-cannot : 1
-hanks : 1
-love : 1
-navy : 1
-sail : 1
-book : 1
-salutes : 1
-all-female : 1
-squad : 1
-wwii : 1
-pilots : 1
-history : 1
-forgot : 1
-sfmoma : 1
-official : 1
-resigns : 1
-uproar : 1
-deletion : 1
-comment : 1
-voice : 1
-actors : 1
-color : 1
-finally : 1
-heard : 1
-nasim : 1
-pedrad : 1
-positively : 1
-sandra : 1
-bullock-like : 1
-desperados : 1
-saturday : 1
-night : 1
-alum : 1
-winning : 1
-turn : 1
-comedy : 1
-hamilton : 1
-disney : 1
-original : 1
-cast : 1
-treasure : 1
-john : 1
-lewis: : 1
-trouble : 1
-inspirational : 1
-story : 1
-american : 1
-hero : 1
-outpost : 1
-starring : 1
-eastwood : 1
-holds : 1
-ground : 1
-unsolved : 1
-mysteries : 1
-reboot : 1
-stays : 1
-true : 1
-tribute : 1
-exclusive : 1
-collection : 1
-articles : 1
-music : 1
-director : 1
-25 : 1
-symphony : 1
-working : 1
-simplest : 1
-bring : 1
-joy : 1
-summer : 1
-uncertainty : 1
-water : 1
-balloon : 1
-p : 1
-opsicle : 1
-escape : 1
-hikers : 1
-advised : 1
-association : 1
-issues : 1
-permits : 1
-thru-hikers : 1
-months : 1
-advance : 1
-bailed : 1
-hard-core : 1
-contingent : 1
-reflecting : 1
-lifetime : 1
-taking : 1
-streets : 1
-movements : 1
-gives : 1
-fashion : 1
-check : 1
-tim : 1
-cramer : 1
-influential : 1
-member : 1
-roller : 1
-skating : 1
-scene : 1
-dead : 1
-53 : 1
-schoolers : 1
-photographers : 1
-went : 1
-visit : 1
-navigating : 1
-senior : 1
-during : 1
-documenting : 1
-school : 1
-seniors : 1
-navigate : 1
-path : 1
-graduation : 1
-2020 : 1
-would : 1
-participate : 1
-subscription : 1
-unlimited : 1
-digital : 1
-access : 1
-newsletters : 1
-podcasts : 1
-events : 1
-subscribers : 1
-50 : 1
-prides : 1
-50th : 1
-done : 1
-another : 1
-deep : 1
-dive : 1
-chronicles : 1
-feature : 1
-even : 1
-pride : 1
-parade : 1
-throughout : 1
-1918 : 1
-spanish : 1
-flu : 1
-debacle: : 1
-crucial : 1
-lesson : 1
-era : 1
-peace : 1
-create : 1
-united : 1
-nations : 1
-worth : 1
-wait: : 1
-grace : 1
-cathedrals : 1
-early : 1
-biggest : 1
-explore : 1
-stories : 1
-front : 1
-existence : 1
-150 : 1
-ago : 1
-newspaper : 1
-every : 1
-trumps : 1
-affront : 1
-occasion : 1
-received : 1
-pair : 1
-trump : 1
-opposite : 1
-assuring : 1
-call : 1
-calm : 1
-together : 1
-negative : 1
-spiral : 1
-needs : 1
-spiritual : 1
-reset : 1
-mathews: : 1
-calexit : 1
-final : 1
-push : 1
-fix : 1
-quieter : 1
-reflect : 1
-togetherness : 1
-word: : 1
-different : 1
-theater : 1
-experience : 1
-fair : 1
-game : 1
-sfpd : 1
-chief : 1
-announced : 1
-wednesday : 1
-released : 1
-limited : 1
-circumstances : 1
-warning : 1
-arcane : 1
-affected : 1
-anyone : 1
