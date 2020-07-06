@@ -33,7 +33,7 @@ class Headlines:
         self.url = url
 
 def main():
-    #nytscrape()
+    nytscrape()
     sfscrape()
 
 # https://www.sfchronicle.com/
@@ -47,7 +47,7 @@ def sfscrape():
     # writes headline into txt file
     sf_hl = []
     sf_url = []
-    tfile = "sfchronicle.txt"
+    tfile = "./headlines/sfchronicle.txt"
     f = open(tfile, "w")
     for headlines in bs_sf:
         # reset format, removes excess spaces
@@ -81,7 +81,7 @@ def nytscrape():
     # writes headline into file
     nyt_hl = []
     #parsed = urlsplit(url)
-    tfile = "newyorktimes.txt"
+    tfile = "./headlines/newyorktimes.txt"
 
     f = open(tfile, "w")
     for headline in bs_nyt:

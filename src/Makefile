@@ -28,3 +28,8 @@ update:
 clean:
 			@echo "[*] Cleaning files"
 			-rm -rf __pycache__/
+
+delete:
+			@echo "[*] Deleting files"
+			-rm -rf headlines/
+			mkdir headlines/
