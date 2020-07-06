@@ -4,8 +4,10 @@
 #       and scripts needed for newscloud
 
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse, urlsplit
 import requests
 
+# news headline object
 class News:
     def __init__(self, paper, headlines):
         self.paper = paper
@@ -15,7 +17,29 @@ class News:
     def addKeywords(self, keywords):
         self.keywords = keywords
 
-def newscrape():
+def main():
+    #nytscrape()
+    sfscrape()
+
+# https://www.sfchronicle.com/
+def sfscrape():
+    # scrapes sf chronicle
+    r1 = requests.get('https://www.sfchronicle.com/')
+    sf = r1.content
+    bs1 = BeautifulSoup(sf, 'lxml')
+    bs_sf = bs1.find_all("a", {"class": "hdn-analytics"})
+
+    sf_hl = []
+    txt = "sfchronicle.txt"
+    f = open(txt, "w")
+    for headline in bs_sf:
+        sf_hl.append(headline.getText())
+        f.write(headline.getText() + '\n')
+    f.write('\n')
+    f.close()
+
+# https://www.nytimes.com/
+def nytscrape():
     # scrapes new york times
     r1 = requests.get('https://www.nytimes.com/')
     nyt = r1.content
@@ -24,7 +48,9 @@ def newscrape():
 
     # writes headline into file
     nyt_hl = []
-    f = open("nytheadlines.txt", "w")
+    #parsed = urlsplit(url)
+    txt = "newyorktimes.txt"
+    f = open(txt, "w")
     for headline in bs_nyt:
         nyt_hl.append(headline.getText())
         f.write(headline.getText() + '\n')
@@ -32,13 +58,11 @@ def newscrape():
     f.close()
 
     # creates an object, calls analysis
-    nyt = News('New York Times', nyt_hl)
-    newsAnalysis(nyt)
+    nyt = News("newyorktimes", nyt_hl)
 
-def newsAnalysis(news):
     # break up headlines into words 
     wordbank = {}
-    for headline in news.headlines:
+    for headline in nyt.headlines:
         words = headline.split()
         for word in words:
             word = word.replace(",", "").replace(".", "").replace("?", "").replace("!", "")
@@ -49,21 +73,25 @@ def newsAnalysis(news):
             else:
                 wordbank[word] = wordbank.get(word) + 1
 
-    # alphabetized dictionary
-    lst = wordbank.items()
+    # sort by frequency keywords
+    keywords = wordbank.items()
+    keywords = sorted(keywords, key = lambda x : x[1], reverse = True)
+
+    """ ALPHABETIZED
+    lst = words.items()
     lst = sorted(lst, key = lambda x : x[0])
-    f = open("nytheadlines.txt", "a")
-    for index in lst:
+    """
+
+    # write to txt file
+    f = open(txt, "a")
+    for index in keywords:
         f.write(index[0] + " : " + str(index[1]) + '\n')
     f.close()
+    
+    # add list to news object
+    nyt.addKeywords(keywords)
 
-    # finds most frequent keywords
-    mostFrequent(wordbank)
-
-def mostFrequent(words):
-    lst = words.items()
-    lst = sorted(lst, key = lambda x : x[1], reverse = True)
-    print(lst)
+    return nyt
 
 if __name__ == '__main__':
-    newscrape()
+    main()

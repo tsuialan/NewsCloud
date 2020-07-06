@@ -28,12 +28,8 @@ pynytimes==0.3.1
 pyOpenSSL==19.1.0
 queuelib==1.5.0
 requests==2.24.0
-Scrapy==2.2.0
-selenium==3.141.0
-service-identity==18.1.0
 six==1.15.0
 soupsieve==2.0.1
-Twisted==20.3.0
 urllib3==1.25.9
 w3lib==1.22.0
 Werkzeug==1.0.1
