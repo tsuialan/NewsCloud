@@ -4,18 +4,33 @@
 #       and scripts needed for newscloud
 
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse, urlsplit
 import requests
+from urllib.parse import urlparse, urlsplit, urljoin
+
+"""
+
+NEWS (object) |-> newspaper (identifier)
+                    |-> HEADLINES (object) |-> keyword (identifier)
+                                                    |-> original headline
+                                                    |-> headline's url
+                                                    |-> frequency of keyword
+
+"""
 
 # news headline object
 class News:
     def __init__(self, paper, headlines):
         self.paper = paper
         self.headlines = headlines
-        self.keywords = []
+        self.keywords = {}
         
     def addKeywords(self, keywords):
         self.keywords = keywords
+
+class Headlines:
+    def __init__(self, headline, url):
+        self.headline = headline
+        self.url = url
 
 def main():
     #nytscrape()
@@ -29,14 +44,31 @@ def sfscrape():
     bs1 = BeautifulSoup(sf, 'lxml')
     bs_sf = bs1.find_all("a", {"class": "hdn-analytics"})
 
+    # writes headline into txt file
     sf_hl = []
-    txt = "sfchronicle.txt"
-    f = open(txt, "w")
-    for headline in bs_sf:
-        sf_hl.append(headline.getText())
-        f.write(headline.getText() + '\n')
+    sf_url = []
+    tfile = "sfchronicle.txt"
+    f = open(tfile, "w")
+    for headlines in bs_sf:
+        # reset format, removes excess spaces
+        hurl = headlines['href']
+        headlines = headlines.getText().split()
+        headline = ""
+        # skip single word 'headlines'
+        if (len(headlines) <= 3):
+            continue
+        for word in headlines:
+            headline += word + " "
+        sf_hl.append(headline)
+        sf_url.append(hurl)
+        f.write(headline + "\t" + hurl + '\n')
     f.write('\n')
     f.close()
+
+    # creates news object
+    sf = News("sfchronicle", sf_hl)
+
+    sf = genkeywords(sf, tfile)
 
 # https://www.nytimes.com/
 def nytscrape():
@@ -49,20 +81,24 @@ def nytscrape():
     # writes headline into file
     nyt_hl = []
     #parsed = urlsplit(url)
-    txt = "newyorktimes.txt"
-    f = open(txt, "w")
+    tfile = "newyorktimes.txt"
+
+    f = open(tfile, "w")
     for headline in bs_nyt:
         nyt_hl.append(headline.getText())
         f.write(headline.getText() + '\n')
     f.write('\n')
     f.close()
 
-    # creates an object, calls analysis
+    # creates an object
     nyt = News("newyorktimes", nyt_hl)
 
+    nyt = genkeywords(nyt, tfile)
+
+def genkeywords(news, tfile):
     # break up headlines into words 
     wordbank = {}
-    for headline in nyt.headlines:
+    for headline in news.headlines:
         words = headline.split()
         for word in words:
             word = word.replace(",", "").replace(".", "").replace("?", "").replace("!", "")
@@ -78,20 +114,19 @@ def nytscrape():
     keywords = sorted(keywords, key = lambda x : x[1], reverse = True)
 
     """ ALPHABETIZED
-    lst = words.items()
-    lst = sorted(lst, key = lambda x : x[0])
+    keywords = words.items()
+    keywords = sorted(keywords, key = lambda x : x[0])
     """
 
     # write to txt file
-    f = open(txt, "a")
+    f = open(tfile, "a")
     for index in keywords:
         f.write(index[0] + " : " + str(index[1]) + '\n')
     f.close()
     
     # add list to news object
-    nyt.addKeywords(keywords)
-
-    return nyt
+    news.addKeywords(keywords)
+    return news
 
 if __name__ == '__main__':
     main()

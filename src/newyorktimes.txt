@@ -3,13 +3,14 @@ The Book Review Podcast
 Sign Up: ‘At Home’
 The Fullest Look Yet at the Racial Inequity of Coronavirus
  
-Updates: Phoenix Mayor Says FEMA Refused to Help With Testing
+Phoenix Mayor Says FEMA Refused to Help With Testing
 China Dominates Medical Supplies, in This Outbreak and the Next
-239 Experts With One Big Claim: The Coronavirus Is Airborne
+Coronavirus Is Airborne, 239 Experts Say in Letter to W.H.O.
 Health experts pushed back on President Trump’s false claim that 99 percent of U.S. infections are “totally harmless.”
 Chicago Gun Violence Spikes and Increasingly Finds the Youngest Victims
 Hong Kong, Changed Overnight, Navigates Its New Reality
 Nick Cordero, Nominated for Tony as Tap-Dancing Tough Guy, Dies at 41
+Ennio Morricone, Influential Creator of Music for Modern Cinema, Dies at 91
 How Netflix Beat Hollywood to a Generation of Black Content
 ‘Tell the Truth and Shame the Devil’
 To Be Hungry in the Middle of the Pandemic
@@ -28,26 +29,27 @@ Why We’re Capitalizing Black
 Site Index
 Site Information Navigation
 
-the : 15
-of : 5
-to : 5
-at : 4
-in : 4
+the : 14
+of : 6
+to : 6
+at : 5
+in : 5
+for : 4
 how : 4
 a : 4
-with : 3
 and : 3
 is : 3
-for : 3
 why : 3
 on : 2
+with : 2
 coronavirus : 2
 experts : 2
-one : 2
 health : 2
 president : 2
 that : 2
 us : 2
+dies : 2
+music : 2
 black : 2
 behind : 2
 rich : 2
@@ -69,7 +71,6 @@ look : 1
 yet : 1
 racial : 1
 inequity : 1
-updates: : 1
 phoenix : 1
 mayor : 1
 says : 1
@@ -84,10 +85,11 @@ supplies : 1
 this : 1
 outbreak : 1
 next : 1
-239 : 1
-big : 1
-claim: : 1
 airborne : 1
+239 : 1
+say : 1
+letter : 1
+who : 1
 pushed : 1
 back : 1
 trumps : 1
@@ -123,8 +125,14 @@ as : 1
 tap-dancing : 1
 tough : 1
 guy : 1
-dies : 1
 41 : 1
+ennio : 1
+morricone : 1
+influential : 1
+creator : 1
+modern : 1
+cinema : 1
+91 : 1
 netflix : 1
 beat : 1
 hollywood : 1
@@ -160,8 +168,8 @@ these : 1
 charts : 1
 show : 1
 keep : 1
-music : 1
 (and : 1
+one : 1
 another) : 1
 alive : 1
 money : 1
