@@ -18,30 +18,31 @@ NEWS (object) |-> newspaper (identifier)
 
 """
 
-# news headline object
+# news headline objects
 class News:
     def __init__(self, paper):
         self.paper = paper
-        self.headlines = PriorityQueue()
-    def addheadline(self, headline):
-        self.headlines.put(headline.frequency, headline)
+        self.headlines = []
+        self.wordbank = {}
+    def addHobj(self, headline):
+        self.headlines.append(headline)
         
 class Headline:
     def __init__(self, keyword):
         self.keyword = keyword
-        self.headline = NULL
-        self.url = NULL
-        self.freq = NULL
+        self.headlines = []
+        self.urls = []
+        self.freq = 0
     def setfrequency(self, freq):
         self.freq = freq
-    def setheadline(self, headline):
-        self.headline = headline
-    def seturl(self, url):
-        self.url = url
+    def addheadline(self, headline):
+        self.headlines.append(headline)
+    def addurl(self, url):
+        self.urls.append(url)
 
 def main():
     #nytscrape()
-    sfscrape()
+    sf = sfscrape()
 
 # https://www.sfchronicle.com/
 def sfscrape():
@@ -62,22 +63,19 @@ def sfscrape():
         # reset format, removes excess spaces
         hurl = headlines['href']
         headlines = headlines.getText().split()
-        headline = ""
         # skip single word 'headlines'
         if (len(headlines) <= 3):
             continue
-        # headline is reformatted 'headlines'
-        for word in headlines:
-            headline += word + " "
         # get keywords
-        #sf = genkeywords(sf, tfile)
-
-        # adds headline to sf_hl list
-        #sf_hl.append(headline)
-        #sf_url.append(hurl)
-        f.write(headline + "\t" + hurl + '\n')
+        sf = genkeywords(sf, sf.wordbank, tfile, headlines, hurl)
+        # writes to local file
+        f.write(str(headlines) + "\t" + hurl + '\n')
     f.write('\n')
     f.close()
+
+    # sort dictionary 
+    sortDictionary(sf, tfile)
+    return sf
 
 # https://www.nytimes.com/
 def nytscrape():
@@ -104,23 +102,44 @@ def nytscrape():
 
     nyt = genkeywords(nyt, tfile)
 
-def genkeywords(news, tfile):
+def genkeywords(news, wordbank, tfile, headlines, url):
     # break up headlines into words 
-    wordbank = {}
-    for headline in news.headlines:
-        words = headline.split()
-        for word in words:
-            word = word.replace(",", "").replace(".", "").replace("?", "").replace("!", "")
-            word = word.replace("'", "").replace('"', "").replace("’", "").replace("‘", "")
-            word = word.lower()
-            if word not in wordbank.keys():
-                wordbank[word] = 1
-            else:
-                wordbank[word] = wordbank.get(word) + 1
+    # hl is reformatted 'headlines'
+    hl = ""
+    for word in headlines:
+        hl += word + " "
+    # split each headline to a series of words, and the count them
+    for word in headlines:
+        word = word.replace(",", "").replace(".", "").replace("?", "").replace("!", "")
+        word = word.replace("'", "").replace('"', "").replace("’", "").replace("‘", "")
+        word = word.lower()
+        if word not in wordbank.keys():
+            wordbank[word] = 1
+            # creating headline object
+            h = Headline(word)
+            # add headline, url, freq to headline object
+            h.addheadline(hl)
+            h.addurl(url)
+            h.setfrequency(1)
+            # add the headline object into of news object
+            news.addHobj(h)
+        else:
+            wordbank[word] = wordbank.get(word) + 1
+            for hobj in news.headlines:
+                if (hobj.keyword == word):
+                    # update headline object values
+                    hobj.setfrequency(hobj.freq + 1)
+                    hobj.addheadline(hl)
+                    hobj.addurl(url)
+    return news
 
+# sorts dictionary by frequency of keyword
+def sortDictionary(news, tfile):
     # sort by frequency keywords
-    keywords = wordbank.items()
-    keywords = sorted(keywords, key = lambda x : x[1], reverse = True)
+    keywords = news.wordbank.items()
+    news.wordbank = sorted(keywords, key = lambda x : x[1], reverse = True)
+
+    #print(keywords)
 
     """ ALPHABETIZED
     keywords = words.items()
@@ -129,11 +148,15 @@ def genkeywords(news, tfile):
 
     # write to txt file, create headline objects
     f = open(tfile, "a")
-    for index in keywords:
+    for index in news.wordbank:
         f.write(index[0] + " : " + str(index[1]) + '\n')
     f.close()
-    
-    return news
+
+def printObject(obj):
+    print(obj.paper)
+    for hl in obj.headlines:
+        print(hl.keyword + " : " + str(hl.freq))
+        print(hl.headlines)
 
 if __name__ == '__main__':
     main()
