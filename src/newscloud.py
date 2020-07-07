@@ -24,7 +24,7 @@ class News:
         self.paper = paper
         self.headlines = []
         self.wordbank = {}
-    def addHobj(self, headline):
+    def appendHeadline(self, headline):
         self.headlines.append(headline)
         
 class Headline:
@@ -58,18 +58,26 @@ def sfscrape():
     # writes headline into txt file
     tfile = "./headlines/sfchronicle.txt"         # local text file
     f = open(tfile, "w")
-    # iterate through each headline, reformats it
     for headlines in bs_sf:
-        # reset format, removes excess spaces
+        # get href url from headlien
         hurl = headlines['href']
+        # completes incomplete urls
+        if ('https://' not in hurl):
+            base = 'https://www.sfchronicle.com/'
+            hurl = urljoin(base, hurl)
+        # removes excess spaces
         headlines = headlines.getText().split()
         # skip single word 'headlines'
         if (len(headlines) <= 3):
             continue
         # get keywords
-        sf = genkeywords(sf, sf.wordbank, tfile, headlines, hurl)
+        sf = genkeywords(sf, headlines, hurl)
+        # reformats headline text
+        hl = ""
+        for word in headlines:
+            hl += word + " "
         # writes to local file
-        f.write(str(headlines) + "\t" + hurl + '\n')
+        f.write(str(hl) + "\t" + hurl + '\n')
     f.write('\n')
     f.close()
 
@@ -102,8 +110,8 @@ def nytscrape():
 
     nyt = genkeywords(nyt, tfile)
 
-def genkeywords(news, wordbank, tfile, headlines, url):
-    # break up headlines into words 
+def genkeywords(news, headlines, url):
+    wordbank = news.wordbank
     # hl is reformatted 'headlines'
     hl = ""
     for word in headlines:
@@ -122,7 +130,7 @@ def genkeywords(news, wordbank, tfile, headlines, url):
             h.addurl(url)
             h.setfrequency(1)
             # add the headline object into of news object
-            news.addHobj(h)
+            news.appendHeadline(h)
         else:
             wordbank[word] = wordbank.get(word) + 1
             for hobj in news.headlines:

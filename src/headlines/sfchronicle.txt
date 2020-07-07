@@ -1,281 +1,281 @@
-['Portals', 'of', 'the', 'Past']	http://www.sfchronicle.com/local/portalsofthepast/
-['Do', 'Not', 'Sell', 'My', 'Info']	/mydata/
-['Coronavirus', 'live', 'updates:', 'California', 'sees', 'another', 'day', 'of', 'record', 'hospitalizations']	/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
-['Pressure', 'rises', 'for', 'Newsom', 'to', 'release', 'more', 'people', 'from', 'San', 'Quentin,', 'other', 'prisons']	/health/article/Pressure-rises-for-Newsom-to-release-more-people-15390119.php
-['Assembly', 'delays', 'return', 'to', 'Sacto', '—', 'member,', 'staff', 'positive', 'for', 'COVID-19']	/politics/article/California-Assembly-postpones-return-to-15389823.php
-['Napa', 'County', 'may', 'be', 'next', 'in', 'line', 'to', 'close', 'restaurants,', 'bars']	/bayarea/article/Napa-County-may-be-next-in-line-to-close-15390101.php
-['Danville', 'man', 'shot', 'to', 'death', 'during', 'four-wheeling', 'trip', 'with', 'son', 'in', 'the', 'Sierra']	/crime/article/Danville-man-shot-to-death-during-four-wheeling-15389994.php
-['Fairfield', 'grass', 'fire', 'prompts', 'evacuations']	/bayarea/article/Fairfield-grass-fire-prompts-evacuations-15390023.php
-['UC', 'picked', 'a', 'successor', 'to', 'Napolitano', 'to', 'run', 'the', 'university', 'system']	/education/article/UC-picked-a-successor-to-Napolitano-to-run-the-15390006.php
-['Fire', 'on', 'I-680', 'shuts', 'lanes', 'in', 'Benicia;', 'crews', 'battle', '2,000-acre', 'blaze', 'near...']	/california-wildfires/article/Crews-Fire-near-Gilroy-consumes-2-000-acres-15388683.php
-['Daily', 'Driver', 'expands', 'with', 'third', 'San', 'Francisco', 'bagel', 'shop']	/food/article/Daily-Driver-expands-with-third-San-Francisco-15389944.php
-['6-year-old', 'boy', 'killed', 'by', 'gunfire', 'on', '4th', 'of', 'July', 'in', 'SF', 'identified']	/crime/article/SF-police-chief-DA-call-for-justice-after-15388547.php
-['As', 'cases', 'and', 'hospitalizations', 'climb,', 'California', 'scrambles', 'to', 'tamp', 'down', 'the', 'surge']	/news/article/California-regulators-find-most-people-followed-15389522.php
-['Coronavirus', 'infections', 'and', 'hospitalizations', 'continued', 'to', 'climb', 'in', 'California', 'and', 'many', 'parts', 'of', 'the', 'Bay', 'Area', 'over', 'the', 'weekend,', 'as', 'the', 'state', 'that', 'found', 'early', 'success', 'in', 'containing', 'the', 'virus', 'is', 'now', 'scrambling', 'to', 'tamp', 'down', 'outbreaks', 'in', 'prisons', 'and', 'spiking', 'new', 'cases', 'among', 'young', 'people.']	/news/article/California-regulators-find-most-people-followed-15389522.php
-['Confused', 'about', 'reopening', 'in', 'the', 'Bay', 'Area?', 'Here’s', 'the', 'latest']	/bayarea/article/Confused-about-reopening-in-the-Bay-Area-15389734.php
-['Interactive:', 'What’s', 'open', 'and', 'what’s', 'still', 'shut', 'down', 'by', 'county']	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
-['Map:', 'Tracking', 'COVID-19', 'cases', 'across', 'California']	https://projects.sfchronicle.com/2020/coronavirus-map/
-['If', 'MLB', 'can’t', 'handle', 'coronavirus', 'tests,', 'how', 'are', 'games', 'to', 'be', 'played?']	/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
-['ANN', 'KILLION:', 'Two', 'days', 'into', 'the', 'restart', 'of', 'MLB’s', '“season,”', 'the', 'system', 'was', 'already', 'breaking', 'down.', 'The', 'issue?', 'Testing', 'for', 'COVID-19.']	/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
-['Giants', 'say', 'two', '‘individuals’', 'test', 'positive', 'for', 'coronavirus']	/giants/article/Giants-Zaidi-says-club-has-averted-testing-15389227.php
-['Giants’', '2020', 'schedule:', '12%', 'of', 'games', 'at', 'Dodger', 'Stadium']	/giants/article/Here-s-the-Giants-2020-schedule-a-whopping-15389818.php
-['A’s', '2020', 'schedule:', 'Five', 'things', 'to', 'watch']	/athletics/article/A-s-2020-schedule-Five-things-to-watch-15389989.php
-['SF', 'poised', 'to', 'extend', 'ban', 'on', 'apartment', 'rent', 'increases', '—', 'landlords', 'aren’t', 'fighting', 'it']	/bayarea/article/SF-poised-to-extend-ban-on-apartment-rent-15389769.php
-['The', 'San', 'Francisco', 'Board', 'of', 'Supervisors', 'is', 'poised', 'to', 'extend', 'a', 'rent', 'freeze', 'through', 'at', 'least', 'Sept.', '23.', 'The', 'measure,', 'sponsored', 'by', 'Supervisor', 'Aaron', 'Peskin,', 'would', 'prohibit', 'landlords', 'from', 'raising', 'rents.', 'The', 'proposal', 'has', 'the', 'support', 'of', 'the', 'San', 'Francisco', 'Apartment', 'Association.']	/bayarea/article/SF-poised-to-extend-ban-on-apartment-rent-15389769.php
-['SF’s', 'hot', 'office', 'market', 'freezes', 'with', 'record-low', 'leasing']	/business/article/SF-s-hot-office-market-freezes-with-record-low-15389733.php
-['Students', 'facing', 'turbulent', 'job', 'market', 'adapt', 'on', 'the', 'fly']	/bayarea/article/Bay-Area-students-facing-turbulent-summer-job-15387442.php
-['What', 'can', 'we', 'do', 'to', 'save', 'the', 'restaurant', 'industry?', 'Why', 'is', 'it', 'ours', 'to', 'save?']	/restaurants/article/What-can-we-do-to-save-the-restaurant-industry-15383710.php
-['SOLEIL', 'HO:', 'Echoing', 'the', 'sentiments', 'of', 'the', 'majority', 'of', 'my', 'fellow', 'food', 'critics,', 'I’m', 'not', 'going', 'to', 'eat', 'at', 'restaurants', 'until', 'there', 'is', 'a', 'vaccine.', 'Any', 'time', 'a', 'server', 'has', 'to', 'remind', 'a', 'customer', 'to', 'wear', 'a', 'mask', 'or', 'not', 'touch', 'her', 'shoulder,', 'that', 'is', 'a', 'failure', 'of', 'public', 'policy.']	/restaurants/article/What-can-we-do-to-save-the-restaurant-industry-15383710.php
-['Extra', 'Spicy', 'podcast:', 'Hawa', 'Hassan', 'will', 'put', 'Somali', 'food', 'in', 'the', 'spotlight']	/food/article/Hawa-Hassan-will-put-Somali-food-in-the-spotlight-15380459.php
-['Eradicate', 'AIDS?', 'Coronavirus', 'stands', 'in', 'the', 'way']	/bayarea/article/Eradicate-AIDS-Coronavirus-stands-in-the-way-15389943.php
-['COVID-19', 'has', 'had', 'a', 'disastrous', 'impact', 'on', 'efforts', 'to', 'slow', 'down', 'transmission', 'of', 'HIV', 'and', 'end', 'the', 'AIDS', 'epidemic.']	/bayarea/article/Eradicate-AIDS-Coronavirus-stands-in-the-way-15389943.php
-['SF,', 'Oakland', 'hang', 'AIDS', 'quilt', 'to', 'commemorate', 'conference']	/health/article/SF-Oakland-hang-AIDS-quilt-to-commemorate-15389503.php
-['Bay', 'Area’s', 'homeless', 'crisis', 'was', 'severe', 'before', 'coronavirus', 'made', 'it', 'worse']	/bayarea/article/Bay-Area-s-homeless-crisis-was-severe-before-15366766.php
-['Homeless', 'numbers', 'all', 'over', 'the', 'Bay', 'Area', 'and', 'West', 'Coast', 'were', 'shooting', 'upward', 'even', 'before', 'the', 'coronavirus', 'crisis', 'hit,', 'and', 'now', 'the', 'pandemic', 'threatens', 'to', 'create', 'catastrophe.']	/bayarea/article/Bay-Area-s-homeless-crisis-was-severe-before-15366766.php
-['See', 'what’s', 'open', 'and', 'what’s', 'still', 'shut', 'down', 'by', 'county']	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
-['Have', 'sensitive', 'news,', 'documents', 'or', 'information', 'you', 'want', 'to', 'share', 'confidentially?', "Here's", 'how', 'to', 'contact', 'us.']	https://projects.sfchronicle.com/newstips/
-['How', 'you', 'can', 'help', 'the', 'homeless', 'in', 'the', 'Bay', 'Area']	https://projects.sfchronicle.com/sf-homeless/how-to-help/
-['Want', 'to', 'help', 'homeless', 'people', 'across', 'the', 'Bay', 'Area?', 'Search', 'and', 'share', 'our', 'interactive', 'guide', 'of', 'volunteer', 'and', 'charity', 'groups.']	https://projects.sfchronicle.com/sf-homeless/how-to-help/
-['No,', 'wearing', 'a', 'mask', 'does', 'not', 'cut', 'off', 'your', 'oxygen.', 'Here', 'are', 'the', 'facts.']	/bayarea/article/Is-wearing-a-mask-bad-for-you-We-asked-the-15386582.php
-['Wearing', 'face', 'coverings', 'is', 'one', 'of', 'the', 'most', 'effective', 'ways', 'to', 'slow', 'the', 'spread', 'of', 'the', 'coronavirus.', 'So', 'why', 'do', 'so', 'many', 'people', 'refuse', 'to', 'do', 'it?']	/bayarea/article/Is-wearing-a-mask-bad-for-you-We-asked-the-15386582.php
-['Covering', 'mouth,', 'nose', 'best', 'shield', 'against', 'virus,', 'experts', 'say']	/bayarea/article/Want-to-stay-safe-Bay-Area-experts-say-masks-15386562.php
-['Bay', 'Area', 'doctors', 'explain', 'the', 'COVID-19', 'treatments', 'they’re', 'using', 'now']	/health/article/Bay-Area-doctors-explain-the-COVID-19-treatments-15385507.php
-['Backyard', 'cottages', 'boom', 'as', 'parents', 'and', 'students', 'flee', 'coronavirus']	/bayarea/article/Bay-Area-backyard-cottages-boom-as-elderly-15385477.php
-['COVID-19', 'hospitalizations', 'hit', 'new', 'peaks', 'in', 'the', 'Bay', 'Area']	/bayarea/article/COVID-19-hospitalizations-hit-new-peaks-in-the-15385539.php
-['Face', 'masks:', 'When', 'and', 'how', 'to', 'use', 'them']	/news/article/Coronavirus-FAQ-Should-you-wear-a-face-mask-15147298.php
-['Should', 'I', 'get', 'a', 'test?', 'Will', 'testing', 'ramp', 'up?']	/health/article/Do-you-need-to-be-tested-for-coronavirus-and-15154779.php
-['Where', 'can', 'I', 'get', 'a', 'test', 'in', 'the', 'Bay', 'Area?']	/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php
-['What', 'to', 'do', 'if', 'symptoms', 'show', 'up']	/bayarea/article/Coronavirus-or-not-What-to-do-if-symptoms-show-up-15112413.php
-['Updates', 'on', 'transit', 'and', 'parking']	/bayarea/article/Bay-Area-coronavirus-shutdown-What-you-need-to-15135704.php
-['When', 'will', 'California', 'have', '‘herd', 'immunity’?']	/science/article/Coronavirus-FAQ-Is-it-possible-to-be-reinfected-15154426.php
-['SF', 'reopening', 'timeline:', 'Dates', 'when', 'restaurants,', 'schools', 'can', 'open']	/bayarea/article/SF-reopening-calendar-Dates-when-restaurants-15301361.php
-['Bay', 'Area', 'Layoff', 'Tracker']	https://projects.sfchronicle.com/2020/layoff-tracker/
-['Search', 'this', 'regional', 'database', 'to', 'see', 'the', 'number', 'of', 'job', 'cuts', 'by', 'company', 'and', 'city.']	https://projects.sfchronicle.com/2020/layoff-tracker/
-['Giants’', '2020', 'schedule:', '12', 'percent', 'of', 'games', 'at', 'Dodger', 'Stadium']	/giants/article/Here-s-the-Giants-2020-schedule-a-whopping-15389818.php
-['The', 'San', 'Francisco', 'Giants’', '2020', 'schedule', 'finally', 'was', 'released,', 'and', 'they', 'open', 'the', 'season', 'July', '23', 'at', 'Dodger', 'Stadium,', 'the', 'start', 'of', 'a', 'four-game', 'series,', 'and', 'play', 'their', 'home', 'opener', 'July', '28', 'against...']	/giants/article/Here-s-the-Giants-2020-schedule-a-whopping-15389818.php
-['Giants’', '2020', 'schedule:', 'Five', 'things', 'to', 'watch']	/giants/article/Giants-2020-schedule-Five-things-to-watch-15390048.php
-['A’s', 'schedule:', 'Open', 'vs.', 'Angels,', 'play', '7', 'of', '10', 'vs.', 'Astros', 'at', 'home']	/athletics/article/A-s-schedule-released-Open-vs-Angels-play-7-15389845.php
-['A’s', 'position', 'players', 'hit', 'the', 'field', 'after', 'delay', 'receiving', 'test', 'results']	/athletics/article/A-s-position-players-hit-the-field-after-delay-15390230.php
-['A’s', 'at-risk', 'reliever', 'Jake', 'Diekman', 'blasts', 'delays', 'with', 'test', 'results']	/athletics/article/A-s-at-risk-reliever-Jake-Diekman-blasts-delays-15389183.php
-['Is', 'it', 'safe', 'to', 'fly?', 'Far-flung', 'families', 'weigh', 'coronavirus', 'risk']	/travel/article/Is-it-safe-to-fly-Far-flung-Bay-Area-families-15351374.php
-['For', 'those', 'with', 'relatives', 'a', 'plane', 'ride', 'away,', 'deciding', 'whether', 'to', 'visit', 'means', 'weighing', 'the', 'possibility', 'of', 'exposing', 'family', 'against', 'not', 'seeing', 'each', 'other', 'until', 'a', 'vaccine', 'is', 'complete.']	/travel/article/Is-it-safe-to-fly-Far-flung-Bay-Area-families-15351374.php
-['Pacific', 'Crest', 'Trail', 'can’t', 'escape', 'coronavirus', 'debate']	/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
-['Guide:', 'Where', 'to', 'hike,', 'run,', 'and', 'get', 'outside', 'right', 'now']	https://projects.sfchronicle.com/guides/outdoors-guide/
-['Road', 'trip', 'checklist:', 'How', 'to', 'prep', 'for', 'car', 'travel', 'in', 'the', 'pandemic']	/travel/article/Road-trip-checklist-How-to-prep-for-California-15353693.php
-['Everything', 'you', 'need', 'to', 'know', 'about', 'camping', 'in', 'California', 'this', 'summer']	/travel/article/Everything-you-need-to-know-about-camping-in-15360912.php
-['Perfect', 'time', 'for', 'A’s', 'to', 'swim', 'to', 'Reality', 'Island,', 'build...']	/sports/ostler/article/Perfect-time-for-A-s-to-swim-to-Reality-Island-15387558.php
-['If', 'the', 'Oakland', 'A’s', 'were', 'to', 'throw', 'all', 'their', 'new-ballpark', 'eggs', 'into', 'the', 'Coliseum', 'basket,', 'that', 'good', 'news', 'might', 'lift', 'this', 'A’s', 'team', 'to', 'the', 'World...']	/sports/ostler/article/Perfect-time-for-A-s-to-swim-to-Reality-Island-15387558.php
-['NBA', 'hatches', 'a', 'dumb', 'second-bubble', 'plan,', 'but', 'Warriors', 'fans...']	/warriors/article/NBA-hatches-a-dumb-second-bubble-plan-but-15385179.php
-['The', 'NBA', 'reportedly', 'wants', 'to', 'assemble', 'the', 'eight', 'teams', 'not', 'invited', 'to', 'the', 'Orlando', 'bubble,', 'a', 'group', 'that', 'includes', 'the', 'Warriors,', 'to', 'a', 'quarantined', 'site...']	/warriors/article/NBA-hatches-a-dumb-second-bubble-plan-but-15385179.php
-['If', 'MLB', 'can’t', 'handle', 'coronavirus', 'tests,', 'how', 'are', 'games...']	/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
-['Two', 'days', 'into', 'the', 'restart', 'of', 'Major', 'League', 'Baseball’s', '“season,”', 'the', 'system', 'was', 'already', 'breaking', 'down.', 'Teams', 'had', 'to', 'cancel', 'or', 'postpone...']	/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
-['Ten', 'life-and-death', 'moments', 'in', '40', 'years', 'in', 'the', 'outdoors']	/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
-['On', 'Tom', 'Stienstra’s', '40th', 'anniversary', 'as', 'the', 'outdoors', 'writer', 'for', 'The', 'Chronicle,', 'editors', 'asked', 'him', 'to', 'describe', 'the', 'most', 'provocative', 'encounters', 'of...']	/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
-['Undocumented', 'restaurant', 'workers', 'may', 'need', 'most', 'help,', 'get', 'the', 'least']	/restaurants/article/Bay-Area-s-undocumented-restaurant-workers-may-15380764.php
-['The', 'restaurant', 'business', 'depends', 'on', 'undocumented', 'workers', 'who', 'are', 'ineligible', 'for', 'many', 'unemployment', 'benefits', 'and', 'loans.', 'Local', 'and', 'state', 'efforts', 'to', 'provide', 'aid', 'are', 'straining', 'to', 'fill', 'the', 'gap.']	/restaurants/article/Bay-Area-s-undocumented-restaurant-workers-may-15380764.php
-['What', 'should', 'restaurant', 'owners', 'do', 'when', 'employees', 'test', 'positive?']	/restaurants/article/What-should-Bay-Area-restaurant-owners-do-when-15385625.php
-['Wood-fired', 'pupusas', 'on', 'an', 'ample,', 'friendly', 'patio', 'at', 'Oakland’s', 'Popoca']	/restaurants/article/Wood-fired-pupusas-on-an-ample-friendly-patio-at-15380769.php
-['Herbal,', 'plus', 'other', 'new', 'Bay', 'Area', 'restaurants', 'open', 'for', 'takeout']	/food/article/David-Kinch-s-Mentone-and-other-new-Bay-Area-15159295.php
-['Berkeley’s', 'Cafe', 'Ohlone', 'is', 'gone,', 'long', 'live', 'Cafe', 'Ohlone']	/food/article/Berkeley-s-Cafe-Ohlone-is-gone-long-live-Cafe-15383064.php
-['Searchable', 'list', 'of', 'Black-owned', 'restaurants', 'in', 'the', 'Bay', 'Area']	https://projects.sfchronicle.com/2020/black-owned-restaurants/
-['A', 'crowd-sourced', 'directory', 'of', 'black-owned', 'food', 'businesses', 'that', 'are', 'open', 'right', 'now.']	https://projects.sfchronicle.com/2020/black-owned-restaurants/
-['Interactive:', 'Changes', 'restaurants', 'may', 'make', 'to', 'reopen']	https://projects.sfchronicle.com/2020/future-of-restaurants/
-['Have', 'Bay', 'Area', 'restaurants', 'been', 'following', 'COVID-19', 'rules?']	/restaurants/article/Have-Bay-Area-restaurants-been-following-COVID-19-15381071.php
-['152', 'Bay', 'Area', 'restaurants', 'now', 'open', 'for', 'outdoor', 'dining']	/restaurants/article/63-Bay-Area-restaurants-now-open-for-outdoor-15336551.php
-['Permanent', 'restaurant', 'closures', 'since', 'shelter-in-place']	/food/article/Bay-Area-restaurants-latest-updates-Food-15130419.php
-['The', 'chaos', 'of', 'reopening', 'California', 'bars,', 'and', 'a', 'racial', 'reckoning...']	/wine/article/The-chaos-of-reopening-California-bars-and-a-15379887.php
-['We’re', 'reviewing', 'the', 'big', 'news', 'on', 'the', 'drinking', 'beat', 'from', 'the', 'past', 'week,', 'and', 'tasting', 'some', 'delightfully', 'experimental', 'California', 'wines', 'that', 'take...']	/wine/article/The-chaos-of-reopening-California-bars-and-a-15379887.php
-['Hawa', 'Hassan', 'will', 'put', 'Somali', 'food', 'in', 'the', 'spotlight']	/food/article/Hawa-Hassan-will-put-Somali-food-in-the-spotlight-15380459.php
-['Hawa', 'Hassan,', 'CEO', 'of', 'Basbaas', 'Somali', 'Foods,', 'discusses', 'her', 'upcoming', 'cookbook,', 'In', 'Bibi’s', 'Kitchen,', 'which', 'centers', 'African', 'grandmothers.', 'She', 'also', 'talks...']	/food/article/Hawa-Hassan-will-put-Somali-food-in-the-spotlight-15380459.php
-['San', 'Quentin', 'outbreak', 'underscores', 'cruel', 'treatment', 'of', 'prisoners']	/bayarea/otisrtaylorjr/article/San-Quentin-coronavirus-outbreak-underscores-15387380.php
-['OTIS', 'R.', 'TAYLOR', 'JR:', 'The', 'spread', 'of', 'the', 'virus', 'marks', 'a', 'shameful', 'failure', 'of', 'the', 'prison', 'system,', 'a', 'booming', 'business', 'that', 'is', 'built', 'on', 'bias.']	/bayarea/otisrtaylorjr/article/San-Quentin-coronavirus-outbreak-underscores-15387380.php
-['Idea', 'of', 'splitting', 'SF', 'Public', 'Works', 'gains', 'steam', 'amid', 'Nuru', 'fraud', 'allegations']	/bayarea/article/Idea-of-splitting-SF-Public-Works-gains-steam-15387482.php
-['SF', 'Mayor', 'Breed', 'nominates', 'former', 'Supervisor', 'Malia', 'Cohen', 'to', 'Police', 'Commission']	/bayarea/article/SF-Mayor-Breed-nominates-former-Supervisor-Malia-15389297.php
-['Bookworm,', '82,', 'marks', 'his', 'place', 'outside', 'Opera', 'Plaza', 'shop', 'for', '30', 'years']	/bayarea/article/Bookworm-82-has-marked-his-place-outside-Opera-15385788.php
-['Black', 'Lives', 'Matter', 'mural', 'in', 'Martinez', 'vandalized', 'in', '‘hateful’', 'act']	/crime/article/Black-Lives-Matter-mural-in-Martinez-vandalized-15387592.php
-['Should', 'I', 'get', 'a', 'coronavirus', 'test', 'before', 'seeing', 'friends', 'and', 'family?']	/bayarea/article/Should-I-get-a-coronavirus-test-before-seeing-15322424.php
-['As', 'the', 'pandemic', 'conitnues,', 'keeping', 'many', 'families', 'apart', 'for', 'longer', 'than', 'ever', 'before,', 'many', 'are', 'getting', 'tested,', 'or', 'considering', 'getting', 'tested,', 'before', 'seeing', 'family', 'and', 'friends.']	/bayarea/article/Should-I-get-a-coronavirus-test-before-seeing-15322424.php
-['Interactive', 'graphic:', 'What', 'school', 'will', 'look', 'like', 'with', 'pandemic', 'protocols']	https://projects.sfchronicle.com/2020/schools-pandemic-protocols-graphic/
-['From', 'picnics', 'to', 'pools,', 'experts', 'rate', 'the', 'risk', 'of', 'popular', 'activities']	/bayarea/article/From-picnics-to-pools-coronavirus-experts-rate-15334210.php
-['Face', 'mask', 'rules:', 'When', 'and', 'how', 'to', 'use', 'them']	/news/article/Coronavirus-FAQ-Should-you-wear-a-face-mask-15147298.php
-['Bay', 'Area', 'coronavirus', 'tests:', 'Where', 'can', 'I', 'get', 'one?']	/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php
-['California', 'legislators', 'call', 'on', 'Newsom', 'to', 'stop', 'transferring', 'prisoners', 'to', 'ICE']	/bayarea/article/California-legislators-call-on-Newsom-to-stop-15389732.php
-['More', 'than', '40', 'California', 'lawmakers', 'called', 'on', 'Gov.', 'Gavin', 'Newsom', 'to', 'stop', 'the', 'move', 'of', 'immigrant', 'inmates', 'to', 'Immigration', 'and', 'Customs', 'Enforcement', 'during', 'the', 'coronavirus', 'pandemic.']	/bayarea/article/California-legislators-call-on-Newsom-to-stop-15389732.php
-['Top', 'CA', 'Democrats', 'demand', 'state', 'party', 'stop', 'taking', 'money', 'from', 'police', 'unions']	/politics/article/Top-California-Democrats-demand-state-party-stop-15389899.php
-['U.S.', 'Court', 'of', 'Appeals', 'says', 'Trump’s', 'ban', 'on', 'asylum', 'seekers', 'violates...']	/nation/article/Ninth-U-S-Court-of-Appeals-says-Trump-s-ban-on-15389482.php
-['Ting,', 'Chiu', 'hearing', 'from', 'Chinese', 'Americans', 'about', 'affirmative', 'action']	/bayarea/philmatier/article/Lawmakers-Ting-and-Chiu-hearing-from-Chinese-15383269.php
-['Bill', 'Duplissea,', 'one', 'of', 'the', 'Bay', 'Area’s', 'last', 'Republican', 'legislators,', 'dies']	/bayarea/article/Bill-Duplissea-one-of-the-Bay-Area-s-last-15386304.php
-['What', "we've", 'learned', 'after', '100', 'days', 'of', 'sheltering', 'in', 'the', 'Bay', 'Area']	/bayarea/article/After-100-days-of-sheltering-in-the-Bay-Area-15354723.php
-['Some', '100', 'days', 'after', 'the', 'coronavirus', 'brought', 'Bay', 'Area', 'life', 'to', 'a', 'standstill,', 'health', 'experts', 'around', 'the', 'world', 'are', 'still', 'scrambling', 'to', 'understand', 'the', 'virus', 'that', 'causes', 'COVID-19.']	/bayarea/article/After-100-days-of-sheltering-in-the-Bay-Area-15354723.php
-['‘No', 'way', 'we', 'can', 'go', 'back’:', 'Learning', 'to', 'live', 'with', 'the', 'coronavirus']	/health/article/There-s-no-way-we-can-go-back-to-what-we-15354685.php
-['Tests', 'are', 'easy', 'to', 'get', 'now,', 'but', 'not', 'always', 'where', 'needed', 'most']	/bayarea/article/Coronavirus-tests-are-easy-to-get-now-but-not-15355976.php
-['Bay', 'Area', 'economy', 'reshaped', 'by', '100', 'days', 'of', 'shelter', 'in', 'place']	/business/article/Bay-Area-economy-reshaped-by-100-days-of-15354722.php
-['Efforts', 'at', 'coronavirus', 'vaccines,', 'treatments', 'abound', 'in', 'Bay', 'Area']	/bayarea/article/Efforts-at-coronavirus-vaccines-and-treatments-15355870.php
-['‘I', 'was', 'ready', 'to', 'die’:', 'A', 'survivor’s', 'diary']	/bayarea/article/I-was-ready-to-die-15341786.php
-['With', 'no', 'health', 'insurance', 'and', 'alone', 'in', 'his', 'home,', 'Rafael', 'Arias', 'spent', 'weeks', 'fighting', 'for', 'his', 'life,', 'sometimes', 'hallucinating', 'and', 'gasping', 'for', 'air.']	/bayarea/article/I-was-ready-to-die-15341786.php
-['Oakland’s', 'Black', 'Catholics', 'demand', 'action']	/bayarea/otisrtaylorjr/article/Oakland-s-Black-Catholics-demand-action-15380957.php
-['Black', 'Catholics', 'in', 'Oakland', 'are', 'demanding', 'action.', 'What’s', 'happening', 'in', 'the', 'Catholic', 'Church', 'is', 'inextricable', 'from', 'the', 'racial', 'reckoning', 'happening...']	/bayarea/otisrtaylorjr/article/Oakland-s-Black-Catholics-demand-action-15380957.php
-['Oakland', 'A’s', 'get', 'unwelcome', 'feedback', 'from', 'Sierra', 'Club', 'on...']	/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
-['The', 'politically', 'powerful', 'Sierra', 'Club', 'has', '“serious', 'concerns”', 'about', 'the', 'Oakland', 'A’s', 'waterfront', 'ballpark', 'plan.', 'The', 'environmental', 'advocacy...']	/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
-['‘You', 'can’t', 'furlough', 'the', 'animals’:', 'SF', 'Zoo', 'and', 'two...']	/bayarea/heatherknight/article/You-can-t-furlough-the-animals-The-SF-15383726.php
-['These', 'city', 'treasures', 'must', 'continue', 'to', 'feed', 'and', 'care', 'for', 'thousands', 'of', 'animals', 'without', 'reopening', 'to', 'the', 'public.', 'And', 'money', 'from', 'the', 'federal...']	/bayarea/heatherknight/article/You-can-t-furlough-the-animals-The-SF-15383726.php
-['How', 'San', 'Francisco', 'inspired', 'the', '‘defund', 'the', 'police’', 'movement']	/politics/article/How-San-Francisco-inspired-the-defund-the-police-15380942.php
-['Alex', 'Vitale', 'saw', 'that', 'police', 'were', 'being', 'asked', 'to', 'do', 'too', 'much', 'when', 'he', 'worked', 'as', 'an', 'advocate', 'for', 'homeless', 'people', 'in', 'San', 'Francisco.', 'He', 'used', 'some', 'of...']	/politics/article/How-San-Francisco-inspired-the-defund-the-police-15380942.php
-['Timeline:', 'How', 'Bay', 'Area', 'has', 'combated', 'the', 'coronavirus']	https://projects.sfchronicle.com/2020/coronavirus-timeline/
-['A', 'look', 'back', 'at', 'the', 'coronavirus', 'outbreak', 'across', 'the', 'Bay', 'Area', 'and', 'the', 'country.']	https://projects.sfchronicle.com/2020/coronavirus-timeline/
-['How', 'the', 'pandemic', 'has', 'ravaged', 'SF’s', 'Fisherman’s', 'Wharf']	/business/article/Pandemic-has-Fisherman-s-Wharf-floundering-amid-15385590.php
-['Fisherman’s', 'Wharf', 'and', 'Pier', '39', 'were', 'the', 'most', 'popular', 'destinations', 'for', 'San', 'Francisco’s', 'tourists.', 'Now,', 'restaurants', 'and', 'shops', 'are', 'looking', 'to', 'locals', 'to', 'stay', 'afloat', '—', 'and', 'they’re', 'not', 'coming.']	/business/article/Pandemic-has-Fisherman-s-Wharf-floundering-amid-15385590.php
-['Feds', 'extend', 'deadline', 'for', 'Paycheck', 'Protection', 'Program']	/business/article/Feds-extend-deadline-for-Paycheck-Protection-15389389.php
-['In', 'buying', 'Postmates,', 'Uber', 'is', 'doubling', 'its', 'bets', 'on', 'food', 'delivery']	/business/article/Uber-pays-2-65-billion-for-Postmates-in-15388841.php
-['How', 'to', 'exercise', 'your', 'online', 'privacy', 'rights', 'in', 'California']	/business/article/How-to-exercise-your-online-privacy-rights-in-15385611.php
-['PG&E', 'contractor', 'with', 'sketchy', 'past', 'made', 'millions', 'after', 'California’s...']	/business/article/PG-E-contractor-with-sketchy-past-made-millions-15385090.php
-['Eviction', 'ban:', 'What', 'renters', 'and', 'landlords', 'need', 'to', 'know']	/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
-['With', 'many', 'Californians', 'facing', 'economic', 'distress', 'because', 'of', 'the', 'coronavirus,', 'state', 'officials', 'have', 'taken', 'steps', 'to', 'block', 'evictions', 'and', 'protect', 'renters.']	/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
-['Interactive', 'Database:', 'Bay', 'Area', 'Layoff', 'Tracker']	https://projects.sfchronicle.com/2020/layoff-tracker/
-['How', 'do', 'I', 'renew', 'my', 'driver’s', 'license,', 'vehicle', 'registration?']	/bayarea/article/Bay-Area-coronavirus-How-do-I-renew-my-drivers-15169362.php
-['Can’t', 'pay', 'your', 'mortgage', 'because', 'of', 'the', 'coronavirus?', 'Here’s', 'what', 'to', 'do']	/business/article/California-homeowners-Can-t-pay-your-mortgage-15188637.php
-['Bay', 'Area', 'help', 'to', 'get', 'your', 'will', 'and', 'other', 'affairs', 'in', 'order']	/bayarea/article/Coronavirus-Bay-Area-help-to-get-your-will-and-15177648.php
-['If', 'you', 'inherit', 'a', 'retirement', 'account,', 'make', 'sure', 'you', 'read', 'this']	/business/networth/article/If-you-inherit-a-retirement-account-make-sure-15385544.php
-['The', 'Secure', 'Act', 'changed', 'the', 'rules', 'for', 'required', 'minimum', 'distributions', 'from', 'inherited', 'IRAs,', '401(k)', 'plans.', 'Make', 'sure', 'you', 'know', 'what', '“class”...']	/business/networth/article/If-you-inherit-a-retirement-account-make-sure-15385544.php
-['The', 'advertiser', 'boycott', 'of', 'social', 'media', 'is', 'just', 'the', 'beginning']	/business/article/The-advertiser-boycott-of-social-media-is-just-15378281.php
-['When', 'new', 'recruits', 'start', 'to', 'boycott', 'Facebook,', 'Twitter', 'and', 'the', 'like,', 'that’s', 'when', 'we’ll', 'see', 'real', 'change', 'happen', 'in', 'Silicon', 'Valley.']	/business/article/The-advertiser-boycott-of-social-media-is-just-15378281.php
-['Bay', 'Area', 'people', 'share', 'battles', 'with', 'COVID-19']	/news/article/It-s-almost-like-there-s-this-monster-15347676.php
-['Being', 'a', 'survivor', 'of', 'the', 'coronavirus', 'doesn’t', 'mean', 'you’ve', 'recovered.', 'Those', 'who', 'have', 'battled', 'it', 'say', 'their', 'lives', 'will', 'never', 'be', 'the', 'same.']	/news/article/It-s-almost-like-there-s-this-monster-15347676.php
-['Minnesota', 'Street', 'Project', 'opens', 'first', 'group', 'show,', 'launches', 'virtual', 'portal']	https://datebook.sfchronicle.com/art-exhibits/minnesota-street-project-opens-first-group-gallery-show-in-atrium-launches-virtual-portal
-['In', '2020,', 'an', 'art', 'show', "doesn't", 'just', 'come', 'with', 'gallery', 'notes', 'and', 'a', 'price', 'list.', 'Instead,', 'expect', 'temperature', 'checks,', 'social-distanced', 'viewing', 'and', 'plenty', 'of', 'hand', 'sanitizer.']	https://datebook.sfchronicle.com/art-exhibits/minnesota-street-project-opens-first-group-gallery-show-in-atrium-launches-virtual-portal
-['Summer', '2020:', 'A', 'guide', 'to', 'virtual', '(or', 'socially', 'distanced)', 'events']	https://datebook.sfchronicle.com/summer-2020-a-guide-to-virtual-or-socially-distanced-events-this-season
-['Tom', 'Hanks', 'says', 'his', 'love', 'for', 'the', 'Navy', 'set', 'sail', 'in', 'Bay', 'Area']	https://datebook.sfchronicle.com/movies-tv/greyhound-star-tom-hanks-says-his-love-for-the-navy-set-sail-in-bay-area
-['SFMOMA', 'official', 'resigns', 'amid', 'uproar', 'over', 'deletion', 'of', 'comment']	https://datebook.sfchronicle.com/art-exhibits/sfmoma-official-resigns-amid-uproar-over-deletion-of-comment-by-black-ex-employee
-['Will', 'voice', 'actors', 'of', 'color', 'finally', 'be', 'heard?']	https://datebook.sfchronicle.com/movies-tv/will-voice-actors-of-color-finally-be-heard
-['Board', 'game', 'designers', 'chase', 'the', 'brass', 'ring', 'in', 'documentary', "'Gamemaster'"]	https://datebook.sfchronicle.com/movies-tv/review-board-game-designers-chase-the-brass-ring-in-beguiling-documentary-gamemaster
-['As', 'far', 'as', 'improbable', 'tales', 'of', 'overnight', 'success', 'are', 'concerned,', "it's", 'not', 'easy', 'to', 'beat', 'the', 'example', 'of', 'Exploding', 'Kittens.', 'When', 'its', 'designers', 'first', 'put', 'the', 'popular', 'card', 'game', 'on', 'Kickstarter', 'in', '2015,...']	https://datebook.sfchronicle.com/movies-tv/review-board-game-designers-chase-the-brass-ring-in-beguiling-documentary-gamemaster
-['‘Relic’', 'is', 'a', 'horror', 'allegory', 'of', 'dementia', 'and', 'family', 'love']	https://datebook.sfchronicle.com/movies-tv/review-relic-is-a-heartbreaking-horror-allegory-of-dementia-and-family-love
-['The', 'virus', 'is', 'teaching', 'us', 'what', 'we', 'really', 'want', 'to', 'do', 'with', 'our', 'lives']	https://datebook.sfchronicle.com/movies-tv/the-virus-is-teaching-us-what-we-really-want-to-do-with-our-lives
-["'The", 'Old', "Guard'", 'is', 'a', 'strong,', 'smart', 'superhero', 'movie', 'for', 'adults']	https://datebook.sfchronicle.com/movies-tv/gina-prince-blythewood-has-made-a-strong-smart-superhero-movie-for-adults
-['Nasim', 'Pedrad', 'is', 'positively', 'Sandra', 'Bullock-like', 'in', '‘Desperados’']	https://datebook.sfchronicle.com/movies-tv/review-nasim-pedrad-is-positively-sandra-bullock-like-in-funny-desperados
-['A', 'tribute', 'to', 'Michael', 'Tilson', 'Thomas']	https://datebook.sfchronicle.com/a-tribute-to-michael-tilson-thomas
-['Our', 'exclusive', 'collection', 'of', 'articles', 'on', 'music', 'director', 'Michael', 'Tilson', 'Thomas', 'and', 'his', '25', 'years', 'with', 'the', 'San', 'Francisco', 'Symphony.']	https://datebook.sfchronicle.com/a-tribute-to-michael-tilson-thomas
-['For', 'working', 'parents,', 'simplest', 'activities', 'bring', 'joy', 'for', 'all']	/columnists/article/For-working-parents-simplest-activities-bring-15382694.php
-['We’re', 'getting', 'through', 'a', 'summer', 'of', 'uncertainty', 'one', 'water', 'balloon', 'and', 'P', 'opsicle', 'at', 'a', 'time.']	/columnists/article/For-working-parents-simplest-activities-bring-15382694.php
-['‘To', 'hike', 'or', 'not', 'to', 'hike?’', 'PCT', 'can’t', 'escape', 'coronavirus', 'debate']	/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
-['Hikers', 'have', 'been', 'advised', 'to', 'stay', 'off', 'the', 'trail', 'by', 'the', 'Pacific', 'Crest', 'Trail', 'Association,', 'which', 'issues', 'permits', 'to', 'thru-hikers', 'months', 'in', 'advance,', 'and', 'many', 'have', 'bailed', 'out.', 'But', 'a', 'hard-core', 'contingent...']	/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
-['Reflecting', 'on', 'a', 'lifetime', 'of', 'taking', 'it', 'to', 'the', 'streets']	/culture/article/Veterans-of-social-justice-protests-reflect-on-a-15383826.php
-['The', 'coronavirus', 'and', 'social', 'movements', 'gives', 'fashion', 'a', 'reality', 'check']	/culture/article/The-coronavirus-and-social-movements-gives-15383790.php
-['Ten', 'life-and-death', 'moments', 'in', 'Tom', 'Stienstra’s', '40', 'years', 'in', 'the', 'outdoors']	/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
-['Tim', 'Cramer,', 'influential', 'member', 'of', 'SF’s', 'roller', 'skating', 'scene,', 'dead', 'at', '53']	/bayarea/article/Tim-Cramer-influential-member-of-SF-s-15379162.php
-['How', 'coronavirus', 'changed', 'life', 'for', 'these', 'Bay', 'Area', 'high', 'schoolers']	https://projects.sfchronicle.com/class-of-2020/spring
-['Chronicle', 'photographers', 'went', 'back', 'to', 'visit', 'with', 'students', 'to', 'find', 'out', 'how', 'they’re', 'navigating', 'senior', 'year', 'during', 'the', 'pandemic.']	https://projects.sfchronicle.com/class-of-2020/spring
-['Are', 'you', 'a', 'Bay', 'Area', 'student?', 'Submit', 'your', 'photos', 'here']	https://projects.sfchronicle.com/class-of-2020/submissions/
-['The', 'Chronicle', 'is', 'documenting', 'Bay', 'Area', 'high', 'school', 'seniors', 'as', 'they', 'navigate', 'a', 'path', 'to', 'graduation', 'in', '2020.', 'Are', 'you', 'a', 'local', 'student', 'who', 'would', 'like', 'to', 'participate?', 'Submit', 'your', 'photos', 'here.']	https://projects.sfchronicle.com/class-of-2020/submissions/
-['How', 'to', 'get', 'the', 'most', 'out', 'of', 'your', 'Chronicle', 'subscription']	/bayarea/article/How-to-get-the-most-out-of-your-San-Francisco-13902111.php
-['From', 'unlimited', 'digital', 'access', 'to', 'newsletters,', 'podcasts,', 'events', 'and', 'more,', "here's", 'a', 'list', 'of', 'benefits', 'for', 'subscribers.']	/bayarea/article/How-to-get-the-most-out-of-your-San-Francisco-13902111.php
-['More', 'than', '50', 'Chronicle', 'archive', 'photos', 'for', 'SF', 'Pride’s', '50th', 'anniversary']	/chronicle_vault/article/More-than-50-Chronicle-archive-photos-for-SF-15376643.php
-['We’ve', 'done', 'another', 'deep', 'dive', 'into', 'The', 'Chronicle’s', 'archive', 'to', 'feature', 'even', 'more', 'Pride', 'parade', 'photos', 'throughout', 'the', 'years.']	/chronicle_vault/article/More-than-50-Chronicle-archive-photos-for-SF-15376643.php
-['SF’s', '1918', 'Spanish', 'flu', 'debacle:', 'Crucial', 'lesson', 'for', 'the', 'coronavirus', 'era']	/bayarea/article/San-Francisco-s-1918-Spanish-flu-debacle-A-15191518.php
-['When', 'the', 'world', 'made', 'peace', 'in', 'San', 'Francisco']	/chronicle_vault/article/When-the-world-made-peace-in-San-Francisco-15368985.php
-['When', 'the', 'world', 'came', 'to', 'San', 'Francisco', 'to', 'create', 'the', 'United', 'Nations']	/chronicle_vault/article/When-the-world-came-to-San-Francisco-to-create-15359061.php
-['Worth', 'the', 'wait:', 'Grace', 'Cathedral’s', 'early', 'days', 'and', 'biggest', 'moments']	/chronicle_vault/article/Worth-the-wait-Archive-finds-of-Grace-15344573.php
-['Explore', 'the', 'stories', 'behind', 'classic', 'front', 'pages']	https://www.sfchronicle.com/vault/chroniclecovers/
-['The', 'San', 'Francisco', 'Chronicle', 'came', 'into', 'existence', 'more', 'than', '150', 'years', 'ago.', 'See', 'classic', 'newspaper', 'pages', 'from', 'our', 'archive', 'for', 'every', 'day', 'of', 'the', 'year.']	https://www.sfchronicle.com/vault/chroniclecovers/
-['Editorial:', 'Trump’s', 'July', 'Fourth', 'speeches', 'were', 'an', 'affront', 'to', 'the', 'occasion']	/opinion/editorials/article/Editorial-Trump-s-July-Fourth-speeches-were-an-15387539.php
-['What', 'the', 'country', 'received', 'in', 'a', 'pair', 'of', 'July', 'Fourth', 'speeches', 'by', 'President', 'Trump', 'was', 'the', 'opposite', 'of', 'an', 'assuring', 'call', 'to', 'calm', 'and', 'coming', 'together.']	/opinion/editorials/article/Editorial-Trump-s-July-Fourth-speeches-were-an-15387539.php
-['Trump', 'officials', 'put', 'California’s', 'air', 'quality', 'at', 'risk,', 'just', 'in', 'time', 'for...']	/opinion/openforum/article/Trump-officials-put-California-s-air-quality-at-15387766.php
-['What', 'California', 'must', 'do', 'to', 'help', 'Latinos', 'affected', 'by', 'pandemic', 'and...']	/opinion/openforum/article/What-California-must-do-to-help-Latinos-affected-15387769.php
-['California', 'is', 'right', 'to', 'phase', 'out', 'diesel', 'trucks.']	/opinion/editorials/article/California-is-right-to-phase-out-diesel-trucks-15389531.php
-['Joe', 'Mathews:', 'Before', 'Calexit,', 'a', 'final', 'push', 'to', 'fix', 'America']	/opinion/article/Joe-Mathews-Before-Calexit-a-final-push-to-fix-15386256.php
-['Booking', 'photos', 'no', 'longer', 'fair', 'game', 'in', 'SF']	/opinion/diaz/article/Booking-photos-no-longer-fair-game-in-SF-15386279.php
-['SFPD', 'Police', 'Chief', 'Bill', 'Scott', 'announced', 'Wednesday', 'that', 'booking', 'photos', 'will', 'be', 'released', 'only', 'in', 'limited', 'circumstances,', 'such', 'as', 'warning', 'the', 'public...']	/opinion/diaz/article/Booking-photos-no-longer-fair-game-in-SF-15386279.php
-['Willie', 'Brown:', 'California’s', 'confused', 'fight', 'against', 'the...']	/bayarea/williesworld/article/Willie-Brown-California-s-confused-fight-15384033.php
-['The', 'rules', 'are', 'arcane,', 'they', 'change', 'by', 'the', 'day', 'and', 'people', 'who', 'are', 'affected', 'can’t', 'find', 'anyone', 'to', 'explain', 'them.', 'From', 'the', 'top', 'down,', 'the', 'fight', 'against...']	/bayarea/williesworld/article/Willie-Brown-California-s-confused-fight-15384033.php
-['Do', 'Not', 'Sell', 'My', 'Info']	/mydata/
+Portals of the Past 	http://www.sfchronicle.com/local/portalsofthepast/
+Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
+Coronavirus live updates: California breaks record, again, for most new cases in a day 	https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
+Danville man shot to death during four-wheeling trip with son in the Sierra 	https://www.sfchronicle.com/crime/article/Danville-man-shot-to-death-during-four-wheeling-15389994.php
+Napa County may be next in line to close restaurants, bars 	https://www.sfchronicle.com/bayarea/article/Napa-County-may-be-next-in-line-to-close-15390101.php
+Assembly delays return to Sacto — member, staff positive for COVID-19 	https://www.sfchronicle.com/politics/article/California-Assembly-postpones-return-to-15389823.php
+Fairfield grass fire prompts evacuations 	https://www.sfchronicle.com/bayarea/article/Fairfield-grass-fire-prompts-evacuations-15390023.php
+UC picked a successor to Napolitano to run the university system 	https://www.sfchronicle.com/education/article/UC-picked-a-successor-to-Napolitano-to-run-the-15390006.php
+Fire on I-680 shuts lanes in Benicia; crews battle 2,000-acre blaze near... 	https://www.sfchronicle.com/california-wildfires/article/Crews-Fire-near-Gilroy-consumes-2-000-acres-15388683.php
+Daily Driver expands with third San Francisco bagel shop 	https://www.sfchronicle.com/food/article/Daily-Driver-expands-with-third-San-Francisco-15389944.php
+6-year-old boy killed by gunfire on 4th of July in SF identified 	https://www.sfchronicle.com/crime/article/SF-police-chief-DA-call-for-justice-after-15388547.php
+Confused about reopening in the Bay Area? Here’s the latest on the status of each county 	https://www.sfchronicle.com/bayarea/article/Confused-about-reopening-in-the-Bay-Area-15389734.php
+The coronavirus reopening timeline for Bay Area counties is constantly changing, and the rules vary depending on where you are. Here are the latest developments for each Bay Area county, and resources to help you keep track. 	https://www.sfchronicle.com/bayarea/article/Confused-about-reopening-in-the-Bay-Area-15389734.php
+As cases and hospitalizations climb, state seeks to tamp down the surge 	https://www.sfchronicle.com/news/article/California-regulators-find-most-people-followed-15389522.php
+Pressure rises for Newsom to release more people from prisons 	https://www.sfchronicle.com/health/article/Pressure-rises-for-Newsom-to-release-more-people-15390119.php
+Interactive: What’s open and what’s still shut down by county 	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
+Map: Tracking COVID-19 cases across California 	https://projects.sfchronicle.com/2020/coronavirus-map/
+SF poised to extend ban on apartment rent increases — landlords aren’t fighting it 	https://www.sfchronicle.com/bayarea/article/SF-poised-to-extend-ban-on-apartment-rent-15389769.php
+The San Francisco Board of Supervisors is poised to extend a rent freeze through at least Sept. 23. The measure, sponsored by Supervisor Aaron Peskin, would prohibit landlords from raising rents. The proposal has the support of the San Francisco Apartment Association. 	https://www.sfchronicle.com/bayarea/article/SF-poised-to-extend-ban-on-apartment-rent-15389769.php
+SF’s hot office market freezes with record-low leasing 	https://www.sfchronicle.com/business/article/SF-s-hot-office-market-freezes-with-record-low-15389733.php
+Students facing turbulent job market adapt on the fly 	https://www.sfchronicle.com/bayarea/article/Bay-Area-students-facing-turbulent-summer-job-15387442.php
+Ann Killion: If MLB can’t handle coronavirus tests, how are games to be played? 	https://www.sfchronicle.com/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
+Two days into the restart of MLB’s “season,” the system was already breaking down. The issue? Testing for COVID-19. 	https://www.sfchronicle.com/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
+Giants say two ‘individuals’ test positive for coronavirus 	https://www.sfchronicle.com/giants/article/Giants-Zaidi-says-club-has-averted-testing-15389227.php
+Giants’ 2020 schedule: 12% of games at Dodger Stadium 	https://www.sfchronicle.com/giants/article/Here-s-the-Giants-2020-schedule-a-whopping-15389818.php
+What can we do to save the restaurant industry? Why is it ours to save? 	https://www.sfchronicle.com/restaurants/article/What-can-we-do-to-save-the-restaurant-industry-15383710.php
+SOLEIL HO: Echoing the sentiments of the majority of my fellow food critics, I’m not going to eat at restaurants until there is a vaccine. Any time a server has to remind a customer to wear a mask or not touch her shoulder, that is a failure of public policy. 	https://www.sfchronicle.com/restaurants/article/What-can-we-do-to-save-the-restaurant-industry-15383710.php
+Extra Spicy podcast: Hawa Hassan will put Somali food in the spotlight 	https://www.sfchronicle.com/food/article/Hawa-Hassan-will-put-Somali-food-in-the-spotlight-15380459.php
+Eradicate AIDS? Coronavirus stands in the way 	https://www.sfchronicle.com/bayarea/article/Eradicate-AIDS-Coronavirus-stands-in-the-way-15389943.php
+COVID-19 has had a disastrous impact on efforts to slow down transmission of HIV and end the AIDS epidemic. 	https://www.sfchronicle.com/bayarea/article/Eradicate-AIDS-Coronavirus-stands-in-the-way-15389943.php
+SF, Oakland hang AIDS quilt to commemorate conference 	https://www.sfchronicle.com/health/article/SF-Oakland-hang-AIDS-quilt-to-commemorate-15389503.php
+Bay Area’s homeless crisis was severe before coronavirus made it worse 	https://www.sfchronicle.com/bayarea/article/Bay-Area-s-homeless-crisis-was-severe-before-15366766.php
+Homeless numbers all over the Bay Area and West Coast were shooting upward even before the coronavirus crisis hit, and now the pandemic threatens to create catastrophe. 	https://www.sfchronicle.com/bayarea/article/Bay-Area-s-homeless-crisis-was-severe-before-15366766.php
+See what’s open and what’s still shut down by county 	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
+Have sensitive news, documents or information you want to share confidentially? Here's how to contact us. 	https://projects.sfchronicle.com/newstips/
+How you can help the homeless in the Bay Area 	https://projects.sfchronicle.com/sf-homeless/how-to-help/
+Want to help homeless people across the Bay Area? Search and share our interactive guide of volunteer and charity groups. 	https://projects.sfchronicle.com/sf-homeless/how-to-help/
+No, wearing a mask does not cut off your oxygen. Here are the facts. 	https://www.sfchronicle.com/bayarea/article/Is-wearing-a-mask-bad-for-you-We-asked-the-15386582.php
+Wearing face coverings is one of the most effective ways to slow the spread of the coronavirus. So why do so many people refuse to do it? 	https://www.sfchronicle.com/bayarea/article/Is-wearing-a-mask-bad-for-you-We-asked-the-15386582.php
+Covering mouth, nose best shield against virus, experts say 	https://www.sfchronicle.com/bayarea/article/Want-to-stay-safe-Bay-Area-experts-say-masks-15386562.php
+Bay Area doctors explain the COVID-19 treatments they’re using now 	https://www.sfchronicle.com/health/article/Bay-Area-doctors-explain-the-COVID-19-treatments-15385507.php
+Backyard cottages boom as parents and students flee coronavirus 	https://www.sfchronicle.com/bayarea/article/Bay-Area-backyard-cottages-boom-as-elderly-15385477.php
+COVID-19 hospitalizations hit new peaks in the Bay Area 	https://www.sfchronicle.com/bayarea/article/COVID-19-hospitalizations-hit-new-peaks-in-the-15385539.php
+Face masks: When and how to use them 	https://www.sfchronicle.com/news/article/Coronavirus-FAQ-Should-you-wear-a-face-mask-15147298.php
+Should I get a test? Will testing ramp up? 	https://www.sfchronicle.com/health/article/Do-you-need-to-be-tested-for-coronavirus-and-15154779.php
+Where can I get a test in the Bay Area? 	https://www.sfchronicle.com/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php
+What to do if symptoms show up 	https://www.sfchronicle.com/bayarea/article/Coronavirus-or-not-What-to-do-if-symptoms-show-up-15112413.php
+Updates on transit and parking 	https://www.sfchronicle.com/bayarea/article/Bay-Area-coronavirus-shutdown-What-you-need-to-15135704.php
+When will California have ‘herd immunity’? 	https://www.sfchronicle.com/science/article/Coronavirus-FAQ-Is-it-possible-to-be-reinfected-15154426.php
+SF reopening timeline: Dates when restaurants, schools can open 	https://www.sfchronicle.com/bayarea/article/SF-reopening-calendar-Dates-when-restaurants-15301361.php
+Bay Area Layoff Tracker 	https://projects.sfchronicle.com/2020/layoff-tracker/
+Search this regional database to see the number of job cuts by company and city. 	https://projects.sfchronicle.com/2020/layoff-tracker/
+Giants’ 2020 schedule: 12 percent of games at Dodger Stadium 	https://www.sfchronicle.com/giants/article/Here-s-the-Giants-2020-schedule-a-whopping-15389818.php
+The San Francisco Giants’ 2020 schedule finally was released, and they open the season July 23 at Dodger Stadium, the start of a four-game series, and play their home opener July 28 against... 	https://www.sfchronicle.com/giants/article/Here-s-the-Giants-2020-schedule-a-whopping-15389818.php
+Giants’ 2020 schedule: Five things to watch 	https://www.sfchronicle.com/giants/article/Giants-2020-schedule-Five-things-to-watch-15390048.php
+A’s schedule: Open vs. Angels, play 7 of 10 vs. Astros at home 	https://www.sfchronicle.com/athletics/article/A-s-schedule-released-Open-vs-Angels-play-7-15389845.php
+A’s position players hit the field after delay in receiving test results 	https://www.sfchronicle.com/athletics/article/A-s-position-players-hit-the-field-after-delay-15390230.php
+A’s at-risk reliever Jake Diekman blasts delays with test results 	https://www.sfchronicle.com/athletics/article/A-s-at-risk-reliever-Jake-Diekman-blasts-delays-15389183.php
+Is it safe to fly? Far-flung families weigh coronavirus risk 	https://www.sfchronicle.com/travel/article/Is-it-safe-to-fly-Far-flung-Bay-Area-families-15351374.php
+For those with relatives a plane ride away, deciding whether to visit means weighing the possibility of exposing family against not seeing each other until a vaccine is complete. 	https://www.sfchronicle.com/travel/article/Is-it-safe-to-fly-Far-flung-Bay-Area-families-15351374.php
+Pacific Crest Trail can’t escape coronavirus debate 	https://www.sfchronicle.com/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
+Guide: Where to hike, run, and get outside right now 	https://projects.sfchronicle.com/guides/outdoors-guide/
+Road trip checklist: How to prep for car travel in the pandemic 	https://www.sfchronicle.com/travel/article/Road-trip-checklist-How-to-prep-for-California-15353693.php
+Everything you need to know about camping in California this summer 	https://www.sfchronicle.com/travel/article/Everything-you-need-to-know-about-camping-in-15360912.php
+Perfect time for A’s to swim to Reality Island, build... 	https://www.sfchronicle.com/sports/ostler/article/Perfect-time-for-A-s-to-swim-to-Reality-Island-15387558.php
+If the Oakland A’s were to throw all their new-ballpark eggs into the Coliseum basket, that good news might lift this A’s team to the World... 	https://www.sfchronicle.com/sports/ostler/article/Perfect-time-for-A-s-to-swim-to-Reality-Island-15387558.php
+NBA hatches a dumb second-bubble plan, but Warriors fans... 	https://www.sfchronicle.com/warriors/article/NBA-hatches-a-dumb-second-bubble-plan-but-15385179.php
+The NBA reportedly wants to assemble the eight teams not invited to the Orlando bubble, a group that includes the Warriors, to a quarantined site... 	https://www.sfchronicle.com/warriors/article/NBA-hatches-a-dumb-second-bubble-plan-but-15385179.php
+If MLB can’t handle coronavirus tests, how are games... 	https://www.sfchronicle.com/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
+Two days into the restart of Major League Baseball’s “season,” the system was already breaking down. Teams had to cancel or postpone... 	https://www.sfchronicle.com/sports/annkillion/article/If-MLB-can-t-handle-coronavirus-tests-how-are-15389365.php
+Ten life-and-death moments in 40 years in the outdoors 	https://www.sfchronicle.com/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
+On Tom Stienstra’s 40th anniversary as the outdoors writer for The Chronicle, editors asked him to describe the most provocative encounters of... 	https://www.sfchronicle.com/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
+Undocumented restaurant workers may need most help, get the least 	https://www.sfchronicle.com/restaurants/article/Bay-Area-s-undocumented-restaurant-workers-may-15380764.php
+The restaurant business depends on undocumented workers who are ineligible for many unemployment benefits and loans. Local and state efforts to provide aid are straining to fill the gap. 	https://www.sfchronicle.com/restaurants/article/Bay-Area-s-undocumented-restaurant-workers-may-15380764.php
+What should restaurant owners do when employees test positive? 	https://www.sfchronicle.com/restaurants/article/What-should-Bay-Area-restaurant-owners-do-when-15385625.php
+Wood-fired pupusas on an ample, friendly patio at Oakland’s Popoca 	https://www.sfchronicle.com/restaurants/article/Wood-fired-pupusas-on-an-ample-friendly-patio-at-15380769.php
+Herbal, plus other new Bay Area restaurants open for takeout 	https://www.sfchronicle.com/food/article/David-Kinch-s-Mentone-and-other-new-Bay-Area-15159295.php
+Berkeley’s Cafe Ohlone is gone, long live Cafe Ohlone 	https://www.sfchronicle.com/food/article/Berkeley-s-Cafe-Ohlone-is-gone-long-live-Cafe-15383064.php
+Searchable list of Black-owned restaurants in the Bay Area 	https://projects.sfchronicle.com/2020/black-owned-restaurants/
+A crowd-sourced directory of black-owned food businesses that are open right now. 	https://projects.sfchronicle.com/2020/black-owned-restaurants/
+Interactive: Changes restaurants may make to reopen 	https://projects.sfchronicle.com/2020/future-of-restaurants/
+Have Bay Area restaurants been following COVID-19 rules? 	https://www.sfchronicle.com/restaurants/article/Have-Bay-Area-restaurants-been-following-COVID-19-15381071.php
+152 Bay Area restaurants now open for outdoor dining 	https://www.sfchronicle.com/restaurants/article/63-Bay-Area-restaurants-now-open-for-outdoor-15336551.php
+Permanent restaurant closures since shelter-in-place 	https://www.sfchronicle.com/food/article/Bay-Area-restaurants-latest-updates-Food-15130419.php
+The chaos of reopening California bars, and a racial reckoning... 	https://www.sfchronicle.com/wine/article/The-chaos-of-reopening-California-bars-and-a-15379887.php
+We’re reviewing the big news on the drinking beat from the past week, and tasting some delightfully experimental California wines that take... 	https://www.sfchronicle.com/wine/article/The-chaos-of-reopening-California-bars-and-a-15379887.php
+Hawa Hassan will put Somali food in the spotlight 	https://www.sfchronicle.com/food/article/Hawa-Hassan-will-put-Somali-food-in-the-spotlight-15380459.php
+Hawa Hassan, CEO of Basbaas Somali Foods, discusses her upcoming cookbook, In Bibi’s Kitchen, which centers African grandmothers. She also talks... 	https://www.sfchronicle.com/food/article/Hawa-Hassan-will-put-Somali-food-in-the-spotlight-15380459.php
+San Quentin outbreak underscores cruel treatment of prisoners 	https://www.sfchronicle.com/bayarea/otisrtaylorjr/article/San-Quentin-coronavirus-outbreak-underscores-15387380.php
+OTIS R. TAYLOR JR: The spread of the virus marks a shameful failure of the prison system, a booming business that is built on bias. 	https://www.sfchronicle.com/bayarea/otisrtaylorjr/article/San-Quentin-coronavirus-outbreak-underscores-15387380.php
+Idea of splitting SF Public Works gains steam amid Nuru fraud allegations 	https://www.sfchronicle.com/bayarea/article/Idea-of-splitting-SF-Public-Works-gains-steam-15387482.php
+SF Mayor Breed nominates former Supervisor Malia Cohen to Police Commission 	https://www.sfchronicle.com/bayarea/article/SF-Mayor-Breed-nominates-former-Supervisor-Malia-15389297.php
+Bookworm, 82, marks his place outside Opera Plaza shop for 30 years 	https://www.sfchronicle.com/bayarea/article/Bookworm-82-has-marked-his-place-outside-Opera-15385788.php
+Black Lives Matter mural in Martinez vandalized in ‘hateful’ act 	https://www.sfchronicle.com/crime/article/Black-Lives-Matter-mural-in-Martinez-vandalized-15387592.php
+Should I get a coronavirus test before seeing friends and family? 	https://www.sfchronicle.com/bayarea/article/Should-I-get-a-coronavirus-test-before-seeing-15322424.php
+As the pandemic conitnues, keeping many families apart for longer than ever before, many are getting tested, or considering getting tested, before seeing family and friends. 	https://www.sfchronicle.com/bayarea/article/Should-I-get-a-coronavirus-test-before-seeing-15322424.php
+Interactive graphic: What school will look like with pandemic protocols 	https://projects.sfchronicle.com/2020/schools-pandemic-protocols-graphic/
+From picnics to pools, experts rate the risk of popular activities 	https://www.sfchronicle.com/bayarea/article/From-picnics-to-pools-coronavirus-experts-rate-15334210.php
+Face mask rules: When and how to use them 	https://www.sfchronicle.com/news/article/Coronavirus-FAQ-Should-you-wear-a-face-mask-15147298.php
+Bay Area coronavirus tests: Where can I get one? 	https://www.sfchronicle.com/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php
+California legislators call on Newsom to stop transferring prisoners to ICE 	https://www.sfchronicle.com/bayarea/article/California-legislators-call-on-Newsom-to-stop-15389732.php
+More than 40 California lawmakers called on Gov. Gavin Newsom to stop the move of immigrant inmates to Immigration and Customs Enforcement during the coronavirus pandemic. 	https://www.sfchronicle.com/bayarea/article/California-legislators-call-on-Newsom-to-stop-15389732.php
+Top CA Democrats demand state party stop taking money from police unions 	https://www.sfchronicle.com/politics/article/Top-California-Democrats-demand-state-party-stop-15389899.php
+U.S. Court of Appeals says Trump’s ban on asylum seekers violates... 	https://www.sfchronicle.com/nation/article/Ninth-U-S-Court-of-Appeals-says-Trump-s-ban-on-15389482.php
+Ting, Chiu hearing from Chinese Americans about affirmative action 	https://www.sfchronicle.com/bayarea/philmatier/article/Lawmakers-Ting-and-Chiu-hearing-from-Chinese-15383269.php
+Bill Duplissea, one of the Bay Area’s last Republican legislators, dies 	https://www.sfchronicle.com/bayarea/article/Bill-Duplissea-one-of-the-Bay-Area-s-last-15386304.php
+What we've learned after 100 days of sheltering in the Bay Area 	https://www.sfchronicle.com/bayarea/article/After-100-days-of-sheltering-in-the-Bay-Area-15354723.php
+Some 100 days after the coronavirus brought Bay Area life to a standstill, health experts around the world are still scrambling to understand the virus that causes COVID-19. 	https://www.sfchronicle.com/bayarea/article/After-100-days-of-sheltering-in-the-Bay-Area-15354723.php
+‘No way we can go back’: Learning to live with the coronavirus 	https://www.sfchronicle.com/health/article/There-s-no-way-we-can-go-back-to-what-we-15354685.php
+Tests are easy to get now, but not always where needed most 	https://www.sfchronicle.com/bayarea/article/Coronavirus-tests-are-easy-to-get-now-but-not-15355976.php
+Bay Area economy reshaped by 100 days of shelter in place 	https://www.sfchronicle.com/business/article/Bay-Area-economy-reshaped-by-100-days-of-15354722.php
+Efforts at coronavirus vaccines, treatments abound in Bay Area 	https://www.sfchronicle.com/bayarea/article/Efforts-at-coronavirus-vaccines-and-treatments-15355870.php
+‘I was ready to die’: A survivor’s diary 	https://www.sfchronicle.com/bayarea/article/I-was-ready-to-die-15341786.php
+With no health insurance and alone in his home, Rafael Arias spent weeks fighting for his life, sometimes hallucinating and gasping for air. 	https://www.sfchronicle.com/bayarea/article/I-was-ready-to-die-15341786.php
+Oakland’s Black Catholics demand action 	https://www.sfchronicle.com/bayarea/otisrtaylorjr/article/Oakland-s-Black-Catholics-demand-action-15380957.php
+Black Catholics in Oakland are demanding action. What’s happening in the Catholic Church is inextricable from the racial reckoning happening... 	https://www.sfchronicle.com/bayarea/otisrtaylorjr/article/Oakland-s-Black-Catholics-demand-action-15380957.php
+Oakland A’s get unwelcome feedback from Sierra Club on... 	https://www.sfchronicle.com/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
+The politically powerful Sierra Club has “serious concerns” about the Oakland A’s waterfront ballpark plan. The environmental advocacy... 	https://www.sfchronicle.com/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
+‘You can’t furlough the animals’: SF Zoo and two... 	https://www.sfchronicle.com/bayarea/heatherknight/article/You-can-t-furlough-the-animals-The-SF-15383726.php
+These city treasures must continue to feed and care for thousands of animals without reopening to the public. And money from the federal... 	https://www.sfchronicle.com/bayarea/heatherknight/article/You-can-t-furlough-the-animals-The-SF-15383726.php
+How San Francisco inspired the ‘defund the police’ movement 	https://www.sfchronicle.com/politics/article/How-San-Francisco-inspired-the-defund-the-police-15380942.php
+Alex Vitale saw that police were being asked to do too much when he worked as an advocate for homeless people in San Francisco. He used some of... 	https://www.sfchronicle.com/politics/article/How-San-Francisco-inspired-the-defund-the-police-15380942.php
+Timeline: How Bay Area has combated the coronavirus 	https://projects.sfchronicle.com/2020/coronavirus-timeline/
+A look back at the coronavirus outbreak across the Bay Area and the country. 	https://projects.sfchronicle.com/2020/coronavirus-timeline/
+How the pandemic has ravaged SF’s Fisherman’s Wharf 	https://www.sfchronicle.com/business/article/Pandemic-has-Fisherman-s-Wharf-floundering-amid-15385590.php
+Fisherman’s Wharf and Pier 39 were the most popular destinations for San Francisco’s tourists. Now, restaurants and shops are looking to locals to stay afloat — and they’re not coming. 	https://www.sfchronicle.com/business/article/Pandemic-has-Fisherman-s-Wharf-floundering-amid-15385590.php
+Feds extend deadline for Paycheck Protection Program 	https://www.sfchronicle.com/business/article/Feds-extend-deadline-for-Paycheck-Protection-15389389.php
+In buying Postmates, Uber is doubling its bets on food delivery 	https://www.sfchronicle.com/business/article/Uber-pays-2-65-billion-for-Postmates-in-15388841.php
+How to exercise your online privacy rights in California 	https://www.sfchronicle.com/business/article/How-to-exercise-your-online-privacy-rights-in-15385611.php
+PG&E contractor with sketchy past made millions after California’s... 	https://www.sfchronicle.com/business/article/PG-E-contractor-with-sketchy-past-made-millions-15385090.php
+Eviction ban: What renters and landlords need to know 	https://www.sfchronicle.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
+With many Californians facing economic distress because of the coronavirus, state officials have taken steps to block evictions and protect renters. 	https://www.sfchronicle.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
+Interactive Database: Bay Area Layoff Tracker 	https://projects.sfchronicle.com/2020/layoff-tracker/
+How do I renew my driver’s license, vehicle registration? 	https://www.sfchronicle.com/bayarea/article/Bay-Area-coronavirus-How-do-I-renew-my-drivers-15169362.php
+Can’t pay your mortgage because of the coronavirus? Here’s what to do 	https://www.sfchronicle.com/business/article/California-homeowners-Can-t-pay-your-mortgage-15188637.php
+Bay Area help to get your will and other affairs in order 	https://www.sfchronicle.com/bayarea/article/Coronavirus-Bay-Area-help-to-get-your-will-and-15177648.php
+If you inherit a retirement account, make sure you read this 	https://www.sfchronicle.com/business/networth/article/If-you-inherit-a-retirement-account-make-sure-15385544.php
+The Secure Act changed the rules for required minimum distributions from inherited IRAs, 401(k) plans. Make sure you know what “class”... 	https://www.sfchronicle.com/business/networth/article/If-you-inherit-a-retirement-account-make-sure-15385544.php
+The advertiser boycott of social media is just the beginning 	https://www.sfchronicle.com/business/article/The-advertiser-boycott-of-social-media-is-just-15378281.php
+When new recruits start to boycott Facebook, Twitter and the like, that’s when we’ll see real change happen in Silicon Valley. 	https://www.sfchronicle.com/business/article/The-advertiser-boycott-of-social-media-is-just-15378281.php
+Bay Area people share battles with COVID-19 	https://www.sfchronicle.com/news/article/It-s-almost-like-there-s-this-monster-15347676.php
+Being a survivor of the coronavirus doesn’t mean you’ve recovered. Those who have battled it say their lives will never be the same. 	https://www.sfchronicle.com/news/article/It-s-almost-like-there-s-this-monster-15347676.php
+Minnesota Street Project opens first group show, launches virtual portal 	https://datebook.sfchronicle.com/art-exhibits/minnesota-street-project-opens-first-group-gallery-show-in-atrium-launches-virtual-portal
+In 2020, an art show doesn't just come with gallery notes and a price list. Instead, expect temperature checks, social-distanced viewing and plenty of hand sanitizer. 	https://datebook.sfchronicle.com/art-exhibits/minnesota-street-project-opens-first-group-gallery-show-in-atrium-launches-virtual-portal
+Summer 2020: A guide to virtual (or socially distanced) events 	https://datebook.sfchronicle.com/summer-2020-a-guide-to-virtual-or-socially-distanced-events-this-season
+Tom Hanks says his love for the Navy set sail in Bay Area 	https://datebook.sfchronicle.com/movies-tv/greyhound-star-tom-hanks-says-his-love-for-the-navy-set-sail-in-bay-area
+SFMOMA official resigns amid uproar over deletion of comment 	https://datebook.sfchronicle.com/art-exhibits/sfmoma-official-resigns-amid-uproar-over-deletion-of-comment-by-black-ex-employee
+Will voice actors of color finally be heard? 	https://datebook.sfchronicle.com/movies-tv/will-voice-actors-of-color-finally-be-heard
+Board game designers chase the brass ring in documentary 'Gamemaster' 	https://datebook.sfchronicle.com/movies-tv/review-board-game-designers-chase-the-brass-ring-in-beguiling-documentary-gamemaster
+As far as improbable tales of overnight success are concerned, it's not easy to beat the example of Exploding Kittens. When its designers first put the popular card game on Kickstarter in 2015,... 	https://datebook.sfchronicle.com/movies-tv/review-board-game-designers-chase-the-brass-ring-in-beguiling-documentary-gamemaster
+‘Relic’ is a horror allegory of dementia and family love 	https://datebook.sfchronicle.com/movies-tv/review-relic-is-a-heartbreaking-horror-allegory-of-dementia-and-family-love
+The virus is teaching us what we really want to do with our lives 	https://datebook.sfchronicle.com/movies-tv/the-virus-is-teaching-us-what-we-really-want-to-do-with-our-lives
+'The Old Guard' is a strong, smart superhero movie for adults 	https://datebook.sfchronicle.com/movies-tv/gina-prince-blythewood-has-made-a-strong-smart-superhero-movie-for-adults
+Nasim Pedrad is positively Sandra Bullock-like in ‘Desperados’ 	https://datebook.sfchronicle.com/movies-tv/review-nasim-pedrad-is-positively-sandra-bullock-like-in-funny-desperados
+A tribute to Michael Tilson Thomas 	https://datebook.sfchronicle.com/a-tribute-to-michael-tilson-thomas
+Our exclusive collection of articles on music director Michael Tilson Thomas and his 25 years with the San Francisco Symphony. 	https://datebook.sfchronicle.com/a-tribute-to-michael-tilson-thomas
+For working parents, simplest activities bring joy for all 	https://www.sfchronicle.com/columnists/article/For-working-parents-simplest-activities-bring-15382694.php
+We’re getting through a summer of uncertainty one water balloon and P opsicle at a time. 	https://www.sfchronicle.com/columnists/article/For-working-parents-simplest-activities-bring-15382694.php
+‘To hike or not to hike?’ PCT can’t escape coronavirus debate 	https://www.sfchronicle.com/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
+Hikers have been advised to stay off the trail by the Pacific Crest Trail Association, which issues permits to thru-hikers months in advance, and many have bailed out. But a hard-core contingent... 	https://www.sfchronicle.com/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
+Reflecting on a lifetime of taking it to the streets 	https://www.sfchronicle.com/culture/article/Veterans-of-social-justice-protests-reflect-on-a-15383826.php
+The coronavirus and social movements gives fashion a reality check 	https://www.sfchronicle.com/culture/article/The-coronavirus-and-social-movements-gives-15383790.php
+Ten life-and-death moments in Tom Stienstra’s 40 years in the outdoors 	https://www.sfchronicle.com/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
+Tim Cramer, influential member of SF’s roller skating scene, dead at 53 	https://www.sfchronicle.com/bayarea/article/Tim-Cramer-influential-member-of-SF-s-15379162.php
+How coronavirus changed life for these Bay Area high schoolers 	https://projects.sfchronicle.com/class-of-2020/spring
+Chronicle photographers went back to visit with students to find out how they’re navigating senior year during the pandemic. 	https://projects.sfchronicle.com/class-of-2020/spring
+Are you a Bay Area student? Submit your photos here 	https://projects.sfchronicle.com/class-of-2020/submissions/
+The Chronicle is documenting Bay Area high school seniors as they navigate a path to graduation in 2020. Are you a local student who would like to participate? Submit your photos here. 	https://projects.sfchronicle.com/class-of-2020/submissions/
+How to get the most out of your Chronicle subscription 	https://www.sfchronicle.com/bayarea/article/How-to-get-the-most-out-of-your-San-Francisco-13902111.php
+From unlimited digital access to newsletters, podcasts, events and more, here's a list of benefits for subscribers. 	https://www.sfchronicle.com/bayarea/article/How-to-get-the-most-out-of-your-San-Francisco-13902111.php
+More than 50 Chronicle archive photos for SF Pride’s 50th anniversary 	https://www.sfchronicle.com/chronicle_vault/article/More-than-50-Chronicle-archive-photos-for-SF-15376643.php
+We’ve done another deep dive into The Chronicle’s archive to feature even more Pride parade photos throughout the years. 	https://www.sfchronicle.com/chronicle_vault/article/More-than-50-Chronicle-archive-photos-for-SF-15376643.php
+SF’s 1918 Spanish flu debacle: Crucial lesson for the coronavirus era 	https://www.sfchronicle.com/bayarea/article/San-Francisco-s-1918-Spanish-flu-debacle-A-15191518.php
+When the world made peace in San Francisco 	https://www.sfchronicle.com/chronicle_vault/article/When-the-world-made-peace-in-San-Francisco-15368985.php
+When the world came to San Francisco to create the United Nations 	https://www.sfchronicle.com/chronicle_vault/article/When-the-world-came-to-San-Francisco-to-create-15359061.php
+Worth the wait: Grace Cathedral’s early days and biggest moments 	https://www.sfchronicle.com/chronicle_vault/article/Worth-the-wait-Archive-finds-of-Grace-15344573.php
+Explore the stories behind classic front pages 	https://www.sfchronicle.com/vault/chroniclecovers/
+The San Francisco Chronicle came into existence more than 150 years ago. See classic newspaper pages from our archive for every day of the year. 	https://www.sfchronicle.com/vault/chroniclecovers/
+Editorial: Trump’s July Fourth speeches were an affront to the occasion 	https://www.sfchronicle.com/opinion/editorials/article/Editorial-Trump-s-July-Fourth-speeches-were-an-15387539.php
+What the country received in a pair of July Fourth speeches by President Trump was the opposite of an assuring call to calm and coming together. 	https://www.sfchronicle.com/opinion/editorials/article/Editorial-Trump-s-July-Fourth-speeches-were-an-15387539.php
+Trump officials put California’s air quality at risk, just in time for... 	https://www.sfchronicle.com/opinion/openforum/article/Trump-officials-put-California-s-air-quality-at-15387766.php
+What California must do to help Latinos affected by pandemic and... 	https://www.sfchronicle.com/opinion/openforum/article/What-California-must-do-to-help-Latinos-affected-15387769.php
+California is right to phase out diesel trucks. 	https://www.sfchronicle.com/opinion/editorials/article/California-is-right-to-phase-out-diesel-trucks-15389531.php
+Joe Mathews: Before Calexit, a final push to fix America 	https://www.sfchronicle.com/opinion/article/Joe-Mathews-Before-Calexit-a-final-push-to-fix-15386256.php
+Booking photos no longer fair game in SF 	https://www.sfchronicle.com/opinion/diaz/article/Booking-photos-no-longer-fair-game-in-SF-15386279.php
+SFPD Police Chief Bill Scott announced Wednesday that booking photos will be released only in limited circumstances, such as warning the public... 	https://www.sfchronicle.com/opinion/diaz/article/Booking-photos-no-longer-fair-game-in-SF-15386279.php
+Willie Brown: California’s confused fight against the... 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-California-s-confused-fight-15384033.php
+The rules are arcane, they change by the day and people who are affected can’t find anyone to explain them. From the top down, the fight against... 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-California-s-confused-fight-15384033.php
+Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 
 the : 139
-to : 94
-of : 57
-and : 51
-in : 47
-a : 43
-for : 30
-bay : 29
+to : 92
+of : 56
+and : 50
+in : 46
+a : 44
+for : 33
+bay : 30
+area : 28
 coronavirus : 27
-area : 27
-on : 19
-as : 19
+on : 21
 is : 19
-are : 16
+are : 18
+as : 17
 with : 15
 how : 15
-california : 13
 from : 13
-san : 13
 do : 12
+san : 12
 at : 12
 not : 11
+california : 11
+you : 11
 what : 11
 when : 11
 francisco : 10
 by : 10
-that : 10
 get : 10
-covid-19 : 9
 restaurants : 9
+covid-19 : 9
 sf : 9
+that : 9
 will : 9
-you : 9
-down : 8
-now : 8
 open : 8
 pandemic : 8
-people : 7
-many : 7
+most : 7
+down : 7
+it : 7
 cant : 7
 test : 7
-2020 : 7
-it : 7
 were : 7
+now : 7
 have : 7
 your : 7
+help : 6
 more : 6
+people : 6
+has : 6
 days : 6
 was : 6
-has : 6
+2020 : 6
 can : 6
 before : 6
-most : 6
+many : 6
 i : 6
 years : 6
 chronicle : 6
 photos : 6
+county : 5
 be : 5
 july : 5
-virus : 5
+reopening : 5
+where : 5
 whats : 5
 if : 5
 into : 5
 giants : 5
-schedule: : 5
 restaurant : 5
 food : 5
 or : 5
 oakland : 5
 homeless : 5
-help : 5
 against : 5
 an : 5
 police : 5
 his : 5
 my : 4
-hospitalizations : 4
-other : 4
-system : 4
-state : 4
 new : 4
+system : 4
 about : 4
-reopening : 4
 heres : 4
+rules : 4
+here : 4
+state : 4
+sfs : 4
 games : 4
 two : 4
-sfs : 4
+schedule: : 4
 time : 4
 public : 4
 put : 4
@@ -283,7 +283,7 @@ see : 4
 our : 4
 no : 4
 one : 4
-where : 4
+virus : 4
 this : 4
 after : 4
 family : 4
@@ -293,25 +293,24 @@ than : 4
 out : 4
 past : 3
 live : 3
+cases : 3
 day : 3
-newsom : 3
-— : 3
-positive : 3
-county : 3
-may : 3
 during : 3
 sierra : 3
-cases : 3
-over : 3
+may : 3
+— : 3
+positive : 3
+each : 3
+newsom : 3
 still : 3
 across : 3
+extend : 3
+landlords : 3
+students : 3
 tests : 3
 say : 3
 dodger : 3
 stadium : 3
-extend : 3
-landlords : 3
-students : 3
 we : 3
 mask : 3
 hawa : 3
@@ -327,7 +326,6 @@ want : 3
 share : 3
 us : 3
 interactive : 3
-here : 3
 face : 3
 experts : 3
 theyre : 3
@@ -339,6 +337,7 @@ their : 3
 home : 3
 risk : 3
 seeing : 3
+other : 3
 trail : 3
 hike : 3
 right : 3
@@ -352,7 +351,6 @@ outdoors : 3
 tom : 3
 list : 3
 make : 3
-rules : 3
 some : 3
 black : 3
 lives : 3
@@ -370,34 +368,18 @@ game : 3
 archive : 3
 sell : 2
 info : 2
-another : 2
-quentin : 2
-prisons : 2
+trip : 2
+bars : 2
 delays : 2
 member : 2
-bars : 2
-trip : 2
 fire : 2
 run : 2
 shop : 2
-climb : 2
-tamp : 2
-early : 2
-success : 2
-scrambling : 2
 confused : 2
+latest : 2
+hospitalizations : 2
 interactive: : 2
 shut : 2
-mlb : 2
-handle : 2
-restart : 2
-“season” : 2
-already : 2
-breaking : 2
-testing : 2
-five : 2
-things : 2
-watch : 2
 poised : 2
 ban : 2
 apartment : 2
@@ -414,6 +396,13 @@ market : 2
 facing : 2
 job : 2
 fly : 2
+mlb : 2
+handle : 2
+restart : 2
+“season” : 2
+already : 2
+breaking : 2
+testing : 2
 save : 2
 why : 2
 until : 2
@@ -426,6 +415,7 @@ had : 2
 slow : 2
 areas : 2
 crisis : 2
+over : 2
 even : 2
 create : 2
 search : 2
@@ -553,25 +543,23 @@ booking : 2
 fight : 2
 portals : 1
 updates: : 1
-sees : 1
+breaks : 1
 record : 1
-pressure : 1
-rises : 1
-release : 1
-assembly : 1
-return : 1
-sacto : 1
-staff : 1
-napa : 1
-next : 1
-line : 1
-close : 1
+again : 1
 danville : 1
 man : 1
 shot : 1
 death : 1
 four-wheeling : 1
 son : 1
+napa : 1
+next : 1
+line : 1
+close : 1
+assembly : 1
+return : 1
+sacto : 1
+staff : 1
 fairfield : 1
 grass : 1
 prompts : 1
@@ -601,28 +589,27 @@ killed : 1
 gunfire : 1
 4th : 1
 identified : 1
-scrambles : 1
+status : 1
+timeline : 1
+counties : 1
+constantly : 1
+changing : 1
+vary : 1
+depending : 1
+developments : 1
+resources : 1
+keep : 1
+track : 1
+climb : 1
+seeks : 1
+tamp : 1
 surge : 1
-infections : 1
-continued : 1
-parts : 1
-weekend : 1
-found : 1
-containing : 1
-outbreaks : 1
-spiking : 1
-among : 1
-young : 1
-latest : 1
+pressure : 1
+rises : 1
+release : 1
+prisons : 1
 map: : 1
 tracking : 1
-played : 1
-ann : 1
-killion: : 1
-mlbs : 1
-issue : 1
-individuals : 1
-12% : 1
 increases : 1
 arent : 1
 supervisors : 1
@@ -644,6 +631,13 @@ record-low : 1
 leasing : 1
 turbulent : 1
 adapt : 1
+ann : 1
+killion: : 1
+played : 1
+mlbs : 1
+issue : 1
+individuals : 1
+12% : 1
 industry : 1
 ours : 1
 soleil : 1
@@ -740,6 +734,9 @@ four-game : 1
 series : 1
 opener : 1
 28 : 1
+five : 1
+things : 1
+watch : 1
 angels : 1
 7 : 1
 10 : 1
@@ -767,7 +764,6 @@ means : 1
 weighing : 1
 possibility : 1
 exposing : 1
-each : 1
 complete : 1
 guide: : 1
 road : 1
@@ -877,6 +873,7 @@ grandmothers : 1
 she : 1
 also : 1
 talks : 1
+quentin : 1
 underscores : 1
 cruel : 1
 treatment : 1
@@ -962,6 +959,7 @@ sheltering : 1
 brought : 1
 standstill : 1
 around : 1
+scrambling : 1
 understand : 1
 causes : 1
 go : 1
@@ -1153,6 +1151,7 @@ far : 1
 improbable : 1
 tales : 1
 overnight : 1
+success : 1
 concerned : 1
 example : 1
 exploding : 1
@@ -1244,6 +1243,7 @@ subscribers : 1
 prides : 1
 50th : 1
 done : 1
+another : 1
 deep : 1
 dive : 1
 chronicles : 1
@@ -1265,6 +1265,7 @@ worth : 1
 wait: : 1
 grace : 1
 cathedrals : 1
+early : 1
 biggest : 1
 explore : 1
 stories : 1
