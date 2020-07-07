@@ -41,8 +41,8 @@ class Headline:
         self.urls.append(url)
 
 def main():
-    #nytscrape()
-    sf = sfscrape()
+    nyt = nytscrape()
+    #sf = sfscrape()
 
 # https://www.sfchronicle.com/
 def sfscrape():
@@ -91,24 +91,43 @@ def nytscrape():
     r1 = requests.get('https://www.nytimes.com/')
     nyt = r1.content
     bs1 = BeautifulSoup(nyt, 'lxml')
-    bs_nyt = bs1.find_all('h2')
+    bs_nyt = bs1.find_all('a')
 
-    # writes headline into file
-    nyt_hl = []
-    #parsed = urlsplit(url)
+    # creates headline object for nyt
+    nyt = News("newyorktimes")
+    
+    # writes headlines into local txt file
     tfile = "./headlines/newyorktimes.txt"
-
     f = open(tfile, "w")
-    for headline in bs_nyt:
-        nyt_hl.append(headline.getText())
-        f.write(headline.getText() + '\n')
+    # goes through each 'headline' scraped 
+    for headlines in bs_nyt:
+        # reformats the headline, take out spaces
+        headline = headlines.getText().split()
+        # ignore 'headlines' if too short, takes out dumb things
+        if (len(headline) <= 3):
+            continue
+        hurl = headlines['href']
+        # ignore 'headlies' with no url
+        if ('/' not in hurl):
+            continue
+        # completes incomplete urls
+        if ('https://' not in hurl):
+            base = 'https://www.nytimes.com/'
+            hurl = urljoin(base, hurl)
+        # get keywords
+        nyt = genkeywords(nyt, headline, hurl)
+        # reformats hl text
+        hl = ""
+        for word in headline:
+            hl += word + " "
+        # writes to local file
+        f.write(str(hl) + "\t" + hurl + '\n')
     f.write('\n')
     f.close()
 
-    # creates an object
-    nyt = News("newyorktimes", nyt_hl)
-
-    nyt = genkeywords(nyt, tfile)
+    # sort dictionary 
+    sortDictionary(nyt, tfile)
+    return nyt
 
 def genkeywords(news, headlines, url):
     wordbank = news.wordbank
