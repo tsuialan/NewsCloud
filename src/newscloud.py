@@ -42,7 +42,7 @@ class Headline:
 
 def main():
     nyt = nytscrape()
-    #sf = sfscrape()
+    sf = sfscrape()
 
 # https://www.sfchronicle.com/
 def sfscrape():
@@ -158,6 +158,7 @@ def genkeywords(news, headlines, url):
                     hobj.setfrequency(hobj.freq + 1)
                     hobj.addheadline(hl)
                     hobj.addurl(url)
+                    break
     return news
 
 # sorts dictionary by frequency of keyword
@@ -165,8 +166,6 @@ def sortDictionary(news, tfile):
     # sort by frequency keywords
     keywords = news.wordbank.items()
     news.wordbank = sorted(keywords, key = lambda x : x[1], reverse = True)
-
-    #print(keywords)
 
     """ ALPHABETIZED
     keywords = words.items()
