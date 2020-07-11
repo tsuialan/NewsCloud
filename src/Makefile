@@ -13,8 +13,12 @@ run:
 			export FLASK_APP=main.py
 			python -m flask run --host=0.0.0.0
 
+newscrape:
+			@echo "[*] Testing newscrape.py"
+			python3 newscrape.py
+
 newscloud:
-			@echo "[*] Testing scripts.py"
+			@echo "[*] Testing newscloud.py"
 			python3 newscloud.py
 
 install:
