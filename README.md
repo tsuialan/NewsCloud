@@ -50,3 +50,12 @@ Windows:
 ``` WIN
 python newscrape.py
 ```
+### To execute news-cloud script, run inside src/ folder:
+MacOs:
+``` MAC
+make newscloud
+```
+Windows:
+``` WIN
+python newscloud.py
+```

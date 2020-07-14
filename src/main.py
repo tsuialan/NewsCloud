@@ -9,8 +9,9 @@ app = Flask(__name__, instance_relative_config=True, static_folder='static', sta
 
 @app.route('/')
 def main():
-    nc.newsAnalysis()
+    nc.main()
     return render_template('index.html')
 
 if __name__ == "__main__":
-     app.run(host="0.0.0.0")
+    #app.run(host="0.0.0.0")
+    app.run()
