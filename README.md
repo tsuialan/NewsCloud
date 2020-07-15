@@ -37,11 +37,20 @@ make
 ```
 Windows: 
 ``` WIN
-export FLASK_ENV=newscloud
-export FLASK_APP=main.py
+set FLASK_ENV=newscloud
+set FLASK_APP=main.py
 python -m flask run --host=0.0.0.0
 ```
 ### To execute news-scraping script, run inside src/ folder:
+MacOs:
+``` MAC
+make newscrape
+```
+Windows:
+``` WIN
+python newscrape.py
+```
+### To execute news-cloud script, run inside src/ folder:
 MacOs:
 ``` MAC
 make newscloud
