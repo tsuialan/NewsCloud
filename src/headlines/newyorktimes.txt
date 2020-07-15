@@ -1,7 +1,8 @@
 Your Tuesday Evening BriefingHere’s what you need to know at the end of the day. 	https://www.nytimes.com/2020/07/14/briefing/student-visas-china-cake-memes.html
 Listen to ‘The Daily’Revisiting our conversation with an Italian doctor. 	https://www.nytimes.com/2020/07/14/podcasts/the-daily/italy-coronavirus-hospital.html
 Sign Up: ‘At Home’How to live a full and cultured life during the pandemic, at home. 	https://www.nytimes.com/newsletters/at-home
-Trump Administration Abandons Plan to Strip Student VisasThe policy would have stripped international college students of their visas if their coursework was entirely online.Amazon, Kroger and other big U.S. retailers have ended some pandemic pay raises for essential workers. Here’s the latest. 	https://www.nytimes.com/2020/07/14/world/coronavirus-update.html
+Trump Administration Abandons Plan to Strip Student VisasThe federal government said it would no longer require international students to attend in-person classes in order to remain in the country.Announced on July 6, the policy threw the higher education world into disarray. Harvard and M.I.T. filed the first lawsuits seeking to stop it. 	https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html
+Hospitals Ordered to Bypass C.D.C. on Virus DataKey virus information will be sent to a Washington database instead. The decision alarmed health experts. 	https://www.nytimes.com/2020/07/14/us/politics/coronavirus-data-trump-cdc.html
 Belgrade, Serbia Oliver Bunic/AFP — Getty Images Wylie, Texas LM Otero/Associated Press Bangkok Lillian Suwanrumpha/AFP — Getty Images Eastleigh, Nairobi Patrick Meinhardt/AFP — Getty Images Puebla, Mexico Fernando Llano/Associated Press Tangier, Morocco Fadel Senna/AFP— Getty Images Medan, Indonesia Binsar Bakkara/Associated Press Fargo, N.D. Tim Gruber for The New York Times 	https://www.nytimes.com/2020/07/14/world/coronavirus-updates.html
 How New Cases Are Changing by Day 	https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
 Mar. 1 July 13 7-day average United States » 3,412,484 total cases 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
@@ -9,185 +10,295 @@ United States » 3,412,484 total cases 	https://www.nytimes.com/interactive/2020
 See all new cases around the world 	https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
 New Reported Cases in the U.S. 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 See the U.S. hot spots 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+Virus Updates: Florida Breaks Its Record for Most Deaths in a DayThe state reported 132 deaths. A vaccine maker provided more details of an early, encouraging study. Here’s the latest. 	https://www.nytimes.com/2020/07/14/world/coronavirus-update.html
+Tracking the Coronavirus › 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+U.S. hot spots › 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+Sessions Pays the Price for Incurring Trump’s Wrath, Losing Alabama Senate RaceJeff Sessions, the former attorney general, lost a runoff for his old Senate seat. He was unable to overcome attacks by President Trump. 	https://www.nytimes.com/2020/07/14/us/politics/Election-primary-runoff-results.html
+BREAKING NEWSSara Gideon Wins Nomination to Challenge Susan Collins in MaineMs. Gideon had long been the favorite to challenge Senator Collins, the sole remaining New England Republican in Congress. 	https://www.nytimes.com/2020/07/14/us/politics/sara-gideon-maine.html
+LIVE Races to Watch Ala. Senate Rep. Primary Runoff Candidate Votes Pct. Tuberville Tommy Tuberville 311,826 61.2% Sessions Jeff Sessions 197,336 38.8% 509,162 votes, 94% reporting (2,150 of 2,281 precincts) 10:50 PM ET Me. Senate Dem. Primary Candidate Votes Pct. Gideon Sara Gideon 40,083 68.2% Sweet Elizabeth Sweet 13,433 22.9% Kidman Bre Kidman 5,241 8.9% 58,757 votes, 42% reporting (239 of 571 precincts) 10:50 PM ET Tex. Senate Dem. Primary Runoff Candidate Votes Pct. Hegar M.J. Hegar 423,033 52.3% West Royce West 385,436 47.7% 808,469 votes, 65% reporting (5,691 of 8,779 precincts) 10:50 PM ET Tex. District 13 Rep. Primary Runoff Candidate Votes Pct. Jackson Ronny Jackson 36,612 55.6% Winegarner Josh Winegarner 29,261 44.4% 65,873 votes, 90% reporting (368 of 409 precincts) 10:50 PM ET Tex. District 24 Dem. Primary Runoff Candidate Votes Pct. Olson Kim Olson 20,747 58.4% Valenzuela Candace Valenzuela 14,757 41.6% 35,504 votes, 55% reporting (137 of 251 precincts) 10:50 PM ET 	https://www.nytimes.com/interactive/2020/07/14/us/elections/alabama-maine-texas-election-results.html
+Ala. Senate Rep. Primary Runoff 	https://www.nytimes.com/interactive/2020/07/14/us/elections/results-sessions-tuberville.html
+Me. Senate Dem. Primary 	https://www.nytimes.com/interactive/2020/07/14/us/elections/results-maine-senate-primary-election.html
+Tex. Senate Dem. Primary Runoff 	https://www.nytimes.com/interactive/2020/07/14/us/elections/results-texas-senate-democrat-primary-runoff-election.html
+Tex. District 13 Rep. Primary Runoff 	https://www.nytimes.com/interactive/2020/07/14/us/elections/results-texas-house-district-13-primary-runoff-election.html
+Tex. District 24 Dem. Primary Runoff 	https://www.nytimes.com/interactive/2020/07/14/us/elections/results-texas-house-district-24-democrat-primary-runoff-election.html
+See all reporter updates 	https://www.nytimes.com/interactive/2020/07/14/us/elections/live-analysis-maine-alabama-texas-primaries.html?action=click&module=ELEX_results&pgtype=Interactive&region=Component
+LIVE Races to Watch Ala. Senate Rep. Primary Runoff Candidate Votes Pct. Tuberville Tommy Tuberville 311,826 61.2% Sessions Jeff Sessions 197,336 38.8% 509,162 votes, 94% reporting (2,150 of 2,281 precincts) 10:50 PM ET Me. Senate Dem. Primary Candidate Votes Pct. Gideon Sara Gideon 40,083 68.2% Sweet Elizabeth Sweet 13,433 22.9% Kidman Bre Kidman 5,241 8.9% 58,757 votes, 42% reporting (239 of 571 precincts) 10:50 PM ET Tex. Senate Dem. Primary Runoff Candidate Votes Pct. Hegar M.J. Hegar 423,033 52.3% West Royce West 385,436 47.7% 808,469 votes, 65% reporting (5,691 of 8,779 precincts) 10:50 PM ET Tex. District 13 Rep. Primary Runoff Candidate Votes Pct. Jackson Ronny Jackson 36,612 55.6% Winegarner Josh Winegarner 29,261 44.4% 65,873 votes, 90% reporting (368 of 409 precincts) 10:50 PM ET Tex. District 24 Dem. Primary Runoff Candidate Votes Pct. Olson Kim Olson 20,747 58.4% Valenzuela Candace Valenzuela 14,757 41.6% 35,504 votes, 55% reporting (137 of 251 precincts) 10:50 PM ET 	https://www.nytimes.com/interactive/2020/07/14/us/elections/alabama-maine-texas-election-results.html
+Ala. Senate Rep. Primary Runoff 	https://www.nytimes.com/interactive/2020/07/14/us/elections/results-sessions-tuberville.html
+Me. Senate Dem. Primary 	https://www.nytimes.com/interactive/2020/07/14/us/elections/results-maine-senate-primary-election.html
+Tex. Senate Dem. Primary Runoff 	https://www.nytimes.com/interactive/2020/07/14/us/elections/results-texas-senate-democrat-primary-runoff-election.html
+Tex. District 13 Rep. Primary Runoff 	https://www.nytimes.com/interactive/2020/07/14/us/elections/results-texas-house-district-13-primary-runoff-election.html
+Tex. District 24 Dem. Primary Runoff 	https://www.nytimes.com/interactive/2020/07/14/us/elections/results-texas-house-district-24-democrat-primary-runoff-election.html
+See all reporter updates 	https://www.nytimes.com/interactive/2020/07/14/us/elections/live-analysis-maine-alabama-texas-primaries.html?action=click&module=ELEX_results&pgtype=Interactive&region=Component
+Trump Turns A White House Press Conference Into a Meandering MonologueThe president spoke in the Rose Garden for 63 minutes. He spent only six of those minutes answering questions from reporters. 	https://www.nytimes.com/2020/07/14/us/politics/trump-news-conference.html
+President Trump rejected the fact that Black people suffer disproportionately from police brutality. 	https://www.nytimes.com/2020/07/14/us/politics/trump-black-lives-matter.html
 Aide Posts Cartoon Mocking Fauci as White House Denies Undermining HimDan Scavino, one of the president’s closest advisers, shared a cartoon by an alt-right artist who has been criticized for anti-Semitic imagery. 	https://www.nytimes.com/2020/07/14/us/politics/fauci-scavino-cartoon-white-house.html
-I Went Home to Texas to Cover the Virus. Then My Family Got It.When our reporter returned home to his family on the Texas-Mexico border, his worst fears about the virus’s spread came true. 	https://www.nytimes.com/2020/07/14/us/coronavirus-texas-rio-grande-valley-border.html
-Asked About Black People Killed by Police, Trump Says, ‘So Are White People’President Trump rejected the fact that Black people suffer disproportionately from police brutality, saying white people are killed in greater numbers.With coronavirus cases surging in Florida, Republicans are planning to move the three nights of their national convention outdoors.Jeff Sessions hopes to win back his old Senate seat in Alabama, while primary and runoff elections are taking place in Texas and Maine. Here’s the latest. 	https://www.nytimes.com/2020/07/14/us/elections/primary-runoff-alabama-maine-texas.html
-Former Vice President Joseph R. Biden Jr. spoke in Wilmington, Del., on Tuesday. Kriston Jae Bethel for The New York Times 	https://www.nytimes.com/2020/07/14/us/politics/biden-climate-plan.html
-Biden Announces $2 Trillion Climate PlanJoe Biden’s plan links tackling climate change with economic recovery from the coronavirus and addressing racism, drawing praise from onetime critics. 	https://www.nytimes.com/2020/07/14/us/politics/biden-climate-plan.html
-Alabama’s Senate Race Is the Most Negative in the CountryNeither candidate has aired a positive ad in months while both are trying to appeal to the brand of politics popularized by President Trump. 	https://www.nytimes.com/2020/07/14/us/politics/alabamas-ads-negative.html
-Why We’re Losing the Battle With Covid-19From the magazine: The escalating crisis in Texas shows how chronic underfunding of public health has crippled America’s response. 	https://www.nytimes.com/2020/07/14/magazine/covid-19-public-health-texas.html
-Diego Montelongo, a medical intern, with a patient at United Memorial Medical Center in Houston. Rahim Fortune for The New York Times 	https://www.nytimes.com/2020/07/14/magazine/covid-19-public-health-texas.html
-Several retailers ended the “hero” pay raises and bonuses they gave to employees who are essential workers. 	https://www.nytimes.com/2020/07/14/business/coronavirus-essential-workers-pay-raises.html
-LIVEBusiness Updates: Bank Earnings Show Hit From the PandemicReports from Citigroup, JPMorgan and Wells Fargo illustrated the scale of economic damage. Here’s the latest. 	https://www.nytimes.com/live/2020/07/14/business/stock-market-updates-coronavirus
-Diego Montelongo, a medical intern, with a patient at United Memorial Medical Center in Houston. Rahim Fortune for The New York Times 	https://www.nytimes.com/2020/07/14/magazine/covid-19-public-health-texas.html
 U.K. Bars Huawei as Tech Battle Between China and the West EscalatesBanning the use of the Chinese tech giant’s equipment is a reversal by Prime Minister Boris Johnson, and a victory for the Trump administration. 	https://www.nytimes.com/2020/07/14/business/huawei-uk-5g.html
 Caught in ‘Ideological Spiral,’ U.S. and China Drift Toward Cold WarRelations are in free fall. Lines are being drawn. As the two superpowers clash over technology, territory and clout, a new geopolitical era is dawning. 	https://www.nytimes.com/2020/07/14/world/asia/cold-war-china-us.html
 Judge Upends Harvey Weinstein Settlement, Questioning Its ApproachIn a contentious hearing, the judge questioned the overall fairness of the proposed $25 million settlement and suggested that it was misconceived. 	https://www.nytimes.com/2020/07/14/us/harvey-weinstein-settlement.html
 Ghislaine Maxwell Is Denied BailThe longtime associate of Jeffrey Epstein has been charged with helping him recruit, groom and ultimately sexually abuse girls as young as 14. 	https://www.nytimes.com/2020/07/14/nyregion/ghislaine-maxwell-bail.html
 The Great ReadReflections on Driving While BlackFew relationships in America are as complex as the Black man and his automobile. 	https://www.nytimes.com/2020/07/14/travel/Road-Trip-Detroit-Cars-racial-violence.html
-John M. BarryThe Pandemic Could Get Much, Much Worse. We Must Act Now.A comprehensive shutdown may be required in much of the country. 	https://www.nytimes.com/2020/07/14/opinion/coronavirus-shutdown.html
-Paul KrugmanAmerica Drank Away Its Children’s FutureAs the school year looms, the pandemic is still raging. 	https://www.nytimes.com/2020/07/13/opinion/coronavirus-schools-bars.html
+L. Rafael ReifThe Administration Retreated on Student Visas, but the Battle Isn’t OverInternational scholars are vital to American innovation and competitiveness. 	https://www.nytimes.com/2020/07/14/opinion/coronavirus-trump-immigration-students.html
+The Editorial BoardCongress, Do Your Job: Help Americans Without OneFederal aid is about to lapse even as the coronavirus crisis rolls on. 	https://www.nytimes.com/2020/07/14/opinion/coronavirus-unemployment-stimulus-congress.html
+Spencer Bokat-LindellShould We Even Care About Trump’s Taxes? 	https://www.nytimes.com/2020/07/14/opinion/trump-taxes.html
+Yashica Dutt‘If They Knew I Was Dalit, It Could Ruin My Career’ 	https://www.nytimes.com/2020/07/14/opinion/caste-cisco-indian-americans-discrimination.html
+John M. BarryThe Pandemic Could Get Much, Much Worse. We Must Act Now. 	https://www.nytimes.com/2020/07/14/opinion/coronavirus-shutdown.html
+Akhil Reed AmarThe Roberts Court Is Nothing Like America 	https://www.nytimes.com/2020/07/14/opinion/john-roberts-supreme-court-partisanship.html
+Christopher Lee and Lauren KelleyWho Bears Witness to a Hidden Epidemic? 	https://www.nytimes.com/2020/07/14/opinion/domestic-violence-coronavirus.html
 Ross Douthat10 Theses About Cancel Culture 	https://www.nytimes.com/2020/07/14/opinion/cancel-culture-.html
-Michelle GoldbergWhere Are the Calls for Trump to Resign? 	https://www.nytimes.com/2020/07/13/opinion/us-coronavirus-trump.html
-Yashica DuttThe Specter of Caste in Silicon Valley 	https://www.nytimes.com/2020/07/14/opinion/caste-cisco-indian-americans-discrimination.html
-The Editorial BoardThe N.Y.P.D. Has Rejected Reform for Decades. It Can’t Anymore. 	https://www.nytimes.com/2020/07/13/opinion/nypd-reform-nyc.html
-Joy HarjoI Froze. How Could We Win With This Supreme Court? 	https://www.nytimes.com/2020/07/14/opinion/mcgirt-oklahoma-muscogee-creek-nation.html
 E. Tammy KimA Mayor Committed Suicide. His Accuser Won’t Be Heard. 	https://www.nytimes.com/2020/07/13/opinion/seoul-mayor-suicide.html
-Andrew WeissmannWe Can Still Get the Truth From Roger Stone 	https://www.nytimes.com/2020/07/14/opinion/roger-stone-trump-grand-jury.html
+Joy HarjoI Froze. How Could We Win With This Supreme Court? 	https://www.nytimes.com/2020/07/14/opinion/mcgirt-oklahoma-muscogee-creek-nation.html
 Selim KoruTurkey’s Islamist Dream Finally Becomes a Reality 	https://www.nytimes.com/2020/07/14/opinion/hagia-sophia-turkey-mosque.html
-Eric PosnerWhat a Second Trump Term Would Look Like 	https://www.nytimes.com/2020/07/13/opinion/trump-second-term.html
 Andrew Cuomo Ascends to the Mountaintop With His Pandemic PosterThe retro political artwork on “New York Tough” sums up the state’s battle against the coronavirus. But is it art? 	https://www.nytimes.com/2020/07/14/arts/design/cuomo-covid-poster-new-york.html
 Is Sex Dead for Parents?Finding the time and energy for intimacy was hard enough pre-pandemic; now wanting to be closer to someone feels almost impossible. 	https://www.nytimes.com/2020/07/09/parenting/sex-parents-coronavirus.html
 Hannibal Buress Meets the MomentIn ways large and small, the stand-up’s new special, released free on YouTube, taps into the national mood. 	https://www.nytimes.com/2020/07/14/arts/television/hannibal-buress-youtube-special.html
 Let us know what you think 	http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l
 © 2020 The New York Times Company 	https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
 
-the : 54
-to : 16
-and : 16
-in : 16
-a : 13
-of : 12
-for : 11
-are : 11
-new : 10
-with : 8
-trump : 7
-as : 7
+the : 43
+to : 20
+primary : 20
+votes : 20
+of : 17
+runoff : 17
+a : 14
+senate : 14
+and : 13
+dem : 12
+tex : 12
+in : 10
+candidate : 10
+pct : 10
+reporting : 10
+precincts) : 10
+10:50 : 10
+pm : 10
+et : 10
+for : 9
+new : 8
+rep : 8
+district : 8
+as : 8
+on : 7
 is : 7
-york : 6
-cases : 6
-his : 6
-from : 6
-at : 5
-pandemic : 5
+sessions : 6
+gideon : 6
+trump : 5
+it : 5
+cases : 5
+are : 5
+13 : 5
 us : 5
-times : 5
-by : 5
-has : 5
-on : 5
+west : 5
+with : 4
 getty : 4
 images : 4
-texas : 4
-united : 4
-medical : 4
-home : 3
-their : 3
-was : 3
-heres : 3
-latest : 3
-— : 3
-press : 3
-how : 3
-states : 3
-white : 3
-about : 3
-black : 3
-people : 3
-coronavirus : 3
-while : 3
-battle : 3
-it : 3
-much : 3
+press : 4
+by : 4
+see : 4
+his : 4
+was : 4
+ala : 4
+tuberville : 4
+me : 4
+sweet : 4
+kidman : 4
+hegar : 4
+jackson : 4
+winegarner : 4
+24 : 4
+olson : 4
+valenzuela : 4
+at : 3
+an : 3
+live : 3
+pandemic : 3
+administration : 3
+into : 3
+virus : 3
 be : 3
-tuesday : 2
+— : 3
+york : 3
+states : 3
+all : 3
+coronavirus : 3
+president : 3
+been : 3
+battle : 3
+about : 3
+we : 3
+could : 3
+your : 2
 what : 2
 you : 2
 know : 2
 day : 2
-our : 2
-an : 2
-administration : 2
-plan : 2
-would : 2
-have : 2
-retailers : 2
-ended : 2
-pay : 2
-raises : 2
-essential : 2
-workers : 2
-fargo : 2
+student : 2
+july : 2
+world : 2
+times : 2
+how : 2
+united : 2
 » : 2
 3412484 : 2
 total : 2
-see : 2
-cartoon : 2
-who : 2
-been : 2
-family : 2
-killed : 2
-police : 2
-rejected : 2
+reported : 2
+hot : 2
+spots : 2
+its : 2
+deaths : 2
+› : 2
+trumps : 2
+he : 2
+challenge : 2
+collins : 2
+races : 2
+watch : 2
+tommy : 2
+311826 : 2
+612% : 2
+jeff : 2
+197336 : 2
+388% : 2
+509162 : 2
+94% : 2
+(2150 : 2
+2281 : 2
+sara : 2
+40083 : 2
+682% : 2
+elizabeth : 2
+13433 : 2
+229% : 2
+bre : 2
+5241 : 2
+89% : 2
+58757 : 2
+42% : 2
+(239 : 2
+571 : 2
+mj : 2
+423033 : 2
+523% : 2
+royce : 2
+385436 : 2
+477% : 2
+808469 : 2
+65% : 2
+(5691 : 2
+8779 : 2
+ronny : 2
+36612 : 2
+556% : 2
+josh : 2
+29261 : 2
+444% : 2
+65873 : 2
+90% : 2
+(368 : 2
+409 : 2
+kim : 2
+20747 : 2
+584% : 2
+candace : 2
+14757 : 2
+416% : 2
+35504 : 2
+55% : 2
+(137 : 2
+251 : 2
+reporter : 2
+updates : 2
+white : 2
+house : 2
+minutes : 2
+from : 2
 that : 2
-national : 2
-win : 2
-senate : 2
-president : 2
-biden : 2
-climate : 2
-economic : 2
-diego : 2
-montelongo : 2
-intern : 2
-patient : 2
-memorial : 2
-center : 2
-houston : 2
-rahim : 2
-fortune : 2
+black : 2
+cartoon : 2
+has : 2
 tech : 2
 china : 2
 free : 2
 judge : 2
 settlement : 2
-its : 2
-could : 2
-get : 2
-we : 2
-still : 2
-andrew : 2
-your : 1
+america : 2
+but : 2
+even : 2
+much : 2
+now : 2
+court : 2
+tuesday : 1
 evening : 1
 briefingheres : 1
 need : 1
 end : 1
 listen : 1
 dailyrevisiting : 1
+our : 1
 conversation : 1
 italian : 1
 doctor : 1
 sign : 1
 up: : 1
 homehow : 1
-live : 1
 full : 1
 cultured : 1
 life : 1
 during : 1
+home : 1
 abandons : 1
+plan : 1
 strip : 1
-student : 1
 visasthe : 1
-policy : 1
-stripped : 1
+federal : 1
+government : 1
+said : 1
+would : 1
+no : 1
+longer : 1
+require : 1
 international : 1
-college : 1
 students : 1
-visas : 1
-if : 1
-coursework : 1
-entirely : 1
-onlineamazon : 1
-kroger : 1
-other : 1
-big : 1
-some : 1
+attend : 1
+in-person : 1
+classes : 1
+order : 1
+remain : 1
+countryannounced : 1
+6 : 1
+policy : 1
+threw : 1
+higher : 1
+education : 1
+disarray : 1
+harvard : 1
+mit : 1
+filed : 1
+first : 1
+lawsuits : 1
+seeking : 1
+stop : 1
+hospitals : 1
+ordered : 1
+bypass : 1
+cdc : 1
+datakey : 1
+information : 1
+will : 1
+sent : 1
+washington : 1
+database : 1
+instead : 1
+decision : 1
+alarmed : 1
+health : 1
+experts : 1
 belgrade : 1
 serbia : 1
 oliver : 1
 bunic/afp : 1
 wylie : 1
+texas : 1
 lm : 1
 otero/associated : 1
 bangkok : 1
@@ -209,27 +320,92 @@ medan : 1
 indonesia : 1
 binsar : 1
 bakkara/associated : 1
+fargo : 1
 nd : 1
 tim : 1
 gruber : 1
 changing : 1
 mar : 1
 1 : 1
-july : 1
-13 : 1
 7-day : 1
 average : 1
-all : 1
 around : 1
-world : 1
-reported : 1
-hot : 1
-spots : 1
+updates: : 1
+florida : 1
+breaks : 1
+record : 1
+most : 1
+daythe : 1
+state : 1
+132 : 1
+vaccine : 1
+maker : 1
+provided : 1
+more : 1
+details : 1
+early : 1
+encouraging : 1
+study : 1
+heres : 1
+latest : 1
+tracking : 1
+pays : 1
+price : 1
+incurring : 1
+wrath : 1
+losing : 1
+alabama : 1
+racejeff : 1
+former : 1
+attorney : 1
+general : 1
+lost : 1
+old : 1
+seat : 1
+unable : 1
+overcome : 1
+attacks : 1
+breaking : 1
+newssara : 1
+wins : 1
+nomination : 1
+susan : 1
+mainems : 1
+had : 1
+long : 1
+favorite : 1
+senator : 1
+sole : 1
+remaining : 1
+england : 1
+republican : 1
+congress : 1
+turns : 1
+conference : 1
+meandering : 1
+monologuethe : 1
+spoke : 1
+rose : 1
+garden : 1
+63 : 1
+spent : 1
+only : 1
+six : 1
+those : 1
+answering : 1
+questions : 1
+reporters : 1
+rejected : 1
+fact : 1
+people : 1
+suffer : 1
+disproportionately : 1
+police : 1
+brutality : 1
 aide : 1
 posts : 1
 mocking : 1
 fauci : 1
-house : 1
 denies : 1
 undermining : 1
 himdan : 1
@@ -241,140 +417,14 @@ advisers : 1
 shared : 1
 alt-right : 1
 artist : 1
+who : 1
 criticized : 1
 anti-semitic : 1
 imagery : 1
-i : 1
-went : 1
-cover : 1
-virus : 1
-then : 1
-my : 1
-got : 1
-itwhen : 1
-reporter : 1
-returned : 1
-texas-mexico : 1
-border : 1
-worst : 1
-fears : 1
-viruss : 1
-spread : 1
-came : 1
-true : 1
-asked : 1
-says : 1
-so : 1
-peoplepresident : 1
-fact : 1
-suffer : 1
-disproportionately : 1
-brutality : 1
-saying : 1
-greater : 1
-numberswith : 1
-surging : 1
-florida : 1
-republicans : 1
-planning : 1
-move : 1
-three : 1
-nights : 1
-convention : 1
-outdoorsjeff : 1
-sessions : 1
-hopes : 1
-back : 1
-old : 1
-seat : 1
-alabama : 1
-primary : 1
-runoff : 1
-elections : 1
-taking : 1
-place : 1
-maine : 1
-former : 1
-vice : 1
-joseph : 1
-r : 1
-jr : 1
-spoke : 1
-wilmington : 1
-del : 1
-kriston : 1
-jae : 1
-bethel : 1
-announces : 1
-$2 : 1
-trillion : 1
-planjoe : 1
-bidens : 1
-links : 1
-tackling : 1
-change : 1
-recovery : 1
-addressing : 1
-racism : 1
-drawing : 1
-praise : 1
-onetime : 1
-critics : 1
-alabamas : 1
-race : 1
-most : 1
-negative : 1
-countryneither : 1
-candidate : 1
-aired : 1
-positive : 1
-ad : 1
-months : 1
-both : 1
-trying : 1
-appeal : 1
-brand : 1
-politics : 1
-popularized : 1
-why : 1
-were : 1
-losing : 1
-covid-19from : 1
-magazine: : 1
-escalating : 1
-crisis : 1
-shows : 1
-chronic : 1
-underfunding : 1
-public : 1
-health : 1
-crippled : 1
-americas : 1
-response : 1
-several : 1
-“hero” : 1
-bonuses : 1
-they : 1
-gave : 1
-employees : 1
-livebusiness : 1
-updates: : 1
-bank : 1
-earnings : 1
-show : 1
-hit : 1
-pandemicreports : 1
-citigroup : 1
-jpmorgan : 1
-wells : 1
-illustrated : 1
-scale : 1
-damage : 1
 uk : 1
 bars : 1
 huawei : 1
 between : 1
-west : 1
 escalatesbanning : 1
 use : 1
 chinese : 1
@@ -444,62 +494,75 @@ young : 1
 great : 1
 readreflections : 1
 driving : 1
+while : 1
 blackfew : 1
 relationships : 1
-america : 1
 complex : 1
 man : 1
 automobile : 1
+l : 1
+rafael : 1
+reifthe : 1
+retreated : 1
+visas : 1
+isnt : 1
+overinternational : 1
+scholars : 1
+vital : 1
+american : 1
+innovation : 1
+competitiveness : 1
+editorial : 1
+boardcongress : 1
+do : 1
+job: : 1
+help : 1
+americans : 1
+without : 1
+onefederal : 1
+aid : 1
+lapse : 1
+crisis : 1
+rolls : 1
+spencer : 1
+bokat-lindellshould : 1
+care : 1
+taxes : 1
+yashica : 1
+duttif : 1
+they : 1
+knew : 1
+i : 1
+dalit : 1
+ruin : 1
+my : 1
+career : 1
 john : 1
 m : 1
 barrythe : 1
+get : 1
 worse : 1
 must : 1
 act : 1
-nowa : 1
-comprehensive : 1
-shutdown : 1
-may : 1
-required : 1
-country : 1
-paul : 1
-krugmanamerica : 1
-drank : 1
-away : 1
-childrens : 1
-futureas : 1
-school : 1
-year : 1
-looms : 1
-raging : 1
+akhil : 1
+reed : 1
+amarthe : 1
+roberts : 1
+nothing : 1
+like : 1
+christopher : 1
+lee : 1
+lauren : 1
+kelleywho : 1
+bears : 1
+witness : 1
+hidden : 1
+epidemic : 1
 ross : 1
 douthat10 : 1
 theses : 1
 cancel : 1
 culture : 1
-michelle : 1
-goldbergwhere : 1
-calls : 1
-resign : 1
-yashica : 1
-duttthe : 1
-specter : 1
-caste : 1
-silicon : 1
-valley : 1
-editorial : 1
-boardthe : 1
-nypd : 1
-reform : 1
-decades : 1
-cant : 1
-anymore : 1
-joy : 1
-harjoi : 1
-froze : 1
-this : 1
-supreme : 1
-court : 1
 e : 1
 tammy : 1
 kima : 1
@@ -509,11 +572,12 @@ suicide : 1
 accuser : 1
 wont : 1
 heard : 1
-weissmannwe : 1
-can : 1
-truth : 1
-roger : 1
-stone : 1
+joy : 1
+harjoi : 1
+froze : 1
+win : 1
+this : 1
+supreme : 1
 selim : 1
 koruturkeys : 1
 islamist : 1
@@ -521,12 +585,7 @@ dream : 1
 finally : 1
 becomes : 1
 reality : 1
-eric : 1
-posnerwhat : 1
-second : 1
-term : 1
-look : 1
-like : 1
+andrew : 1
 cuomo : 1
 ascends : 1
 mountaintop : 1
@@ -539,7 +598,6 @@ tough” : 1
 sums : 1
 up : 1
 against : 1
-but : 1
 art : 1
 sex : 1
 dead : 1
@@ -550,7 +608,6 @@ intimacy : 1
 hard : 1
 enough : 1
 pre-pandemic; : 1
-now : 1
 wanting : 1
 closer : 1
 someone : 1
@@ -569,7 +626,7 @@ special : 1
 released : 1
 youtube : 1
 taps : 1
-into : 1
+national : 1
 mood : 1
 let : 1
 think : 1

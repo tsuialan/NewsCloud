@@ -44,6 +44,11 @@ def main():
     # calling webscraping scripts
     nyt = nytscrape()
     sf = sfscrape()
+    # list holding the news objects
+    news = []
+    news.append(nyt)
+    news.append(sf)
+    return news
 
 # https://www.sfchronicle.com/
 def sfscrape():
@@ -54,7 +59,7 @@ def sfscrape():
     bs_sf = bs1.find_all("a", {"class": "hdn-analytics"})
 
     # creates news object
-    sf = News("sfchronicle")
+    sf = News("SF Chronicle")
 
     # writes headline into txt file
     tfile = "./headlines/sfchronicle.txt"         # local text file
@@ -95,7 +100,7 @@ def nytscrape():
     bs_nyt = bs1.find_all('a')
 
     # creates headline object for nyt
-    nyt = News("newyorktimes")
+    nyt = News("New York Times")
     
     # writes headlines into local txt file
     tfile = "./headlines/newyorktimes.txt"

@@ -10,9 +10,12 @@ all: run
 run:
 			@echo "[*] [++++++++++ NewsCloud ++++++++++]"
 			export FLASK_ENV=newscloud
-			export FLASK_APP=main.py
+			export FLASK_APP=main-flask.py
 			#python -m flask run --host=0.0.0.0
 			python -m flask run
+
+cl:
+			python3 main-cl.py
 
 newscrape:
 			@echo "[*] Testing newscrape.py"
