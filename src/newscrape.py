@@ -31,7 +31,7 @@ class News:
         for keyword in keywords:
             l.append(keyword.word)
         return l
-        
+
 class Keyword:
     def __init__(self, keyword):
         self.word = keyword
@@ -76,7 +76,7 @@ def sfscrape():
 
     # writes headline into txt file
     tfile = "./headlines/sfchronicle.txt"         # local text file
-    f = open(tfile, "w")
+    f = open(tfile, "w+")
     for headlines in bs_sf:
         # get href url from headlien
         hurl = headlines['href']
@@ -100,7 +100,7 @@ def sfscrape():
     f.write('\n')
     f.close()
 
-    # sort dictionary 
+    # sort dictionary
     sortDictionary(sf, tfile)
     return sf
 
@@ -114,11 +114,11 @@ def nytscrape():
 
     # creates headline object for nyt
     nyt = News("New York Times")
-    
+
     # writes headlines into local txt file
     tfile = "./headlines/newyorktimes.txt"
-    f = open(tfile, "w")
-    # goes through each 'headline' scraped 
+    f = open(tfile, "w+")
+    # goes through each 'headline' scraped
     for headlines in bs_nyt:
         # reformats the headline, take out spaces
         headline = headlines.getText().split()
@@ -144,7 +144,7 @@ def nytscrape():
     f.write('\n')
     f.close()
 
-    # sort dictionary 
+    # sort dictionary
     sortDictionary(nyt, tfile)
     return nyt
 
