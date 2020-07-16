@@ -28,7 +28,7 @@ class News:
         self.keywords.append(keyword)
     def getWords(self):
         l = []
-        for keyword in keywords:
+        for keyword in self.keywords:
             l.append(keyword.word)
         return l
 
@@ -118,11 +118,9 @@ def nytscrape():
     # writes headlines into local txt file
     tfile = "./headlines/newyorktimes.txt"
     f = open(tfile, "w+")
-<<<<<<< HEAD
+
     # goes through each 'headline' scraped
-=======
-    # goes through each 'headline' scraped 
->>>>>>> bce24e6790f579924f38dd2c98c6afb40486b356
+
     for headlines in bs_nyt:
         # reformats the headline, take out spaces
         headline = headlines.getText().split()
