@@ -22,7 +22,7 @@ def main():
         if news == 'nyt':
             list = all_news[0].getWords()
             #list = ["test", "words"]
-        elif news = "sfchron":
+        elif news == "sfchron":
             list = all_news[1].getWords()
             #list = ['test', "words", "chron"]
         else:
