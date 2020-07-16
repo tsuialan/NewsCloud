@@ -118,7 +118,11 @@ def nytscrape():
     # writes headlines into local txt file
     tfile = "./headlines/newyorktimes.txt"
     f = open(tfile, "w+")
+<<<<<<< HEAD
     # goes through each 'headline' scraped
+=======
+    # goes through each 'headline' scraped 
+>>>>>>> bce24e6790f579924f38dd2c98c6afb40486b356
     for headlines in bs_nyt:
         # reformats the headline, take out spaces
         headline = headlines.getText().split()
