@@ -14,7 +14,6 @@ def main():
     #nc.main()
     all_news = ns.main()
     if request.method == 'POST':
-
         if request.form['news'] == "nyt":
             news = 'nyt'
         else:
@@ -23,9 +22,11 @@ def main():
         if news == 'nyt':
             list = all_news[0].getWords()
             #list = ["test", "words"]
-        else:
+        elif news = "sfchron":
             list = all_news[1].getWords()
             #list = ['test', "words", "chron"]
+        else:
+            list = ["Not", "a", "supported", "news"]
         print(news)
         return render_template('index.html', list=list)
     print("bad news")
