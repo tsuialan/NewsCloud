@@ -24,13 +24,14 @@ class News:
         self.paper = paper
         self.keywords = []
         self.wordbank = {}
+
     def addKeyword(self, keyword):
         self.keywords.append(keyword)
-    def getWords(self):
-        l = []
-        for keyword in self.keywords:
-            l.append(keyword.word)
-        return l
+
+    def findKeyword(self, word):
+        for kw in self.keywords:
+            if (kw.word.lower() == word.lower()):
+                return kw
 
 class Keyword:
     def __init__(self, keyword):
@@ -38,18 +39,15 @@ class Keyword:
         self.headlines = []
         self.urls = []
         self.freq = 0
+
     def setfrequency(self, freq):
         self.freq = freq
+
     def addheadline(self, headline):
         self.headlines.append(headline)
+
     def addurl(self, url):
         self.urls.append(url)
-    def getheadlines(self):
-        return self.headlines
-    def geturls(self):
-        return self.urls
-    def getfreq(self):
-        return self.freq
 
 def main():
     # calling webscraping scripts

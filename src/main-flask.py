@@ -20,16 +20,25 @@ def main():
             news = 'sfchron'
 
         if news == 'nyt':
-            list = all_news[0].getWords()
+            # get list of keywords 
+            l = []
+            nyt = all_news[0]
+            for keyword in nyt.keywords:
+                l.append(keyword.word + "\n")
             #list = ["test", "words"]
         elif news == "sfchron":
-            list = all_news[1].getWords()
+             # get list of keywords 
+            l = []
+            sfc = all_news[1]
+            for keyword in sfc.keywords:
+                l.append(keyword.word + "\n")
             #list = ['test', "words", "chron"]
         else:
-            list = ["Not", "a", "supported", "news"]
+            l = ["Not", "a", "supported", "news"]
         print(news)
-        return render_template('index.html', list=list)
-    print("bad news")
+        return render_template('index.html', list=l)
+    else:
+        print("bad news")
     return render_template('index.html', list=[])
 
 if __name__ == "__main__":
