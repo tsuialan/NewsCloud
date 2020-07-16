@@ -1,17 +1,16 @@
 <html>
 
-  <head>
+<head>
+    <h1>NewsCloud: </h1>
+</head>
 
-  </head>
-  <body>
-    <h1>Hello World</h1>
+<body>
     <form method="post">
-       <input type="submit" name="news" id="news" value="nyt" class="button"/>
-       <input type="submit" name="news" id="news" value="sfchron" class="button"/>
+        <input type="submit" name="news" id="news" value="nyt" class="button" />
+        <input type="submit" name="news" id="news" value="sfchron" class="button" />
     </form>
     {% for item in list %}
-    <a> {{item}} </a>
-    {% endfor %}
-  </body>
+    <a href="https://www.google.com"> {{item}} </a> <br> {% endfor %}
+</body>
 
 </html>
