@@ -9,6 +9,7 @@ def main():
     print("[*] News Simplified and Centralized")
     input("[*] Press any key to begin newscraping ...")
     newslist = ns.main()
+    print("[*] Done newscraping ")
     counter = 1
     for news in newslist:
         print("[*] " + str(counter) + ": " + news.paper)

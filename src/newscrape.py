@@ -26,6 +26,11 @@ class News:
         self.wordbank = {}
     def addKeyword(self, keyword):
         self.keywords.append(keyword)
+    def getWords(self):
+        l = []
+        for keyword in keywords:
+            l.append(keyword.word)
+        return l
         
 class Keyword:
     def __init__(self, keyword):
@@ -39,10 +44,18 @@ class Keyword:
         self.headlines.append(headline)
     def addurl(self, url):
         self.urls.append(url)
+    def getheadlines(self):
+        return self.headlines
+    def geturls(self):
+        return self.urls
+    def getfreq(self):
+        return self.freq
 
 def main():
     # calling webscraping scripts
+    print("[*] Starting New York Times ... ")
     nyt = nytscrape()
+    print("[*] Starting SF Chronicle ... ")
     sf = sfscrape()
     # list holding the news objects
     news = []
@@ -183,12 +196,6 @@ def sortDictionary(news, tfile):
     for index in news.wordbank:
         f.write(index[0] + " : " + str(index[1]) + '\n')
     f.close()
-
-def printObject(obj):
-    print(obj.paper)
-    for hl in obj.headlines:
-        print(hl.keyword + " : " + str(hl.freq))
-        print(hl.headlines)
 
 if __name__ == '__main__':
     main()
