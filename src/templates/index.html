@@ -1,7 +1,17 @@
 <html>
 
-<head>
+  <head>
+
+  </head>
+  <body>
     <h1>Hello World</h1>
-</head>
+    <form method="post">
+       <input type="submit" name="news" id="news" value="nyt" class="button"/>
+       <input type="submit" name="news" id="news" value="sfchron" class="button"/>
+    </form>
+    {% for item in list %}
+    <h5> {{item}} </h5>
+    {% endfor %}
+  </body>
 
 </html>

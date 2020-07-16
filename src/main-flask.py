@@ -2,15 +2,30 @@
 # Author: Alan Tsui
 # Description: a flask app for newscloud
 
-from flask import Flask, render_template
+from flask import Flask, render_template, request, redirect, url_for
 import newscloud as nc
 
 app = Flask(__name__, instance_relative_config=True, static_folder='static', static_url_path='/static')
 
-@app.route('/')
+@app.route('/', methods=('GET','POST'))
 def main():
-    nc.main()
-    return render_template('index.html')
+    news = ''
+    #nc.main()
+    if request.method == 'POST':
+
+        if request.form['news'] == "nyt":
+            news = 'nyt'
+        else:
+            news = 'sfchron'
+
+        if news == 'nyt':
+            list = ["test", "words"]
+        else:
+            list = ['test', "words", "chron"]
+        print(news)
+        return render_template('index.html', list=list)
+    print("bad news")
+    return render_template('index.html', list=[])
 
 if __name__ == "__main__":
      app.run(host='127.0.0.1', port=4000, debug=True)
