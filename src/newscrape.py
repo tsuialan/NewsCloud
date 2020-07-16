@@ -10,15 +10,19 @@ import newscloud as nc
 
 """
 
-NEWS (object) |-> newspaper (identifier)
-                    |-> HEADLINES (object) |-> keyword (identifier)
-                                                    |-> original headline
-                                                    |-> headline's url
-                                                    |-> frequency of keyword
+NEWS (object)   
+    |-> newspaper (identifier)
+    |-> LIST OF KEYWORDS (objects)  |-> keyword (object's identifier)
+                                        |-> original headline
+                                        |-> headlines' url
+                                        |-> frequency of keyword
 
 """
 
+""" CLASS FUNCTIONS AND DEFINITIONS """
 # news headline objects
+
+
 class News:
     def __init__(self, paper):
         self.paper = paper
@@ -32,6 +36,58 @@ class News:
         for kw in self.keywords:
             if (kw.word.lower() == word.lower()):
                 return kw
+
+    # find keywords and creates corrresponding objects
+    def genkeywords(self, headlines, url):
+        wordbank = self.wordbank
+        # hl is reformatted 'headlines'
+        hl = ""
+        for word in headlines:
+            hl += word + " "
+        # split each headline to a series of words, and the count them
+        for word in headlines:
+            word = word.replace(",", "").replace(
+                ".", "").replace("?", "").replace("!", "")
+            word = word.replace("'", "").replace(
+                '"', "").replace("’", "").replace("‘", "")
+            word = word.lower()
+            if word not in wordbank.keys():
+                wordbank[word] = 1
+                # creating headline object
+                k = Keyword(word)
+                # add headline, url, freq to headline object
+                k.addheadline(hl)
+                k.addurl(url)
+                k.setfrequency(1)
+                # add the headline object into of news object
+                self.addKeyword(k)
+            else:
+                wordbank[word] = wordbank.get(word) + 1
+                for kw in self.keywords:
+                    if (kw.word == word):
+                        # update headline object values
+                        kw.setfrequency(kw.freq + 1)
+                        kw.addheadline(hl)
+                        kw.addurl(url)
+                        break
+
+    # sorts dictionary by frequency of keyword
+    def sortDictionary(self, tfile):
+        # sort by frequency keywords
+        keywords = self.wordbank.items()
+        self.wordbank = sorted(keywords, key=lambda x: x[1], reverse=True)
+
+        """ ALPHABETIZED
+        keywords = words.items()
+        keywords = sorted(keywords, key = lambda x : x[0])
+        """
+
+        # write to txt file
+        f = open(tfile, "a")
+        for index in self.wordbank:
+            f.write(index[0] + " : " + str(index[1]) + '\n')
+        f.close()
+
 
 class Keyword:
     def __init__(self, keyword):
@@ -49,28 +105,20 @@ class Keyword:
     def addurl(self, url):
         self.urls.append(url)
 
-def main():
-    # calling webscraping scripts
-    print("[*] Starting New York Times ... ")
-    nyt = nytscrape()
-    print("[*] Starting SF Chronicle ... ")
-    sf = sfscrape()
-    # list holding the news objects
-    news = []
-    news.append(nyt)
-    news.append(sf)
-    return news
 
+""" WEBSCRAPING FUNCTIONS """
 # https://www.sfchronicle.com/
+
+
 def sfscrape():
     # scrapes sf chronicle
     r1 = requests.get('https://www.sfchronicle.com/')
-    sf = r1.content
-    bs1 = BeautifulSoup(sf, 'lxml')
+    sfc = r1.content
+    bs1 = BeautifulSoup(sfc, 'lxml')
     bs_sf = bs1.find_all("a", {"class": "hdn-analytics"})
 
     # creates news object
-    sf = News("SF Chronicle")
+    sfc = News("SF Chronicle")
 
     # writes headline into txt file
     tfile = "./headlines/sfchronicle.txt"         # local text file
@@ -88,7 +136,7 @@ def sfscrape():
         if (len(headlines) <= 3):
             continue
         # get keywords
-        sf = genkeywords(sf, headlines, hurl)
+        sfc.genkeywords(headlines, hurl)
         # reformats headline text
         hl = ""
         for word in headlines:
@@ -99,10 +147,12 @@ def sfscrape():
     f.close()
 
     # sort dictionary
-    sortDictionary(sf, tfile)
-    return sf
+    sfc.sortDictionary(tfile)
+    return sfc
 
 # https://www.nytimes.com/
+
+
 def nytscrape():
     # scrapes new york times
     r1 = requests.get('https://www.nytimes.com/')
@@ -125,8 +175,9 @@ def nytscrape():
         # ignore 'headlines' if too short, takes out dumb things
         if (len(headline) <= 3):
             continue
+        # get url correspondingn to headline
         hurl = headlines['href']
-        # ignore 'headlies' with no url
+        # ignore 'headlines' with no url
         if ('/' not in hurl):
             continue
         # completes incomplete urls
@@ -134,7 +185,7 @@ def nytscrape():
             base = 'https://www.nytimes.com/'
             hurl = urljoin(base, hurl)
         # get keywords
-        nyt = genkeywords(nyt, headline, hurl)
+        nyt.genkeywords(headline, hurl)
         # reformats hl text
         hl = ""
         for word in headline:
@@ -145,57 +196,25 @@ def nytscrape():
     f.close()
 
     # sort dictionary
-    sortDictionary(nyt, tfile)
+    nyt.sortDictionary(tfile)
     return nyt
 
-def genkeywords(news, headlines, url):
-    wordbank = news.wordbank
-    # hl is reformatted 'headlines'
-    hl = ""
-    for word in headlines:
-        hl += word + " "
-    # split each headline to a series of words, and the count them
-    for word in headlines:
-        word = word.replace(",", "").replace(".", "").replace("?", "").replace("!", "")
-        word = word.replace("'", "").replace('"', "").replace("’", "").replace("‘", "")
-        word = word.lower()
-        if word not in wordbank.keys():
-            wordbank[word] = 1
-            # creating headline object
-            k = Keyword(word)
-            # add headline, url, freq to headline object
-            k.addheadline(hl)
-            k.addurl(url)
-            k.setfrequency(1)
-            # add the headline object into of news object
-            news.addKeyword(k)
-        else:
-            wordbank[word] = wordbank.get(word) + 1
-            for kw in news.keywords:
-                if (kw.word == word):
-                    # update headline object values
-                    kw.setfrequency(kw.freq + 1)
-                    kw.addheadline(hl)
-                    kw.addurl(url)
-                    break
+
+""" MAIN FUNCTION """
+
+
+def main():
+    # calling webscraping scripts
+    print("[*] Starting New York Times ... ")
+    nyt = nytscrape()
+    print("[*] Starting SF Chronicle ... ")
+    sfc = sfscrape()
+    # list holding the news objects
+    news = []
+    news.append(nyt)
+    news.append(sfc)
     return news
 
-# sorts dictionary by frequency of keyword
-def sortDictionary(news, tfile):
-    # sort by frequency keywords
-    keywords = news.wordbank.items()
-    news.wordbank = sorted(keywords, key = lambda x : x[1], reverse = True)
-
-    """ ALPHABETIZED
-    keywords = words.items()
-    keywords = sorted(keywords, key = lambda x : x[0])
-    """
-
-    # write to txt file
-    f = open(tfile, "a")
-    for index in news.wordbank:
-        f.write(index[0] + " : " + str(index[1]) + '\n')
-    f.close()
 
 if __name__ == '__main__':
     main()

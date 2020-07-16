@@ -6,12 +6,13 @@ from flask import Flask, render_template, request, redirect, url_for
 import newscloud as nc
 import newscrape as ns
 
-app = Flask(__name__, instance_relative_config=True, static_folder='static', static_url_path='/static')
+app = Flask(__name__, instance_relative_config=True,
+            static_folder='static', static_url_path='/static')
 
-@app.route('/', methods=('GET','POST'))
+
+@app.route('/', methods=('GET', 'POST'))
 def main():
     news = ''
-    #nc.main()
     all_news = ns.main()
     if request.method == 'POST':
         if request.form['news'] == "nyt":
@@ -20,7 +21,7 @@ def main():
             news = 'sfchron'
 
         if news == 'nyt':
-            # get list of keywords 
+            # get list of keywords
             l = []
             u = []
             nyt = all_news[0]
@@ -28,7 +29,7 @@ def main():
                 l.append(keyword.word)
             #list = ["test", "words"]
         elif news == "sfchron":
-             # get list of keywords 
+            # get list of keywords
             l = []
             u = []
             sfc = all_news[1]
@@ -38,10 +39,11 @@ def main():
         else:
             l = ["Not", "a", "supported", "news"]
         print(news)
-        return render_template('index.html', list=l, url = u)
+        return render_template('index.html', list=l, url=u)
     else:
         print("bad news")
-    return render_template('index.html', list=[], url = [])
+    return render_template('index.html', list=[], url=[])
+
 
 if __name__ == "__main__":
-     app.run(host='127.0.0.1', port=8000, debug=True)
+    app.run(host='127.0.0.1', port=8000, debug=True)

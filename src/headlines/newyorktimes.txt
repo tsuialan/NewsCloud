@@ -1,11 +1,11 @@
-Your Wednesday Evening BriefingHere’s what you need to know at the end of the day. 	https://www.nytimes.com/2020/07/15/briefing/anthony-fauci-heat-wave-hot-dogs.html
 Listen to ‘The Daily’She survived civil war in Sudan. Then she faced coronavirus. 	https://www.nytimes.com/2020/07/15/podcasts/the-daily/meat-plant-coronavirus.html
 ‘On Tech With Shira Ovide’Just collect less data, period. 	https://www.nytimes.com/2020/07/15/technology/just-collect-less-data-period.html
-As Cases Rise in 41 States, Officials Scramble to Add RestrictionsResidents in several states were ordered to wear masks as officials prepared for the worst. Refrigerated trucks were put on standby in some hard-hit cities.In another cautionary effort, some large school districts said that they would open the school year with online classes.The total number of cases in the U.S. passed 3.5 million, according to a Times database. Here’s the latest. 	https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html
-Abidjan, Côte d’Ivoire Issouf Sanogo/AFP — Getty Images Bogota, Colombia Juan Barreto/AFP — Getty Images Boston Elise Amendola/Associated Press Sao Paulo, Brazil Andre Penner/Associated Press Sacramento Max Whittaker for The New York Times Chennai, India Arun Sankar/AFP — Getty Images Mexico City Pedro Pardo/AFP — Getty Images La Paz, Bolivia Juan Karita/Associated Press 	https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html
+Sign Up: ‘At Home’How to live a full and cultured life during the pandemic, at home. 	https://www.nytimes.com/newsletters/at-home
+As Cases Rise in 41 States, Officials Scramble to Add RestrictionsResidents in several states were ordered to wear masks as officials prepared for the worst. Refrigerated trucks were put on standby in some hard-hit cities.In another cautionary effort, some large school districts said that they would open the school year with online classes.The total number of cases in the U.S. passed 3.5 million, according to a Times database. Catch up on the latest. 	https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html
+Detroit David Guralnick/Detroit News, via AP La Puente, Calif. Lucy Nicholson/Reuters Mexico City Pedro Pardo/AFP — Getty Images Watkinsville, Ga. Joshua L. Jones/Athens Banner-Herald, via AP Caracas, Venezuela Ariana Cubillos/Associated Press Phoenix Ross D. Franklin/Associated Press Topeka, Kan. Evert Nelson/The Topeka Capital-Journal, via AP Tulsa, Okla. Ian Maule/Tulsa World, via AP Chennai, India Arun Sankar/AFP — Getty Images 	https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html
 How New Cases Are Changing by Day 	https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
-Mar. 1 July 14 7-day average United States » 3,475,932 total cases 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-United States » 3,475,932 total cases 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+Mar. 1 July 15 7-day average United States » 3,512,674 total cases 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+United States » 3,512,674 total cases 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 See all new cases around the world 	https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
 New Reported Cases in the U.S. 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 See the U.S. hot spots 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
@@ -23,9 +23,9 @@ In a major show of force, hackers breached some of the site’s most prominent a
 Trump Shakes Up Re-election Staff, Replacing His Campaign ManagerBill Stepien, the deputy campaign manager, will step into Brad Parscale’s job, according to people familiar with the plans. 	https://www.nytimes.com/2020/07/15/us/politics/trump-campaign-brad-parscale.html
 With Dueling Environmental Events, Trump and Biden Define the RaceOver two days, President Trump and Joe Biden laid out wildly divergent views on environmental regulations and climate change. 	https://www.nytimes.com/2020/07/15/climate/trump-biden-environment.html
 President Trump plans to again try to block prosecutors from seeking his tax returns, his lawyers said. 	https://www.nytimes.com/2020/07/15/nyregion/donald-trump-taxes-cyrus-vance.html
-How a Famous Harvard Professor Became a Target Over His TweetsThe outcry over free speech and race takes aim at Steven Pinker, the best-selling author and well-known scholar. 	https://www.nytimes.com/2020/07/15/us/steven-pinker-harvard.html
-Professor Steven Pinker, in his office in Cambridge, Mass., in 2018. He has been accused of racial insensitivity by people he describes as “speech police.” Kayana Szymczak for The New York Times 	https://www.nytimes.com/2020/07/15/us/steven-pinker-harvard.html
 Footage of Body Cameras Offers Devastating Account of Floyd KillingThe newly released footage shows officers seemingly more concerned with controlling George Floyd’s body than saving his life. 	https://www.nytimes.com/2020/07/15/us/george-floyd-video-killing.html
+Outside Cup Foods in Minneapolis, where George Floyd was pinned down by a police officer on May 25. Caroline Yang for The New York Times 	https://www.nytimes.com/2020/07/15/us/george-floyd-video-killing.html
+How a Famous Harvard Professor Became a Target Over His TweetsThe outcry over free speech and race takes aim at Steven Pinker, the best-selling author and well-known scholar. 	https://www.nytimes.com/2020/07/15/us/steven-pinker-harvard.html
 Black business owners had a harder time getting coronavirus financial aid, according to a new study. 	https://www.nytimes.com/2020/07/15/business/paycheck-protection-program-bias.html
 Gail CollinsWho Can Make Trump Miserable This Fall?Goodbye, Jeff Sessions, hello … Heir Archy. 	https://www.nytimes.com/2020/07/15/opinion/trump-sessions-senate.html
 The Editorial BoardWhy Does the N.Y.P.D. Want to Punish Journalists?The Police Department’s proposed new rules threaten press freedom. 	https://www.nytimes.com/2020/07/15/opinion/nyc-police-journalists.html
@@ -45,44 +45,41 @@ The Tahini War: The Food at the Center of an Arab Gay Rights BattleAfter an Arab
 Let us know what you think 	http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l
 © 2020 The New York Times Company 	https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
 
-the : 42
-in : 22
+the : 40
+in : 20
 to : 16
-of : 14
-a : 14
-on : 9
-new : 9
-and : 9
+a : 16
+of : 12
+on : 11
+and : 10
 us : 8
+new : 8
 cases : 7
+via : 7
 with : 6
 an : 6
-his : 6
 states : 5
-for : 5
 trump : 5
-as : 4
+his : 5
+at : 4
+for : 4
 would : 4
-times : 4
-— : 4
-getty : 4
-images : 4
-press : 4
-york : 4
+ap : 4
 by : 4
 president : 4
 travel : 4
 ban : 4
 be : 4
-you : 3
-at : 3
 war : 3
 coronavirus : 3
+as : 3
 were : 3
 some : 3
 said : 3
 total : 3
 according : 3
+times : 3
+press : 3
 are : 3
 from : 3
 trade : 3
@@ -90,28 +87,32 @@ is : 3
 this : 3
 most : 3
 china : 3
-2018 : 3
-via : 3
 over : 3
 will : 3
+york : 3
 gay : 3
-what : 2
-know : 2
-day : 2
 faced : 2
 tech : 2
 less : 2
+life : 2
+pandemic : 2
 officials : 2
 worst : 2
 school : 2
 that : 2
 they : 2
 online : 2
-juan : 2
+up : 2
+— : 2
+getty : 2
+images : 2
+joshua : 2
+topeka : 2
+world : 2
 how : 2
 united : 2
 » : 2
-3475932 : 2
+3512674 : 2
 see : 2
 hot : 2
 spots : 2
@@ -131,23 +132,24 @@ action : 2
 against : 2
 since : 2
 start : 2
+2018 : 2
 roman : 2
 pilipey/epa : 2
 shutterstock : 2
 but : 2
+may : 2
 campaign : 2
-people : 2
 plans : 2
 environmental : 2
 biden : 2
 again : 2
-professor : 2
-steven : 2
-pinker : 2
-he : 2
-has : 2
 footage : 2
 body : 2
+floyd : 2
+george : 2
+was : 2
+police : 2
+you : 2
 taxes : 2
 not : 2
 their : 2
@@ -156,12 +158,6 @@ tahini : 2
 arab : 2
 rights : 2
 company : 2
-your : 1
-wednesday : 1
-evening : 1
-briefingheres : 1
-need : 1
-end : 1
 listen : 1
 dailyshe : 1
 survived : 1
@@ -174,6 +170,14 @@ ovidejust : 1
 collect : 1
 data : 1
 period : 1
+sign : 1
+up: : 1
+homehow : 1
+live : 1
+full : 1
+cultured : 1
+during : 1
+home : 1
 rise : 1
 41 : 1
 scramble : 1
@@ -203,49 +207,56 @@ passed : 1
 35 : 1
 million : 1
 database : 1
-heres : 1
+catch : 1
 latest : 1
-abidjan : 1
-côte : 1
-divoire : 1
-issouf : 1
-sanogo/afp : 1
-bogota : 1
-colombia : 1
-barreto/afp : 1
-boston : 1
-elise : 1
-amendola/associated : 1
-sao : 1
-paulo : 1
-brazil : 1
-andre : 1
-penner/associated : 1
-sacramento : 1
-max : 1
-whittaker : 1
-chennai : 1
-india : 1
-arun : 1
-sankar/afp : 1
+detroit : 1
+david : 1
+guralnick/detroit : 1
+news : 1
+la : 1
+puente : 1
+calif : 1
+lucy : 1
+nicholson/reuters : 1
 mexico : 1
 city : 1
 pedro : 1
 pardo/afp : 1
-la : 1
-paz : 1
-bolivia : 1
-karita/associated : 1
+watkinsville : 1
+ga : 1
+l : 1
+jones/athens : 1
+banner-herald : 1
+caracas : 1
+venezuela : 1
+ariana : 1
+cubillos/associated : 1
+phoenix : 1
+ross : 1
+d : 1
+franklin/associated : 1
+kan : 1
+evert : 1
+nelson/the : 1
+capital-journal : 1
+tulsa : 1
+okla : 1
+ian : 1
+maule/tulsa : 1
+chennai : 1
+india : 1
+arun : 1
+sankar/afp : 1
 changing : 1
+day : 1
 mar : 1
 1 : 1
 july : 1
-14 : 1
+15 : 1
 7-day : 1
 average : 1
 all : 1
 around : 1
-world : 1
 reported : 1
 white : 1
 house : 1
@@ -308,7 +319,6 @@ infrastructure : 1
 reversed : 1
 economys : 1
 nose-dive : 1
-may : 1
 difficult : 1
 sustain : 1
 raising : 1
@@ -336,7 +346,6 @@ americans : 1
 politics : 1
 entertainment : 1
 shakes : 1
-up : 1
 re-election : 1
 staff : 1
 replacing : 1
@@ -349,6 +358,7 @@ into : 1
 brad : 1
 parscales : 1
 job : 1
+people : 1
 familiar : 1
 dueling : 1
 events : 1
@@ -372,38 +382,10 @@ seeking : 1
 tax : 1
 returns : 1
 lawyers : 1
-famous : 1
-harvard : 1
-became : 1
-target : 1
-tweetsthe : 1
-outcry : 1
-free : 1
-speech : 1
-race : 1
-takes : 1
-aim : 1
-best-selling : 1
-author : 1
-well-known : 1
-scholar : 1
-office : 1
-cambridge : 1
-mass : 1
-been : 1
-accused : 1
-racial : 1
-insensitivity : 1
-describes : 1
-“speech : 1
-police” : 1
-kayana : 1
-szymczak : 1
 cameras : 1
 offers : 1
 devastating : 1
 account : 1
-floyd : 1
 killingthe : 1
 newly : 1
 released : 1
@@ -413,11 +395,38 @@ seemingly : 1
 more : 1
 concerned : 1
 controlling : 1
-george : 1
 floyds : 1
 than : 1
 saving : 1
-life : 1
+outside : 1
+cup : 1
+foods : 1
+minneapolis : 1
+where : 1
+pinned : 1
+down : 1
+officer : 1
+25 : 1
+caroline : 1
+yang : 1
+famous : 1
+harvard : 1
+professor : 1
+became : 1
+target : 1
+tweetsthe : 1
+outcry : 1
+free : 1
+speech : 1
+race : 1
+takes : 1
+aim : 1
+steven : 1
+pinker : 1
+best-selling : 1
+author : 1
+well-known : 1
+scholar : 1
 black : 1
 business : 1
 owners : 1
@@ -447,13 +456,11 @@ nypd : 1
 want : 1
 punish : 1
 journaliststhe : 1
-police : 1
 departments : 1
 proposed : 1
 rules : 1
 threaten : 1
 freedom : 1
-joshua : 1
 wheelerwhen : 1
 america : 1
 bombed : 1
@@ -475,7 +482,6 @@ about : 1
 felipe : 1
 netotrump : 1
 isnt : 1
-pandemic : 1
 jessica : 1
 calarcowhat : 1
 betsy : 1
@@ -484,7 +490,6 @@ thinking : 1
 ben : 1
 s : 1
 bernankei : 1
-was : 1
 chairman : 1
 federal : 1
 reserve : 1
@@ -553,8 +558,11 @@ her : 1
 boycott : 1
 activists : 1
 controversy : 1
+has : 1
 upside : 1
 let : 1
+know : 1
+what : 1
 think : 1
 © : 1
 2020 : 1

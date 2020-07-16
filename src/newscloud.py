@@ -4,10 +4,12 @@
 #   news headlines and keywords
 
 from wordcloud import WordCloud
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
+
 
 def main():
     print("hello world!")
+
 
 if __name__ == '__main__':
     main()
