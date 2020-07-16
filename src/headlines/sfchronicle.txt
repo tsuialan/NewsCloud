@@ -106,12 +106,12 @@ Oakland A’s get unwelcome feedback from Sierra Club on... 	https://www.sfchronic
 The politically powerful Sierra Club has “serious concerns” about the Oakland A’s waterfront ballpark plan. The environmental advocacy... 	https://www.sfchronicle.com/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
 A page is turning: SF’s beloved libraries will start lending... 	https://www.sfchronicle.com/bayarea/heatherknight/article/A-page-is-turning-S-F-s-beloved-libraries-15405792.php
 Two San Francisco libraries will open for curbside pickup in early August. Why has the small reopening taken so long? Because librarians have been... 	https://www.sfchronicle.com/bayarea/heatherknight/article/A-page-is-turning-S-F-s-beloved-libraries-15405792.php
+California lawmakers look to diversify largely white, better-off juries 	https://www.sfchronicle.com/politics/article/California-lawmakers-look-to-diversify-largely-15411617.php
+Juries would be drawn from a larger pool of Californians under a bill proposed by state legislators anxious to add more people of color and low-income residents to the courtroom panels that... 	https://www.sfchronicle.com/politics/article/California-lawmakers-look-to-diversify-largely-15411617.php
 CA sues to reinstate Obama-era rule protecting student borrowers 	https://www.sfchronicle.com/politics/article/California-sues-to-reinstate-Obama-era-rule-15411295.php
-California Attorney General Xavier Becerra sued the Trump administration Wednesday, challenging a revised rule he charged would make it harder for students to get loan relief from predatory... 	https://www.sfchronicle.com/politics/article/California-sues-to-reinstate-Obama-era-rule-15411295.php
 SF’s big mail-ballot problem: Too many voters send them in late 	https://www.sfchronicle.com/politics/article/San-Francisco-s-big-mail-ballot-problem-Too-15408625.php
 Pelosi’s challenger says she’s not progressive enough 	https://www.sfchronicle.com/politics/article/Nancy-Pelosi-s-election-challenger-says-she-s-15405868.php
 Trump rescinds policy targeting foreign students 	https://www.sfchronicle.com/bayarea/article/Facing-mounting-backlash-Trump-administration-15408168.php
-Republicans drop suits against governor’s plan to send mail ballots 	https://www.sfchronicle.com/politics/article/Republicans-drop-suits-against-Gov-Newsom-s-15401908.php
 How Karen Bass — the other Californian up for VP — is... 	https://www.sfchronicle.com/politics/article/How-Karen-Bass-the-other-Californian-up-for-15398184.php
 Rep. Karen Bass has emerged as a late entrant in Joe Biden’s veepstakes. The Los Angeles congresswoman would be a different kind of pick than... 	https://www.sfchronicle.com/politics/article/How-Karen-Bass-the-other-Californian-up-for-15398184.php
 Uber to Lyft: You can’t ride with us on California’s AB5 lawsuit 	https://www.sfchronicle.com/business/article/Uber-to-Lyft-You-can-t-ride-with-us-on-15410954.php
@@ -177,12 +177,12 @@ President Trump has had a lousy week, but some of his problems, especially with 
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 
 the : 103
-to : 67
-of : 47
+to : 68
+of : 49
+and : 42
 in : 41
-and : 41
-a : 36
-for : 29
+a : 37
+for : 28
 as : 23
 bay : 21
 with : 21
@@ -192,11 +192,11 @@ coronavirus : 17
 will : 14
 pandemic : 14
 is : 13
+that : 12
 new : 12
 at : 12
 sf : 11
 what : 11
-that : 11
 when : 11
 san : 11
 california : 11
@@ -204,27 +204,27 @@ police : 11
 how : 11
 — : 10
 its : 10
-get : 10
 francisco : 9
 restaurants : 9
 has : 9
+get : 9
 oakland : 8
-it : 8
 have : 8
+by : 8
+state : 8
 county : 7
 out : 7
+it : 7
 down : 7
-by : 7
+be : 7
 can : 7
 open : 7
-state : 7
 from : 7
 are : 7
 not : 6
 into : 6
 heres : 6
 would : 6
-be : 6
 but : 6
 most : 6
 i : 6
@@ -240,12 +240,11 @@ chronicle : 5
 city : 5
 one : 5
 during : 5
-make : 5
+look : 5
 black : 5
 should : 5
 many : 5
 now : 5
-trump : 5
 sell : 4
 could : 4
 big : 4
@@ -255,6 +254,7 @@ health : 4
 surge : 4
 about : 4
 over : 4
+more : 4
 through : 4
 some : 4
 says : 4
@@ -263,7 +263,7 @@ your : 4
 blood : 4
 type : 4
 covid-19 : 4
-look : 4
+make : 4
 twitter : 4
 up : 4
 business : 4
@@ -275,6 +275,7 @@ before : 4
 sfs : 4
 restaurant : 4
 dining : 4
+trump : 4
 film : 4
 businesses : 3
 zoo : 3
@@ -293,21 +294,18 @@ two : 3
 years : 3
 right : 3
 californias : 3
-more : 3
 see : 3
 you : 3
-wednesday : 3
 public : 3
 taken : 3
 help : 3
 vallejo : 3
-attorney : 3
-he : 3
 june : 3
 know : 3
 why : 3
 risk : 3
 show : 3
+people : 3
 downtown : 3
 pay : 3
 testing : 3
@@ -331,8 +329,8 @@ alameda : 3
 early : 3
 than : 3
 interactive : 3
-plan : 3
 because : 3
+under : 3
 other : 3
 uber : 3
 info : 2
@@ -371,16 +369,19 @@ map: : 2
 subpoenas : 2
 corruption : 2
 were : 2
+wednesday : 2
+largely : 2
 sean : 2
 monterrosa : 2
+attorney : 2
 an : 2
 pickup : 2
+he : 2
 man : 2
 berkeley : 2
 find : 2
 americans : 2
 whether : 2
-people : 2
 their : 2
 whats : 2
 still : 2
@@ -453,12 +454,14 @@ wineries : 2
 photos : 2
 sierra : 2
 club : 2
+plan : 2
 libraries : 2
-rule : 2
-students : 2
-send : 2
+white : 2
+juries : 2
+californians : 2
+bill : 2
+residents : 2
 late : 2
-against : 2
 karen : 2
 bass : 2
 rep : 2
@@ -466,7 +469,6 @@ ab5 : 2
 lyft : 2
 court : 2
 drivers : 2
-under : 2
 renters : 2
 need : 2
 steps : 2
@@ -612,7 +614,6 @@ digging : 1
 agency : 1
 investigates : 1
 alleged : 1
-largely : 1
 abuse : 1
 contracts : 1
 destroyed : 1
@@ -927,29 +928,33 @@ august : 1
 small : 1
 so : 1
 librarians : 1
+lawmakers : 1
+diversify : 1
+better-off : 1
+drawn : 1
+larger : 1
+pool : 1
+proposed : 1
+legislators : 1
+anxious : 1
+add : 1
+color : 1
+low-income : 1
+courtroom : 1
+panels : 1
 ca : 1
 sues : 1
 reinstate : 1
 obama-era : 1
+rule : 1
 protecting : 1
 student : 1
 borrowers : 1
-general : 1
-xavier : 1
-becerra : 1
-sued : 1
-administration : 1
-challenging : 1
-revised : 1
-charged : 1
-harder : 1
-loan : 1
-relief : 1
-predatory : 1
 mail-ballot : 1
 problem: : 1
 too : 1
 voters : 1
+send : 1
 pelosis : 1
 challenger : 1
 shes : 1
@@ -959,12 +964,7 @@ rescinds : 1
 policy : 1
 targeting : 1
 foreign : 1
-republicans : 1
-drop : 1
-suits : 1
-governors : 1
-mail : 1
-ballots : 1
+students : 1
 californian : 1
 vp : 1
 emerged : 1
@@ -1007,7 +1007,6 @@ ordinance : 1
 eviction : 1
 ban: : 1
 landlords : 1
-californians : 1
 economic : 1
 distress : 1
 block : 1
@@ -1114,7 +1113,6 @@ engaged : 1
 web : 1
 purchase : 1
 steep : 1
-bill : 1
 guide : 1
 socially : 1
 distanced : 1
@@ -1184,7 +1182,7 @@ archives : 1
 all-out : 1
 effort : 1
 vaccinate : 1
-residents : 1
+against : 1
 1918 : 1
 spanish : 1
 flu : 1
@@ -1221,7 +1219,6 @@ advice : 1
 flag : 1
 mississippi : 1
 hometown : 1
-white : 1
 trashing : 1
 fauci : 1
 unseemly : 1
