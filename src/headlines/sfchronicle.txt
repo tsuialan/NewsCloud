@@ -110,12 +110,21 @@ Two San Francisco libraries will open for curbside pickup in early August. Why h
 California lawmakers look to diversify largely white, better-off juries 	https://www.sfchronicle.com/politics/article/California-lawmakers-look-to-diversify-largely-15411617.php
 Juries would be drawn from a larger pool of Californians under a bill proposed by state legislators anxious to add more people of color and low-income residents to the courtroom panels that... 	https://www.sfchronicle.com/politics/article/California-lawmakers-look-to-diversify-largely-15411617.php
 CA sues to reinstate Obama-era rule protecting student borrowers 	https://www.sfchronicle.com/politics/article/California-sues-to-reinstate-Obama-era-rule-15411295.php
+<<<<<<< HEAD
 SFâ€™s big mail-ballot problem: Too many voters send them in late 	https://www.sfchronicle.com/politics/article/San-Francisco-s-big-mail-ballot-problem-Too-15408625.php
 Pelosiâ€™s challenger says sheâ€™s not progressive enough 	https://www.sfchronicle.com/politics/article/Nancy-Pelosi-s-election-challenger-says-she-s-15405868.php
 Trump rescinds policy targeting foreign students 	https://www.sfchronicle.com/bayarea/article/Facing-mounting-backlash-Trump-administration-15408168.php
 How Karen Bass â€” the other Californian up for VP â€” is... 	https://www.sfchronicle.com/politics/article/How-Karen-Bass-the-other-Californian-up-for-15398184.php
 Rep. Karen Bass has emerged as a late entrant in Joe Bidenâ€™s veepstakes. The Los Angeles congresswoman would be a different kind of pick than... 	https://www.sfchronicle.com/politics/article/How-Karen-Bass-the-other-Californian-up-for-15398184.php
 Uber to Lyft: You canâ€™t ride with us on Californiaâ€™s AB5 lawsuit 	https://www.sfchronicle.com/business/article/Uber-to-Lyft-You-can-t-ride-with-us-on-15410954.php
+=======
+SF’s big mail-ballot problem: Too many voters send them in late 	https://www.sfchronicle.com/politics/article/San-Francisco-s-big-mail-ballot-problem-Too-15408625.php
+Pelosi’s challenger says she’s not progressive enough 	https://www.sfchronicle.com/politics/article/Nancy-Pelosi-s-election-challenger-says-she-s-15405868.php
+Trump rescinds policy targeting foreign students 	https://www.sfchronicle.com/bayarea/article/Facing-mounting-backlash-Trump-administration-15408168.php
+How Karen Bass — the other Californian up for VP — is... 	https://www.sfchronicle.com/politics/article/How-Karen-Bass-the-other-Californian-up-for-15398184.php
+Rep. Karen Bass has emerged as a late entrant in Joe Biden’s veepstakes. The Los Angeles congresswoman would be a different kind of pick than... 	https://www.sfchronicle.com/politics/article/How-Karen-Bass-the-other-Californian-up-for-15398184.php
+Uber to Lyft: You can’t ride with us on California’s AB5 lawsuit 	https://www.sfchronicle.com/business/article/Uber-to-Lyft-You-can-t-ride-with-us-on-15410954.php
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 Uber wants to jettison Lyft in its court battle with California over whether drivers should be classified as employees under AB5. Both Uber and Lyft want to postpone the case until after... 	https://www.sfchronicle.com/business/article/Uber-to-Lyft-You-can-t-ride-with-us-on-15410954.php
 For Bay Area plant shops, business blooms amid pandemic 	https://www.sfchronicle.com/business/article/For-Bay-Area-plant-shops-business-blooms-amid-15402213.php
 Will luxury condos sell in pandemic? SF high-rise is first big test 	https://www.sfchronicle.com/bayarea/article/Will-luxury-condos-sell-in-a-pandemic-SF-15401190.php
@@ -177,6 +186,7 @@ Willie Brown: Trump is down, but not yet out 	https://www.sfchronicle.com/bayare
 President Trump has had a lousy week, but some of his problems, especially with the Supreme Court decision on his tax returns, werenâ€™t nearly as... 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-Trump-is-down-but-not-yet-out-15400424.php
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 
+<<<<<<< HEAD
 the : 104
 to : 72
 of : 43
@@ -185,6 +195,16 @@ and : 40
 a : 39
 for : 28
 as : 24
+=======
+the : 103
+to : 68
+of : 49
+and : 42
+in : 41
+a : 37
+for : 28
+as : 23
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 bay : 21
 on : 21
 with : 21
@@ -193,8 +213,12 @@ coronavirus : 17
 is : 15
 will : 14
 pandemic : 14
+<<<<<<< HEAD
 at : 13
 san : 12
+=======
+is : 13
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 that : 12
 new : 12
 sf : 11
@@ -203,23 +227,39 @@ when : 11
 california : 11
 â€” : 11
 how : 11
+<<<<<<< HEAD
 police : 10
+=======
+— : 10
+its : 10
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 francisco : 9
 its : 9
 restaurants : 9
+<<<<<<< HEAD
+=======
+has : 9
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 get : 9
 oakland : 8
 have : 8
 by : 8
+<<<<<<< HEAD
 has : 8
 heres : 7
+=======
+state : 8
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 county : 7
 out : 7
 it : 7
 down : 7
 be : 7
 can : 7
+<<<<<<< HEAD
 state : 7
+=======
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 open : 7
 from : 7
 are : 7
@@ -257,7 +297,13 @@ big : 4
 across : 4
 health : 4
 surge : 4
+<<<<<<< HEAD
 close : 4
+=======
+about : 4
+over : 4
+more : 4
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 through : 4
 some : 4
 says : 4
@@ -266,6 +312,10 @@ your : 4
 blood : 4
 type : 4
 covid-19 : 4
+<<<<<<< HEAD
+=======
+make : 4
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 twitter : 4
 up : 4
 business : 4
@@ -276,6 +326,11 @@ before : 4
 sfs : 4
 restaurant : 4
 dining : 4
+<<<<<<< HEAD
+=======
+trump : 4
+film : 4
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 businesses : 3
 whats : 3
 zoo : 3
@@ -299,15 +354,21 @@ public : 3
 taken : 3
 help : 3
 vallejo : 3
+<<<<<<< HEAD
 an : 3
+=======
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 june : 3
 know : 3
 why : 3
 risk : 3
 show : 3
 people : 3
+<<<<<<< HEAD
 make : 3
 like : 3
+=======
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 downtown : 3
 pay : 3
 testing : 3
@@ -330,7 +391,10 @@ early : 3
 interactive : 3
 because : 3
 under : 3
+<<<<<<< HEAD
 trump : 3
+=======
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 other : 3
 uber : 3
 film : 3
@@ -375,6 +439,10 @@ largely : 2
 sean : 2
 monterrosa : 2
 attorney : 2
+<<<<<<< HEAD
+=======
+an : 2
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 pickup : 2
 he : 2
 man : 2
@@ -467,7 +535,10 @@ ab5 : 2
 lyft : 2
 court : 2
 drivers : 2
+<<<<<<< HEAD
 painful : 2
+=======
+>>>>>>> 719b4a475065b6230cee85866d5aab4fec4f6831
 renters : 2
 need : 2
 steps : 2
