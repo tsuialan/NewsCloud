@@ -1,12 +1,14 @@
 # NewsCloud
-## News Centralized and Simplified 
+### News Centralized and Simplified 
 by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/gakwong) and [@anchen31](https://github.com/anchen31)
 ### To-Do Checklist
 #### Bugs
 - refine tags for both nyt and sfc to prevent wrong headline/url and headline/excerpt 
-#### Work
-- Flask (Started)
-- Clickable HTML WordCloud (oof)
+#### In Progress
+- Flask
+- NewScrape
+#### Need to Start
+- News Cloud
 ### Setting Up
 #### If virtual environment is not set up, run: 
 MacOs: 
@@ -50,7 +52,7 @@ python -m flask run
 #### To run a command line versionn of the program, run inside src/ folder:
 MacOs: 
 ``` MAC
-make c;
+make cl
 ```
 Windows: 
 ``` WIN
