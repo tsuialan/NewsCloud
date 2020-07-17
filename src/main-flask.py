@@ -13,71 +13,32 @@ app = Flask(__name__, instance_relative_config=True,
 @app.route('/', methods=('GET', 'POST'))
 def main():
     news = ''
-    all_news = ns.main()
+
     if request.method == 'POST':
+        all_news = ns.main()
         if request.form['news'] == "nyt":
-            news = 'nyt'
+            head_url = get_head_url(all_news[0].headlines)
+        elif request.form['news'] == "sfchron":
+            head_url = get_head_url(all_news[1].headlines)
         else:
-            news = 'sfchron'
+            head_url = zip(["Not a supported news site"], ['www.google.com'])
 
-        if news == 'nyt':
-            # get list of keywords
-            l = []
-            u = []
-            temp = []
-            nyt = all_news[0]
-            #print(nyt.keywords)
-            """
-            keyword --> keyword object
-            """
-            # each headline object
-            for headline in nyt.headlines:
-                l.append(headline.headline)
-                u.append(headline.url)
-            """
-            for keyword in nyt.keywords:
-                if temp != keyword.urls:
-                    l.append(keyword.headlines)
-                    print(keyword.urls, 15)
-                    u.append(keyword.urls)
-            """
-            L = zip(l, u)
-            #print(list)
-            #for a in list:
-            #    print(a)
-
-            #list = ["test", "words"] 
-        elif news == "sfchron":
-            # get list of keywords
-            l = []
-            u = []
-            temp=[]
-            sfc = all_news[1]
-            # each headline object
-            for headline in sfc.headlines:
-                print(headline.headline)
-                print(headline.url)
-                l.append(headline.headline)
-                u.append(headline.url)
-            """
-            for keyword in sfc.keywords:
-                if temp != keyword.urls:
-                    l.append(keyword.headlines)
-                    print(keyword.urls, 15)
-                    u.append(keyword.urls)
-            """
-            L = zip(l, u)
-        else:
-            list = ["Not", "a", "supported", "news"]
-            u = ['www.google.com']
-        print(news)
-        return render_template('index.html', list=L, url=u)
+        return render_template('index.html', list=head_url)
     else:
         print("bad news")
     return render_template('index.html', list=[], url=[])
 
-def getheadurl(news):
-    return list
+"""
+Helper function to zip the headline and url together
+"""
+def get_head_url(headlines):
+    head = []
+    urls = []
+    for headline in headlines:
+        head.append(headline.headline)
+        urls.append(headline.url)
+    return zip(head, urls)
+
 
 if __name__ == "__main__":
     app.run(host='127.0.0.1', port=8000, debug=True)
