@@ -3,6 +3,8 @@
 # Description: a flask app for newscloud
 
 from flask import Flask, render_template, request, redirect, url_for
+import matplotlib.pyplot as plt
+import mpld3
 import newscloud as nc
 import newscrape as ns
 
