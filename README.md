@@ -8,7 +8,7 @@ by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/ga
 - Flask
 - NewScrape
 #### Need to Start
-- News Cloud
+- NewsCloud
 ### Setting Up
 #### If virtual environment is not set up, run: 
 MacOs: 
@@ -49,7 +49,7 @@ set FLASK_ENV=newscloud
 set FLASK_APP=main.py
 python -m flask run
 ```
-#### To run a command line versionn of the program, run inside src/ folder:
+#### To run a command line version of the program, run inside src/ folder:
 MacOs: 
 ``` MAC
 make cl
