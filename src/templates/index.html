@@ -10,7 +10,8 @@
         <input type="submit" name="news" id="news" value="sfchron" class="button" />
     </form>
     {% for item in list %}
-    <a href="https://www.google.com"> {{item}} </a> <br> {% endfor %}
+      <a href="{{item.1.0}}" target="_blank"> {{item.0.1}} {{item.0.0}}</a> <br> <br>
+    {% endfor %}
 </body>
 
 </html>

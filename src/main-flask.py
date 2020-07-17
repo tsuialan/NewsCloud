@@ -24,26 +24,50 @@ def main():
             # get list of keywords
             l = []
             u = []
+            temp = []
             nyt = all_news[0]
+            #print(nyt.keywords)
+            """
+            keyword --> keyword object
+            """
             for keyword in nyt.keywords:
-                l.append(keyword.word)
+                if temp != keyword.urls:
+                    l.append(keyword.headlines)
+                    print(keyword.urls, 15)
+                    u.append(keyword.urls)
+            list = zip(l, u)
+            print(list)
+            #print(list)
+            #for a in list:
+            #    print(a)
+
             #list = ["test", "words"]
         elif news == "sfchron":
             # get list of keywords
             l = []
             u = []
+            temp=[]
             sfc = all_news[1]
             for keyword in sfc.keywords:
-                l.append(keyword.word)
-            #list = ['test', "words", "chron"]
+                if temp != keyword.urls:
+                    l.append(keyword.headlines)
+                    print(keyword.urls, 15)
+                    u.append(keyword.urls)
+
+            list = zip(l, u)
+            print(list)
         else:
-            l = ["Not", "a", "supported", "news"]
+            list = ["Not", "a", "supported", "news"]
+            u = ['www.google.com']
         print(news)
-        return render_template('index.html', list=l, url=u)
+        return render_template('index.html', list=list, url=u)
     else:
         print("bad news")
     return render_template('index.html', list=[], url=[])
 
+def getheadurl(news):
+
+    return list
 
 if __name__ == "__main__":
     app.run(host='127.0.0.1', port=8000, debug=True)
