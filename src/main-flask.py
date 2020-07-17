@@ -30,43 +30,53 @@ def main():
             """
             keyword --> keyword object
             """
+            # each headline object
+            for headline in nyt.headlines:
+                l.append(headline.headline)
+                u.append(headline.url)
+            """
             for keyword in nyt.keywords:
                 if temp != keyword.urls:
                     l.append(keyword.headlines)
                     print(keyword.urls, 15)
                     u.append(keyword.urls)
-            list = zip(l, u)
-            print(list)
+            """
+            L = zip(l, u)
             #print(list)
             #for a in list:
             #    print(a)
 
-            #list = ["test", "words"]
+            #list = ["test", "words"] 
         elif news == "sfchron":
             # get list of keywords
             l = []
             u = []
             temp=[]
             sfc = all_news[1]
+            # each headline object
+            for headline in sfc.headlines:
+                print(headline.headline)
+                print(headline.url)
+                l.append(headline.headline)
+                u.append(headline.url)
+            """
             for keyword in sfc.keywords:
                 if temp != keyword.urls:
                     l.append(keyword.headlines)
                     print(keyword.urls, 15)
                     u.append(keyword.urls)
-
-            list = zip(l, u)
-            print(list)
+            """
+            L = zip(l, u)
         else:
             list = ["Not", "a", "supported", "news"]
             u = ['www.google.com']
         print(news)
-        return render_template('index.html', list=list, url=u)
+        return render_template('index.html', list=L, url=u)
     else:
         print("bad news")
     return render_template('index.html', list=[], url=[])
 
 def getheadurl(news):
-
     return list
 
 if __name__ == "__main__":

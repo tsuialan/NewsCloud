@@ -1,36 +1,13 @@
-<<<<<<< HEAD
-Your Thursday Evening BriefingHereís what you need to know at the end of the day. 	https://www.nytimes.com/2020/07/16/briefing/Twitter-Russia-Comet-NEOWISE.html
-Listen to ëThe DailyíRevisiting a restaurant in Louisiana. 	https://www.nytimes.com/2020/07/16/podcasts/the-daily/restaurant-reopening-louisiana.html
-A Conversation on the ElectionTimes reporters host a discussion with Juli·n Castro at 5 p.m. Eastern. 	https://www.nytimes.com/2020/07/14/us/politics/2020-political-conventions.html
-Russia Is Trying to Steal Virus Vaccine Data, Western Nations SayA hacking group has been targeting British, Canadian and American organizations racing to create coronavirus vaccines.The group, which is associated with Russian intelligence, was also implicated in the break-ins into Democratic Party servers in 2016. 	https://www.nytimes.com/2020/07/16/us/politics/vaccine-hacking-russia.html
-Private Schools Are Reopening. Public Schools in the Same Towns Are Not.Private schools have always had more flexibility, and usually more money, but never has that disparity made a bigger difference than now. 	https://www.nytimes.com/2020/07/16/upshot/coronavirus-school-reopening-private-public-gap.html
-See which treatments show the most promise 	https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html
-London Pool photo by Peter Cziborra Barcelona Enric Fontcuberta/EPA, via Shutterstock Ahmedabad, India Ajit Solanki/Associated Press Manchester, England Pool photo by Martin Rickett Mumbai, India Punit Paranjpe/AFP ó Getty Images Wilmington, Del. Patrick Semansky/Associated Press Paris Anne-Christine Poujoulat/AFP ó Getty Images Caracas, Venezuela Ariana Cubillos/Associated Press 	https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html
-New Reported Cases in the U.S. 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-See the U.S. hot spots 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-Virus Updates: Two-Thirds of New Cases Are From Four CountriesA majority of the 230,000 new infections reported worldwide on Wednesday came from the United States, Brazil, India and South Africa. Hereís the latest. 	https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html
-Mask Rules Expand Across U.S. as Clashes Over the Mandates IntensifyWith infections surging, Americans continue to wrestle over one of the simplest methods for stopping the virus: wearing masks. 	https://www.nytimes.com/2020/07/16/us/coronavirus-masks.html
-Face masks on display in the window of a custom clothing print shop in Atlanta. Dustin Chambers for The New York Times 	https://www.nytimes.com/2020/07/16/us/coronavirus-masks.html
-How a Struggling Company Won $1.6 Billion to Make a Coronavirus VaccineNovavax has received the Trump administrationís largest vaccine contract. In the companyís 33-year history, it has never brought a vaccine to market. 	https://www.nytimes.com/2020/07/16/health/coronavirus-vaccine-novavax.html
-USA Today said a scathing opinion essay by a Trump aide attacking Dr. Anthony Fauci fell short of its standards. 	https://www.nytimes.com/2020/07/16/business/media/usa-today-peter-navarro-fauci.html
-Tracking the Coronavirus õ 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-U.S. hot spots õ 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-A Club of G.O.P. Political Heirs Push Back on TrumpMitt Romney, Larry Hogan and Liz Cheney ó descendants of sometimes rebellious or resolute Republicans of the past ó are dissenting voices on President Trump. 	https://www.nytimes.com/2020/07/16/us/politics/trump-republicans.html
-ìIíve learned that if you donít follow your conscience, it haunts you for a long, long time,î Senator Mitt Romney said. ìAt this stage in life, Iím not going to do that anymore.î Erin Schaff/The New York Times 	https://www.nytimes.com/2020/07/16/us/politics/trump-republicans.html
-What the Twitter Hack Revealed: An Election System Teeming With RisksThe hack, which targeted Joe Biden, Barack Obama and others, served as a warning ahead of the November election. 	https://www.nytimes.com/2020/07/16/us/politics/twitter-hack.html
-LIVEElection updates: Democratic officials told members of Congress and party delegates to skip their national convention. 	https://www.nytimes.com/2020/07/16/us/elections/biden-vs-trump.html
-ìIíve learned that if you donít follow your conscience, it haunts you for a long, long time,î Senator Mitt Romney said. ìAt this stage in life, Iím not going to do that anymore.î Erin Schaff/The New York Times 	https://www.nytimes.com/2020/07/16/us/politics/trump-republicans.html
-=======
-Your Thursday Evening BriefingHere‚Äôs what you need to know at the end of the day. 	https://www.nytimes.com/2020/07/16/briefing/Twitter-Russia-Comet-NEOWISE.html
 Listen to ‚ÄòThe Daily‚ÄôRevisiting a restaurant in Louisiana. 	https://www.nytimes.com/2020/07/16/podcasts/the-daily/restaurant-reopening-louisiana.html
-A Conversation on the ElectionTimes reporters host a discussion with Juli√°n Castro at 5 p.m. Eastern. 	https://www.nytimes.com/2020/07/14/us/politics/2020-political-conventions.html
-Russia Is Trying to Steal Virus Vaccine Data, Western Nations SayA hacking group has been targeting British, Canadian and American organizations racing to create coronavirus vaccines.The group, which is associated with Russian intelligence, was also implicated in the break-ins into Democratic Party servers in 2016. 	https://www.nytimes.com/2020/07/16/us/politics/vaccine-hacking-russia.html
-Private Schools Are Reopening. Public Schools in the Same Towns Are Not.Private schools have always had more flexibility, and usually more money, but never has that disparity made a bigger difference than now. 	https://www.nytimes.com/2020/07/16/upshot/coronavirus-school-reopening-private-public-gap.html
+A Conversation on the ElectionTimes reporters hosted a discussion on Thursday with Juli√°n Castro. 	https://www.nytimes.com/2020/07/14/us/politics/2020-political-conventions.html
+Listen to ‚ÄòThe Argument‚ÄôOpinion columnists check in with Senator Tammy Duckworth. 	https://www.nytimes.com/2020/07/16/opinion/the-argument-tammy-duckworth.html
+U.S. Shatters Single-Day Virus Record; India Surpasses 1 Million CasesDaily cases in the U.S. reached more than 75,000, according to a Times database. This was the 11th time in the past month that the record had been broken.India ranks third in the world for infections and several states and cities there reimposed lockdowns. Catch up on the latest. 	https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html
 See which treatments show the most promise 	https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html
-London Pool photo by Peter Cziborra Barcelona Enric Fontcuberta/EPA, via Shutterstock Ahmedabad, India Ajit Solanki/Associated Press Manchester, England Pool photo by Martin Rickett Mumbai, India Punit Paranjpe/AFP ‚Äî Getty Images Wilmington, Del. Patrick Semansky/Associated Press Paris Anne-Christine Poujoulat/AFP ‚Äî Getty Images Caracas, Venezuela Ariana Cubillos/Associated Press 	https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html
+Boerne, Texas Christopher Lee for The New York Times Burgaw, N.C. Jeremy M. Lange for The New York Times Rio de Janeiro Luis Alvarenga/Getty Images Majorca, Spain Jaime Reina/AFP‚Äî Getty Images Mexico City Alfredo Estrella/AFP ‚Äî Getty Images Guayaquil, Ecuador Jose Sanchez Lindao/AFP ‚Äî Getty Images Los Angeles Frederic J. Brown/AFP‚Äî Getty Images Burbank, Calif. Bryan Denton for The New York Times Phillipi, W.Va. Kristian Thacker for The New York Times 	https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html
 New Reported Cases in the U.S. 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 See the U.S. hot spots 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-Virus Updates: Two-Thirds of New Cases Are From Four CountriesA majority of the 230,000 new infections reported worldwide on Wednesday came from the United States, Brazil, India and South Africa. Here‚Äôs the latest. 	https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html
+Russia Is Trying to Steal Virus Vaccine Data, Western Nations SayHackers have been targeting British, Canadian and American organizations racing to create coronavirus vaccines. 	https://www.nytimes.com/2020/07/16/us/politics/vaccine-hacking-russia.html
+Private Schools Are Reopening. Public Schools in the Same Towns Are Not.Private schools have always had more flexibility, and usually more money, but never has that disparity made a bigger difference than now. 	https://www.nytimes.com/2020/07/16/upshot/coronavirus-school-reopening-private-public-gap.html
 Mask Rules Expand Across U.S. as Clashes Over the Mandates IntensifyWith infections surging, Americans continue to wrestle over one of the simplest methods for stopping the virus: wearing masks. 	https://www.nytimes.com/2020/07/16/us/coronavirus-masks.html
 Face masks on display in the window of a custom clothing print shop in Atlanta. Dustin Chambers for The New York Times 	https://www.nytimes.com/2020/07/16/us/coronavirus-masks.html
 How a Struggling Company Won $1.6 Billion to Make a Coronavirus VaccineNovavax has received the Trump administration‚Äôs largest vaccine contract. In the company‚Äôs 33-year history, it has never brought a vaccine to market. 	https://www.nytimes.com/2020/07/16/health/coronavirus-vaccine-novavax.html
@@ -38,36 +15,10 @@ USA Today said a scathing opinion essay by a Trump aide attacking Dr. Anthony Fa
 Tracking the Coronavirus ‚Ä∫ 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 U.S. hot spots ‚Ä∫ 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 A Club of G.O.P. Political Heirs Push Back on TrumpMitt Romney, Larry Hogan and Liz Cheney ‚Äî descendants of sometimes rebellious or resolute Republicans of the past ‚Äî are dissenting voices on President Trump. 	https://www.nytimes.com/2020/07/16/us/politics/trump-republicans.html
+Democratic officials told members of Congress and party delegates to skip their national convention. 	https://www.nytimes.com/2020/07/16/us/politics/democratic-convention-milwaukee.html
 ‚ÄúI‚Äôve learned that if you don‚Äôt follow your conscience, it haunts you for a long, long time,‚Äù Senator Mitt Romney said. ‚ÄúAt this stage in life, I‚Äôm not going to do that anymore.‚Äù Erin Schaff/The New York Times 	https://www.nytimes.com/2020/07/16/us/politics/trump-republicans.html
 What the Twitter Hack Revealed: An Election System Teeming With RisksThe hack, which targeted Joe Biden, Barack Obama and others, served as a warning ahead of the November election. 	https://www.nytimes.com/2020/07/16/us/politics/twitter-hack.html
-LIVEElection updates: Democratic officials told members of Congress and party delegates to skip their national convention. 	https://www.nytimes.com/2020/07/16/us/elections/biden-vs-trump.html
-‚ÄúI‚Äôve learned that if you don‚Äôt follow your conscience, it haunts you for a long, long time,‚Äù Senator Mitt Romney said. ‚ÄúAt this stage in life, I‚Äôm not going to do that anymore.‚Äù Erin Schaff/The New York Times 	https://www.nytimes.com/2020/07/16/us/politics/trump-republicans.html
->>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
-Consumers Came Back in June, but for How Long?Retail sales increased 7.5 percent, but there are ominous signs that the rebound may fizzle as virus cases rise in much of the country. 	https://www.nytimes.com/2020/07/16/business/june-retail-sales.html
-The average rate on a 30-year fixed mortgage fell below 3 percent for the first time. 	https://www.nytimes.com/2020/07/16/business/mortgage-rates-below-3-percent.html
-LIVEBusiness updates: Netflix appointed Ted Sarandos as its co-chief executive. 	https://www.nytimes.com/live/2020/07/16/business/stock-market-today-coronavirus
-The Great ReadColin Powell Still Wants AnswersIn 2003, he made the case for invading Iraq to halt its weapons programs. Analysts who provided the intelligence now say it was doubted inside the C.I.A. 	https://www.nytimes.com/2020/07/16/magazine/colin-powell-iraq-war.html
-<<<<<<< HEAD
-Colin Powell in Virginia this month. ëëI knew I didnít have any choice,íí he said. ëëHeís the president.íí Gabriella Demczuk for The New York Times 	https://www.nytimes.com/2020/07/16/magazine/colin-powell-iraq-war.html
-Southern Iraqís Toxic TwilightIraq burns more gas from its oil wells than any other country except Russia, enough to power 3 million homes. But itís making people sick. 	https://www.nytimes.com/2020/07/16/world/middleeast/iraq-gas-flaring-cancer-environment.html
-The village of Nahran Omar at night. 	https://www.nytimes.com/2020/07/16/world/middleeast/iraq-gas-flaring-cancer-environment.html
-Nicholas KristofWe Interrupt This Gloom to Offer Ö HopeYes, America is suffering needlessly. That may save us. 	https://www.nytimes.com/2020/07/16/opinion/sunday/coronavirus-blm-america-hope.html
-Paul KrugmanThe Next Disaster Is Just a Few Days AwayMillions of unemployed Americans face imminent catastrophe. 	https://www.nytimes.com/2020/07/16/opinion/coronavirus-economy-unemployment.html
-David BrooksPresident Bidenís First Day 	https://www.nytimes.com/2020/07/16/opinion/biden-2020.html
-Gail CollinsWho Can Make Trump Miserable This Fall? 	https://www.nytimes.com/2020/07/15/opinion/trump-sessions-senate.html
-David HughesDonít Defund the Police. Re-Fund Them, Smarter. 	https://www.nytimes.com/2020/07/16/opinion/police-funding-defund.html
-Joshua WheelerItís Been 75 Years, and America Still Wonít Admit a Nuclear Disaster 	https://www.nytimes.com/2020/07/15/opinion/75-anniversary-trinity-nuclear-testing.html
-Testing Is on the Brink of Paralysis. Thatís Very Bad News. 	https://www.nytimes.com/2020/07/16/opinion/coronavirus-testing-us.html
-Mohammed HanifWhatís With All the Covid-Death Shaming? 	https://www.nytimes.com/2020/07/16/opinion/coronavirus-pakistan-death.html
-Linda GreenhouseThe Many Dimensions of the Chief Justiceís Triumphant Term 	https://www.nytimes.com/2020/07/16/opinion/supreme-court-roberts-religion.html
-Ian Prasad PhilbrickWhy Does America Have Old Leaders? 	https://www.nytimes.com/2020/07/16/opinion/america-presidents-old-age.html
-Ian JohnsonI Was Kicked Out of China. The Trump Administration Is Why. 	https://www.nytimes.com/2020/07/16/opinion/sunday/china-us-cold-war.html
-Adam Dean for The New York Times 	https://www.nytimes.com/2020/07/16/world/asia/coronavirus-thailand-photos.html
-No One Knows What Thailand Is Doing Right, but So Far, Itís WorkingCan the countryís low rate of Covid-19 infections be attributed to culture? Genetics? Face masks? Or a combination of all three? 	https://www.nytimes.com/2020/07/16/world/asia/coronavirus-thailand-photos.html
-Vacationing in the Summer of Covid-19Traveling during a pandemic requires research, planning and a willingness to play by new rules. For these writers, it still felt good to get away. 	https://www.nytimes.com/2020/07/16/travel/virus-vacation.html
-Theater Looks for Parallels in Stories of Ancient PlaguesEfforts like ìThe Oedipus Project,î a reading with Oscar Isaac, have turned to stage depictions of mass illness as a means of understanding the present. 	https://www.nytimes.com/2020/07/15/theater/oedipus-the-king-plague-covid.html
-=======
-Colin Powell in Virginia this month. ‚Äò‚ÄòI knew I didn‚Äôt have any choice,‚Äô‚Äô he said. ‚Äò‚ÄòHe‚Äôs the president.‚Äô‚Äô Gabriella Demczuk for The New York Times 	https://www.nytimes.com/2020/07/16/magazine/colin-powell-iraq-war.html
+Twitter struggled to answer even some basic questions about the hack, which came from within the company. 	https://www.nytimes.com/2020/07/16/technology/twitter-hack-investigation.html
 Southern Iraq‚Äôs Toxic TwilightIraq burns more gas from its oil wells than any other country except Russia, enough to power 3 million homes. But it‚Äôs making people sick. 	https://www.nytimes.com/2020/07/16/world/middleeast/iraq-gas-flaring-cancer-environment.html
 The village of Nahran Omar at night. 	https://www.nytimes.com/2020/07/16/world/middleeast/iraq-gas-flaring-cancer-environment.html
 Nicholas KristofWe Interrupt This Gloom to Offer ‚Ä¶ HopeYes, America is suffering needlessly. That may save us. 	https://www.nytimes.com/2020/07/16/opinion/sunday/coronavirus-blm-america-hope.html
@@ -85,183 +36,179 @@ Adam Dean for The New York Times 	https://www.nytimes.com/2020/07/16/world/asia/
 No One Knows What Thailand Is Doing Right, but So Far, It‚Äôs WorkingCan the country‚Äôs low rate of Covid-19 infections be attributed to culture? Genetics? Face masks? Or a combination of all three? 	https://www.nytimes.com/2020/07/16/world/asia/coronavirus-thailand-photos.html
 Vacationing in the Summer of Covid-19Traveling during a pandemic requires research, planning and a willingness to play by new rules. For these writers, it still felt good to get away. 	https://www.nytimes.com/2020/07/16/travel/virus-vacation.html
 Theater Looks for Parallels in Stories of Ancient PlaguesEfforts like ‚ÄúThe Oedipus Project,‚Äù a reading with Oscar Isaac, have turned to stage depictions of mass illness as a means of understanding the present. 	https://www.nytimes.com/2020/07/15/theater/oedipus-the-king-plague-covid.html
->>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 Let us know what you think 	http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l
-© 2020 The New York Times Company 	https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
+¬© 2020 The New York Times Company 	https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
 
-the : 44
-of : 23
-a : 22
+the : 41
+a : 21
+of : 19
 to : 17
-in : 15
+in : 13
 for : 11
 new : 10
-and : 8
+times : 9
+and : 9
+us : 8
+york : 8
 on : 7
-is : 7
-that : 7
-you : 6
-us : 6
-york : 6
-times : 6
-its : 6
+is : 6
 with : 5
-are : 5
-but : 5
-as : 5
+that : 5
+images : 5
 trump : 5
-it : 5
-this : 5
-what : 4
-has : 4
-have : 4
-by : 4
-<<<<<<< HEAD
-ó : 4
-=======
+more : 4
+this : 4
+getty : 4
 ‚Äî : 4
->>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
-said : 4
-long : 4
-your : 3
-at : 3
-virus : 3
+have : 4
+its : 4
+than : 3
+been : 3
+infections : 3
+which : 3
 vaccine : 3
 coronavirus : 3
-which : 3
-was : 3
 schools : 3
-more : 3
-india : 3
-press : 3
-cases : 3
-updates: : 3
-from : 3
-infections : 3
+are : 3
+but : 3
+has : 3
+as : 3
 masks : 3
 face : 3
-romney : 3
-stage : 3
-still : 3
+company : 3
+it : 3
+you : 3
+what : 3
+hack : 3
 america : 3
-know : 2
-day : 2
-russia : 2
-group : 2
-been : 2
-intelligence : 2
-democratic : 2
-party : 2
-never : 2
-made : 2
-than : 2
-now : 2
+listen : 2
+senator : 2
+virus : 2
+million : 2
+cases : 2
+was : 2
+past : 2
+had : 2
 see : 2
-pool : 2
-photo : 2
-getty : 2
-images : 2
-reported : 2
 hot : 2
 spots : 2
-came : 2
+russia : 2
+never : 2
 rules : 2
 over : 2
 americans : 2
 one : 2
-how : 2
-company : 2
 make : 2
-fell : 2
-<<<<<<< HEAD
-õ : 2
-back : 2
-or : 2
-president : 2
-ìive : 2
-=======
+said : 2
+by : 2
 ‚Ä∫ : 2
-back : 2
+romney : 2
 or : 2
-president : 2
-‚Äúive : 2
->>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
-learned : 2
-if : 2
-dont : 2
-follow : 2
-conscience : 2
-haunts : 2
-<<<<<<< HEAD
-timeî : 2
-senator : 2
-mitt : 2
-ìat : 2
-=======
-time‚Äù : 2
-senator : 2
-mitt : 2
-‚Äúat : 2
->>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
-life : 2
-im : 2
-not : 2
-going : 2
-do : 2
-<<<<<<< HEAD
-anymoreî : 2
-=======
-anymore‚Äù : 2
->>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
-erin : 2
-schaff/the : 2
-hack : 2
+long : 2
+stage : 2
+twitter : 2
 election : 2
-75 : 2
-percent : 2
-may : 2
-country : 2
-rate : 2
-3 : 2
-first : 2
-powell : 2
-he : 2
-i : 2
-any : 2
+from : 2
 disaster : 2
 david : 2
+still : 2
 all : 2
 ian : 2
-thursday : 1
-evening : 1
-briefingheres : 1
-need : 1
-end : 1
-listen : 1
 dailyrevisiting : 1
 restaurant : 1
 louisiana : 1
 conversation : 1
 electiontimes : 1
 reporters : 1
-host : 1
+hosted : 1
 discussion : 1
-<<<<<<< HEAD
-juli·n : 1
-=======
+thursday : 1
 juli√°n : 1
->>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 castro : 1
-5 : 1
-pm : 1
-eastern : 1
+argumentopinion : 1
+columnists : 1
+check : 1
+tammy : 1
+duckworth : 1
+shatters : 1
+single-day : 1
+record; : 1
+india : 1
+surpasses : 1
+1 : 1
+casesdaily : 1
+reached : 1
+75000 : 1
+according : 1
+database : 1
+11th : 1
+time : 1
+month : 1
+record : 1
+brokenindia : 1
+ranks : 1
+third : 1
+world : 1
+several : 1
+states : 1
+cities : 1
+there : 1
+reimposed : 1
+lockdowns : 1
+catch : 1
+up : 1
+latest : 1
+treatments : 1
+show : 1
+most : 1
+promise : 1
+boerne : 1
+texas : 1
+christopher : 1
+lee : 1
+burgaw : 1
+nc : 1
+jeremy : 1
+m : 1
+lange : 1
+rio : 1
+de : 1
+janeiro : 1
+luis : 1
+alvarenga/getty : 1
+majorca : 1
+spain : 1
+jaime : 1
+reina/afp‚Äî : 1
+mexico : 1
+city : 1
+alfredo : 1
+estrella/afp : 1
+guayaquil : 1
+ecuador : 1
+jose : 1
+sanchez : 1
+lindao/afp : 1
+los : 1
+angeles : 1
+frederic : 1
+j : 1
+brown/afp‚Äî : 1
+burbank : 1
+calif : 1
+bryan : 1
+denton : 1
+phillipi : 1
+wva : 1
+kristian : 1
+thacker : 1
+reported : 1
 trying : 1
 steal : 1
 data : 1
 western : 1
 nations : 1
-saya : 1
-hacking : 1
+sayhackers : 1
 targeting : 1
 british : 1
 canadian : 1
@@ -269,15 +216,7 @@ american : 1
 organizations : 1
 racing : 1
 create : 1
-vaccinesthe : 1
-associated : 1
-russian : 1
-also : 1
-implicated : 1
-break-ins : 1
-into : 1
-servers : 1
-2016 : 1
+vaccines : 1
 private : 1
 reopening : 1
 public : 1
@@ -285,60 +224,14 @@ same : 1
 towns : 1
 notprivate : 1
 always : 1
-had : 1
 flexibility : 1
 usually : 1
 money : 1
 disparity : 1
+made : 1
 bigger : 1
 difference : 1
-treatments : 1
-show : 1
-most : 1
-promise : 1
-london : 1
-peter : 1
-cziborra : 1
-barcelona : 1
-enric : 1
-fontcuberta/epa : 1
-via : 1
-shutterstock : 1
-ahmedabad : 1
-ajit : 1
-solanki/associated : 1
-manchester : 1
-england : 1
-martin : 1
-rickett : 1
-mumbai : 1
-punit : 1
-paranjpe/afp : 1
-wilmington : 1
-del : 1
-patrick : 1
-semansky/associated : 1
-paris : 1
-anne-christine : 1
-poujoulat/afp : 1
-caracas : 1
-venezuela : 1
-ariana : 1
-cubillos/associated : 1
-two-thirds : 1
-four : 1
-countriesa : 1
-majority : 1
-230000 : 1
-worldwide : 1
-wednesday : 1
-united : 1
-states : 1
-brazil : 1
-south : 1
-africa : 1
-heres : 1
-latest : 1
+now : 1
 mask : 1
 expand : 1
 across : 1
@@ -362,6 +255,7 @@ shop : 1
 atlanta : 1
 dustin : 1
 chambers : 1
+how : 1
 struggling : 1
 won : 1
 $16 : 1
@@ -386,6 +280,7 @@ attacking : 1
 dr : 1
 anthony : 1
 fauci : 1
+fell : 1
 short : 1
 standards : 1
 tracking : 1
@@ -394,6 +289,7 @@ gop : 1
 political : 1
 heirs : 1
 push : 1
+back : 1
 trumpmitt : 1
 larry : 1
 hogan : 1
@@ -404,10 +300,39 @@ sometimes : 1
 rebellious : 1
 resolute : 1
 republicans : 1
-past : 1
 dissenting : 1
 voices : 1
-twitter : 1
+president : 1
+democratic : 1
+officials : 1
+told : 1
+members : 1
+congress : 1
+party : 1
+delegates : 1
+skip : 1
+their : 1
+national : 1
+convention : 1
+‚Äúive : 1
+learned : 1
+if : 1
+dont : 1
+follow : 1
+your : 1
+conscience : 1
+haunts : 1
+time‚Äù : 1
+mitt : 1
+‚Äúat : 1
+life : 1
+im : 1
+not : 1
+going : 1
+do : 1
+anymore‚Äù : 1
+erin : 1
+schaff/the : 1
 revealed: : 1
 an : 1
 system : 1
@@ -423,68 +348,15 @@ served : 1
 warning : 1
 ahead : 1
 november : 1
-liveelection : 1
-officials : 1
-told : 1
-members : 1
-congress : 1
-delegates : 1
-skip : 1
-their : 1
-national : 1
-convention : 1
-consumers : 1
-june : 1
-longretail : 1
-sales : 1
-increased : 1
-there : 1
-ominous : 1
-signs : 1
-rebound : 1
-fizzle : 1
-rise : 1
-much : 1
-average : 1
-30-year : 1
-fixed : 1
-mortgage : 1
-below : 1
-time : 1
-livebusiness : 1
-netflix : 1
-appointed : 1
-ted : 1
-sarandos : 1
-co-chief : 1
-executive : 1
-great : 1
-readcolin : 1
-wants : 1
-answersin : 1
-2003 : 1
-case : 1
-invading : 1
-iraq : 1
-halt : 1
-weapons : 1
-programs : 1
-analysts : 1
-who : 1
-provided : 1
-say : 1
-doubted : 1
-inside : 1
-cia : 1
-colin : 1
-virginia : 1
-month : 1
-knew : 1
-didnt : 1
-choice : 1
-hes : 1
-gabriella : 1
-demczuk : 1
+struggled : 1
+answer : 1
+even : 1
+some : 1
+basic : 1
+questions : 1
+about : 1
+came : 1
+within : 1
 southern : 1
 iraqs : 1
 toxic : 1
@@ -493,11 +365,13 @@ burns : 1
 gas : 1
 oil : 1
 wells : 1
+any : 1
 other : 1
+country : 1
 except : 1
 enough : 1
 power : 1
-million : 1
+3 : 1
 homes : 1
 making : 1
 people : 1
@@ -505,20 +379,18 @@ sick : 1
 village : 1
 nahran : 1
 omar : 1
+at : 1
 night : 1
 nicholas : 1
 kristofwe : 1
 interrupt : 1
 gloom : 1
 offer : 1
-<<<<<<< HEAD
-Ö : 1
-=======
 ‚Ä¶ : 1
->>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 hopeyes : 1
 suffering : 1
 needlessly : 1
+may : 1
 save : 1
 paul : 1
 krugmanthe : 1
@@ -532,6 +404,8 @@ imminent : 1
 catastrophe : 1
 brookspresident : 1
 bidens : 1
+first : 1
+day : 1
 gail : 1
 collinswho : 1
 can : 1
@@ -545,6 +419,7 @@ them : 1
 smarter : 1
 joshua : 1
 wheelerits : 1
+75 : 1
 years : 1
 wont : 1
 admit : 1
@@ -591,6 +466,7 @@ far : 1
 workingcan : 1
 countrys : 1
 low : 1
+rate : 1
 covid-19 : 1
 be : 1
 attributed : 1
@@ -621,15 +497,9 @@ stories : 1
 ancient : 1
 plaguesefforts : 1
 like : 1
-<<<<<<< HEAD
-ìthe : 1
-oedipus : 1
-projectî : 1
-=======
 ‚Äúthe : 1
 oedipus : 1
 project‚Äù : 1
->>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 reading : 1
 oscar : 1
 isaac : 1
@@ -641,6 +511,7 @@ means : 1
 understanding : 1
 present : 1
 let : 1
+know : 1
 think : 1
-© : 1
+¬© : 1
 2020 : 1

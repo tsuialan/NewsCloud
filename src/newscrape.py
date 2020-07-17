@@ -21,6 +21,8 @@ NEWS (object)
 
 """ CLASS FUNCTIONS AND DEFINITIONS """
 # news headline objects
+
+
 class News:
     def __init__(self, paper):
         self.paper = paper
@@ -107,9 +109,16 @@ class Keyword:
     def addurl(self, url):
         self.urls.append(url)
 
+# headline object
+class Headline:
+    def __init__(self, h, u):
+        self.headline = h
+        self.url = u
 
 """ WEBSCRAPING FUNCTIONS """
 # https://www.sfchronicle.com/
+
+
 def sfscrape():
     # scrapes sf chronicle
     r1 = requests.get('https://www.sfchronicle.com/')
@@ -135,7 +144,8 @@ def sfscrape():
         hl = ""
         for word in headlines:
             hl += word + " "
-        sfc.addHeadline(hl)
+        H = Headline(hl, hurl)
+        sfc.addHeadline(H)
         # skip single word 'headlines'
         if (len(headlines) <= 3):
             continue
@@ -155,6 +165,8 @@ def sfscrape():
     return sfc
 
 # https://www.nytimes.com/
+
+
 def nytscrape():
     # scrapes new york times
     r1 = requests.get('https://www.nytimes.com/')
@@ -174,10 +186,6 @@ def nytscrape():
     for headlines in bs_nyt:
         # reformats the headline, take out spaces
         headline = headlines.getText().split()
-        hl = ""
-        for word in headline:
-            hl += word + " "
-        nyt.addHeadline(hl)
         # ignore 'headlines' if too short, takes out dumb things
         if (len(headline) <= 3):
             continue
@@ -190,6 +198,15 @@ def nytscrape():
         if ('https://' not in hurl):
             base = 'https://www.nytimes.com/'
             hurl = urljoin(base, hurl)
+        # create headline object for news object
+        hl = ""
+        for word in headline:
+            hl += word + " "
+        H = Headline(hl, hurl)
+        print("{EENINASDKNLJALDKSJKLSPENINS")
+        print(H.headline)
+        print(H.url)
+        nyt.addHeadline(H)
         # get keywords
         nyt.genkeywords(headline, hurl)
         # reformats hl text
@@ -207,6 +224,8 @@ def nytscrape():
 
 
 """ MAIN FUNCTION """
+
+
 def main():
     # calling webscraping scripts
     print("[*] Starting New York Times ... ")
