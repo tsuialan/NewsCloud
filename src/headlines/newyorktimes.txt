@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Your Thursday Evening BriefingHere’s what you need to know at the end of the day. 	https://www.nytimes.com/2020/07/16/briefing/Twitter-Russia-Comet-NEOWISE.html
 Listen to ‘The Daily’Revisiting a restaurant in Louisiana. 	https://www.nytimes.com/2020/07/16/podcasts/the-daily/restaurant-reopening-louisiana.html
 A Conversation on the ElectionTimes reporters host a discussion with Julián Castro at 5 p.m. Eastern. 	https://www.nytimes.com/2020/07/14/us/politics/2020-political-conventions.html
@@ -19,10 +20,34 @@ A Club of G.O.P. Political Heirs Push Back on TrumpMitt Romney, Larry Hogan and 
 What the Twitter Hack Revealed: An Election System Teeming With RisksThe hack, which targeted Joe Biden, Barack Obama and others, served as a warning ahead of the November election. 	https://www.nytimes.com/2020/07/16/us/politics/twitter-hack.html
 LIVEElection updates: Democratic officials told members of Congress and party delegates to skip their national convention. 	https://www.nytimes.com/2020/07/16/us/elections/biden-vs-trump.html
 “I’ve learned that if you don’t follow your conscience, it haunts you for a long, long time,” Senator Mitt Romney said. “At this stage in life, I’m not going to do that anymore.” Erin Schaff/The New York Times 	https://www.nytimes.com/2020/07/16/us/politics/trump-republicans.html
+=======
+Your Thursday Evening BriefingHereâ€™s what you need to know at the end of the day. 	https://www.nytimes.com/2020/07/16/briefing/Twitter-Russia-Comet-NEOWISE.html
+Listen to â€˜The Dailyâ€™Revisiting a restaurant in Louisiana. 	https://www.nytimes.com/2020/07/16/podcasts/the-daily/restaurant-reopening-louisiana.html
+A Conversation on the ElectionTimes reporters host a discussion with JuliÃ¡n Castro at 5 p.m. Eastern. 	https://www.nytimes.com/2020/07/14/us/politics/2020-political-conventions.html
+Russia Is Trying to Steal Virus Vaccine Data, Western Nations SayA hacking group has been targeting British, Canadian and American organizations racing to create coronavirus vaccines.The group, which is associated with Russian intelligence, was also implicated in the break-ins into Democratic Party servers in 2016. 	https://www.nytimes.com/2020/07/16/us/politics/vaccine-hacking-russia.html
+Private Schools Are Reopening. Public Schools in the Same Towns Are Not.Private schools have always had more flexibility, and usually more money, but never has that disparity made a bigger difference than now. 	https://www.nytimes.com/2020/07/16/upshot/coronavirus-school-reopening-private-public-gap.html
+See which treatments show the most promise 	https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html
+London Pool photo by Peter Cziborra Barcelona Enric Fontcuberta/EPA, via Shutterstock Ahmedabad, India Ajit Solanki/Associated Press Manchester, England Pool photo by Martin Rickett Mumbai, India Punit Paranjpe/AFP â€” Getty Images Wilmington, Del. Patrick Semansky/Associated Press Paris Anne-Christine Poujoulat/AFP â€” Getty Images Caracas, Venezuela Ariana Cubillos/Associated Press 	https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html
+New Reported Cases in the U.S. 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+See the U.S. hot spots 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+Virus Updates: Two-Thirds of New Cases Are From Four CountriesA majority of the 230,000 new infections reported worldwide on Wednesday came from the United States, Brazil, India and South Africa. Hereâ€™s the latest. 	https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html
+Mask Rules Expand Across U.S. as Clashes Over the Mandates IntensifyWith infections surging, Americans continue to wrestle over one of the simplest methods for stopping the virus: wearing masks. 	https://www.nytimes.com/2020/07/16/us/coronavirus-masks.html
+Face masks on display in the window of a custom clothing print shop in Atlanta. Dustin Chambers for The New York Times 	https://www.nytimes.com/2020/07/16/us/coronavirus-masks.html
+How a Struggling Company Won $1.6 Billion to Make a Coronavirus VaccineNovavax has received the Trump administrationâ€™s largest vaccine contract. In the companyâ€™s 33-year history, it has never brought a vaccine to market. 	https://www.nytimes.com/2020/07/16/health/coronavirus-vaccine-novavax.html
+USA Today said a scathing opinion essay by a Trump aide attacking Dr. Anthony Fauci fell short of its standards. 	https://www.nytimes.com/2020/07/16/business/media/usa-today-peter-navarro-fauci.html
+Tracking the Coronavirus â€º 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+U.S. hot spots â€º 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+A Club of G.O.P. Political Heirs Push Back on TrumpMitt Romney, Larry Hogan and Liz Cheney â€” descendants of sometimes rebellious or resolute Republicans of the past â€” are dissenting voices on President Trump. 	https://www.nytimes.com/2020/07/16/us/politics/trump-republicans.html
+â€œIâ€™ve learned that if you donâ€™t follow your conscience, it haunts you for a long, long time,â€ Senator Mitt Romney said. â€œAt this stage in life, Iâ€™m not going to do that anymore.â€ Erin Schaff/The New York Times 	https://www.nytimes.com/2020/07/16/us/politics/trump-republicans.html
+What the Twitter Hack Revealed: An Election System Teeming With RisksThe hack, which targeted Joe Biden, Barack Obama and others, served as a warning ahead of the November election. 	https://www.nytimes.com/2020/07/16/us/politics/twitter-hack.html
+LIVEElection updates: Democratic officials told members of Congress and party delegates to skip their national convention. 	https://www.nytimes.com/2020/07/16/us/elections/biden-vs-trump.html
+â€œIâ€™ve learned that if you donâ€™t follow your conscience, it haunts you for a long, long time,â€ Senator Mitt Romney said. â€œAt this stage in life, Iâ€™m not going to do that anymore.â€ Erin Schaff/The New York Times 	https://www.nytimes.com/2020/07/16/us/politics/trump-republicans.html
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 Consumers Came Back in June, but for How Long?Retail sales increased 7.5 percent, but there are ominous signs that the rebound may fizzle as virus cases rise in much of the country. 	https://www.nytimes.com/2020/07/16/business/june-retail-sales.html
 The average rate on a 30-year fixed mortgage fell below 3 percent for the first time. 	https://www.nytimes.com/2020/07/16/business/mortgage-rates-below-3-percent.html
 LIVEBusiness updates: Netflix appointed Ted Sarandos as its co-chief executive. 	https://www.nytimes.com/live/2020/07/16/business/stock-market-today-coronavirus
 The Great ReadColin Powell Still Wants AnswersIn 2003, he made the case for invading Iraq to halt its weapons programs. Analysts who provided the intelligence now say it was doubted inside the C.I.A. 	https://www.nytimes.com/2020/07/16/magazine/colin-powell-iraq-war.html
+<<<<<<< HEAD
 Colin Powell in Virginia this month. ‘‘I knew I didn’t have any choice,’’ he said. ‘‘He’s the president.’’ Gabriella Demczuk for The New York Times 	https://www.nytimes.com/2020/07/16/magazine/colin-powell-iraq-war.html
 Southern Iraq’s Toxic TwilightIraq burns more gas from its oil wells than any other country except Russia, enough to power 3 million homes. But it’s making people sick. 	https://www.nytimes.com/2020/07/16/world/middleeast/iraq-gas-flaring-cancer-environment.html
 The village of Nahran Omar at night. 	https://www.nytimes.com/2020/07/16/world/middleeast/iraq-gas-flaring-cancer-environment.html
@@ -41,6 +66,26 @@ Adam Dean for The New York Times 	https://www.nytimes.com/2020/07/16/world/asia/
 No One Knows What Thailand Is Doing Right, but So Far, It’s WorkingCan the country’s low rate of Covid-19 infections be attributed to culture? Genetics? Face masks? Or a combination of all three? 	https://www.nytimes.com/2020/07/16/world/asia/coronavirus-thailand-photos.html
 Vacationing in the Summer of Covid-19Traveling during a pandemic requires research, planning and a willingness to play by new rules. For these writers, it still felt good to get away. 	https://www.nytimes.com/2020/07/16/travel/virus-vacation.html
 Theater Looks for Parallels in Stories of Ancient PlaguesEfforts like “The Oedipus Project,” a reading with Oscar Isaac, have turned to stage depictions of mass illness as a means of understanding the present. 	https://www.nytimes.com/2020/07/15/theater/oedipus-the-king-plague-covid.html
+=======
+Colin Powell in Virginia this month. â€˜â€˜I knew I didnâ€™t have any choice,â€™â€™ he said. â€˜â€˜Heâ€™s the president.â€™â€™ Gabriella Demczuk for The New York Times 	https://www.nytimes.com/2020/07/16/magazine/colin-powell-iraq-war.html
+Southern Iraqâ€™s Toxic TwilightIraq burns more gas from its oil wells than any other country except Russia, enough to power 3 million homes. But itâ€™s making people sick. 	https://www.nytimes.com/2020/07/16/world/middleeast/iraq-gas-flaring-cancer-environment.html
+The village of Nahran Omar at night. 	https://www.nytimes.com/2020/07/16/world/middleeast/iraq-gas-flaring-cancer-environment.html
+Nicholas KristofWe Interrupt This Gloom to Offer â€¦ HopeYes, America is suffering needlessly. That may save us. 	https://www.nytimes.com/2020/07/16/opinion/sunday/coronavirus-blm-america-hope.html
+Paul KrugmanThe Next Disaster Is Just a Few Days AwayMillions of unemployed Americans face imminent catastrophe. 	https://www.nytimes.com/2020/07/16/opinion/coronavirus-economy-unemployment.html
+David BrooksPresident Bidenâ€™s First Day 	https://www.nytimes.com/2020/07/16/opinion/biden-2020.html
+Gail CollinsWho Can Make Trump Miserable This Fall? 	https://www.nytimes.com/2020/07/15/opinion/trump-sessions-senate.html
+David HughesDonâ€™t Defund the Police. Re-Fund Them, Smarter. 	https://www.nytimes.com/2020/07/16/opinion/police-funding-defund.html
+Joshua WheelerItâ€™s Been 75 Years, and America Still Wonâ€™t Admit a Nuclear Disaster 	https://www.nytimes.com/2020/07/15/opinion/75-anniversary-trinity-nuclear-testing.html
+Testing Is on the Brink of Paralysis. Thatâ€™s Very Bad News. 	https://www.nytimes.com/2020/07/16/opinion/coronavirus-testing-us.html
+Mohammed HanifWhatâ€™s With All the Covid-Death Shaming? 	https://www.nytimes.com/2020/07/16/opinion/coronavirus-pakistan-death.html
+Linda GreenhouseThe Many Dimensions of the Chief Justiceâ€™s Triumphant Term 	https://www.nytimes.com/2020/07/16/opinion/supreme-court-roberts-religion.html
+Ian Prasad PhilbrickWhy Does America Have Old Leaders? 	https://www.nytimes.com/2020/07/16/opinion/america-presidents-old-age.html
+Ian JohnsonI Was Kicked Out of China. The Trump Administration Is Why. 	https://www.nytimes.com/2020/07/16/opinion/sunday/china-us-cold-war.html
+Adam Dean for The New York Times 	https://www.nytimes.com/2020/07/16/world/asia/coronavirus-thailand-photos.html
+No One Knows What Thailand Is Doing Right, but So Far, Itâ€™s WorkingCan the countryâ€™s low rate of Covid-19 infections be attributed to culture? Genetics? Face masks? Or a combination of all three? 	https://www.nytimes.com/2020/07/16/world/asia/coronavirus-thailand-photos.html
+Vacationing in the Summer of Covid-19Traveling during a pandemic requires research, planning and a willingness to play by new rules. For these writers, it still felt good to get away. 	https://www.nytimes.com/2020/07/16/travel/virus-vacation.html
+Theater Looks for Parallels in Stories of Ancient PlaguesEfforts like â€œThe Oedipus Project,â€ a reading with Oscar Isaac, have turned to stage depictions of mass illness as a means of understanding the present. 	https://www.nytimes.com/2020/07/15/theater/oedipus-the-king-plague-covid.html
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 Let us know what you think 	http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l
 © 2020 The New York Times Company 	https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
 
@@ -71,7 +116,11 @@ what : 4
 has : 4
 have : 4
 by : 4
+<<<<<<< HEAD
 — : 4
+=======
+â€” : 4
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 said : 4
 long : 4
 your : 3
@@ -124,27 +173,46 @@ how : 2
 company : 2
 make : 2
 fell : 2
+<<<<<<< HEAD
 › : 2
 back : 2
 or : 2
 president : 2
 “ive : 2
+=======
+â€º : 2
+back : 2
+or : 2
+president : 2
+â€œive : 2
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 learned : 2
 if : 2
 dont : 2
 follow : 2
 conscience : 2
 haunts : 2
+<<<<<<< HEAD
 time” : 2
 senator : 2
 mitt : 2
 “at : 2
+=======
+timeâ€ : 2
+senator : 2
+mitt : 2
+â€œat : 2
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 life : 2
 im : 2
 not : 2
 going : 2
 do : 2
+<<<<<<< HEAD
 anymore” : 2
+=======
+anymoreâ€ : 2
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 erin : 2
 schaff/the : 2
 hack : 2
@@ -178,7 +246,11 @@ electiontimes : 1
 reporters : 1
 host : 1
 discussion : 1
+<<<<<<< HEAD
 julián : 1
+=======
+juliÃ¡n : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 castro : 1
 5 : 1
 pm : 1
@@ -439,7 +511,11 @@ kristofwe : 1
 interrupt : 1
 gloom : 1
 offer : 1
+<<<<<<< HEAD
 … : 1
+=======
+â€¦ : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 hopeyes : 1
 suffering : 1
 needlessly : 1
@@ -545,9 +621,15 @@ stories : 1
 ancient : 1
 plaguesefforts : 1
 like : 1
+<<<<<<< HEAD
 “the : 1
 oedipus : 1
 project” : 1
+=======
+â€œthe : 1
+oedipus : 1
+projectâ€ : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 reading : 1
 oscar : 1
 isaac : 1

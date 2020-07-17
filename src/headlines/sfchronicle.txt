@@ -1,5 +1,6 @@
 Portals of the Past 	http://www.sfchronicle.com/local/portalsofthepast/
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
+<<<<<<< HEAD
 Oakland settles with families of 32 Ghost Ship fire victims... 	https://www.sfchronicle.com/crime/article/Oakland-settles-with-families-of-32-Ghost-Ship-15414450.php
 Coronavirus live updates: Bay Area hospitalizations reach... 	https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
 Tesla admission: Some employees caught the coronavirus at work 	https://www.sfchronicle.com/business/article/Tesla-admission-Some-employees-caught-the-15414115.php
@@ -8,19 +9,35 @@ Salesforce CEO Benioff says people who don’t wear masks should be fined 	https:/
 Man charged with drawing gun in dispute at BLM mural in Martinez 	https://www.sfchronicle.com/crime/article/Man-charged-with-drawing-gun-in-dispute-at-Black-15413710.php
 SF police commission votes to install BLM posters in every station 	https://www.sfchronicle.com/crime/article/San-Francisco-police-commission-votes-to-install-15413061.php
 Push to save Caltrain gets second chance; SF supe says he’ll fight for tax measure 	https://www.sfchronicle.com/bayarea/article/Push-to-save-Caltrain-gets-a-second-chance-SF-15414292.php
+=======
+Coronavirus live updates: Bay Area hospitalizations reach another record high 	https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
+Tesla admission: Some employees caught the coronavirus at work 	https://www.sfchronicle.com/business/article/Tesla-admission-Some-employees-caught-the-15414115.php
+Vegetation fire forces Highway 4 to close near Pittsburg 	https://www.sfchronicle.com/california-wildfires/article/Vegetation-fire-forces-Highway-4-to-close-near-15414014.php
+Salesforce CEO Benioff says people who donâ€™t wear masks should be fined 	https://www.sfchronicle.com/business/article/Salesforce-CEO-Benioff-says-people-who-don-t-15413825.php
+Man charged with drawing gun in dispute at BLM mural in Martinez 	https://www.sfchronicle.com/bayarea/article/Man-charged-with-drawing-gun-in-dispute-at-Black-15413710.php
+SF police commission votes to install BLM posters in every station 	https://www.sfchronicle.com/crime/article/San-Francisco-police-commission-votes-to-install-15413061.php
+Push to save Caltrain gets second chance; SF supe says heâ€™ll fight for tax measure 	https://www.sfchronicle.com/bayarea/article/Push-to-save-Caltrain-gets-a-second-chance-SF-15414292.php
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 Supervisor Matt Haney said he will attempt to resurrect the sales tax measure Tuesday after two San Francisco supervisors tabled it earlier this week. The fight pitted counties against one another, and transit enthusiasts against politicians prioritizing local control over seamless regional transportation. 	https://www.sfchronicle.com/bayarea/article/Push-to-save-Caltrain-gets-a-second-chance-SF-15414292.php
 Advocates: Caltrain shutdown would mean disaster for Bay Area 	https://www.sfchronicle.com/bayarea/article/Caltrain-derailed-Advocates-predict-shutdown-15411557.php
 Bay Area struggles with surge as economies shut back down 	https://www.sfchronicle.com/bayarea/article/Bay-Area-counties-struggle-with-the-surging-15414343.php
 Dozens of counties are struggling to control an uptick in cases and hospitalizations, weeks after many of them emerged from lockdown. 	https://www.sfchronicle.com/bayarea/article/Bay-Area-counties-struggle-with-the-surging-15414343.php
 Charts show how positive test rates have roller-coastered in Bay Area 	https://www.sfchronicle.com/bayarea/article/Charts-show-how-coronavirus-positive-test-rates-15411816.php
 Confused about new restrictions? The latest on each county 	https://www.sfchronicle.com/bayarea/article/Confused-about-reopening-in-the-Bay-Area-15389734.php
+<<<<<<< HEAD
 School districts’ reopening plans: Online classes, in-person or both 	https://www.sfchronicle.com/bayarea/article/Will-your-Bay-Area-school-be-online-in-person-or-15405870.php
 SFPUC chief had past financial ties to agency contractor 	https://www.sfchronicle.com/bayarea/article/SFPUC-chief-had-past-financial-ties-to-agency-15414335.php
 The longstanding friendship between Halran Kelly and Melanie Lok, including a business relationship, raises questions about the integrity of the multi-million-dollar contract Lok’s firm secured with the SFPUC in 2012, according to a Chronicle investigation. 	https://www.sfchronicle.com/bayarea/article/SFPUC-chief-had-past-financial-ties-to-agency-15414335.php
+=======
+School districtsâ€™ reopening plans: Online classes, in-person or both 	https://www.sfchronicle.com/bayarea/article/Will-your-Bay-Area-school-be-online-in-person-or-15405870.php
+SFPUC chief had past financial ties to agency contractor 	https://www.sfchronicle.com/bayarea/article/SFPUC-chief-had-past-financial-ties-to-agency-15414335.php
+The longstanding friendship between Halran Kelly and Melanie Lok, including a business relationship, raises questions about the integrity of the multi-million-dollar contract Lokâ€™s firm secured with the SFPUC in 2012, according to a Chronicle investigation. 	https://www.sfchronicle.com/bayarea/article/SFPUC-chief-had-past-financial-ties-to-agency-15414335.php
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 3 more city departments hit with subpoenas in expanding Nuru probe 	https://www.sfchronicle.com/bayarea/article/3-more-San-Francisco-city-departments-hit-with-15410491.php
 U.S. attorney hits SFPUC with subpoena as corruption investigation widens 	https://www.sfchronicle.com/bayarea/article/U-S-attorney-hits-SFPUC-with-subpoena-as-SF-City-15400910.php
 Bay Area home sales surged nearly 70% from May to June; prices rose 3.6% 	https://www.sfchronicle.com/business/networth/article/Stunning-rebound-Bay-Area-home-sales-surged-15413833.php
 After falling sharply for three months, Bay Area home sales rebounded in June thanks to pent-up demand and record-low interest rates. 	https://www.sfchronicle.com/business/networth/article/Stunning-rebound-Bay-Area-home-sales-surged-15413833.php
+<<<<<<< HEAD
 SF’s Slow Streets program adds 14 more roadways 	https://www.sfchronicle.com/bayarea/article/SF-s-Slow-Streets-program-adds-14-more-roadways-15413606.php
 San Francisco is closing 14 more streets to through traffic as part of its Slow Streets program. The program aims to give residents more space for socially distant exercise and get to essential services without driving or taking transit. 	https://www.sfchronicle.com/bayarea/article/SF-s-Slow-Streets-program-adds-14-more-roadways-15413606.php
 Interactive map: 13 steps to SF becoming a car-free city 	https://projects.sfchronicle.com/2020/car-free-sf-maps/
@@ -29,17 +46,34 @@ The Kincade Fire prompted massive evacuations and an intense firefight to protec
 A Spark on Burned Mountain: How the Kincade Fire started 	https://projects.sfchronicle.com/2019/kincade-fire-origin/
 See what’s open and what’s still shut down by county 	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
 The latest on wildfires across the state 	https://projects.sfchronicle.com/trackers/california-fire-map/
+=======
+SFâ€™s Slow Streets program adds 14 more roadways to free up space during pandemic 	https://www.sfchronicle.com/bayarea/article/SF-s-Slow-Streets-program-adds-14-more-roadways-15413606.php
+San Francisco is closing 14 more streets to through traffic as part of its Slow Streets program. The program aims to give residents more space for socially distant exercise and get to essential services without driving or taking transit. 	https://www.sfchronicle.com/bayarea/article/SF-s-Slow-Streets-program-adds-14-more-roadways-15413606.php
+PG&E equipment started 2019 Kincade Fire in Sonoma County, Cal Fire says 	https://www.sfchronicle.com/california-wildfires/article/PG-E-started-2019-Kincade-Fire-in-Sonoma-County-15414134.php
+The Kincade Fire prompted massive evacuations and an intense firefight to protect Wine Country communities. Cal Fire says PG&Eâ€™s power infrastructure caused the blaze. 	https://www.sfchronicle.com/california-wildfires/article/PG-E-started-2019-Kincade-Fire-in-Sonoma-County-15414134.php
+A Spark on Burned Mountain: How the Kincade Fire started 	https://projects.sfchronicle.com/2019/kincade-fire-origin/
+The latest on wildfires across the state 	https://projects.sfchronicle.com/trackers/california-fire-map/
+See whatâ€™s open and whatâ€™s still shut down by county 	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 How COVID-19 ravages the body 	https://projects.sfchronicle.com/2020/virus-organs-graphic/
 Changes restaurants may make to reopen 	https://projects.sfchronicle.com/2020/future-of-restaurants/
 What school will look like with pandemic protocols 	https://projects.sfchronicle.com/2020/schools-pandemic-protocols-graphic/
 The micro-hood, a new vision for downtown SF 	https://projects.sfchronicle.com/2020/welcome-to-the-micro-hood-graphic/
 Have we reopened too soon? Bay Area food community weighs in 	https://www.sfchronicle.com/restaurants/article/Are-we-reopening-too-soon-Bay-Area-diners-and-15407625.php
 While the Bay Area has slowly been allowing restaurants to reopen, the process has garnered a mixed reaction. We talked to eight diners, restaurant owners and workers to get their perspectives. 	https://www.sfchronicle.com/restaurants/article/Are-we-reopening-too-soon-Bay-Area-diners-and-15407625.php
+<<<<<<< HEAD
 Yes, there’s a coin shortage in the Bay Area. Here’s what’s going on 	https://www.sfchronicle.com/bayarea/article/Yes-there-s-a-coin-shortage-in-the-Bay-Area-15411810.php
 The flow of coins in the Bay Area has clogged up during the pandemic — reflecting a nationwide shortage that’s causing a “serious situation” for a number of businesses. 	https://www.sfchronicle.com/bayarea/article/Yes-there-s-a-coin-shortage-in-the-Bay-Area-15411810.php
 Here’s what happens if Bay Area hospitals run out of space 	https://www.sfchronicle.com/health/article/Here-s-what-happens-if-Bay-Area-hospitals-run-out-15411247.php
 Don’t know your blood type? Here's how to find it, and why it matters 	https://www.sfchronicle.com/bayarea/article/Don-t-know-your-blood-type-Here-s-how-to-find-15407935.php
 Oakland Zoo gets OK to reopen: ‘This gives us a chance to survive’ 	https://www.sfchronicle.com/bayarea/article/Oakland-Zoo-gets-OK-to-reopen-This-gives-us-a-15411225.php
+=======
+Yes, thereâ€™s a coin shortage in the Bay Area. Hereâ€™s whatâ€™s going on 	https://www.sfchronicle.com/bayarea/article/Yes-there-s-a-coin-shortage-in-the-Bay-Area-15411810.php
+The flow of coins in the Bay Area has clogged up during the pandemic â€” reflecting a nationwide shortage thatâ€™s causing a â€œserious situationâ€ for a number of businesses. 	https://www.sfchronicle.com/bayarea/article/Yes-there-s-a-coin-shortage-in-the-Bay-Area-15411810.php
+Hereâ€™s what happens if Bay Area hospitals run out of space 	https://www.sfchronicle.com/health/article/Here-s-what-happens-if-Bay-Area-hospitals-run-out-15411247.php
+Donâ€™t know your blood type? Here's how to find it, and why it matters 	https://www.sfchronicle.com/bayarea/article/Don-t-know-your-blood-type-Here-s-how-to-find-15407935.php
+Oakland Zoo gets OK to reopen: â€˜This gives us a chance to surviveâ€™ 	https://www.sfchronicle.com/bayarea/article/Oakland-Zoo-gets-OK-to-reopen-This-gives-us-a-15411225.php
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 Overall crime in SF is down. But these crimes are up 	https://www.sfchronicle.com/bayarea/article/Which-crimes-are-up-down-in-SF-during-15408485.php
 SF reopening timeline: Dates when restaurants, schools can open 	https://www.sfchronicle.com/bayarea/article/SF-reopening-calendar-Dates-when-restaurants-15301361.php
 Face masks: When and how to use them 	https://www.sfchronicle.com/news/article/Coronavirus-FAQ-Should-you-wear-a-face-mask-15147298.php
@@ -49,6 +83,7 @@ What to do if symptoms show up 	https://www.sfchronicle.com/bayarea/article/Coro
 Updates on transit and parking 	https://www.sfchronicle.com/bayarea/article/Bay-Area-coronavirus-shutdown-What-you-need-to-15135704.php
 When will California have ‘herd immunity’? 	https://www.sfchronicle.com/science/article/Coronavirus-FAQ-Is-it-possible-to-be-reinfected-15154426.php
 Regional database for job cuts by company and city 	https://projects.sfchronicle.com/2020/layoff-tracker/
+<<<<<<< HEAD
 Giants, A’s infection-control staff face ‘nearly impossible’ task 	https://www.sfchronicle.com/sports/annkillion/article/Giants-A-s-infection-control-staff-face-15413855.php
 In the season of coronavirus, the Infection Control Prevention Coordinator may be the key to getting this shortened baseball season off the ground. 	https://www.sfchronicle.com/sports/annkillion/article/Giants-A-s-infection-control-staff-face-15413855.php
 Tom Hanks among the options A’s are exploring for in-game sound 	https://www.sfchronicle.com/athletics/article/Sounds-of-the-Coliseum-during-A-s-games-to-15411535.php
@@ -58,10 +93,22 @@ Coronavirus prompts WCC to halt most sports activities until Sept. 24 	https://w
 Campfire bans coming to public lands across California 	https://www.sfchronicle.com/bayarea/article/Campfire-bans-coming-to-public-lands-across-state-15405498.php
 U.S. National Parks, U.S. Forest Service and California State Parks are banning campfires in many parks, across more than 100 wilderness areas, and in 19 million acres of national forests. 	https://www.sfchronicle.com/bayarea/article/Campfire-bans-coming-to-public-lands-across-state-15405498.php
 Pacific Crest Trail can’t escape coronavirus debate 	https://www.sfchronicle.com/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
+=======
+Giants, Aâ€™s infection-control staff face â€˜nearly impossibleâ€™ task 	https://www.sfchronicle.com/sports/annkillion/article/Giants-A-s-infection-control-staff-face-15413855.php
+In the season of coronavirus, the Infection Control Prevention Coordinator may be the key to getting this shortened baseball season off the ground. 	https://www.sfchronicle.com/sports/annkillion/article/Giants-A-s-infection-control-staff-face-15413855.php
+Tom Hanks among the options Aâ€™s are exploring for in-game sound 	https://www.sfchronicle.com/athletics/article/Sounds-of-the-Coliseum-during-A-s-games-to-15411535.php
+Giants sign Concord high school pitcher Kyle Harrison for $2.5M bonus 	https://www.sfchronicle.com/giants/article/Giants-sign-Concord-high-school-pitcher-Kyle-15413640.php
+Giantsâ€™ Yolmer Sanchez trying to shed all-glove label, earn more starts 	https://www.sfchronicle.com/giants/article/Giants-Yolmer-Sanchez-trying-to-shed-all-glove-15413553.php
+Coronavirus prompts WCC to halt most sports activities until Sept. 24 	https://www.sfchronicle.com/collegesports/article/Coronavirus-forces-WCC-to-halt-all-sports-15413505.php
+Campfire bans coming to public lands across California 	https://www.sfchronicle.com/bayarea/article/Campfire-bans-coming-to-public-lands-across-state-15405498.php
+U.S. National Parks, U.S. Forest Service and California State Parks are banning campfires in many parks, across more than 100 wilderness areas, and in 19 million acres of national forests. 	https://www.sfchronicle.com/bayarea/article/Campfire-bans-coming-to-public-lands-across-state-15405498.php
+Pacific Crest Trail canâ€™t escape coronavirus debate 	https://www.sfchronicle.com/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 8 rules for summer travel during coronavirus pandemic 	https://www.sfchronicle.com/bayarea/article/8-rules-for-summer-travel-during-coronavirus-15400455.php
 Hike-in campsites reopening around the Bay Area 	https://www.sfchronicle.com/bayarea/article/Hike-in-campsites-reopening-around-the-Bay-Area-15389910.php
 Guide: Where to hike, run, and get outside right now 	https://projects.sfchronicle.com/guides/outdoors-guide/
 Steve Kerr, Gabe Kapler, Kyle Shanahan: West Coast style... 	https://www.sfchronicle.com/sports/ostler/article/Steve-Kerr-Gabe-Kapler-Kyle-Shanahan-West-15411432.php
+<<<<<<< HEAD
 Introducing a new classification for coaches and managers: West Co a st. Who fits the mold and who doesn’t? We discuss Steve Kerr of the Golden... 	https://www.sfchronicle.com/sports/ostler/article/Steve-Kerr-Gabe-Kapler-Kyle-Shanahan-West-15411432.php
 It’s time to stop playing the national anthem at every... 	https://www.sfchronicle.com/sports/jenkins/article/It-s-time-to-stop-playing-the-national-anthem-15407986.php
 There’s no reason to play “The Star-Spangled Banner” at sporting events, especially before empty stands during the pandemic. It would retain... 	https://www.sfchronicle.com/sports/jenkins/article/It-s-time-to-stop-playing-the-national-anthem-15407986.php
@@ -71,6 +118,17 @@ Ten life-and-death moments in 40 years in the outdoors 	https://www.sfchronicle.
 On Tom Stienstra’s 40th anniversary as the outdoors writer for The Chronicle, editors asked him to describe the most provocative encounters of... 	https://www.sfchronicle.com/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
 Cameron Diaz's new 'clean' wine meets none of the natural wine standards 	https://www.sfchronicle.com/wine/article/Cameron-Diaz-s-new-clean-wine-Avaline-meets-15414046.php
 Avaline, the new wine from actress Diaz and fashion CEO Katherine Power, is billing itself as a clean and transparent alternative to the wine you’re already drinking. 	https://www.sfchronicle.com/wine/article/Cameron-Diaz-s-new-clean-wine-Avaline-meets-15414046.php
+=======
+Introducing a new classification for coaches and managers: West Co a st. Who fits the mold and who doesnâ€™t? We discuss Steve Kerr of the Golden... 	https://www.sfchronicle.com/sports/ostler/article/Steve-Kerr-Gabe-Kapler-Kyle-Shanahan-West-15411432.php
+Itâ€™s time to stop playing the national anthem at every... 	https://www.sfchronicle.com/sports/jenkins/article/It-s-time-to-stop-playing-the-national-anthem-15407986.php
+Thereâ€™s no reason to play â€œThe Star-Spangled Bannerâ€ at sporting events, especially before empty stands during the pandemic. It would retain... 	https://www.sfchronicle.com/sports/jenkins/article/It-s-time-to-stop-playing-the-national-anthem-15407986.php
+Giantsâ€™, Aâ€™s infection-control staff face â€˜nearly... 	https://www.sfchronicle.com/sports/annkillion/article/Giants-A-s-infection-control-staff-face-15413855.php
+In the season of coronavirus, the Infection Control Prevention Coordinator may be the key to getting this shortened baseball season off the... 	https://www.sfchronicle.com/sports/annkillion/article/Giants-A-s-infection-control-staff-face-15413855.php
+Ten life-and-death moments in 40 years in the outdoors 	https://www.sfchronicle.com/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
+On Tom Stienstraâ€™s 40th anniversary as the outdoors writer for The Chronicle, editors asked him to describe the most provocative encounters of... 	https://www.sfchronicle.com/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
+Cameron Diaz's new 'clean' wine meets none of the natural wine standards 	https://www.sfchronicle.com/wine/article/Cameron-Diaz-s-new-clean-wine-Avaline-meets-15414046.php
+Avaline, the new wine from actress Diaz and fashion CEO Katherine Power, is billing itself as a clean and transparent alternative to the wine youâ€™re already drinking. 	https://www.sfchronicle.com/wine/article/Cameron-Diaz-s-new-clean-wine-Avaline-meets-15414046.php
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 Napa's wineries feel the squeeze over flip-flopping opening restrictions 	https://www.sfchronicle.com/wine/article/It-sends-the-wrong-message-Napa-vintners-15407926.php
 Tomalley Butter Lobster Roll is like a summer vacation in Maine 	https://www.sfchronicle.com/recipes/article/Tomalley-Butter-Lobster-Roll-is-like-a-summer-15413597.php
 Judge says foie gras is legal to eat in California in confusing ruling 	https://www.sfchronicle.com/food/article/Foie-gras-is-legal-to-serve-again-in-California-15408615.php
@@ -82,7 +140,11 @@ Have Bay Area restaurants been following COVID-19 rules? 	https://www.sfchronicl
 152 Bay Area restaurants now open for outdoor dining 	https://www.sfchronicle.com/restaurants/article/63-Bay-Area-restaurants-now-open-for-outdoor-15336551.php
 Permanent restaurant closures since shelter-in-place 	https://www.sfchronicle.com/food/article/Bay-Area-restaurants-latest-updates-Food-15130419.php
 Bigger, badder storms coming, and California is right in their path 	https://www.sfchronicle.com/environment/article/Bigger-badder-storms-coming-in-the-years-ahead-15411249.php
+<<<<<<< HEAD
 New research shows that California’s wet and dry swings will become even more extreme as giant storms known as atmospheric rivers grow in size and intensity with climate change. 	https://www.sfchronicle.com/environment/article/Bigger-badder-storms-coming-in-the-years-ahead-15411249.php
+=======
+New research shows that Californiaâ€™s wet and dry swings will become even more extreme as giant storms known as atmospheric rivers grow in size and intensity with climate change. 	https://www.sfchronicle.com/environment/article/Bigger-badder-storms-coming-in-the-years-ahead-15411249.php
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 Caltrain derailed: Advocates predict shutdown would mean disaster 	https://www.sfchronicle.com/bayarea/article/Caltrain-derailed-Advocates-predict-shutdown-15411557.php
 3 more SF city departments hit with subpoenas in corruption probe 	https://www.sfchronicle.com/bayarea/article/3-more-San-Francisco-city-departments-hit-with-15410491.php
 BART, expecting to lose $975 million over 3 years, begs feds for money 	https://www.sfchronicle.com/bayarea/article/BART-expecting-to-lose-975-million-over-3-15407839.php
@@ -101,6 +163,7 @@ While the Bay Area has slowly been allowing restaurants to reopen, the process h
 Photos of the Month: Top images from June 	https://projects.sfchronicle.com/app/june-best-photos/
 Old, new Martinez clash amid debate over defacing of BLM mural 	https://www.sfchronicle.com/bayarea/otisrtaylorjr/article/Old-new-Martinez-clash-amid-debate-over-defacing-15411610.php
 Martinez became a flash point in the racial uprising engulfing the nation when two white people defaced a Black Lives Matter mural. Some residents... 	https://www.sfchronicle.com/bayarea/otisrtaylorjr/article/Old-new-Martinez-clash-amid-debate-over-defacing-15411610.php
+<<<<<<< HEAD
 Oakland A’s get unwelcome feedback from Sierra Club on... 	https://www.sfchronicle.com/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
 The politically powerful Sierra Club has “serious concerns” about the Oakland A’s waterfront ballpark plan. The environmental advocacy... 	https://www.sfchronicle.com/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
 A page is turning: SF’s beloved libraries will start lending... 	https://www.sfchronicle.com/bayarea/heatherknight/article/A-page-is-turning-S-F-s-beloved-libraries-15405792.php
@@ -113,11 +176,29 @@ CA sues to reinstate Obama-era rule protecting student borrowers 	https://www.sf
 SF’s big mail-ballot problem: Too many voters send them in late 	https://www.sfchronicle.com/politics/article/San-Francisco-s-big-mail-ballot-problem-Too-15408625.php
 Nancy Pelosi’s election challenger says she’s not... 	https://www.sfchronicle.com/politics/article/Nancy-Pelosi-s-election-challenger-says-she-s-15405868.php
 Shahid Buttar, the democratic socialist challenging Nancy Pelosi, is trying to convince her to debate him. It’s an uphill battle. Pelosi... 	https://www.sfchronicle.com/politics/article/Nancy-Pelosi-s-election-challenger-says-she-s-15405868.php
+=======
+Oakland Aâ€™s get unwelcome feedback from Sierra Club on... 	https://www.sfchronicle.com/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
+The politically powerful Sierra Club has â€œserious concernsâ€ about the Oakland Aâ€™s waterfront ballpark plan. The environmental advocacy... 	https://www.sfchronicle.com/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
+A page is turning: SFâ€™s beloved libraries will start lending... 	https://www.sfchronicle.com/bayarea/heatherknight/article/A-page-is-turning-S-F-s-beloved-libraries-15405792.php
+Two San Francisco libraries will open for curbside pickup in early August. Why has the small reopening taken so long? Because librarians have been... 	https://www.sfchronicle.com/bayarea/heatherknight/article/A-page-is-turning-S-F-s-beloved-libraries-15405792.php
+Relax, Obama strategist says: Joe Biden should stay in his basement 	https://www.sfchronicle.com/politics/article/Relax-Obama-strategist-tells-Democrats-Joe-15411579.php
+Joe Bidenâ€™s stay-in-the-basement strategy is the right move, says a veteran of the Hillary Clinton and Barack Obama campaigns. Just as long as he keeps drawing a contrast with President... 	https://www.sfchronicle.com/politics/article/Relax-Obama-strategist-tells-Democrats-Joe-15411579.php
+Biggest issue for many young adults? Itâ€™s racism, new poll says 	https://www.sfchronicle.com/politics/article/Biggest-issue-for-many-young-adults-It-s-15411633.php
+California lawmakers look to diversify largely white, better-off juries 	https://www.sfchronicle.com/politics/article/California-lawmakers-look-to-diversify-largely-15411617.php
+CA sues to reinstate Obama-era rule protecting student borrowers 	https://www.sfchronicle.com/politics/article/California-sues-to-reinstate-Obama-era-rule-15411295.php
+SFâ€™s big mail-ballot problem: Too many voters send them in late 	https://www.sfchronicle.com/politics/article/San-Francisco-s-big-mail-ballot-problem-Too-15408625.php
+Nancy Pelosiâ€™s election challenger says sheâ€™s not... 	https://www.sfchronicle.com/politics/article/Nancy-Pelosi-s-election-challenger-says-she-s-15405868.php
+Shahid Buttar, the democratic socialist challenging Nancy Pelosi, is trying to convince her to debate him. Itâ€™s an uphill battle. Pelosi... 	https://www.sfchronicle.com/politics/article/Nancy-Pelosi-s-election-challenger-says-she-s-15405868.php
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 In Wine Country, coronavirus cases rise in cramped farmworker housing 	https://www.sfchronicle.com/business/article/In-Wine-Country-coronavirus-cases-rise-in-15411621.php
 Cases tied to crowded lodging for agricultural workers spike, leaving county officials and farmers grappling with how to prevent coronavirus spread beyond the workplace. 	https://www.sfchronicle.com/business/article/In-Wine-Country-coronavirus-cases-rise-in-15411621.php
 More than 51 million have filed for unemployment under shelter-in-place 	https://www.sfchronicle.com/business/article/More-than-50-million-have-filed-for-unemployment-15412510.php
 Fearing blackouts, regulators require cell towers to add backup power 	https://www.sfchronicle.com/california-wildfires/article/Fearing-fire-season-blackouts-California-15413495.php
+<<<<<<< HEAD
 Uber to Lyft: You can’t ride with us on California’s AB5 lawsuit 	https://www.sfchronicle.com/business/article/Uber-to-Lyft-You-can-t-ride-with-us-on-15410954.php
+=======
+Uber to Lyft: You canâ€™t ride with us on Californiaâ€™s AB5 lawsuit 	https://www.sfchronicle.com/business/article/Uber-to-Lyft-You-can-t-ride-with-us-on-15410954.php
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 For Bay Area plant shops, business blooms amid pandemic 	https://www.sfchronicle.com/business/article/For-Bay-Area-plant-shops-business-blooms-amid-15402213.php
 Eviction ban: What renters and landlords need to know 	https://www.sfchronicle.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
 With many Californians facing economic distress because of the coronavirus, state officials have taken steps to block evictions and protect renters. 	https://www.sfchronicle.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
@@ -127,6 +208,7 @@ Can’t pay your mortgage because of the coronavirus? Here’s what to do 	https://w
 Bay Area help to get your will and other affairs in order 	https://www.sfchronicle.com/bayarea/article/Coronavirus-Bay-Area-help-to-get-your-will-and-15177648.php
 Stunning rebound: Bay Area home sales surged nearly 70% from... 	https://www.sfchronicle.com/business/networth/article/Stunning-rebound-Bay-Area-home-sales-surged-15413833.php
 After falling sharply for three months, Bay Area home sales rebounded in June thanks to pent-up demand and record-low interest rates. 	https://www.sfchronicle.com/business/networth/article/Stunning-rebound-Bay-Area-home-sales-surged-15413833.php
+<<<<<<< HEAD
 ‘There will still long be a Silicon Valley’: Industry... 	https://www.sfchronicle.com/business/article/There-will-still-long-be-a-Silicon-Valley-15408717.php
 Carl Guardino, who will step down this month as CEO of the Silicon Valley Leadership Group to take a new job at Bloom Energy, says we must look to... 	https://www.sfchronicle.com/business/article/There-will-still-long-be-a-Silicon-Valley-15408717.php
 Survivors share battles with COVID-19 	https://www.sfchronicle.com/news/article/It-s-almost-like-there-s-this-monster-15347676.php
@@ -136,6 +218,17 @@ Top SFMOMA curator resigns as upheaval continues 	https://datebook.sfchronicle.c
 Screen depictions reflect shifting attitudes about police 	https://datebook.sfchronicle.com/movies-tv/horrible-heroic-or-humorous-screen-depictions-reflect-shifting-attitudes-about-police
 Oakland Rep. Barbara Lee saluted at Jewish film festival 	https://datebook.sfchronicle.com/movies-tv/oakland-rep-barbara-lee-saluted-with-screening-at-jewish-film-festival
 Forgotten ’90s drama 'Homicide' told painful truths about policing 	https://datebook.sfchronicle.com/movies-tv/largely-forgotten-90s-drama-homicide-told-painful-truths-about-policing
+=======
+â€˜There will still long be a Silicon Valleyâ€™: Industry... 	https://www.sfchronicle.com/business/article/There-will-still-long-be-a-Silicon-Valley-15408717.php
+Carl Guardino, who will step down this month as CEO of the Silicon Valley Leadership Group to take a new job at Bloom Energy, says we must look to... 	https://www.sfchronicle.com/business/article/There-will-still-long-be-a-Silicon-Valley-15408717.php
+Survivors share battles with COVID-19 	https://www.sfchronicle.com/news/article/It-s-almost-like-there-s-this-monster-15347676.php
+BottleRock 2020 officially canceled. Festival plans to return next year 	https://datebook.sfchronicle.com/music/bottlerock-2020-is-officially-canceled-napa-music-festival-plans-to-return-next-year
+This year's scheduled headliners â€” Red Hot Chili Peppers, Dave Matthews Band and Stevie Nicks â€” are committed to appear at the new dates in 2021. 	https://datebook.sfchronicle.com/music/bottlerock-2020-is-officially-canceled-napa-music-festival-plans-to-return-next-year
+Top SFMOMA curator resigns as upheaval continues 	https://datebook.sfchronicle.com/art-exhibits/top-sfmoma-curator-resigns-as-upheaval-continues
+Screen depictions reflect shifting attitudes about police 	https://datebook.sfchronicle.com/movies-tv/horrible-heroic-or-humorous-screen-depictions-reflect-shifting-attitudes-about-police
+Oakland Rep. Barbara Lee saluted at Jewish film festival 	https://datebook.sfchronicle.com/movies-tv/oakland-rep-barbara-lee-saluted-with-screening-at-jewish-film-festival
+Forgotten â€™90s drama 'Homicide' told painful truths about policing 	https://datebook.sfchronicle.com/movies-tv/largely-forgotten-90s-drama-homicide-told-painful-truths-about-policing
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 6 movies to catch during Cinegogue Summer Days 	https://datebook.sfchronicle.com/movies-tv/6-movies-to-catch-during-cinegogue-summer-days
 Here are some of the film festival's highlights this year. 	https://datebook.sfchronicle.com/movies-tv/6-movies-to-catch-during-cinegogue-summer-days
 'Fatal Affair' is so bad that it's kind of good 	https://datebook.sfchronicle.com/movies-tv/review-fatal-affair-with-nia-long-and-omar-epps-is-so-bad-that-its-kind-of-good
@@ -143,7 +236,11 @@ The good and the bad apples of police portrayals in Hollywood 	https://datebook.
 South Korean film ‘House of Hummingbird’ soars 	https://datebook.sfchronicle.com/movies-tv/review-south-korean-film-house-of-hummingbird-soars
 'Bruce Lee's Greatest Hits' is new Criterion box set that's a real kick 	https://datebook.sfchronicle.com/movies-tv/review-bruce-lees-greatest-hits-is-new-criterion-box-set-thats-a-real-kick
 An ode to Le Creuset, a serious pot for serious food 	https://datebook.sfchronicle.com/food-drink/an-ode-to-le-creuset-a-serious-pot-for-serious-food
+<<<<<<< HEAD
 A guide to virtual — or socially distanced — events 	https://datebook.sfchronicle.com/summer-2020-a-guide-to-virtual-or-socially-distanced-events-this-season
+=======
+A guide to virtual â€” or socially distanced â€” events 	https://datebook.sfchronicle.com/summer-2020-a-guide-to-virtual-or-socially-distanced-events-this-season
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 Does Twitter love idea of Black employees as much as it loves Black... 	https://www.sfchronicle.com/living/article/Does-Twitter-love-the-idea-of-Black-employees-as-15410658.php
 Twitter has benefited over the years from Black Twitter. Yet, the company has a long-standing diversity problem with few Black people in leadership positions. 	https://www.sfchronicle.com/living/article/Does-Twitter-love-the-idea-of-Black-employees-as-15410658.php
 The cost to adopt a wild horse? $1 	https://www.sfchronicle.com/bayarea/article/The-cost-to-adopt-a-wild-horse-1-15410888.php
@@ -163,27 +260,45 @@ When the world made peace in San Francisco 	https://www.sfchronicle.com/chronicl
 When the world came to San Francisco to create the United Nations 	https://www.sfchronicle.com/chronicle_vault/article/When-the-world-came-to-San-Francisco-to-create-15359061.php
 Explore the stories behind classic front pages 	https://www.sfchronicle.com/vault/chroniclecovers/
 How to get the most out of your Chronicle subscription 	https://www.sfchronicle.com/bayarea/article/How-to-get-the-most-out-of-your-San-Francisco-13902111.php
+<<<<<<< HEAD
 Caille Millner: I’m glad I didn’t write those kinds of columns 	https://www.sfchronicle.com/entertainment/article/I-m-glad-I-didn-t-write-those-kinds-of-columns-15414454.php
 Why cabdriver conversations, love letters to SF and trolling our president weren’t part of my repertoire these past eight years. 	https://www.sfchronicle.com/entertainment/article/I-m-glad-I-didn-t-write-those-kinds-of-columns-15414454.php
 White House malpractice against Dr. Fauci 	https://www.sfchronicle.com/opinion/article/White-House-malpractice-against-Dr-Fauci-15411737.php
 The secret, not-so-saintly history of Junipero Serra statues 	https://www.sfchronicle.com/opinion/openforum/article/The-secret-not-so-saintly-history-of-Junipero-15411799.php
 California homeowners will have to protect themselves this fire season 	https://www.sfchronicle.com/opinion/openforum/article/California-homeowners-will-have-to-protect-15411789.php
 Editorial: The cynical case against voting by mail 	https://www.sfchronicle.com/opinion/editorials/article/Editorial-The-cynical-case-against-voting-by-mail-15411536.php
+=======
+White House malpractice against Dr. Fauci 	https://www.sfchronicle.com/opinion/article/White-House-malpractice-against-Dr-Fauci-15411737.php
+As the toll of the coronavirus pandemic continues to mount, the Trump White House picked a most unlikely target to attack: Dr. Anthony Fauci, whose straight talk has made him the most trusted... 	https://www.sfchronicle.com/opinion/article/White-House-malpractice-against-Dr-Fauci-15411737.php
+The secret, not-so-saintly history of Junipero Serra statues 	https://www.sfchronicle.com/opinion/openforum/article/The-secret-not-so-saintly-history-of-Junipero-15411799.php
+California homeowners will have to protect themselves this fire season 	https://www.sfchronicle.com/opinion/openforum/article/California-homeowners-will-have-to-protect-15411789.php
+Editorial: The cynical case against voting by mail 	https://www.sfchronicle.com/opinion/editorials/article/Editorial-The-cynical-case-against-voting-by-mail-15411536.php
+Editorial: The lesson of Californiaâ€™s rapid return to abnormalcy 	https://www.sfchronicle.com/opinion/editorials/article/Editorial-The-lesson-of-California-s-rapid-15408571.php
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 Former Newsom official bravely discloses struggle with mental... 	https://www.sfchronicle.com/opinion/diaz/article/Former-Newsom-official-bravely-discloses-struggle-15401690.php
 Lenny Mendonca’s account of his struggle with anxiety and depression drew a chorus of praise and respect in the political and business worlds. 	https://www.sfchronicle.com/opinion/diaz/article/Former-Newsom-official-bravely-discloses-struggle-15401690.php
 Willie Brown: Trump is down, but not yet out 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-Trump-is-down-but-not-yet-out-15400424.php
 President Trump has had a lousy week, but some of his problems, especially with the Supreme Court decision on his tax returns, weren’t nearly as... 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-Trump-is-down-but-not-yet-out-15400424.php
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 
+<<<<<<< HEAD
 the : 95
 to : 71
 in : 43
 and : 43
 of : 42
+=======
+the : 100
+to : 74
+in : 44
+and : 42
+of : 41
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 a : 41
 for : 30
 bay : 28
 area : 27
+<<<<<<< HEAD
 as : 22
 with : 20
 coronavirus : 16
@@ -202,11 +317,34 @@ are : 9
 pandemic : 9
 california : 9
 fire : 8
+=======
+as : 23
+with : 19
+coronavirus : 17
+will : 13
+new : 13
+is : 13
+sf : 11
+how : 11
+on : 11
+pandemic : 11
+has : 11
+have : 10
+more : 10
+get : 10
+says : 9
+are : 9
+california : 9
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 at : 8
 this : 8
 from : 8
 restaurants : 8
 when : 8
+<<<<<<< HEAD
+=======
+fire : 7
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 many : 7
 we : 7
 san : 6
@@ -214,11 +352,16 @@ francisco : 6
 about : 6
 wine : 6
 what : 6
+<<<<<<< HEAD
 i : 6
 do : 5
 oakland : 5
 reopen : 5
 after : 5
+=======
+most : 6
+do : 5
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 who : 5
 sales : 5
 it : 5
@@ -227,16 +370,25 @@ over : 5
 down : 5
 reopening : 5
 chronicle : 5
+<<<<<<< HEAD
 city : 5
 us : 5
 nearly : 5
 may : 5
+=======
+us : 5
+nearly : 5
+may : 5
+up : 5
+during : 5
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 its : 5
 open : 5
 by : 5
 look : 5
 food : 5
 heres : 5
+<<<<<<< HEAD
 — : 5
 season : 5
 years : 5
@@ -246,10 +398,22 @@ my : 4
 some : 4
 should : 4
 be : 4
+=======
+â€” : 5
+i : 5
+season : 5
+black : 5
+not : 4
+some : 4
+should : 4
+be : 4
+after : 4
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 control : 4
 an : 4
 them : 4
 test : 4
+<<<<<<< HEAD
 school : 4
 or : 4
 business : 4
@@ -260,16 +424,41 @@ been : 4
 up : 4
 during : 4
 your : 4
+=======
+county : 4
+school : 4
+or : 4
+business : 4
+city : 4
+home : 4
+sfs : 4
+space : 4
+reopen : 4
+been : 4
+your : 4
+oakland : 4
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 can : 4
 face : 4
 giants : 4
 getting : 4
+<<<<<<< HEAD
 most : 4
 than : 4
 right : 4
 before : 4
 his : 4
 past : 3
+=======
+than : 4
+right : 4
+before : 4
+years : 4
+white : 4
+his : 4
+my : 3
+high : 3
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 ceo : 3
 people : 3
 blm : 3
@@ -285,13 +474,17 @@ would : 3
 back : 3
 cases : 3
 rates : 3
+<<<<<<< HEAD
 county : 3
+=======
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 sfpuc : 3
 3 : 3
 june : 3
 streets : 3
 program : 3
 residents : 3
+<<<<<<< HEAD
 space : 3
 steps : 3
 kincade : 3
@@ -300,16 +493,30 @@ power : 3
 whats : 3
 across : 3
 state : 3
+=======
+kincade : 3
+protect : 3
+power : 3
+across : 3
+state : 3
+whats : 3
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 covid-19 : 3
 like : 3
 downtown : 3
 too : 3
+<<<<<<< HEAD
 eight : 3
 businesses : 3
 out : 3
 why : 3
 but : 3
 these : 3
+=======
+businesses : 3
+out : 3
+but : 3
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 where : 3
 key : 3
 national : 3
@@ -319,6 +526,7 @@ cant : 3
 debate : 3
 summer : 3
 now : 3
+<<<<<<< HEAD
 wineries : 3
 that : 3
 officials : 3
@@ -334,6 +542,26 @@ families : 2
 hospitalizations : 2
 employees : 2
 prompts : 2
+=======
+him : 3
+wineries : 3
+that : 3
+californias : 3
+officials : 3
+interactive : 3
+long : 3
+because : 3
+film : 3
+house : 3
+twitter : 3
+trump : 3
+past : 2
+sell : 2
+info : 2
+hospitalizations : 2
+another : 2
+employees : 2
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 dont : 2
 drawing : 2
 every : 2
@@ -373,12 +601,16 @@ record-low : 2
 interest : 2
 slow : 2
 14 : 2
+<<<<<<< HEAD
 part : 2
 socially : 2
 map: : 2
 13 : 2
 becoming : 2
 car-free : 2
+=======
+socially : 2
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 started : 2
 cal : 2
 country : 2
@@ -400,6 +632,10 @@ garnered : 2
 mixed : 2
 reaction : 2
 talked : 2
+<<<<<<< HEAD
+=======
+eight : 2
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 diners : 2
 restaurant : 2
 workers : 2
@@ -407,10 +643,19 @@ their : 2
 theres : 2
 shortage : 2
 thats : 2
+<<<<<<< HEAD
 “serious : 2
 if : 2
 run : 2
 know : 2
+=======
+â€œserious : 2
+if : 2
+run : 2
+know : 2
+why : 2
+these : 2
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 dates : 2
 use : 2
 job : 2
@@ -425,7 +670,10 @@ baseball : 2
 off : 2
 tom : 2
 exploring : 2
+<<<<<<< HEAD
 high : 2
+=======
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 kyle : 2
 trying : 2
 activities : 2
@@ -438,7 +686,10 @@ events : 2
 especially : 2
 outdoors : 2
 anniversary : 2
+<<<<<<< HEAD
 him : 2
+=======
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 clean : 2
 flip-flopping : 2
 group : 2
@@ -448,7 +699,10 @@ permanent : 2
 shelter-in-place : 2
 bigger : 2
 storms : 2
+<<<<<<< HEAD
 californias : 2
+=======
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 seeing : 2
 friends : 2
 family : 2
@@ -468,11 +722,16 @@ taken : 2
 so : 2
 obama : 2
 joe : 2
+<<<<<<< HEAD
+=======
+president : 2
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 nancy : 2
 pelosi : 2
 her : 2
 renters : 2
 need : 2
+<<<<<<< HEAD
 silicon : 2
 leadership : 2
 festival : 2
@@ -482,16 +741,36 @@ good : 2
 house : 2
 serious : 2
 love : 2
+=======
+steps : 2
+silicon : 2
+leadership : 2
+festival : 2
+return : 2
+year : 2
+continues : 2
+bad : 2
+good : 2
+serious : 2
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 idea : 2
 yet : 2
 welcome : 2
 polio : 2
 archive : 2
 world : 2
+<<<<<<< HEAD
 werent : 2
+=======
+made : 2
+dr : 2
+fauci : 2
+editorial: : 2
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 struggle : 2
 trump : 2
 portals : 1
+<<<<<<< HEAD
 settles : 1
 32 : 1
 ghost : 1
@@ -500,16 +779,32 @@ victims : 1
 live : 1
 updates: : 1
 reach : 1
+=======
+live : 1
+updates: : 1
+reach : 1
+record : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 tesla : 1
 admission: : 1
 caught : 1
 work : 1
+<<<<<<< HEAD
 highway : 1
 4 : 1
 lanes : 1
 homeless : 1
 encampment : 1
 closure : 1
+=======
+vegetation : 1
+forces : 1
+highway : 1
+4 : 1
+close : 1
+near : 1
+pittsburg : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 salesforce : 1
 benioff : 1
 wear : 1
@@ -541,7 +836,10 @@ supervisors : 1
 tabled : 1
 earlier : 1
 pitted : 1
+<<<<<<< HEAD
 another : 1
+=======
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 enthusiasts : 1
 politicians : 1
 prioritizing : 1
@@ -604,9 +902,17 @@ rose : 1
 36% : 1
 adds : 1
 roadways : 1
+<<<<<<< HEAD
 closing : 1
 through : 1
 traffic : 1
+=======
+free : 1
+closing : 1
+through : 1
+traffic : 1
+part : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 aims : 1
 give : 1
 distant : 1
@@ -619,6 +925,10 @@ taking : 1
 pg&e : 1
 equipment : 1
 2019 : 1
+<<<<<<< HEAD
+=======
+sonoma : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 prompted : 1
 massive : 1
 evacuations : 1
@@ -632,8 +942,13 @@ blaze : 1
 spark : 1
 burned : 1
 mountain: : 1
+<<<<<<< HEAD
 see : 1
 wildfires : 1
+=======
+wildfires : 1
+see : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 ravages : 1
 body : 1
 owners : 1
@@ -647,7 +962,11 @@ clogged : 1
 reflecting : 1
 nationwide : 1
 causing : 1
+<<<<<<< HEAD
 situation” : 1
+=======
+situationâ€ : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 number : 1
 happens : 1
 hospitals : 1
@@ -697,6 +1016,10 @@ all-glove : 1
 label : 1
 earn : 1
 starts : 1
+<<<<<<< HEAD
+=======
+prompts : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 wcc : 1
 halt : 1
 sports : 1
@@ -907,7 +1230,11 @@ unwelcome : 1
 feedback : 1
 politically : 1
 powerful : 1
+<<<<<<< HEAD
 concerns” : 1
+=======
+concernsâ€ : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 waterfront : 1
 ballpark : 1
 plan : 1
@@ -1059,7 +1386,10 @@ bottlerock : 1
 2020 : 1
 officially : 1
 canceled : 1
+<<<<<<< HEAD
 return : 1
+=======
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 next : 1
 scheduled : 1
 headliners : 1
@@ -1078,7 +1408,10 @@ sfmoma : 1
 curator : 1
 resigns : 1
 upheaval : 1
+<<<<<<< HEAD
 continues : 1
+=======
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 screen : 1
 depictions : 1
 reflect : 1
@@ -1131,6 +1464,10 @@ guide : 1
 virtual : 1
 distanced : 1
 does : 1
+<<<<<<< HEAD
+=======
+love : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 much : 1
 loves : 1
 benefited : 1
@@ -1144,6 +1481,13 @@ adopt : 1
 wild : 1
 horse : 1
 $1 : 1
+<<<<<<< HEAD
+=======
+map: : 1
+13 : 1
+becoming : 1
+car-free : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 throughline: : 1
 series : 1
 tomorrow : 1
@@ -1199,7 +1543,6 @@ era : 1
 50 : 1
 prides : 1
 50th : 1
-made : 1
 peace : 1
 came : 1
 create : 1
@@ -1212,6 +1555,7 @@ classic : 1
 front : 1
 pages : 1
 subscription : 1
+<<<<<<< HEAD
 caille : 1
 millner: : 1
 im : 1
@@ -1230,6 +1574,20 @@ repertoire : 1
 malpractice : 1
 dr : 1
 fauci : 1
+=======
+malpractice : 1
+toll : 1
+mount : 1
+picked : 1
+unlikely : 1
+target : 1
+attack: : 1
+anthony : 1
+whose : 1
+straight : 1
+talk : 1
+trusted : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 secret : 1
 not-so-saintly : 1
 history : 1
@@ -1238,11 +1596,19 @@ serra : 1
 statues : 1
 homeowners : 1
 themselves : 1
+<<<<<<< HEAD
 editorial: : 1
+=======
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 cynical : 1
 case : 1
 voting : 1
 mail : 1
+<<<<<<< HEAD
+=======
+rapid : 1
+abnormalcy : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8
 former : 1
 newsom : 1
 official : 1
@@ -1268,3 +1634,7 @@ supreme : 1
 court : 1
 decision : 1
 returns : 1
+<<<<<<< HEAD
+=======
+werent : 1
+>>>>>>> ae05d4721e55da92960c17083e9e3290467677e8

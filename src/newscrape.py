@@ -21,16 +21,18 @@ NEWS (object)
 
 """ CLASS FUNCTIONS AND DEFINITIONS """
 # news headline objects
-
-
 class News:
     def __init__(self, paper):
         self.paper = paper
         self.keywords = []
+        self.headlines = []
         self.wordbank = {}
 
     def addKeyword(self, keyword):
         self.keywords.append(keyword)
+
+    def addHeadline(self, headline):
+        self.headlines.append(headline)
 
     def findKeyword(self, word):
         for kw in self.keywords:
@@ -88,7 +90,7 @@ class News:
             f.write(index[0] + " : " + str(index[1]) + '\n')
         f.close()
 
-
+# keyword object
 class Keyword:
     def __init__(self, keyword):
         self.word = keyword
@@ -108,8 +110,6 @@ class Keyword:
 
 """ WEBSCRAPING FUNCTIONS """
 # https://www.sfchronicle.com/
-
-
 def sfscrape():
     # scrapes sf chronicle
     r1 = requests.get('https://www.sfchronicle.com/')
@@ -132,6 +132,10 @@ def sfscrape():
             hurl = urljoin(base, hurl)
         # removes excess spaces
         headlines = headlines.getText().split()
+        hl = ""
+        for word in headlines:
+            hl += word + " "
+        sfc.addHeadline(hl)
         # skip single word 'headlines'
         if (len(headlines) <= 3):
             continue
@@ -151,8 +155,6 @@ def sfscrape():
     return sfc
 
 # https://www.nytimes.com/
-
-
 def nytscrape():
     # scrapes new york times
     r1 = requests.get('https://www.nytimes.com/')
@@ -172,6 +174,10 @@ def nytscrape():
     for headlines in bs_nyt:
         # reformats the headline, take out spaces
         headline = headlines.getText().split()
+        hl = ""
+        for word in headline:
+            hl += word + " "
+        nyt.addHeadline(hl)
         # ignore 'headlines' if too short, takes out dumb things
         if (len(headline) <= 3):
             continue
@@ -201,8 +207,6 @@ def nytscrape():
 
 
 """ MAIN FUNCTION """
-
-
 def main():
     # calling webscraping scripts
     print("[*] Starting New York Times ... ")
