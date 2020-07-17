@@ -11,8 +11,8 @@ run:
 			@echo "[*] [++++++++++ NewsCloud ++++++++++]"
 			export FLASK_ENV=newscloud
 			export FLASK_APP=main-flask.py
-			#python -m flask run --host=0.0.0.0
 			python -m flask run
+			#python -m flask run --host=0.0.0.0
 
 cl:
 			python3 main-cl.py

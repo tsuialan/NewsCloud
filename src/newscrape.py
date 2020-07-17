@@ -93,6 +93,8 @@ class News:
         f.close()
 
 # keyword object
+
+
 class Keyword:
     def __init__(self, keyword):
         self.word = keyword
@@ -110,10 +112,13 @@ class Keyword:
         self.urls.append(url)
 
 # headline object
+
+
 class Headline:
     def __init__(self, h, u):
         self.headline = h
         self.url = u
+
 
 """ WEBSCRAPING FUNCTIONS """
 # https://www.sfchronicle.com/
@@ -139,17 +144,18 @@ def sfscrape():
         if ('https://' not in hurl):
             base = 'https://www.sfchronicle.com/'
             hurl = urljoin(base, hurl)
-        # removes excess spaces
+        # removes excess spaces, SPLITS
         headlines = headlines.getText().split()
+        # combines
         hl = ""
         for word in headlines:
             hl += word + " "
-        H = Headline(hl, hurl)
-        sfc.addHeadline(H)
         # skip single word 'headlines'
         if (len(headlines) <= 3):
             continue
         # get keywords
+        H = Headline(hl, hurl)
+        sfc.addHeadline(H)
         sfc.genkeywords(headlines, hurl)
         # reformats headline text
         hl = ""
@@ -203,9 +209,6 @@ def nytscrape():
         for word in headline:
             hl += word + " "
         H = Headline(hl, hurl)
-        print("{EENINASDKNLJALDKSJKLSPENINS")
-        print(H.headline)
-        print(H.url)
         nyt.addHeadline(H)
         # get keywords
         nyt.genkeywords(headline, hurl)
