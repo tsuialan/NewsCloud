@@ -8,7 +8,8 @@ by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/ga
 - Flask
   - link keyword to headlines
 - NewScrape
-  - rewrite object classes to make it more intuitive
+  - need to specify html classes
+  - add more newspaper sites
 - NewsCloud
   - word cloud python implementation
   - matplotlib to html port

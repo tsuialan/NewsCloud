@@ -51,7 +51,10 @@ def main():
             # get headline
             keyword = newslist[sindex].keywords[kindex]
             for headline in keyword.headlines:
-                print("[*] " + str(kcounter) + ": " + headline)
+                print("PENIS")
+                print(keyword.word)
+                print(headline.headline)
+                print("[*] " + str(kcounter) + ": " + headline.headline)
                 kcounter += 1
             uindex = "0"
             while (1):
@@ -63,7 +66,7 @@ def main():
                 if (uindex == "Q"):
                     return 0
                 uindex = int(uindex) - 1
-                url = keyword.urls[uindex]
+                url = keyword.headlines[uindex].url
                 # open selected headline in broweser
                 webbrowser.open(url)
 
