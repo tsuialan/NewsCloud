@@ -31,13 +31,15 @@ Headlines Object
 """ CLASS OBJECTS """
 
 # NEWS OBJECT
+
+
 class News:
     # default constructor
     def __init__(self, paper):
-            self.paper = paper
-            self.keywords = []
-            self.headlines = []
-            self.wordbank = {}
+        self.paper = paper
+        self.keywords = []
+        self.headlines = []
+        self.wordbank = {}
 
     # adds Keyword object to keword list
     def addKeyword(self, keyword):
@@ -107,6 +109,8 @@ class News:
         f.close()
 
 # KEYWORD OBJECT
+
+
 class Keyword:
     # default constuctor
     def __init__(self, keyword, frequency):
@@ -122,16 +126,21 @@ class Keyword:
     def addHeadline(self, headline):
         self.headlines.append(headline)
 
-# HEADLINE OBJECT       // contains headline (str) and url 
+# HEADLINE OBJECT       // contains headline (str) and url
+
+
 class Headline:
     # default constructor
     def __init__(self, h, u):
         self.headline = h
         self.url = u
 
+
 """ WEBSCRAPING FUNCTIONS """
 
 # scrapes new york times
+
+
 def nytscrape():
     # scrapes new york times
     r1 = requests.get('https://www.nytimes.com/')
@@ -176,12 +185,14 @@ def nytscrape():
     f.write('\n')
     f.close()
 
-    # sort dictionary 
+    # sort dictionary
     nyt.sortDictionary(tfile)
     # returns news object
     return nyt
 
 # scrapes sf chroncile
+
+
 def sfcscrape():
     # scrapes sf chronicle
     r1 = requests.get('https://www.sfchronicle.com/')
@@ -226,13 +237,15 @@ def sfcscrape():
     f.write('\n')
     f.close()
 
-    # sort dictionary 
+    # sort dictionary
     sfc.sortDictionary(tfile)
     # returns news object
     return sfc
 
+
 """ MAIN FUNCTION """
-    
+
+
 def main():
     # calling webscraping functions
     print("[*] Starting New York Times ... ")
@@ -246,6 +259,7 @@ def main():
     newslist.append(sfc)
     # returns list
     return newslist
+
 
 # main name thing
 if __name__ == '__main__':

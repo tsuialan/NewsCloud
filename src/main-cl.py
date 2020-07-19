@@ -51,9 +51,6 @@ def main():
             # get headline
             keyword = newslist[sindex].keywords[kindex]
             for headline in keyword.headlines:
-                print("PENIS")
-                print(keyword.word)
-                print(headline.headline)
                 print("[*] " + str(kcounter) + ": " + headline.headline)
                 kcounter += 1
             uindex = "0"

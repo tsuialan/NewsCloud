@@ -30,9 +30,12 @@ def main():
         print("bad news")
     return render_template('index.html', list=[], url=[])
 
+
 """
 Helper function to zip the headline and url together
 """
+
+
 def get_head_url(headlines):
     head = []
     urls = []
