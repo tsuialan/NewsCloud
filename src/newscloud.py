@@ -11,10 +11,21 @@ import pandas as pd
 def setFont():
     News = ns.main()
     print(News[0].wordbank)
-    numWords = 0
-    for words in News[0].wordbank:
-        numWords += 1 
-    print(numWords)
+    Words = []
+    freq = []
+
+
+    for Tuple in News[0].wordbank:
+        (wrd, frq) = Tuple
+        Words.append(wrd)
+        freq.append(frq)
+    
+        
+   #df = pd.DataFrame()
+
+   #get unique values of the freq and assign font sizes based off it
+
+    
 
 if __name__ == '__main__':
     setFont()
