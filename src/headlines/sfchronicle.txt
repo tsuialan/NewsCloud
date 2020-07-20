@@ -1,779 +1,839 @@
 Portals of the Past 	http://www.sfchronicle.com/local/portalsofthepast/
-Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
-Coronavirus live updates: Bay Area hospitalizations reach another record high 	https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
-Tesla admission: Some employees caught the coronavirus at work 	https://www.sfchronicle.com/business/article/Tesla-admission-Some-employees-caught-the-15414115.php
-Vegetation fire forces Highway 4 to close near Pittsburg 	https://www.sfchronicle.com/california-wildfires/article/Vegetation-fire-forces-Highway-4-to-close-near-15414014.php
-Salesforce CEO Benioff says people who don’t wear masks should be fined 	https://www.sfchronicle.com/business/article/Salesforce-CEO-Benioff-says-people-who-don-t-15413825.php
-Man charged with drawing gun in dispute at BLM mural in Martinez 	https://www.sfchronicle.com/bayarea/article/Man-charged-with-drawing-gun-in-dispute-at-Black-15413710.php
-SF police commission votes to install BLM posters in every station 	https://www.sfchronicle.com/crime/article/San-Francisco-police-commission-votes-to-install-15413061.php
-Push to save Caltrain gets second chance; SF supe says he’ll fight for tax measure 	https://www.sfchronicle.com/bayarea/article/Push-to-save-Caltrain-gets-a-second-chance-SF-15414292.php
-Supervisor Matt Haney said he will attempt to resurrect the sales tax measure Tuesday after two San Francisco supervisors tabled it earlier this week. The fight pitted counties against one another, and transit enthusiasts against politicians prioritizing local control over seamless regional transportation. 	https://www.sfchronicle.com/bayarea/article/Push-to-save-Caltrain-gets-a-second-chance-SF-15414292.php
-Advocates: Caltrain shutdown would mean disaster for Bay Area 	https://www.sfchronicle.com/bayarea/article/Caltrain-derailed-Advocates-predict-shutdown-15411557.php
-Bay Area struggles with surge as economies shut back down 	https://www.sfchronicle.com/bayarea/article/Bay-Area-counties-struggle-with-the-surging-15414343.php
-Dozens of counties are struggling to control an uptick in cases and hospitalizations, weeks after many of them emerged from lockdown. 	https://www.sfchronicle.com/bayarea/article/Bay-Area-counties-struggle-with-the-surging-15414343.php
-Charts show how positive test rates have roller-coastered in Bay Area 	https://www.sfchronicle.com/bayarea/article/Charts-show-how-coronavirus-positive-test-rates-15411816.php
-Confused about new restrictions? The latest on each county 	https://www.sfchronicle.com/bayarea/article/Confused-about-reopening-in-the-Bay-Area-15389734.php
-School districts’ reopening plans: Online classes, in-person or both 	https://www.sfchronicle.com/bayarea/article/Will-your-Bay-Area-school-be-online-in-person-or-15405870.php
-SFPUC chief had past financial ties to agency contractor 	https://www.sfchronicle.com/bayarea/article/SFPUC-chief-had-past-financial-ties-to-agency-15414335.php
-The longstanding friendship between Halran Kelly and Melanie Lok, including a business relationship, raises questions about the integrity of the multi-million-dollar contract Lok’s firm secured with the SFPUC in 2012, according to a Chronicle investigation. 	https://www.sfchronicle.com/bayarea/article/SFPUC-chief-had-past-financial-ties-to-agency-15414335.php
-3 more city departments hit with subpoenas in expanding Nuru probe 	https://www.sfchronicle.com/bayarea/article/3-more-San-Francisco-city-departments-hit-with-15410491.php
-U.S. attorney hits SFPUC with subpoena as corruption investigation widens 	https://www.sfchronicle.com/bayarea/article/U-S-attorney-hits-SFPUC-with-subpoena-as-SF-City-15400910.php
-Bay Area home sales surged nearly 70% from May to June; prices rose 3.6% 	https://www.sfchronicle.com/business/networth/article/Stunning-rebound-Bay-Area-home-sales-surged-15413833.php
-After falling sharply for three months, Bay Area home sales rebounded in June thanks to pent-up demand and record-low interest rates. 	https://www.sfchronicle.com/business/networth/article/Stunning-rebound-Bay-Area-home-sales-surged-15413833.php
-SF’s Slow Streets program adds 14 more roadways to free up space during pandemic 	https://www.sfchronicle.com/bayarea/article/SF-s-Slow-Streets-program-adds-14-more-roadways-15413606.php
-San Francisco is closing 14 more streets to through traffic as part of its Slow Streets program. The program aims to give residents more space for socially distant exercise and get to essential services without driving or taking transit. 	https://www.sfchronicle.com/bayarea/article/SF-s-Slow-Streets-program-adds-14-more-roadways-15413606.php
-PG&E equipment started 2019 Kincade Fire in Sonoma County, Cal Fire says 	https://www.sfchronicle.com/california-wildfires/article/PG-E-started-2019-Kincade-Fire-in-Sonoma-County-15414134.php
-The Kincade Fire prompted massive evacuations and an intense firefight to protect Wine Country communities. Cal Fire says PG&E’s power infrastructure caused the blaze. 	https://www.sfchronicle.com/california-wildfires/article/PG-E-started-2019-Kincade-Fire-in-Sonoma-County-15414134.php
-A Spark on Burned Mountain: How the Kincade Fire started 	https://projects.sfchronicle.com/2019/kincade-fire-origin/
-The latest on wildfires across the state 	https://projects.sfchronicle.com/trackers/california-fire-map/
+Do Not Sell My Info 	https://www.nytimes.com/mydata/
+Coronavirus live updates: Bay Area hospitalizations have tripled in a month 	https://www.nytimes.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
+San Francisco’s City Hall to be lit in honor of Rep. John Lewis 	https://www.nytimes.com/bayarea/article/San-Francisco-s-City-Hall-to-be-lit-in-honor-of-15418254.php
+Sonoma speedway hosts 1,000-person drag racing competition 	https://www.nytimes.com/bayarea/article/1-000-drag-racers-and-their-crews-return-to-15418076.php
+Giants’ Watson overcomes shoulder issue, vows to be ready for opener 	https://www.nytimes.com/giants/article/Giants-Tony-Watson-overcomes-shoulder-issue-15418184.php
+2nd Moraga animal attack in 8 days — was it another coyote? 	https://www.nytimes.com/bayarea/article/2nd-Moraga-animal-attack-in-8-days-was-it-15418038.php
+Healdsburg garden spread once called Noci Sonoma goes on auction block 	https://www.nytimes.com/business/networth/article/Healdsburg-garden-spread-once-called-Noci-Sonoma-15417021.php
+Impossible Burger cookbook essentially a corporate ad — but a good one 	https://www.nytimes.com/recipes/article/New-Impossible-Burger-cookbook-is-essentially-a-15415983.php
+Yosemite was spared from coronavirus. Then they tested the sewage 	https://www.nytimes.com/health/article/There-were-no-reports-of-coronavirus-in-Yosemite-15414351.php
+Concern grows in San Mateo County over potential state shutdown 	https://www.nytimes.com/bayarea/article/Concern-grows-in-San-Mateo-County-over-potential-15418141.php
+As of Saturday, San Mateo County remains the only Bay Area county not on the state’s watch list of places struggling to contain the coronavirus spread. 	https://www.nytimes.com/bayarea/article/Concern-grows-in-San-Mateo-County-over-potential-15418141.php
+Do Bay Area hospital workers have enough PPE? 	https://www.nytimes.com/health/article/Do-Bay-Area-hospital-workers-have-enough-15417026.php
+San Francisco lands on California’s watch list as hospitalizations spike 	https://www.nytimes.com/bayarea/article/San-Francisco-lands-on-California-s-watch-list-15416124.php
+With coronavirus antibodies fading fast, vaccine hopes fade, too 	https://www.nytimes.com/health/article/With-coronavirus-antibodies-fading-fast-focus-15414533.php
+Reopening: See what’s open, what’s still shut down by county 	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
+California progressives help move Biden left on some issues, but not all 	https://www.nytimes.com/politics/article/California-progressives-are-moving-Biden-left-on-15417077.php
+Joe Biden is moving left a bit on health care and the environment, but not on criminal justice. It’s not just progressives who are pushing him that way, it’s the coronavirus pandemic. 	https://www.nytimes.com/politics/article/California-progressives-are-moving-Biden-left-on-15417077.php
+Willie Brown: It’s not in the bag for Joe Biden. Far from it 	https://www.nytimes.com/bayarea/williesworld/article/Willie-Brown-It-s-not-in-the-bag-for-Joe-15416772.php
+Relax, Obama strategist tells Democrats: Biden should stay in his basement 	https://www.nytimes.com/politics/article/Relax-Obama-strategist-tells-Democrats-Joe-15411579.php
+How to take advantage of national parks in California during pandemic 	https://www.nytimes.com/outdoors/stienstra/article/How-to-take-advantage-of-national-parks-in-15413117.php
+During the strangest year ever for national parks, there are hidden portals into Yosemite and other national parks in California that can still save a vacation. 	https://www.nytimes.com/outdoors/stienstra/article/How-to-take-advantage-of-national-parks-in-15413117.php
+8 rules for summer travel during coronavirus pandemic 	https://www.nytimes.com/bayarea/article/8-rules-for-summer-travel-during-coronavirus-15400455.php
+Guide: Where to hike, run, and get outside right now in Bay Area 	https://projects.sfchronicle.com/guides/outdoors-guide/
+SF is ousting last boat at Fisherman’s Wharf that sells seafood to public 	https://www.nytimes.com/food/article/No-longer-allowed-to-sell-fish-to-the-public-the-15416962.php
+Giuseppe Pennisi, the subject of The Chronicle story “The Fisherman’s Secret,” is looking for a new harbor to call home. 	https://www.nytimes.com/food/article/No-longer-allowed-to-sell-fish-to-the-public-the-15416962.php
+Killings in Bay Area up 14% in first half of 2020 as Vallejo homicides spike 	https://www.nytimes.com/crime/article/Killings-in-Bay-Area-up-14-in-first-half-of-2020-15416379.php
+While reports of robberies, rapes and smash-and-grab auto burglaries fell in the region’s largest cities, the most serious of violent crimes crept up 14% over the first half of 2020, with one East Bay city’s rash of killings helping to drive the increased bloodshed. 	https://www.nytimes.com/crime/article/Killings-in-Bay-Area-up-14-in-first-half-of-2020-15416379.php
+Bay Area districts scramble to improve distance learning after spring’s chaotic rollout 	https://www.nytimes.com/education/article/We-have-to-do-better-Bay-Area-districts-15417170.php
+With millions of state students heading into a new school year with distance-only education, officials say they have to better meet the needs of all students from afar. 	https://www.nytimes.com/education/article/We-have-to-do-better-Bay-Area-districts-15417170.php
+Most schools will be blocked from reopening classrooms under Newsom order 	https://www.nytimes.com/politics/article/Many-California-schools-will-be-blocked-from-15416226.php
 See what’s open and what’s still shut down by county 	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
+Bay Area Outdoors Guide: What's open near you 	https://projects.sfchronicle.com/guides/outdoors-guide/
 How COVID-19 ravages the body 	https://projects.sfchronicle.com/2020/virus-organs-graphic/
 Changes restaurants may make to reopen 	https://projects.sfchronicle.com/2020/future-of-restaurants/
 What school will look like with pandemic protocols 	https://projects.sfchronicle.com/2020/schools-pandemic-protocols-graphic/
 The micro-hood, a new vision for downtown SF 	https://projects.sfchronicle.com/2020/welcome-to-the-micro-hood-graphic/
-Have we reopened too soon? Bay Area food community weighs in 	https://www.sfchronicle.com/restaurants/article/Are-we-reopening-too-soon-Bay-Area-diners-and-15407625.php
-While the Bay Area has slowly been allowing restaurants to reopen, the process has garnered a mixed reaction. We talked to eight diners, restaurant owners and workers to get their perspectives. 	https://www.sfchronicle.com/restaurants/article/Are-we-reopening-too-soon-Bay-Area-diners-and-15407625.php
-Yes, there’s a coin shortage in the Bay Area. Here’s what’s going on 	https://www.sfchronicle.com/bayarea/article/Yes-there-s-a-coin-shortage-in-the-Bay-Area-15411810.php
-The flow of coins in the Bay Area has clogged up during the pandemic — reflecting a nationwide shortage that’s causing a “serious situation” for a number of businesses. 	https://www.sfchronicle.com/bayarea/article/Yes-there-s-a-coin-shortage-in-the-Bay-Area-15411810.php
-Here’s what happens if Bay Area hospitals run out of space 	https://www.sfchronicle.com/health/article/Here-s-what-happens-if-Bay-Area-hospitals-run-out-15411247.php
-Don’t know your blood type? Here's how to find it, and why it matters 	https://www.sfchronicle.com/bayarea/article/Don-t-know-your-blood-type-Here-s-how-to-find-15407935.php
-Oakland Zoo gets OK to reopen: ‘This gives us a chance to survive’ 	https://www.sfchronicle.com/bayarea/article/Oakland-Zoo-gets-OK-to-reopen-This-gives-us-a-15411225.php
-Overall crime in SF is down. But these crimes are up 	https://www.sfchronicle.com/bayarea/article/Which-crimes-are-up-down-in-SF-during-15408485.php
-SF reopening timeline: Dates when restaurants, schools can open 	https://www.sfchronicle.com/bayarea/article/SF-reopening-calendar-Dates-when-restaurants-15301361.php
-Face masks: When and how to use them 	https://www.sfchronicle.com/news/article/Coronavirus-FAQ-Should-you-wear-a-face-mask-15147298.php
-Should I get a test? Will testing ramp up? 	https://www.sfchronicle.com/health/article/Do-you-need-to-be-tested-for-coronavirus-and-15154779.php
-Where can I get a test in the Bay Area? 	https://www.sfchronicle.com/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php
-What to do if symptoms show up 	https://www.sfchronicle.com/bayarea/article/Coronavirus-or-not-What-to-do-if-symptoms-show-up-15112413.php
-Updates on transit and parking 	https://www.sfchronicle.com/bayarea/article/Bay-Area-coronavirus-shutdown-What-you-need-to-15135704.php
-When will California have ‘herd immunity’? 	https://www.sfchronicle.com/science/article/Coronavirus-FAQ-Is-it-possible-to-be-reinfected-15154426.php
+101 inmates infected in Santa Rita Jail’s largest coronavirus outbreak 	https://www.nytimes.com/bayarea/article/101-inmates-infected-in-Santa-Rita-Jail-s-15417138.php
+More than 100 inmates at Santa Rita Jail are infected with coronavirus after it spread unseen from bunk-to-bunk and cell-to-cell this week, marking the jail’s largest outbreak. 	https://www.nytimes.com/bayarea/article/101-inmates-infected-in-Santa-Rita-Jail-s-15417138.php
+Charts show how positive test rates have roller-coastered in Bay Area 	https://www.nytimes.com/bayarea/article/Charts-show-how-coronavirus-positive-test-rates-15411816.php
+Some with COVID-19 couldn’t stay home, until SF started paying them 	https://www.nytimes.com/bayarea/heatherknight/article/I-feel-desperate-Some-workers-with-COVID-15414563.php
+Don’t know your blood type? Here's how to find it, and why it matters 	https://www.nytimes.com/bayarea/article/Don-t-know-your-blood-type-Here-s-how-to-find-15407935.php
+Bay Area students eyeing college fret over ACT’s testing struggles 	https://www.nytimes.com/education/article/Bay-Area-high-school-students-eyeing-college-fret-15414756.php
+See the latest on reopening in each county 	https://www.nytimes.com/bayarea/article/Confused-about-reopening-in-the-Bay-Area-15389734.php
+Bay Area school districts’ reopening plans 	https://www.nytimes.com/bayarea/article/Will-your-Bay-Area-school-be-online-in-person-or-15405870.php
+Face masks: When and how to use them 	https://www.nytimes.com/news/article/Coronavirus-FAQ-Should-you-wear-a-face-mask-15147298.php
+Should I get a test? Will testing ramp up? 	https://www.nytimes.com/health/article/Do-you-need-to-be-tested-for-coronavirus-and-15154779.php
+Where can I get a test in the Bay Area? 	https://www.nytimes.com/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php
+What to do if symptoms show up 	https://www.nytimes.com/bayarea/article/Coronavirus-or-not-What-to-do-if-symptoms-show-up-15112413.php
+Updates on transit and parking 	https://www.nytimes.com/bayarea/article/Bay-Area-coronavirus-shutdown-What-you-need-to-15135704.php
+When will California have ‘herd immunity’? 	https://www.nytimes.com/science/article/Coronavirus-FAQ-Is-it-possible-to-be-reinfected-15154426.php
 Regional database for job cuts by company and city 	https://projects.sfchronicle.com/2020/layoff-tracker/
-Giants, A’s infection-control staff face ‘nearly impossible’ task 	https://www.sfchronicle.com/sports/annkillion/article/Giants-A-s-infection-control-staff-face-15413855.php
-In the season of coronavirus, the Infection Control Prevention Coordinator may be the key to getting this shortened baseball season off the ground. 	https://www.sfchronicle.com/sports/annkillion/article/Giants-A-s-infection-control-staff-face-15413855.php
-Tom Hanks among the options A’s are exploring for in-game sound 	https://www.sfchronicle.com/athletics/article/Sounds-of-the-Coliseum-during-A-s-games-to-15411535.php
-Giants sign Concord high school pitcher Kyle Harrison for $2.5M bonus 	https://www.sfchronicle.com/giants/article/Giants-sign-Concord-high-school-pitcher-Kyle-15413640.php
-Giants’ Yolmer Sanchez trying to shed all-glove label, earn more starts 	https://www.sfchronicle.com/giants/article/Giants-Yolmer-Sanchez-trying-to-shed-all-glove-15413553.php
-Coronavirus prompts WCC to halt most sports activities until Sept. 24 	https://www.sfchronicle.com/collegesports/article/Coronavirus-forces-WCC-to-halt-all-sports-15413505.php
-Campfire bans coming to public lands across California 	https://www.sfchronicle.com/bayarea/article/Campfire-bans-coming-to-public-lands-across-state-15405498.php
-U.S. National Parks, U.S. Forest Service and California State Parks are banning campfires in many parks, across more than 100 wilderness areas, and in 19 million acres of national forests. 	https://www.sfchronicle.com/bayarea/article/Campfire-bans-coming-to-public-lands-across-state-15405498.php
-Pacific Crest Trail can’t escape coronavirus debate 	https://www.sfchronicle.com/travel/article/To-hike-or-not-to-hike-Pacific-Crest-Trail-15382815.php
-8 rules for summer travel during coronavirus pandemic 	https://www.sfchronicle.com/bayarea/article/8-rules-for-summer-travel-during-coronavirus-15400455.php
-Hike-in campsites reopening around the Bay Area 	https://www.sfchronicle.com/bayarea/article/Hike-in-campsites-reopening-around-the-Bay-Area-15389910.php
-Guide: Where to hike, run, and get outside right now 	https://projects.sfchronicle.com/guides/outdoors-guide/
-Steve Kerr, Gabe Kapler, Kyle Shanahan: West Coast style... 	https://www.sfchronicle.com/sports/ostler/article/Steve-Kerr-Gabe-Kapler-Kyle-Shanahan-West-15411432.php
-Introducing a new classification for coaches and managers: West Co a st. Who fits the mold and who doesn’t? We discuss Steve Kerr of the Golden... 	https://www.sfchronicle.com/sports/ostler/article/Steve-Kerr-Gabe-Kapler-Kyle-Shanahan-West-15411432.php
-It’s time to stop playing the national anthem at every... 	https://www.sfchronicle.com/sports/jenkins/article/It-s-time-to-stop-playing-the-national-anthem-15407986.php
-There’s no reason to play “The Star-Spangled Banner” at sporting events, especially before empty stands during the pandemic. It would retain... 	https://www.sfchronicle.com/sports/jenkins/article/It-s-time-to-stop-playing-the-national-anthem-15407986.php
-Giants’, A’s infection-control staff face ‘nearly... 	https://www.sfchronicle.com/sports/annkillion/article/Giants-A-s-infection-control-staff-face-15413855.php
-In the season of coronavirus, the Infection Control Prevention Coordinator may be the key to getting this shortened baseball season off the... 	https://www.sfchronicle.com/sports/annkillion/article/Giants-A-s-infection-control-staff-face-15413855.php
-Ten life-and-death moments in 40 years in the outdoors 	https://www.sfchronicle.com/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
-On Tom Stienstra’s 40th anniversary as the outdoors writer for The Chronicle, editors asked him to describe the most provocative encounters of... 	https://www.sfchronicle.com/bayarea/article/Ten-life-and-death-moments-in-columnist-Tom-15366643.php
-Cameron Diaz's new 'clean' wine meets none of the natural wine standards 	https://www.sfchronicle.com/wine/article/Cameron-Diaz-s-new-clean-wine-Avaline-meets-15414046.php
-Avaline, the new wine from actress Diaz and fashion CEO Katherine Power, is billing itself as a clean and transparent alternative to the wine you’re already drinking. 	https://www.sfchronicle.com/wine/article/Cameron-Diaz-s-new-clean-wine-Avaline-meets-15414046.php
-Napa's wineries feel the squeeze over flip-flopping opening restrictions 	https://www.sfchronicle.com/wine/article/It-sends-the-wrong-message-Napa-vintners-15407926.php
-Tomalley Butter Lobster Roll is like a summer vacation in Maine 	https://www.sfchronicle.com/recipes/article/Tomalley-Butter-Lobster-Roll-is-like-a-summer-15413597.php
-Judge says foie gras is legal to eat in California in confusing ruling 	https://www.sfchronicle.com/food/article/Foie-gras-is-legal-to-serve-again-in-California-15408615.php
-SF bar group is planning to turn spaces into fancy liquor stores 	https://www.sfchronicle.com/food/article/As-reopening-stalls-a-big-SF-bar-group-is-15411334.php
+A’s add auxiliary dugout, bullpen space to allow for physical distancing 	https://www.nytimes.com/athletics/article/A-s-add-auxiliary-dugout-bullpen-space-to-15417169.php
+The A’s installed tents in the stands behind dugouts and bullpens at the Coliseum to serve as auxiliary seating for players and personnel. 	https://www.nytimes.com/athletics/article/A-s-add-auxiliary-dugout-bullpen-space-to-15417169.php
+‘We feel good about Frankie’: A’s name Montas Opening Night starter 	https://www.nytimes.com/athletics/article/A-s-Frankie-Montas-named-Opening-Night-starter-15418085.php
+July 18, 2014: Donaldson’s 3-run HR in 9th gives A’s win over Orioles 	https://www.nytimes.com/athletics/article/July-18-2014-Josh-Donaldson-s-3-run-HR-in-9th-15416782.php
+Bay Area baseball broadcasters mull just how far to push artificial noise 	https://www.nytimes.com/giants/jenkins/article/Bay-Area-baseball-broadcasters-mull-just-how-far-15416722.php
+SJSU football coach connects hundreds of Black coaches over Zoom 	https://www.nytimes.com/sports/annkillion/article/San-Jose-State-football-coach-connects-hundreds-15416562.php
+Broadcaster’s new reality: In empty park, calling Giants in Oakland 	https://www.nytimes.com/giants/jenkins/article/Broadcaster-s-new-reality-In-an-empty-Oracle-15417805.php
+It will be different, probably maddening at times, but the Giants and A’s broadcasters make it clear they’re looking forward to a very different kind of workplace. 	https://www.nytimes.com/giants/jenkins/article/Broadcaster-s-new-reality-In-an-empty-Oracle-15417805.php
+Joey Bart should be in Giants’ Opening Night lineup 	https://www.nytimes.com/giants/ostler/article/Joey-Bart-should-be-in-the-Giants-lineup-on-15414712.php
+Breaking down Giants’ hitting, pitching for 2020: 60 games, 60 lineups? 	https://www.nytimes.com/giants/article/Breaking-down-Giants-hitting-pitching-for-15416784.php
+Breaking down A’s hitting, pitching: Team can inflict some damage 	https://www.nytimes.com/athletics/article/Breaking-down-A-s-hitting-pitching-for-2020-15414463.php
+A .400 hitter? Giants contending? Weird MLB season awaits, asterisk or not 	https://www.nytimes.com/giants/shea/article/A-400-hitter-Giants-contending-Weird-MLB-15414278.php
+Joey Bart should be in Giants’ Opening Night lineup, but... 	https://www.nytimes.com/giants/ostler/article/Joey-Bart-should-be-in-the-Giants-lineup-on-15414712.php
+The San Francisco Giants are indicating that catcher Joey Bart will open the season on the JV squad in Sacramento. That would be a mistake. 	https://www.nytimes.com/giants/ostler/article/Joey-Bart-should-be-in-the-Giants-lineup-on-15414712.php
+Broadcaster’s new reality: In an empty Oracle Park, calling... 	https://www.nytimes.com/giants/jenkins/article/Broadcaster-s-new-reality-In-an-empty-Oracle-15417805.php
+It will be different, probably maddening at times, but the Giants and A’s broadcasters make it clear they’re looking forward to a very... 	https://www.nytimes.com/giants/jenkins/article/Broadcaster-s-new-reality-In-an-empty-Oracle-15417805.php
+San Jose State football coach connects hundreds of Black... 	https://www.nytimes.com/sports/annkillion/article/San-Jose-State-football-coach-connects-hundreds-15416562.php
+Alonzo Carter, San Jose State’s running backs coach, hosts a biweekly Zoom call that routinely draws hundreds of Black coaches from around the... 	https://www.nytimes.com/sports/annkillion/article/San-Jose-State-football-coach-connects-hundreds-15416562.php
+How to take advantage of national parks in California during... 	https://www.nytimes.com/outdoors/stienstra/article/How-to-take-advantage-of-national-parks-in-15413117.php
+During the strangest year ever for national parks, there are hidden portals into Yosemite and other national parks in California that can still... 	https://www.nytimes.com/outdoors/stienstra/article/How-to-take-advantage-of-national-parks-in-15413117.php
+Mid-Market restaurants sue SF over homeless encampments 	https://www.nytimes.com/food/article/Mid-Market-restaurants-sue-San-Francisco-over-15416621.php
+Montesacro Pinseria and Souvla sued the city of San Francisco, arguing the restaurants won’t survive the pandemic if city officials don’t clean up the streets. 	https://www.nytimes.com/food/article/Mid-Market-restaurants-sue-San-Francisco-over-15416621.php
+SF neighbors turned their apartments into a once-in-a-lifetime bar 	https://www.nytimes.com/wine/article/SF-neighbors-turned-their-apartments-into-a-15415929.php
+Why 'Supermarket Sweep' is the anti-food show worth watching right now 	https://www.nytimes.com/food/article/Why-cult-classic-Supermarket-Sweep-is-the-15416568.php
+Couple behind Art’s Cafe in Inner Sunset are retiring, and so is the... 	https://www.nytimes.com/food/article/Couple-behind-Art-s-Cafe-in-the-Inner-Sunset-is-15416780.php
+Have we reopened too soon? Bay Area food community weighs in 	https://www.nytimes.com/restaurants/article/Are-we-reopening-too-soon-Bay-Area-diners-and-15407625.php
 Searchable list of Black-owned restaurants in the Bay Area 	https://projects.sfchronicle.com/2020/black-owned-restaurants/
 A crowd-sourced directory of black-owned food businesses that are open right now. 	https://projects.sfchronicle.com/2020/black-owned-restaurants/
 Interactive: Changes restaurants may make to reopen 	https://projects.sfchronicle.com/2020/future-of-restaurants/
-Have Bay Area restaurants been following COVID-19 rules? 	https://www.sfchronicle.com/restaurants/article/Have-Bay-Area-restaurants-been-following-COVID-19-15381071.php
-152 Bay Area restaurants now open for outdoor dining 	https://www.sfchronicle.com/restaurants/article/63-Bay-Area-restaurants-now-open-for-outdoor-15336551.php
-Permanent restaurant closures since shelter-in-place 	https://www.sfchronicle.com/food/article/Bay-Area-restaurants-latest-updates-Food-15130419.php
-Bigger, badder storms coming, and California is right in their path 	https://www.sfchronicle.com/environment/article/Bigger-badder-storms-coming-in-the-years-ahead-15411249.php
-New research shows that California’s wet and dry swings will become even more extreme as giant storms known as atmospheric rivers grow in size and intensity with climate change. 	https://www.sfchronicle.com/environment/article/Bigger-badder-storms-coming-in-the-years-ahead-15411249.php
-Caltrain derailed: Advocates predict shutdown would mean disaster 	https://www.sfchronicle.com/bayarea/article/Caltrain-derailed-Advocates-predict-shutdown-15411557.php
-3 more SF city departments hit with subpoenas in corruption probe 	https://www.sfchronicle.com/bayarea/article/3-more-San-Francisco-city-departments-hit-with-15410491.php
-BART, expecting to lose $975 million over 3 years, begs feds for money 	https://www.sfchronicle.com/bayarea/article/BART-expecting-to-lose-975-million-over-3-15407839.php
-Vallejo officials confirm key evidence in Monterrosa killing was destroyed 	https://www.sfchronicle.com/crime/article/Vallejo-officials-confirm-key-evidence-in-killing-15411421.php
-Should I get a coronavirus test before seeing friends and family? 	https://www.sfchronicle.com/bayarea/article/Should-I-get-a-coronavirus-test-before-seeing-15322424.php
-As the pandemic conitnues, keeping many families apart for longer than ever before, many are getting tested, or considering getting tested, before seeing family and friends. 	https://www.sfchronicle.com/bayarea/article/Should-I-get-a-coronavirus-test-before-seeing-15322424.php
-Interactive graphic: What school will look like with pandemic protocols 	https://projects.sfchronicle.com/2020/schools-pandemic-protocols-graphic/
-From picnics to pools, experts rate the risk of popular activities 	https://www.sfchronicle.com/bayarea/article/From-picnics-to-pools-coronavirus-experts-rate-15334210.php
-Face mask rules: When and how to use them 	https://www.sfchronicle.com/news/article/Coronavirus-FAQ-Should-you-wear-a-face-mask-15147298.php
-Bay Area coronavirus tests: Where can I get one? 	https://www.sfchronicle.com/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php
+Have Bay Area restaurants been following COVID-19 rules? 	https://www.nytimes.com/restaurants/article/Have-Bay-Area-restaurants-been-following-COVID-19-15381071.php
+152 Bay Area restaurants now open for outdoor dining 	https://www.nytimes.com/restaurants/article/63-Bay-Area-restaurants-now-open-for-outdoor-15336551.php
+Permanent restaurant closures since shelter-in-place 	https://www.nytimes.com/food/article/Bay-Area-restaurants-latest-updates-Food-15130419.php
+They crowded the sights and jammed traffic. Now I miss SF’s tourists 	https://www.nytimes.com/bayarea/article/They-crowded-the-sights-jammed-traffic-and-15417022.php
+I never thought I’d say it, but I miss the tourists, and for more reasons than one. Tourism is our biggest industry, and the coronavirus pandemic has caused it to collapse. 	https://www.nytimes.com/bayarea/article/They-crowded-the-sights-jammed-traffic-and-15417022.php
+Yes, there’s a coin shortage in the Bay Area. Here’s what’s going on 	https://www.nytimes.com/bayarea/article/Yes-there-s-a-coin-shortage-in-the-Bay-Area-15411810.php
+Cardrooms cry foul as tribal casinos ignore Newsom’s pleas to shut down 	https://www.nytimes.com/bayarea/article/Coronavirus-Cardrooms-cry-foul-as-California-15416189.php
+SF’s Slow Streets program adds 14 more roadways to free up space 	https://www.nytimes.com/bayarea/article/SF-s-Slow-Streets-program-adds-14-more-roadways-15413606.php
+Merchants hope Valencia Street will bustle again under traffic closure plan 	https://www.nytimes.com/bayarea/article/Struggling-merchants-hope-Mission-s-Valencia-15414805.php
+Confused about new restrictions? Here’s the latest on reopening 	https://www.nytimes.com/bayarea/article/Confused-about-reopening-in-the-Bay-Area-15389734.php
+The coronavirus reopening timeline for Bay Area counties is constantly changing, and the rules vary depending on where you are. Here are the latest developments for each county. 	https://www.nytimes.com/bayarea/article/Confused-about-reopening-in-the-Bay-Area-15389734.php
+Face mask rules: When and how to use them 	https://www.nytimes.com/news/article/Coronavirus-FAQ-Should-you-wear-a-face-mask-15147298.php
+See the latest on Bay Area school districts’ reopening plans 	https://www.nytimes.com/bayarea/article/Will-your-Bay-Area-school-be-online-in-person-or-15405870.php
+Should I get a coronavirus test before seeing friends and family? 	https://www.nytimes.com/bayarea/article/Should-I-get-a-coronavirus-test-before-seeing-15322424.php
+From picnics to pools, experts rate the risk of popular activities 	https://www.nytimes.com/bayarea/article/From-picnics-to-pools-coronavirus-experts-rate-15334210.php
 A food podcast, hosted by Soleil Ho and Justin Phillips 	https://www.sfchronicle.com/projects/podcasts/extra-spicy/
-A game of red light, green light for California wineries 	https://www.sfchronicle.com/wine/article/A-game-of-red-light-green-light-for-California-15410534.php
-Who can keep track of the reopening plans for California wineries, bars and other businesses, when they keep flip-flopping back and forth as... 	https://www.sfchronicle.com/wine/article/A-game-of-red-light-green-light-for-California-15410534.php
-Have we reopened too soon? Bay Area food community weighs in 	https://www.sfchronicle.com/restaurants/article/Are-we-reopening-too-soon-Bay-Area-diners-and-15407625.php
-While the Bay Area has slowly been allowing restaurants to reopen, the process has garnered a mixed reaction. We talked to eight diners,... 	https://www.sfchronicle.com/restaurants/article/Are-we-reopening-too-soon-Bay-Area-diners-and-15407625.php
+Don’t believe the hype on Cameron Diaz’s new ‘clean’... 	https://www.nytimes.com/wine/article/Cameron-Diaz-s-new-clean-wine-Avaline-meets-15414046.php
+Avaline, the new wine from actress Diaz and fashion CEO Katherine Power, is billing itself as a clean and transparent alternative to the wine... 	https://www.nytimes.com/wine/article/Cameron-Diaz-s-new-clean-wine-Avaline-meets-15414046.php
+Couple behind Art’s Cafe in the Inner Sunset are retiring... 	https://www.nytimes.com/food/article/Couple-behind-Art-s-Cafe-in-the-Inner-Sunset-is-15416780.php
+Art’s Cafe, one of San Francisco’s beloved old-school diners, has closed after 31 years in business. The owners, Sarah and Hae Ryong Youn, are... 	https://www.nytimes.com/food/article/Couple-behind-Art-s-Cafe-in-the-Inner-Sunset-is-15416780.php
 Photos of the Month: Top images from June 	https://projects.sfchronicle.com/app/june-best-photos/
-Old, new Martinez clash amid debate over defacing of BLM mural 	https://www.sfchronicle.com/bayarea/otisrtaylorjr/article/Old-new-Martinez-clash-amid-debate-over-defacing-15411610.php
-Martinez became a flash point in the racial uprising engulfing the nation when two white people defaced a Black Lives Matter mural. Some residents... 	https://www.sfchronicle.com/bayarea/otisrtaylorjr/article/Old-new-Martinez-clash-amid-debate-over-defacing-15411610.php
-Oakland A’s get unwelcome feedback from Sierra Club on... 	https://www.sfchronicle.com/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
-The politically powerful Sierra Club has “serious concerns” about the Oakland A’s waterfront ballpark plan. The environmental advocacy... 	https://www.sfchronicle.com/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
-A page is turning: SF’s beloved libraries will start lending... 	https://www.sfchronicle.com/bayarea/heatherknight/article/A-page-is-turning-S-F-s-beloved-libraries-15405792.php
-Two San Francisco libraries will open for curbside pickup in early August. Why has the small reopening taken so long? Because librarians have been... 	https://www.sfchronicle.com/bayarea/heatherknight/article/A-page-is-turning-S-F-s-beloved-libraries-15405792.php
-Relax, Obama strategist says: Joe Biden should stay in his basement 	https://www.sfchronicle.com/politics/article/Relax-Obama-strategist-tells-Democrats-Joe-15411579.php
-Joe Biden’s stay-in-the-basement strategy is the right move, says a veteran of the Hillary Clinton and Barack Obama campaigns. Just as long as he keeps drawing a contrast with President... 	https://www.sfchronicle.com/politics/article/Relax-Obama-strategist-tells-Democrats-Joe-15411579.php
-Biggest issue for many young adults? It’s racism, new poll says 	https://www.sfchronicle.com/politics/article/Biggest-issue-for-many-young-adults-It-s-15411633.php
-California lawmakers look to diversify largely white, better-off juries 	https://www.sfchronicle.com/politics/article/California-lawmakers-look-to-diversify-largely-15411617.php
-CA sues to reinstate Obama-era rule protecting student borrowers 	https://www.sfchronicle.com/politics/article/California-sues-to-reinstate-Obama-era-rule-15411295.php
-SF’s big mail-ballot problem: Too many voters send them in late 	https://www.sfchronicle.com/politics/article/San-Francisco-s-big-mail-ballot-problem-Too-15408625.php
-Nancy Pelosi’s election challenger says she’s not... 	https://www.sfchronicle.com/politics/article/Nancy-Pelosi-s-election-challenger-says-she-s-15405868.php
-Shahid Buttar, the democratic socialist challenging Nancy Pelosi, is trying to convince her to debate him. It’s an uphill battle. Pelosi... 	https://www.sfchronicle.com/politics/article/Nancy-Pelosi-s-election-challenger-says-she-s-15405868.php
-In Wine Country, coronavirus cases rise in cramped farmworker housing 	https://www.sfchronicle.com/business/article/In-Wine-Country-coronavirus-cases-rise-in-15411621.php
-Cases tied to crowded lodging for agricultural workers spike, leaving county officials and farmers grappling with how to prevent coronavirus spread beyond the workplace. 	https://www.sfchronicle.com/business/article/In-Wine-Country-coronavirus-cases-rise-in-15411621.php
-More than 51 million have filed for unemployment under shelter-in-place 	https://www.sfchronicle.com/business/article/More-than-50-million-have-filed-for-unemployment-15412510.php
-Fearing blackouts, regulators require cell towers to add backup power 	https://www.sfchronicle.com/california-wildfires/article/Fearing-fire-season-blackouts-California-15413495.php
-Uber to Lyft: You can’t ride with us on California’s AB5 lawsuit 	https://www.sfchronicle.com/business/article/Uber-to-Lyft-You-can-t-ride-with-us-on-15410954.php
-For Bay Area plant shops, business blooms amid pandemic 	https://www.sfchronicle.com/business/article/For-Bay-Area-plant-shops-business-blooms-amid-15402213.php
-Eviction ban: What renters and landlords need to know 	https://www.sfchronicle.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
-With many Californians facing economic distress because of the coronavirus, state officials have taken steps to block evictions and protect renters. 	https://www.sfchronicle.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
+Old, new Martinez clash amid debate over defacing of BLM mural 	https://www.nytimes.com/bayarea/otisrtaylorjr/article/Old-new-Martinez-clash-amid-debate-over-defacing-15411610.php
+Martinez became a flash point in the racial uprising engulfing the nation when two white people defaced a Black Lives Matter mural. Some residents... 	https://www.nytimes.com/bayarea/otisrtaylorjr/article/Old-new-Martinez-clash-amid-debate-over-defacing-15411610.php
+Oakland A’s get unwelcome feedback from Sierra Club on... 	https://www.nytimes.com/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
+The politically powerful Sierra Club has “serious concerns” about the Oakland A’s waterfront ballpark plan. The environmental advocacy... 	https://www.nytimes.com/bayarea/philmatier/article/Oakland-A-s-get-unwelcome-feedback-from-Sierra-15385707.php
+‘I feel desperate’: Some workers with COVID-19 couldn’t... 	https://www.nytimes.com/bayarea/heatherknight/article/I-feel-desperate-Some-workers-with-COVID-15414563.php
+It’s good to get tested for the coronavirus, right? Maybe not if a positive result means you have no income while you quarantine. A new San... 	https://www.nytimes.com/bayarea/heatherknight/article/I-feel-desperate-Some-workers-with-COVID-15414563.php
+Willie Brown: It’s not in the bag for Joe Biden. Far from it 	https://www.nytimes.com/bayarea/williesworld/article/Willie-Brown-It-s-not-in-the-bag-for-Joe-15416772.php
+Given President Trump’s missteps and mistakes on everything from his handling the coronavirus pandemic to his racially charged rhetoric, Joe Biden should be ahead by much more than he is. 	https://www.nytimes.com/bayarea/williesworld/article/Willie-Brown-It-s-not-in-the-bag-for-Joe-15416772.php
+Sloppy handwriting could get your mail ballot tossed in California 	https://www.nytimes.com/politics/article/Sloppy-handwriting-could-get-your-mail-ballot-15417280.php
+Census data is four months late, so redistricting maps may be, too 	https://www.nytimes.com/news/article/Census-data-is-four-months-late-so-Calif-15416274.php
+Feinstein wants to deny money to states that don’t require masks 	https://www.nytimes.com/politics/article/Calif-Sen-Feinstein-wants-to-deny-coronavirus-15414811.php
+Biggest issue for many young adults? It’s racism, new poll says 	https://www.nytimes.com/politics/article/Biggest-issue-for-many-young-adults-It-s-15411633.php
+California progressives help move Biden left on some issues,... 	https://www.nytimes.com/politics/article/California-progressives-are-moving-Biden-left-on-15417077.php
+Joe Biden is moving left a bit on health care and the environment, but not on criminal justice. It’s not just progressives who are pushing him... 	https://www.nytimes.com/politics/article/California-progressives-are-moving-Biden-left-on-15417077.php
+Bay Area home sales surged nearly 70% from May to June; prices rose 3.6% 	https://www.nytimes.com/business/networth/article/Stunning-rebound-Bay-Area-home-sales-surged-15413833.php
+After falling sharply for three months, Bay Area home sales rebounded in June thanks to pent-up demand and record-low interest rates. 	https://www.nytimes.com/business/networth/article/Stunning-rebound-Bay-Area-home-sales-surged-15413833.php
+California unemployment rate drops in June, but optimism is scant 	https://www.nytimes.com/business/article/California-unemployment-rate-drops-in-June-but-15415740.php
+Tesla admission: Some employees caught the coronavirus at work 	https://www.nytimes.com/business/article/Tesla-admission-Some-employees-caught-the-15414115.php
+PG&E equipment started 2019 Kincade Fire in Sonoma County, Cal Fire says 	https://www.nytimes.com/california-wildfires/article/PG-E-started-2019-Kincade-Fire-in-Sonoma-County-15414134.php
+Salesforce CEO Benioff says people who don’t wear masks should be fined 	https://www.nytimes.com/business/article/Salesforce-CEO-Benioff-says-people-who-don-t-15413825.php
+Eviction ban: What renters and landlords need to know 	https://www.nytimes.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
+With many Californians facing economic distress because of the coronavirus, state officials have taken steps to block evictions and protect renters. 	https://www.nytimes.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
 Interactive Database: Bay Area Layoff Tracker 	https://projects.sfchronicle.com/2020/layoff-tracker/
-How do I renew my driver’s license, vehicle registration? 	https://www.sfchronicle.com/bayarea/article/Bay-Area-coronavirus-How-do-I-renew-my-drivers-15169362.php
-Can’t pay your mortgage because of the coronavirus? Here’s what to do 	https://www.sfchronicle.com/business/article/California-homeowners-Can-t-pay-your-mortgage-15188637.php
-Bay Area help to get your will and other affairs in order 	https://www.sfchronicle.com/bayarea/article/Coronavirus-Bay-Area-help-to-get-your-will-and-15177648.php
-Stunning rebound: Bay Area home sales surged nearly 70% from... 	https://www.sfchronicle.com/business/networth/article/Stunning-rebound-Bay-Area-home-sales-surged-15413833.php
-After falling sharply for three months, Bay Area home sales rebounded in June thanks to pent-up demand and record-low interest rates. 	https://www.sfchronicle.com/business/networth/article/Stunning-rebound-Bay-Area-home-sales-surged-15413833.php
-‘There will still long be a Silicon Valley’: Industry... 	https://www.sfchronicle.com/business/article/There-will-still-long-be-a-Silicon-Valley-15408717.php
-Carl Guardino, who will step down this month as CEO of the Silicon Valley Leadership Group to take a new job at Bloom Energy, says we must look to... 	https://www.sfchronicle.com/business/article/There-will-still-long-be-a-Silicon-Valley-15408717.php
-Survivors share battles with COVID-19 	https://www.sfchronicle.com/news/article/It-s-almost-like-there-s-this-monster-15347676.php
-BottleRock 2020 officially canceled. Festival plans to return next year 	https://datebook.sfchronicle.com/music/bottlerock-2020-is-officially-canceled-napa-music-festival-plans-to-return-next-year
-This year's scheduled headliners — Red Hot Chili Peppers, Dave Matthews Band and Stevie Nicks — are committed to appear at the new dates in 2021. 	https://datebook.sfchronicle.com/music/bottlerock-2020-is-officially-canceled-napa-music-festival-plans-to-return-next-year
-Top SFMOMA curator resigns as upheaval continues 	https://datebook.sfchronicle.com/art-exhibits/top-sfmoma-curator-resigns-as-upheaval-continues
-Screen depictions reflect shifting attitudes about police 	https://datebook.sfchronicle.com/movies-tv/horrible-heroic-or-humorous-screen-depictions-reflect-shifting-attitudes-about-police
-Oakland Rep. Barbara Lee saluted at Jewish film festival 	https://datebook.sfchronicle.com/movies-tv/oakland-rep-barbara-lee-saluted-with-screening-at-jewish-film-festival
-Forgotten ’90s drama 'Homicide' told painful truths about policing 	https://datebook.sfchronicle.com/movies-tv/largely-forgotten-90s-drama-homicide-told-painful-truths-about-policing
+How do I renew my driver’s license, vehicle registration? 	https://www.nytimes.com/bayarea/article/Bay-Area-coronavirus-How-do-I-renew-my-drivers-15169362.php
+Can’t pay your mortgage because of the coronavirus? Here’s what to do 	https://www.nytimes.com/business/article/California-homeowners-Can-t-pay-your-mortgage-15188637.php
+Bay Area help to get your will and other affairs in order 	https://www.nytimes.com/bayarea/article/Coronavirus-Bay-Area-help-to-get-your-will-and-15177648.php
+Healdsburg garden spread once called Noci Sonoma goes on the... 	https://www.nytimes.com/business/networth/article/Healdsburg-garden-spread-once-called-Noci-Sonoma-15417021.php
+After “many incarnations,” Christopher and Aria Adjani closed their business and are selling their 20-acre property in an auction at the end... 	https://www.nytimes.com/business/networth/article/Healdsburg-garden-spread-once-called-Noci-Sonoma-15417021.php
+‘There will still long be a Silicon Valley’: Industry... 	https://www.nytimes.com/business/article/There-will-still-long-be-a-Silicon-Valley-15408717.php
+Carl Guardino, who will step down this month as CEO of the Silicon Valley Leadership Group to take a new job at Bloom Energy, says we must look to... 	https://www.nytimes.com/business/article/There-will-still-long-be-a-Silicon-Valley-15408717.php
+Survivors share battles with COVID-19 	https://www.nytimes.com/news/article/It-s-almost-like-there-s-this-monster-15347676.php
+Hunter S. Thompson's editor ponders ‘Fear and Loathing’ in 2020 	https://datebook.sfchronicle.com/books/fear-and-loathing-in-2020
+Hunter S. Thompson’s editor looks back on a tumultuous collaboration — and what might have been. 	https://datebook.sfchronicle.com/books/fear-and-loathing-in-2020
+SF Green Film Festival ends its run, CEO foresees 'mass extinction' of arts 	https://datebook.sfchronicle.com/movies-tv/sf-green-film-festival-ends-its-run-as-ceo-foresees-mass-extinction-of-the-arts
+Eddie Gale, trumpeter in Sun Ra, Cecil Taylor bands, dies at 78 	https://datebook.sfchronicle.com/music/eddie-gale-san-jose-trumpeter-who-recorded-with-sun-ra-and-cecil-taylor-dies-at-78
+Linda Ronstadt to sell piano and personal memorabilia at auction 	https://datebook.sfchronicle.com/music/linda-ronstadt-to-sell-piano-and-personal-memorabilia-at-auction
+Jim Carrey explores the absurdities of life (and himself) in novel 	https://datebook.sfchronicle.com/movies-tv/jim-carrey-explores-the-absurdities-of-life-and-himself-in-novel
+Oakland girl power abound in ‘We Are the Radical Monarchs’ 	https://datebook.sfchronicle.com/movies-tv/33rd-season-of-pbs-pov-opens-with-oakland-girl-power-in-we-are-the-radical-monarchs
+The documentary was filmed from early 2015 through 2018, a transition from the waning days of Barack Obama's presidency to the rise of Donald Trump. 	https://datebook.sfchronicle.com/movies-tv/33rd-season-of-pbs-pov-opens-with-oakland-girl-power-in-we-are-the-radical-monarchs
+Polly Platt: The ‘Invisible Woman’ behind a classic S.F. film 	https://datebook.sfchronicle.com/movies-tv/polly-platt-the-invisible-woman-behind-a-classic-san-francisco-film
 6 movies to catch during Cinegogue Summer Days 	https://datebook.sfchronicle.com/movies-tv/6-movies-to-catch-during-cinegogue-summer-days
-Here are some of the film festival's highlights this year. 	https://datebook.sfchronicle.com/movies-tv/6-movies-to-catch-during-cinegogue-summer-days
 'Fatal Affair' is so bad that it's kind of good 	https://datebook.sfchronicle.com/movies-tv/review-fatal-affair-with-nia-long-and-omar-epps-is-so-bad-that-its-kind-of-good
 The good and the bad apples of police portrayals in Hollywood 	https://datebook.sfchronicle.com/movies-tv/the-good-and-the-bad-apples-of-police-portrayals-in-hollywood
-South Korean film ‘House of Hummingbird’ soars 	https://datebook.sfchronicle.com/movies-tv/review-south-korean-film-house-of-hummingbird-soars
-'Bruce Lee's Greatest Hits' is new Criterion box set that's a real kick 	https://datebook.sfchronicle.com/movies-tv/review-bruce-lees-greatest-hits-is-new-criterion-box-set-thats-a-real-kick
 An ode to Le Creuset, a serious pot for serious food 	https://datebook.sfchronicle.com/food-drink/an-ode-to-le-creuset-a-serious-pot-for-serious-food
 A guide to virtual — or socially distanced — events 	https://datebook.sfchronicle.com/summer-2020-a-guide-to-virtual-or-socially-distanced-events-this-season
-Does Twitter love idea of Black employees as much as it loves Black... 	https://www.sfchronicle.com/living/article/Does-Twitter-love-the-idea-of-Black-employees-as-15410658.php
-Twitter has benefited over the years from Black Twitter. Yet, the company has a long-standing diversity problem with few Black people in leadership positions. 	https://www.sfchronicle.com/living/article/Does-Twitter-love-the-idea-of-Black-employees-as-15410658.php
-The cost to adopt a wild horse? $1 	https://www.sfchronicle.com/bayarea/article/The-cost-to-adopt-a-wild-horse-1-15410888.php
 Interactive map: 13 steps to SF becoming a car-free city 	https://projects.sfchronicle.com/2020/car-free-sf-maps/
-Welcome to the Throughline: A new series about the Bay Area of tomorrow 	https://www.sfchronicle.com/culture/article/Welcome-to-the-Throughline-Your-portal-to-the-15398468.php
-Open-air office: How SF couple conceived next-gen workspaces 	https://www.sfchronicle.com/culture/article/The-office-goes-open-air-How-an-SF-couple-15398288.php
+A plan — with input from both pragmatists and dreamers — to make San Francisco the bike and pedestrian utopia that suddenly seems within reach amid the coronavirus pandemic. 	https://projects.sfchronicle.com/2020/car-free-sf-maps/
+Open-air office: How SF couple conceived next-gen workspaces 	https://www.nytimes.com/culture/article/The-office-goes-open-air-How-an-SF-couple-15398288.php
+New pandemic calling: Putting bikes back on the road 	https://www.nytimes.com/culture/article/SF-man-s-new-pandemic-calling-Putting-15398471.php
+What the Tenderloin needs now to reverse decades of neglect 	https://www.nytimes.com/culture/article/One-vision-of-the-Tenderloin-s-future-Gardens-15398295.php
+Does Twitter love Black employees as much as it loves Black Twitter? 	https://www.nytimes.com/living/article/Does-Twitter-love-the-idea-of-Black-employees-as-15410658.php
+Bay Area youth protest leaders on the future they’re marching for 	https://projects.sfchronicle.com/projects/2020/visuals/youth-protest-leaders/
+When protests over the killing of George Floyd reached the Bay Area, many leading the marches were students. Here’s what they have to say about the changes they want to see. 	https://projects.sfchronicle.com/projects/2020/visuals/youth-protest-leaders/
 Interactive: Welcome to the micro-hood, a new vision for downtown SF 	https://projects.sfchronicle.com/2020/welcome-to-the-micro-hood-graphic/
-With the pandemic highlighting the need for social distancing and remote staffing, San Francisco will have a permanent surplus of vacant office space. 	https://projects.sfchronicle.com/2020/welcome-to-the-micro-hood-graphic/
-Rethinking downtown SF: Here’s one of the most radical visions 	https://www.sfchronicle.com/culture/article/It-s-time-to-rethink-downtown-SF-Here-s-one-15399850.php
-Elizabeth Ranieri and her husband and business partner, Byron Kuth, are thinking bigger by exploring the idea of micro-hoods. 	https://www.sfchronicle.com/culture/article/It-s-time-to-rethink-downtown-SF-Here-s-one-15399850.php
+Rethinking downtown SF: Here’s one of the most radical visions 	https://www.nytimes.com/culture/article/It-s-time-to-rethink-downtown-SF-Here-s-one-15399850.php
 How coronavirus changed life for these Bay Area high schoolers 	https://projects.sfchronicle.com/class-of-2020/spring
-‘Total war’ on polio in the Bay Area: Archive finds on the ‘K.O.... 	https://www.sfchronicle.com/chronicle_vault/article/Total-war-on-polio-in-the-Bay-Area-Archive-15408201.php
-As scientists search for a vaccine to end the coronavirus pandemic, we look back in The Chronicle archives at the all-out effort to vaccinate Bay Area residents against polio. 	https://www.sfchronicle.com/chronicle_vault/article/Total-war-on-polio-in-the-Bay-Area-Archive-15408201.php
-SF’s 1918 Spanish flu debacle: Crucial lesson for the coronavirus era 	https://www.sfchronicle.com/bayarea/article/San-Francisco-s-1918-Spanish-flu-debacle-A-15191518.php
-More than 50 Chronicle archive photos for SF Pride’s 50th anniversary 	https://www.sfchronicle.com/chronicle_vault/article/More-than-50-Chronicle-archive-photos-for-SF-15376643.php
-When the world made peace in San Francisco 	https://www.sfchronicle.com/chronicle_vault/article/When-the-world-made-peace-in-San-Francisco-15368985.php
-When the world came to San Francisco to create the United Nations 	https://www.sfchronicle.com/chronicle_vault/article/When-the-world-came-to-San-Francisco-to-create-15359061.php
+Mitt Romney, in marching for BLM, inspired by father’s 1964 SF battle 	https://www.nytimes.com/oursf/article/Mitt-Romney-marched-for-Black-Lives-Matter-He-15414175.php
+Romney was 17 when he watched his father suffer a bitter defeat at the 1964 Republican National Convention. The event helps explain why Romney supports Black lives and stands up to President... 	https://www.nytimes.com/oursf/article/Mitt-Romney-marched-for-Black-Lives-Matter-He-15414175.php
+SF’s 1918 Spanish flu debacle: Crucial lesson for the coronavirus era 	https://www.nytimes.com/bayarea/article/San-Francisco-s-1918-Spanish-flu-debacle-A-15191518.php
+‘Total war’ on polio in the Bay Area: Archive finds on the ‘K.O.... 	https://www.nytimes.com/chronicle_vault/article/Total-war-on-polio-in-the-Bay-Area-Archive-15408201.php
+More than 50 Chronicle archive photos for SF Pride’s 50th anniversary 	https://www.nytimes.com/chronicle_vault/article/More-than-50-Chronicle-archive-photos-for-SF-15376643.php
+When the world made peace in San Francisco 	https://www.nytimes.com/chronicle_vault/article/When-the-world-made-peace-in-San-Francisco-15368985.php
 Explore the stories behind classic front pages 	https://www.sfchronicle.com/vault/chroniclecovers/
-How to get the most out of your Chronicle subscription 	https://www.sfchronicle.com/bayarea/article/How-to-get-the-most-out-of-your-San-Francisco-13902111.php
-White House malpractice against Dr. Fauci 	https://www.sfchronicle.com/opinion/article/White-House-malpractice-against-Dr-Fauci-15411737.php
-As the toll of the coronavirus pandemic continues to mount, the Trump White House picked a most unlikely target to attack: Dr. Anthony Fauci, whose straight talk has made him the most trusted... 	https://www.sfchronicle.com/opinion/article/White-House-malpractice-against-Dr-Fauci-15411737.php
-The secret, not-so-saintly history of Junipero Serra statues 	https://www.sfchronicle.com/opinion/openforum/article/The-secret-not-so-saintly-history-of-Junipero-15411799.php
-California homeowners will have to protect themselves this fire season 	https://www.sfchronicle.com/opinion/openforum/article/California-homeowners-will-have-to-protect-15411789.php
-Editorial: The cynical case against voting by mail 	https://www.sfchronicle.com/opinion/editorials/article/Editorial-The-cynical-case-against-voting-by-mail-15411536.php
-Editorial: The lesson of California’s rapid return to abnormalcy 	https://www.sfchronicle.com/opinion/editorials/article/Editorial-The-lesson-of-California-s-rapid-15408571.php
-Former Newsom official bravely discloses struggle with mental... 	https://www.sfchronicle.com/opinion/diaz/article/Former-Newsom-official-bravely-discloses-struggle-15401690.php
-Lenny Mendonca’s account of his struggle with anxiety and depression drew a chorus of praise and respect in the political and business worlds. 	https://www.sfchronicle.com/opinion/diaz/article/Former-Newsom-official-bravely-discloses-struggle-15401690.php
-Willie Brown: Trump is down, but not yet out 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-Trump-is-down-but-not-yet-out-15400424.php
-President Trump has had a lousy week, but some of his problems, especially with the Supreme Court decision on his tax returns, weren’t nearly as... 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-Trump-is-down-but-not-yet-out-15400424.php
-Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
+How to get the most out of your Chronicle subscription 	https://www.nytimes.com/bayarea/article/How-to-get-the-most-out-of-your-San-Francisco-13902111.php
+Caille Millner: I’m glad I didn’t write those kinds of columns 	https://www.nytimes.com/entertainment/article/I-m-glad-I-didn-t-write-those-kinds-of-columns-15414454.php
+Why cabdriver conversations, love letters to SF and trolling our president weren’t part of my repertoire these past eight years. 	https://www.nytimes.com/entertainment/article/I-m-glad-I-didn-t-write-those-kinds-of-columns-15414454.php
+Last word: Challenge for diversity in the C-suites 	https://www.nytimes.com/opinion/lastword/article/Last-word-Challenge-for-diversity-in-the-C-suites-15416625.php
+Last Word: Don’t make wearing a mask political 	https://www.nytimes.com/opinion/lastword/article/Last-Word-Don-t-make-wearing-a-mask-political-15416859.php
+Editorial: The West Coast city in the Trump administration’s cross-hairs 	https://www.nytimes.com/opinion/editorials/article/Editorial-The-West-Coast-city-in-the-Trump-15416841.php
+Editorial: A wave of investigations may reveal how corrupt San Francisco... 	https://www.nytimes.com/opinion/editorials/article/Editorial-A-wave-of-investigations-may-reveal-15414196.php
+Former Newsom official bravely discloses struggle with mental... 	https://www.nytimes.com/opinion/diaz/article/Former-Newsom-official-bravely-discloses-struggle-15401690.php
+Lenny Mendonca’s account of his struggle with anxiety and depression drew a chorus of praise and respect in the political and business worlds. 	https://www.nytimes.com/opinion/diaz/article/Former-Newsom-official-bravely-discloses-struggle-15401690.php
+Willie Brown: It’s not in the bag for Joe Biden. Far from it 	https://www.nytimes.com/bayarea/williesworld/article/Willie-Brown-It-s-not-in-the-bag-for-Joe-15416772.php
+Given President Trump’s missteps and mistakes on everything from his handling the coronavirus pandemic to his racially charged rhetoric, Joe... 	https://www.nytimes.com/bayarea/williesworld/article/Willie-Brown-It-s-not-in-the-bag-for-Joe-15416772.php
+Do Not Sell My Info 	https://www.nytimes.com/mydata/
 
-the : 100
-to : 74
-in : 44
-and : 42
-of : 41
-a : 41
-for : 30
+the : 102
+to : 54
+in : 52
+and : 47
+of : 43
+a : 40
 bay : 28
-area : 27
-as : 23
-with : 19
-coronavirus : 17
-will : 13
-new : 13
+for : 28
+area : 26
+on : 26
+coronavirus : 20
+from : 18
+as : 18
+it : 14
+are : 14
+new : 14
+not : 13
+san : 13
+with : 13
 is : 13
-sf : 11
-how : 11
-on : 11
-pandemic : 11
-has : 11
-have : 10
-more : 10
-get : 10
-says : 9
-are : 9
+how : 13
+sf : 13
+be : 12
+have : 11
+that : 11
+at : 11
+will : 11
+its : 10
+pandemic : 10
+giants : 9
+but : 9
 california : 9
-at : 8
-this : 8
-from : 8
-restaurants : 8
-when : 8
-fire : 7
-many : 7
-we : 7
-san : 6
+biden : 9
+get : 9
+i : 9
+county : 8
+over : 8
+— : 7
+some : 7
+joe : 7
+should : 7
+his : 7
+national : 7
+up : 7
+restaurants : 7
+what : 7
+when : 7
+black : 7
+do : 6
+city : 6
 francisco : 6
-about : 6
-wine : 6
-what : 6
-most : 6
-do : 5
-who : 5
-sales : 5
-it : 5
-against : 5
-over : 5
-down : 5
-reopening : 5
-chronicle : 5
-us : 5
-nearly : 5
+whats : 6
+open : 6
+down : 6
+by : 6
+parks : 6
+during : 6
+now : 6
+reopening : 6
+make : 6
+dont : 6
+heres : 6
+good : 5
+one : 5
+they : 5
+see : 5
+still : 5
+after : 5
+covid-19 : 5
 may : 5
-up : 5
-during : 5
-its : 5
-open : 5
-by : 5
-look : 5
-food : 5
-heres : 5
-— : 5
-i : 5
-season : 5
-black : 5
-not : 4
-some : 4
-should : 4
-be : 4
-after : 4
-control : 4
-an : 4
-them : 4
-test : 4
-county : 4
-school : 4
-or : 4
-business : 4
-city : 4
-home : 4
-sfs : 4
-space : 4
-reopen : 4
-been : 4
-your : 4
-oakland : 4
+more : 5
+your : 5
+behind : 5
+broadcasters : 5
+my : 4
+sonoma : 4
+was : 4
+spread : 4
+state : 4
+progressives : 4
+left : 4
+who : 4
+far : 4
+into : 4
 can : 4
-face : 4
-giants : 4
-getting : 4
-than : 4
 right : 4
-before : 4
-years : 4
-white : 4
-his : 4
-my : 3
-high : 3
-ceo : 3
-people : 3
-blm : 3
-mural : 3
-martinez : 3
-police : 3
-caltrain : 3
-tax : 3
-two : 3
-one : 3
-transit : 3
-would : 3
-back : 3
-cases : 3
-rates : 3
-sfpuc : 3
-3 : 3
-june : 3
-streets : 3
-program : 3
-residents : 3
-kincade : 3
-protect : 3
-power : 3
-across : 3
-state : 3
-whats : 3
-covid-19 : 3
-like : 3
-downtown : 3
+home : 4
+most : 4
+students : 4
+school : 4
+you : 4
+than : 4
+test : 4
+why : 4
+latest : 4
+we : 4
+about : 4
+oakland : 4
+arts : 4
+food : 4
+ceo : 4
+president : 4
+says : 4
+portals : 3
+sell : 3
+days : 3
+auction : 3
+yosemite : 3
+states : 3
+list : 3
 too : 3
-businesses : 3
-out : 3
-but : 3
+shut : 3
+help : 3
+just : 3
+willie : 3
+brown: : 3
+bag : 3
+take : 3
+year : 3
+there : 3
+other : 3
+rules : 3
 where : 3
-key : 3
-national : 3
-parks : 3
-million : 3
-cant : 3
-debate : 3
-summer : 3
-now : 3
-him : 3
-wineries : 3
-that : 3
-californias : 3
+last : 3
+chronicle : 3
+looking : 3
+2020 : 3
+largest : 3
+serious : 3
+districts : 3
 officials : 3
-interactive : 3
-long : 3
-because : 3
-film : 3
-house : 3
-twitter : 3
-trump : 3
+say : 3
+changes : 3
+downtown : 3
+show : 3
+them : 3
+if : 3
+opening : 3
+night : 3
+coach : 3
+hundreds : 3
+different : 3
+theyre : 3
+joey : 3
+bart : 3
+an : 3
+clean : 3
+their : 3
+couple : 3
+cafe : 3
+so : 3
+sfs : 3
+has : 3
+plan : 3
+business : 3
+june : 3
+many : 3
+romney : 3
 past : 2
-sell : 2
 info : 2
 hospitalizations : 2
-another : 2
-employees : 2
-dont : 2
-drawing : 2
-every : 2
-gets : 2
-fight : 2
-measure : 2
-he : 2
-week : 2
-counties : 2
-regional : 2
-shutdown : 2
-mean : 2
-disaster : 2
-shut : 2
-show : 2
-restrictions : 2
-latest : 2
-had : 2
-investigation : 2
-departments : 2
-hit : 2
-subpoenas : 2
-probe : 2
-hits : 2
-corruption : 2
-surged : 2
-70% : 2
-falling : 2
-sharply : 2
-three : 2
-months : 2
-rebounded : 2
-thanks : 2
-pent-up : 2
-demand : 2
-record-low : 2
-interest : 2
-slow : 2
-14 : 2
-socially : 2
-started : 2
-cal : 2
-country : 2
-still : 2
-changes : 2
-make : 2
-protocols : 2
+month : 2
+franciscos : 2
+hosts : 2
+issue : 2
+8 : 2
+healdsburg : 2
+garden : 2
+once : 2
+called : 2
+noci : 2
+goes : 2
+block : 2
+tested : 2
+mateo : 2
+watch : 2
+workers : 2
+spike : 2
+move : 2
+issues : 2
+all : 2
+moving : 2
+bit : 2
+health : 2
+care : 2
+environment : 2
+criminal : 2
+justice : 2
+pushing : 2
+him : 2
+stay : 2
+advantage : 2
+strangest : 2
+ever : 2
+hidden : 2
+summer : 2
+guide: : 2
+run : 2
+fishermans : 2
+call : 2
+killings : 2
+14% : 2
+first : 2
+half : 2
+while : 2
+needs : 2
+under : 2
+newsom : 2
+order : 2
+reopen : 2
+look : 2
 micro-hood : 2
 vision : 2
-reopened : 2
-soon : 2
-community : 2
-weighs : 2
-while : 2
-slowly : 2
-allowing : 2
-process : 2
-garnered : 2
-mixed : 2
-reaction : 2
-talked : 2
-eight : 2
-diners : 2
-restaurant : 2
-workers : 2
-their : 2
-theres : 2
-shortage : 2
-thats : 2
-“serious : 2
-if : 2
-run : 2
+inmates : 2
+infected : 2
+santa : 2
+rita : 2
+jails : 2
+outbreak : 2
+this : 2
+positive : 2
+rates : 2
+couldnt : 2
+started : 2
 know : 2
-why : 2
-these : 2
-dates : 2
+testing : 2
+each : 2
+plans : 2
+face : 2
 use : 2
 job : 2
-company : 2
-infection-control : 2
-staff : 2
-infection : 2
-prevention : 2
-coordinator : 2
-shortened : 2
-baseball : 2
-off : 2
-tom : 2
-exploring : 2
-kyle : 2
-trying : 2
-activities : 2
-coming : 2
-rules : 2
-steve : 2
-kerr : 2
-west : 2
-events : 2
-especially : 2
-outdoors : 2
-anniversary : 2
-clean : 2
-flip-flopping : 2
-group : 2
+auxiliary : 2
+space : 2
+stands : 2
+feel : 2
+football : 2
+connects : 2
+coaches : 2
+zoom : 2
+reality: : 2
+empty : 2
+park : 2
+calling : 2
+probably : 2
+maddening : 2
+times : 2
+clear : 2
+forward : 2
+very : 2
+kind : 2
+lineup : 2
+breaking : 2
+hitting : 2
+60 : 2
+season : 2
+or : 2
+jose : 2
+streets : 2
+inner : 2
+sunset : 2
+retiring : 2
 black-owned : 2
 interactive: : 2
-permanent : 2
-shelter-in-place : 2
-bigger : 2
-storms : 2
-seeing : 2
-friends : 2
-family : 2
-tested : 2
-red : 2
-light : 2
-keep : 2
-plans : 2
-other : 2
+been : 2
+traffic : 2
+miss : 2
+tourists : 2
+our : 2
+biggest : 2
+industry : 2
+mask : 2
+rate : 2
+wine : 2
+power : 2
+closed : 2
+years : 2
 photos : 2
-top : 2
+martinez : 2
 amid : 2
+blm : 2
+mural : 2
+people : 2
+lives : 2
 sierra : 2
 club : 2
-libraries : 2
-taken : 2
-so : 2
-obama : 2
-joe : 2
-president : 2
-nancy : 2
-pelosi : 2
-her : 2
+given : 2
+trumps : 2
+missteps : 2
+mistakes : 2
+everything : 2
+handling : 2
+racially : 2
+charged : 2
+rhetoric : 2
+much : 2
+he : 2
+months : 2
+masks : 2
+sales : 2
+employees : 2
+fire : 2
 renters : 2
-need : 2
+because : 2
 steps : 2
+interactive : 2
 silicon : 2
-leadership : 2
-festival : 2
-return : 2
-year : 2
-continues : 2
+hunter : 2
+s : 2
+thompsons : 2
+editor : 2
+back : 2
+film : 2
+life : 2
+radical : 2
+trump : 2
+classic : 2
 bad : 2
-good : 2
-serious : 2
-idea : 2
-yet : 2
-welcome : 2
-polio : 2
+twitter : 2
+love : 2
+marching : 2
+these : 2
+1964 : 2
 archive : 2
-lesson : 2
-world : 2
-made : 2
-dr : 2
-fauci : 2
+word: : 2
+political : 2
 editorial: : 2
 struggle : 2
-portals : 1
 live : 1
 updates: : 1
-reach : 1
-record : 1
-tesla : 1
-admission: : 1
-caught : 1
-work : 1
-vegetation : 1
-forces : 1
-highway : 1
-4 : 1
-close : 1
-near : 1
-pittsburg : 1
-salesforce : 1
-benioff : 1
-wear : 1
-masks : 1
-fined : 1
-man : 1
-charged : 1
-gun : 1
-dispute : 1
-commission : 1
-votes : 1
-install : 1
-posters : 1
-station : 1
-push : 1
-save : 1
-second : 1
-chance; : 1
-supe : 1
-hell : 1
-supervisor : 1
-matt : 1
-haney : 1
-said : 1
-attempt : 1
-resurrect : 1
-tuesday : 1
-supervisors : 1
-tabled : 1
-earlier : 1
-pitted : 1
-enthusiasts : 1
-politicians : 1
-prioritizing : 1
-local : 1
-seamless : 1
-transportation : 1
-advocates: : 1
-struggles : 1
-surge : 1
-economies : 1
-dozens : 1
+tripled : 1
+hall : 1
+lit : 1
+honor : 1
+rep : 1
+john : 1
+lewis : 1
+speedway : 1
+1000-person : 1
+drag : 1
+racing : 1
+competition : 1
+watson : 1
+overcomes : 1
+shoulder : 1
+vows : 1
+ready : 1
+opener : 1
+2nd : 1
+moraga : 1
+animal : 1
+attack : 1
+another : 1
+coyote : 1
+impossible : 1
+burger : 1
+cookbook : 1
+essentially : 1
+corporate : 1
+ad : 1
+spared : 1
+then : 1
+sewage : 1
+concern : 1
+grows : 1
+potential : 1
+shutdown : 1
+saturday : 1
+remains : 1
+only : 1
+places : 1
 struggling : 1
-uptick : 1
-weeks : 1
-emerged : 1
-lockdown : 1
-charts : 1
-positive : 1
-roller-coastered : 1
-confused : 1
-each : 1
-districts : 1
-plans: : 1
-online : 1
-classes : 1
-in-person : 1
-both : 1
-chief : 1
-financial : 1
-ties : 1
-agency : 1
-contractor : 1
-longstanding : 1
-friendship : 1
-between : 1
-halran : 1
-kelly : 1
-melanie : 1
-lok : 1
-including : 1
-relationship : 1
-raises : 1
-questions : 1
-integrity : 1
-multi-million-dollar : 1
-contract : 1
-loks : 1
-firm : 1
-secured : 1
-2012 : 1
-according : 1
-expanding : 1
-nuru : 1
-attorney : 1
-subpoena : 1
-widens : 1
-june; : 1
-prices : 1
-rose : 1
-36% : 1
-adds : 1
-roadways : 1
-free : 1
-closing : 1
-through : 1
-traffic : 1
-part : 1
-aims : 1
-give : 1
-distant : 1
-exercise : 1
-essential : 1
-services : 1
-without : 1
-driving : 1
-taking : 1
-pg&e : 1
-equipment : 1
-2019 : 1
-sonoma : 1
-prompted : 1
-massive : 1
-evacuations : 1
-intense : 1
-firefight : 1
-communities : 1
-pg&es : 1
-infrastructure : 1
-caused : 1
-blaze : 1
-spark : 1
-burned : 1
-mountain: : 1
-wildfires : 1
-see : 1
+contain : 1
+hospital : 1
+enough : 1
+ppe : 1
+lands : 1
+californias : 1
+antibodies : 1
+fading : 1
+fast : 1
+vaccine : 1
+hopes : 1
+fade : 1
+reopening: : 1
+way : 1
+relax : 1
+obama : 1
+strategist : 1
+tells : 1
+democrats: : 1
+basement : 1
+save : 1
+vacation : 1
+travel : 1
+hike : 1
+outside : 1
+ousting : 1
+boat : 1
+wharf : 1
+sells : 1
+seafood : 1
+public : 1
+giuseppe : 1
+pennisi : 1
+subject : 1
+story : 1
+“the : 1
+secret” : 1
+harbor : 1
+vallejo : 1
+homicides : 1
+reports : 1
+robberies : 1
+rapes : 1
+smash-and-grab : 1
+auto : 1
+burglaries : 1
+fell : 1
+regions : 1
+cities : 1
+violent : 1
+crimes : 1
+crept : 1
+east : 1
+citys : 1
+rash : 1
+helping : 1
+drive : 1
+increased : 1
+bloodshed : 1
+scramble : 1
+improve : 1
+distance : 1
+learning : 1
+springs : 1
+chaotic : 1
+rollout : 1
+millions : 1
+heading : 1
+distance-only : 1
+education : 1
+better : 1
+meet : 1
+afar : 1
+schools : 1
+blocked : 1
+classrooms : 1
+outdoors : 1
+near : 1
 ravages : 1
 body : 1
-owners : 1
-perspectives : 1
-yes : 1
-coin : 1
-going : 1
-flow : 1
-coins : 1
-clogged : 1
-reflecting : 1
-nationwide : 1
-causing : 1
-situation” : 1
-number : 1
-happens : 1
-hospitals : 1
+like : 1
+protocols : 1
+101 : 1
+100 : 1
+jail : 1
+unseen : 1
+bunk-to-bunk : 1
+cell-to-cell : 1
+week : 1
+marking : 1
+charts : 1
+roller-coastered : 1
+until : 1
+paying : 1
 blood : 1
 type : 1
 find : 1
 matters : 1
-zoo : 1
-ok : 1
-reopen: : 1
-gives : 1
-chance : 1
-survive : 1
-overall : 1
-crime : 1
-crimes : 1
-timeline: : 1
-schools : 1
+eyeing : 1
+college : 1
+fret : 1
+acts : 1
+struggles : 1
 masks: : 1
-testing : 1
 ramp : 1
 symptoms : 1
 updates : 1
+transit : 1
 parking : 1
 herd : 1
 immunity : 1
+regional : 1
 database : 1
 cuts : 1
-impossible : 1
-task : 1
-ground : 1
-hanks : 1
-among : 1
-options : 1
-in-game : 1
-sound : 1
-sign : 1
-concord : 1
-pitcher : 1
-harrison : 1
-$25m : 1
-bonus : 1
-yolmer : 1
-sanchez : 1
-shed : 1
-all-glove : 1
-label : 1
-earn : 1
-starts : 1
-prompts : 1
-wcc : 1
-halt : 1
-sports : 1
-until : 1
-sept : 1
-24 : 1
-campfire : 1
-bans : 1
-public : 1
-lands : 1
-forest : 1
-service : 1
-banning : 1
-campfires : 1
-100 : 1
-wilderness : 1
-areas : 1
-19 : 1
-acres : 1
-forests : 1
-pacific : 1
-crest : 1
-trail : 1
-escape : 1
-8 : 1
-travel : 1
-hike-in : 1
-campsites : 1
+company : 1
+add : 1
+dugout : 1
+bullpen : 1
+allow : 1
+physical : 1
+distancing : 1
+installed : 1
+tents : 1
+dugouts : 1
+bullpens : 1
+coliseum : 1
+serve : 1
+seating : 1
+players : 1
+personnel : 1
+frankie: : 1
+name : 1
+montas : 1
+starter : 1
+july : 1
+18 : 1
+2014: : 1
+donaldsons : 1
+3-run : 1
+hr : 1
+9th : 1
+gives : 1
+win : 1
+orioles : 1
+baseball : 1
+mull : 1
+push : 1
+artificial : 1
+noise : 1
+sjsu : 1
+workplace : 1
+pitching : 1
+2020: : 1
+games : 1
+lineups : 1
+pitching: : 1
+team : 1
+inflict : 1
+damage : 1
+400 : 1
+hitter : 1
+contending : 1
+weird : 1
+mlb : 1
+awaits : 1
+asterisk : 1
+indicating : 1
+catcher : 1
+jv : 1
+squad : 1
+sacramento : 1
+would : 1
+mistake : 1
+oracle : 1
+alonzo : 1
+carter : 1
+running : 1
+backs : 1
+biweekly : 1
+routinely : 1
+draws : 1
 around : 1
-guide: : 1
-hike : 1
-outside : 1
-gabe : 1
-kapler : 1
-shanahan: : 1
-coast : 1
-style : 1
-introducing : 1
-classification : 1
-coaches : 1
-managers: : 1
-co : 1
-st : 1
-fits : 1
-mold : 1
-doesnt : 1
-discuss : 1
-golden : 1
-time : 1
-stop : 1
-playing : 1
-anthem : 1
-no : 1
-reason : 1
-play : 1
-“the : 1
-star-spangled : 1
-banner” : 1
-sporting : 1
-empty : 1
-stands : 1
-retain : 1
-ten : 1
-life-and-death : 1
-moments : 1
-40 : 1
-stienstras : 1
-40th : 1
-writer : 1
-editors : 1
-asked : 1
-describe : 1
-provocative : 1
-encounters : 1
+mid-market : 1
+sue : 1
+homeless : 1
+encampments : 1
+montesacro : 1
+pinseria : 1
+souvla : 1
+sued : 1
+arguing : 1
+wont : 1
+survive : 1
+neighbors : 1
+turned : 1
+apartments : 1
+once-in-a-lifetime : 1
+bar : 1
+supermarket : 1
+sweep : 1
+anti-food : 1
+worth : 1
+watching : 1
+reopened : 1
+soon : 1
+community : 1
+weighs : 1
+searchable : 1
+crowd-sourced : 1
+directory : 1
+businesses : 1
+following : 1
+152 : 1
+outdoor : 1
+dining : 1
+permanent : 1
+restaurant : 1
+closures : 1
+since : 1
+shelter-in-place : 1
+crowded : 1
+sights : 1
+jammed : 1
+never : 1
+thought : 1
+id : 1
+reasons : 1
+tourism : 1
+caused : 1
+collapse : 1
+yes : 1
+theres : 1
+coin : 1
+shortage : 1
+going : 1
+cardrooms : 1
+cry : 1
+foul : 1
+tribal : 1
+casinos : 1
+ignore : 1
+newsoms : 1
+pleas : 1
+slow : 1
+program : 1
+adds : 1
+14 : 1
+roadways : 1
+free : 1
+merchants : 1
+hope : 1
+valencia : 1
+street : 1
+bustle : 1
+again : 1
+closure : 1
+confused : 1
+restrictions : 1
+timeline : 1
+counties : 1
+constantly : 1
+changing : 1
+vary : 1
+depending : 1
+here : 1
+developments : 1
+rules: : 1
+before : 1
+seeing : 1
+friends : 1
+family : 1
+picnics : 1
+pools : 1
+experts : 1
+risk : 1
+popular : 1
+activities : 1
+podcast : 1
+hosted : 1
+soleil : 1
+ho : 1
+justin : 1
+phillips : 1
+believe : 1
+hype : 1
 cameron : 1
 diazs : 1
-meets : 1
-none : 1
-natural : 1
-standards : 1
 avaline : 1
 actress : 1
 diaz : 1
@@ -783,113 +843,21 @@ billing : 1
 itself : 1
 transparent : 1
 alternative : 1
-youre : 1
-already : 1
-drinking : 1
-napas : 1
-feel : 1
-squeeze : 1
-opening : 1
-tomalley : 1
-butter : 1
-lobster : 1
-roll : 1
-vacation : 1
-maine : 1
-judge : 1
-foie : 1
-gras : 1
-legal : 1
-eat : 1
-confusing : 1
-ruling : 1
-bar : 1
-planning : 1
-turn : 1
-spaces : 1
-into : 1
-fancy : 1
-liquor : 1
-stores : 1
-searchable : 1
-list : 1
-crowd-sourced : 1
-directory : 1
-following : 1
-152 : 1
-outdoor : 1
-dining : 1
-closures : 1
-since : 1
-badder : 1
-path : 1
-research : 1
-shows : 1
-wet : 1
-dry : 1
-swings : 1
-become : 1
-even : 1
-extreme : 1
-giant : 1
-known : 1
-atmospheric : 1
-rivers : 1
-grow : 1
-size : 1
-intensity : 1
-climate : 1
-change : 1
-derailed: : 1
-advocates : 1
-predict : 1
-bart : 1
-expecting : 1
-lose : 1
-$975 : 1
-begs : 1
-feds : 1
-money : 1
-vallejo : 1
-confirm : 1
-evidence : 1
-monterrosa : 1
-killing : 1
-was : 1
-destroyed : 1
-conitnues : 1
-keeping : 1
-families : 1
-apart : 1
-longer : 1
-ever : 1
-considering : 1
-graphic: : 1
-picnics : 1
-pools : 1
-experts : 1
-rate : 1
-risk : 1
-popular : 1
-mask : 1
-rules: : 1
-tests: : 1
-podcast : 1
-hosted : 1
-soleil : 1
-ho : 1
-justin : 1
-phillips : 1
-game : 1
-green : 1
-track : 1
-bars : 1
-they : 1
-forth : 1
+beloved : 1
+old-school : 1
+diners : 1
+31 : 1
+owners : 1
+sarah : 1
+hae : 1
+ryong : 1
+youn : 1
 month: : 1
+top : 1
 images : 1
 old : 1
 clash : 1
+debate : 1
 defacing : 1
 became : 1
 flash : 1
@@ -898,131 +866,94 @@ racial : 1
 uprising : 1
 engulfing : 1
 nation : 1
+two : 1
+white : 1
 defaced : 1
-lives : 1
 matter : 1
+residents : 1
 unwelcome : 1
 feedback : 1
 politically : 1
 powerful : 1
+“serious : 1
 concerns” : 1
 waterfront : 1
 ballpark : 1
-plan : 1
 environmental : 1
 advocacy : 1
-page : 1
-turning: : 1
-beloved : 1
-start : 1
-lending : 1
-curbside : 1
-pickup : 1
-early : 1
-august : 1
-small : 1
-librarians : 1
-relax : 1
-strategist : 1
-says: : 1
-biden : 1
-stay : 1
-basement : 1
-bidens : 1
-stay-in-the-basement : 1
-strategy : 1
-move : 1
-veteran : 1
-hillary : 1
-clinton : 1
-barack : 1
-campaigns : 1
-just : 1
-keeps : 1
-contrast : 1
-biggest : 1
-issue : 1
+desperate: : 1
+maybe : 1
+result : 1
+means : 1
+no : 1
+income : 1
+quarantine : 1
+ahead : 1
+sloppy : 1
+handwriting : 1
+could : 1
+mail : 1
+ballot : 1
+tossed : 1
+census : 1
+data : 1
+four : 1
+late : 1
+redistricting : 1
+maps : 1
+feinstein : 1
+wants : 1
+deny : 1
+money : 1
+require : 1
 young : 1
 adults : 1
 racism : 1
 poll : 1
-lawmakers : 1
-diversify : 1
-largely : 1
-better-off : 1
-juries : 1
-ca : 1
-sues : 1
-reinstate : 1
-obama-era : 1
-rule : 1
-protecting : 1
-student : 1
-borrowers : 1
-big : 1
-mail-ballot : 1
-problem: : 1
-voters : 1
-send : 1
-late : 1
-pelosis : 1
-election : 1
-challenger : 1
-shes : 1
-shahid : 1
-buttar : 1
-democratic : 1
-socialist : 1
-challenging : 1
-convince : 1
-uphill : 1
-battle : 1
-rise : 1
-cramped : 1
-farmworker : 1
-housing : 1
-tied : 1
-crowded : 1
-lodging : 1
-agricultural : 1
-spike : 1
-leaving : 1
-farmers : 1
-grappling : 1
-prevent : 1
-spread : 1
-beyond : 1
-workplace : 1
-51 : 1
-filed : 1
+surged : 1
+nearly : 1
+70% : 1
+june; : 1
+prices : 1
+rose : 1
+36% : 1
+falling : 1
+sharply : 1
+three : 1
+rebounded : 1
+thanks : 1
+pent-up : 1
+demand : 1
+record-low : 1
+interest : 1
 unemployment : 1
-under : 1
-fearing : 1
-blackouts : 1
-regulators : 1
-require : 1
-cell : 1
-towers : 1
-add : 1
-backup : 1
-uber : 1
-lyft: : 1
-you : 1
-ride : 1
-ab5 : 1
-lawsuit : 1
-plant : 1
-shops : 1
-blooms : 1
+drops : 1
+optimism : 1
+scant : 1
+tesla : 1
+admission: : 1
+caught : 1
+work : 1
+pg&e : 1
+equipment : 1
+2019 : 1
+kincade : 1
+cal : 1
+salesforce : 1
+benioff : 1
+wear : 1
+fined : 1
 eviction : 1
 ban: : 1
 landlords : 1
+need : 1
 californians : 1
 facing : 1
 economic : 1
 distress : 1
-block : 1
+taken : 1
 evictions : 1
+protect : 1
 database: : 1
 layoff : 1
 tracker : 1
@@ -1031,214 +962,229 @@ drivers : 1
 license : 1
 vehicle : 1
 registration : 1
+cant : 1
 pay : 1
 mortgage : 1
-help : 1
 affairs : 1
-order : 1
-stunning : 1
-rebound: : 1
-there : 1
+“many : 1
+incarnations” : 1
+christopher : 1
+aria : 1
+adjani : 1
+selling : 1
+20-acre : 1
+property : 1
+end : 1
+long : 1
 valley: : 1
-industry : 1
 carl : 1
 guardino : 1
 step : 1
-month : 1
 valley : 1
-take : 1
+leadership : 1
+group : 1
 bloom : 1
 energy : 1
 must : 1
 survivors : 1
 share : 1
 battles : 1
-bottlerock : 1
-2020 : 1
-officially : 1
-canceled : 1
-next : 1
-scheduled : 1
-headliners : 1
-hot : 1
-chili : 1
-peppers : 1
-dave : 1
-matthews : 1
-band : 1
-stevie : 1
-nicks : 1
-committed : 1
-appear : 1
-2021 : 1
-sfmoma : 1
-curator : 1
-resigns : 1
-upheaval : 1
-screen : 1
-depictions : 1
-reflect : 1
-shifting : 1
-attitudes : 1
-rep : 1
-barbara : 1
-lee : 1
-saluted : 1
-jewish : 1
-forgotten : 1
-90s : 1
-drama : 1
-homicide : 1
-told : 1
-painful : 1
-truths : 1
-policing : 1
+ponders : 1
+fear : 1
+loathing : 1
+looks : 1
+tumultuous : 1
+collaboration : 1
+might : 1
+green : 1
+festival : 1
+ends : 1
+foresees : 1
+mass : 1
+extinction : 1
+eddie : 1
+gale : 1
+trumpeter : 1
+sun : 1
+ra : 1
+cecil : 1
+taylor : 1
+bands : 1
+dies : 1
+78 : 1
+linda : 1
+ronstadt : 1
+piano : 1
+personal : 1
+memorabilia : 1
+jim : 1
+carrey : 1
+explores : 1
+absurdities : 1
+(and : 1
+himself) : 1
+novel : 1
+girl : 1
+abound : 1
+monarchs : 1
+documentary : 1
+filmed : 1
+early : 1
+2015 : 1
+through : 1
+2018 : 1
+transition : 1
+waning : 1
+barack : 1
+obamas : 1
+presidency : 1
+rise : 1
+donald : 1
+polly : 1
+platt: : 1
+invisible : 1
+woman : 1
 6 : 1
 movies : 1
 catch : 1
 cinegogue : 1
-days : 1
-here : 1
-festivals : 1
-highlights : 1
 fatal : 1
 affair : 1
-kind : 1
 apples : 1
+police : 1
 portrayals : 1
 hollywood : 1
-south : 1
-korean : 1
-hummingbird : 1
-soars : 1
-bruce : 1
-lees : 1
-greatest : 1
-criterion : 1
-box : 1
-set : 1
-real : 1
-kick : 1
 ode : 1
 le : 1
 creuset : 1
 pot : 1
 guide : 1
 virtual : 1
+socially : 1
 distanced : 1
-does : 1
-love : 1
-much : 1
-loves : 1
-benefited : 1
-long-standing : 1
-diversity : 1
-problem : 1
-few : 1
-positions : 1
-cost : 1
-adopt : 1
-wild : 1
-horse : 1
-$1 : 1
+events : 1
 map: : 1
 13 : 1
 becoming : 1
 car-free : 1
-throughline: : 1
-series : 1
-tomorrow : 1
+input : 1
+both : 1
+pragmatists : 1
+dreamers : 1
+bike : 1
+pedestrian : 1
+utopia : 1
+suddenly : 1
+seems : 1
+within : 1
+reach : 1
 open-air : 1
 office: : 1
-couple : 1
 conceived : 1
 next-gen : 1
 workspaces : 1
-highlighting : 1
-social : 1
-distancing : 1
-remote : 1
-staffing : 1
-surplus : 1
-vacant : 1
-office : 1
+calling: : 1
+putting : 1
+bikes : 1
+road : 1
+tenderloin : 1
+reverse : 1
+decades : 1
+neglect : 1
+does : 1
+loves : 1
+youth : 1
+protest : 1
+leaders : 1
+future : 1
+protests : 1
+killing : 1
+george : 1
+floyd : 1
+reached : 1
+leading : 1
+marches : 1
+were : 1
+want : 1
+welcome : 1
 rethinking : 1
 sf: : 1
-radical : 1
 visions : 1
-elizabeth : 1
-ranieri : 1
-husband : 1
-partner : 1
-byron : 1
-kuth : 1
-thinking : 1
-micro-hoods : 1
 changed : 1
-life : 1
+high : 1
 schoolers : 1
-total : 1
-war : 1
-area: : 1
-finds : 1
-ko : 1
-scientists : 1
-search : 1
-vaccine : 1
-end : 1
-archives : 1
-all-out : 1
-effort : 1
-vaccinate : 1
+mitt : 1
+inspired : 1
+fathers : 1
+battle : 1
+17 : 1
+watched : 1
+father : 1
+suffer : 1
+bitter : 1
+defeat : 1
+republican : 1
+convention : 1
+event : 1
+helps : 1
+explain : 1
+supports : 1
 1918 : 1
 spanish : 1
 flu : 1
 debacle: : 1
 crucial : 1
+lesson : 1
 era : 1
+total : 1
+war : 1
+polio : 1
+area: : 1
+finds : 1
+ko : 1
 50 : 1
 prides : 1
 50th : 1
+anniversary : 1
+world : 1
+made : 1
 peace : 1
-came : 1
-create : 1
-united : 1
-nations : 1
 explore : 1
 stories : 1
-behind : 1
-classic : 1
 front : 1
 pages : 1
+out : 1
 subscription : 1
-malpractice : 1
-toll : 1
-mount : 1
-picked : 1
-unlikely : 1
-target : 1
-attack: : 1
-anthony : 1
-whose : 1
-straight : 1
-talk : 1
-trusted : 1
-secret : 1
-not-so-saintly : 1
-history : 1
-junipero : 1
-serra : 1
-statues : 1
-homeowners : 1
-themselves : 1
-cynical : 1
-case : 1
-voting : 1
-mail : 1
-rapid : 1
-abnormalcy : 1
+caille : 1
+millner: : 1
+im : 1
+glad : 1
+didnt : 1
+write : 1
+those : 1
+kinds : 1
+columns : 1
+cabdriver : 1
+conversations : 1
+letters : 1
+trolling : 1
+werent : 1
+part : 1
+repertoire : 1
+eight : 1
+challenge : 1
+diversity : 1
+c-suites : 1
+wearing : 1
+west : 1
+coast : 1
+administrations : 1
+cross-hairs : 1
+wave : 1
+investigations : 1
+reveal : 1
+corrupt : 1
 former : 1
-newsom : 1
 official : 1
 bravely : 1
 discloses : 1
@@ -1252,14 +1198,4 @@ drew : 1
 chorus : 1
 praise : 1
 respect : 1
-political : 1
 worlds : 1
-willie : 1
-brown: : 1
-lousy : 1
-problems : 1
-supreme : 1
-court : 1
-decision : 1
-returns : 1
-werent : 1

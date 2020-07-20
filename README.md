@@ -3,12 +3,17 @@
 by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/gakwong) and [@anchen31](https://github.com/anchen31)
 ### To-Do Checklist
 #### Bugs
-- refine tags for both nyt and sfc to prevent wrong headline/url and headline/excerpt 
+- html tags are not refined, incorrectly assigned some url to headlines
 #### In Progress
 - Flask
+  - link keyword to headlines
 - NewScrape
-#### Need to Start
+  - need to specify html classes
+  - add more newspaper sites
 - NewsCloud
+  - word cloud python implementation
+  - matplotlib to html port
+  - clickable word cloud
 ### Setting Up
 #### If virtual environment is not set up, run: 
 MacOs: 

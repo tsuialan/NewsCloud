@@ -1,16 +1,21 @@
+<!DOCTYPE html>
 <html>
 
-<head>
-    <h1>NewsCloud: </h1>
-</head>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>NewsCloud</title>
+    </head>
 
-<body>
-    <form method="post">
-        <input type="submit" name="news" id="news" value="nyt" class="button" />
-        <input type="submit" name="news" id="news" value="sfchron" class="button" />
-    </form>
-    {% for item in list %}
-    <a href="https://www.google.com"> {{item}} </a> <br> {% endfor %}
-</body>
+    <body>
+        <h1>NewsCloud: </h1>
+        <form method="post">
+            <input type="submit" name="news" id="news" value="nyt" class="button" />
+            <input type="submit" name="news" id="news" value="sfchron" class="button" />
+        </form>
+        {% for item in list %}
+            <a href="{{item.1}}" target="_blank"> {{item.0}} </a> <br> <br>
+        {% endfor %}
+    </body>
 
 </html>

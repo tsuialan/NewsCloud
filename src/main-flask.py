@@ -3,6 +3,8 @@
 # Description: a flask app for newscloud
 
 from flask import Flask, render_template, request, redirect, url_for
+import matplotlib.pyplot as plt
+import mpld3
 import newscloud as nc
 import newscrape as ns
 
@@ -13,36 +15,34 @@ app = Flask(__name__, instance_relative_config=True,
 @app.route('/', methods=('GET', 'POST'))
 def main():
     news = ''
-    all_news = ns.main()
-    if request.method == 'POST':
-        if request.form['news'] == "nyt":
-            news = 'nyt'
-        else:
-            news = 'sfchron'
 
-        if news == 'nyt':
-            # get list of keywords
-            l = []
-            u = []
-            nyt = all_news[0]
-            for keyword in nyt.keywords:
-                l.append(keyword.word)
-            #list = ["test", "words"]
-        elif news == "sfchron":
-            # get list of keywords
-            l = []
-            u = []
-            sfc = all_news[1]
-            for keyword in sfc.keywords:
-                l.append(keyword.word)
-            #list = ['test', "words", "chron"]
+    if request.method == 'POST':
+        all_news = ns.main()
+        if request.form['news'] == "nyt":
+            head_url = get_head_url(all_news[0].headlines)
+        elif request.form['news'] == "sfchron":
+            head_url = get_head_url(all_news[1].headlines)
         else:
-            l = ["Not", "a", "supported", "news"]
-        print(news)
-        return render_template('index.html', list=l, url=u)
+            head_url = zip(["Not a supported news site"], ['www.google.com'])
+
+        return render_template('index.html', list=head_url)
     else:
         print("bad news")
     return render_template('index.html', list=[], url=[])
+
+
+"""
+Helper function to zip the headline and url together
+"""
+
+
+def get_head_url(headlines):
+    head = []
+    urls = []
+    for headline in headlines:
+        head.append(headline.headline)
+        urls.append(headline.url)
+    return zip(head, urls)
 
 
 if __name__ == "__main__":

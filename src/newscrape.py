@@ -8,72 +8,90 @@ import requests
 from urllib.parse import urlparse, urlsplit, urljoin
 import newscloud as nc
 
+""" OBJECT DIAGRAM
+
+News Object
+    |-> string paper (string name of paper)
+    |-> Keyword [] keywords (list of keywords objects)
+    |-> Headline [] headlines (list of headlines objects)
+    |-> Dictionary wordbank ( dictionary of keywords/freqs )
+
+Keywords Object
+    |-> string word (string keyword)
+    |-> Headline [] headlines (list of headlines object)
+    |-> int freq (int frequency of keywords)
+
+Headlines Object
+    |-> string headline (string headline)
+    |-> string url (string url of headline)
+
 """
 
-NEWS (object)   
-    |-> newspaper (identifier)
-    |-> LIST OF KEYWORDS (objects)  |-> keyword (object's identifier)
-                                        |-> original headline
-                                        |-> headlines' url
-                                        |-> frequency of keyword
 
-"""
+""" CLASS OBJECTS """
 
-""" CLASS FUNCTIONS AND DEFINITIONS """
-# news headline objects
+# NEWS OBJECT
+
+
 class News:
+    # default constructor
     def __init__(self, paper):
         self.paper = paper
         self.keywords = []
         self.headlines = []
         self.wordbank = {}
 
+    # adds Keyword object to keword list
     def addKeyword(self, keyword):
         self.keywords.append(keyword)
 
+    # adds Headline object to headline list
     def addHeadline(self, headline):
         self.headlines.append(headline)
 
+    # find and return Keyword object (string keyword)
     def findKeyword(self, word):
         for kw in self.keywords:
             if (kw.word.lower() == word.lower()):
                 return kw
 
-    # find keywords and creates corrresponding objects
-    def genkeywords(self, headlines, url):
+    # generates 'keywords' from headline
+    def genKeywords(self, headline, url):
+        # creates a wordbank sorted by frequency
         wordbank = self.wordbank
-        # hl is reformatted 'headlines'
+        # recombines the headline into a sentence
         hl = ""
-        for word in headlines:
+        for word in headline:
             hl += word + " "
-        # split each headline to a series of words, and the count them
-        for word in headlines:
+        # for each individual word in the headline
+        for word in headline:
+            # removes punctuation
             word = word.replace(",", "").replace(
                 ".", "").replace("?", "").replace("!", "")
             word = word.replace("'", "").replace(
                 '"', "").replace("’", "").replace("‘", "")
             word = word.lower()
+            # check if word is in the word bank
+            # if it is not
             if word not in wordbank.keys():
+                # add word to worbank, creates new keyword object
                 wordbank[word] = 1
-                # creating headline object
-                k = Keyword(word)
-                # add headline, url, freq to headline object
-                k.addheadline(hl)
-                k.addurl(url)
-                k.setfrequency(1)
-                # add the headline object into of news object
+                k = Keyword(word, 1)
+                # recombines headline into a string
+                h = Headline(hl, url)
+                k.addHeadline(h)
+                # add keyword object to news object
                 self.addKeyword(k)
+            # else
             else:
+                # increase frequency of word by one
                 wordbank[word] = wordbank.get(word) + 1
-                for kw in self.keywords:
-                    if (kw.word == word):
-                        # update headline object values
-                        kw.setfrequency(kw.freq + 1)
-                        kw.addheadline(hl)
-                        kw.addurl(url)
-                        break
+                k = self.findKeyword(word)
+                k.setFrequency(k.freq + 1)
+                h = Headline(hl, url)
+                k.addHeadline(h)
 
-    # sorts dictionary by frequency of keyword
+    # sorts the dictionary either alphabetically or by frequency
     def sortDictionary(self, tfile):
         # sort by frequency keywords
         keywords = self.wordbank.items()
@@ -90,71 +108,39 @@ class News:
             f.write(index[0] + " : " + str(index[1]) + '\n')
         f.close()
 
-# keyword object
+# KEYWORD OBJECT
+
+
 class Keyword:
-    def __init__(self, keyword):
+    # default constuctor
+    def __init__(self, keyword, frequency):
         self.word = keyword
         self.headlines = []
-        self.urls = []
-        self.freq = 0
+        self.freq = frequency
 
-    def setfrequency(self, freq):
-        self.freq = freq
+    # set keyword's frequency
+    def setFrequency(self, f):
+        self.freq = f
 
-    def addheadline(self, headline):
+    # add Headline object to headline list
+    def addHeadline(self, headline):
         self.headlines.append(headline)
 
-    def addurl(self, url):
-        self.urls.append(url)
+# HEADLINE OBJECT       // contains headline (str) and url
+
+
+class Headline:
+    # default constructor
+    def __init__(self, h, u):
+        self.headline = h
+        self.url = u
 
 
 """ WEBSCRAPING FUNCTIONS """
-# https://www.sfchronicle.com/
-def sfscrape():
-    # scrapes sf chronicle
-    r1 = requests.get('https://www.sfchronicle.com/')
-    sfc = r1.content
-    bs1 = BeautifulSoup(sfc, 'lxml')
-    bs_sf = bs1.find_all("a", {"class": "hdn-analytics"})
 
-    # creates news object
-    sfc = News("SF Chronicle")
+# scrapes new york times
 
-    # writes headline into txt file
-    tfile = "./headlines/sfchronicle.txt"         # local text file
-    f = open(tfile, "w+")
-    for headlines in bs_sf:
-        # get href url from headlien
-        hurl = headlines['href']
-        # completes incomplete urls
-        if ('https://' not in hurl):
-            base = 'https://www.sfchronicle.com/'
-            hurl = urljoin(base, hurl)
-        # removes excess spaces
-        headlines = headlines.getText().split()
-        hl = ""
-        for word in headlines:
-            hl += word + " "
-        sfc.addHeadline(hl)
-        # skip single word 'headlines'
-        if (len(headlines) <= 3):
-            continue
-        # get keywords
-        sfc.genkeywords(headlines, hurl)
-        # reformats headline text
-        hl = ""
-        for word in headlines:
-            hl += word + " "
-        # writes to local file
-        f.write(str(hl) + "\t" + hurl + '\n')
-    f.write('\n')
-    f.close()
 
-    # sort dictionary
-    sfc.sortDictionary(tfile)
-    return sfc
-
-# https://www.nytimes.com/
 def nytscrape():
     # scrapes new york times
     r1 = requests.get('https://www.nytimes.com/')
@@ -169,56 +155,112 @@ def nytscrape():
     tfile = "./headlines/newyorktimes.txt"
     f = open(tfile, "w+")
 
-    # goes through each 'headline' scraped
-
-    for headlines in bs_nyt:
-        # reformats the headline, take out spaces
-        headline = headlines.getText().split()
-        hl = ""
-        for word in headline:
-            hl += word + " "
-        nyt.addHeadline(hl)
-        # ignore 'headlines' if too short, takes out dumb things
-        if (len(headline) <= 3):
+    for headline in bs_nyt:
+        # split headline into individual words
+        h_split = headline.getText().split()
+        # if less than 3 words, ignore headline
+        if (len(h_split) <= 3):
             continue
-        # get url correspondingn to headline
-        hurl = headlines['href']
-        # ignore 'headlines' with no url
+        # get url from headline's href
+        hurl = headline['href']
+        # if no url, ignore headlinen
         if ('/' not in hurl):
             continue
-        # completes incomplete urls
+        # completes incomplete url
         if ('https://' not in hurl):
             base = 'https://www.nytimes.com/'
             hurl = urljoin(base, hurl)
-        # get keywords
-        nyt.genkeywords(headline, hurl)
-        # reformats hl text
-        hl = ""
-        for word in headline:
-            hl += word + " "
+        # get texts from html headline
+        headline = ""
+        for word in h_split:
+            headline += word + " "
+        # creates headline object
+        H = Headline(headline, hurl)
+        # adds it to news object
+        nyt.addHeadline(H)
+        # get keywords from headline
+        nyt.genKeywords(h_split, hurl)
         # writes to local file
-        f.write(str(hl) + "\t" + hurl + '\n')
+        f.write(str(headline) + '\t' + hurl + '\n')
     f.write('\n')
     f.close()
 
     # sort dictionary
     nyt.sortDictionary(tfile)
+    # returns news object
     return nyt
+
+# scrapes sf chroncile
+
+
+def sfcscrape():
+    # scrapes sf chronicle
+    r1 = requests.get('https://www.sfchronicle.com/')
+    sfc = r1.content
+    bs1 = BeautifulSoup(sfc, 'lxml')
+    bs_sfc = bs1.find_all("a", {"class": "hdn-analytics"})
+
+    # creates news object
+    sfc = News("SF Chronicle")
+
+    # writes headlines into local txt file
+    tfile = "./headlines/sfchronicle.txt"
+    f = open(tfile, "w+")
+
+    for headline in bs_sfc:
+        # split headline into individual words
+        h_split = headline.getText().split()
+        # if less than 3 words, ignore headline
+        if (len(h_split) <= 3):
+            continue
+        # get url from headline's href
+        hurl = headline['href']
+        # if no url, ignore headlinen
+        if ('/' not in hurl):
+            continue
+        # completes incomplete url
+        if ('https://' not in hurl):
+            base = 'https://www.nytimes.com/'
+            hurl = urljoin(base, hurl)
+        # get texts from html headline
+        headline = ""
+        for word in h_split:
+            headline += word + " "
+        # creates headline object
+        H = Headline(headline, hurl)
+        # adds it to news object
+        sfc.addHeadline(H)
+        # get keywords from headline
+        sfc.genKeywords(h_split, hurl)
+        # writes to local file
+        f.write(str(headline) + '\t' + hurl + '\n')
+    f.write('\n')
+    f.close()
+
+    # sort dictionary
+    sfc.sortDictionary(tfile)
+    # returns news object
+    return sfc
 
 
 """ MAIN FUNCTION """
+
+
 def main():
-    # calling webscraping scripts
+    # calling webscraping functions
     print("[*] Starting New York Times ... ")
     nyt = nytscrape()
     print("[*] Starting SF Chronicle ... ")
-    sfc = sfscrape()
-    # list holding the news objects
-    news = []
-    news.append(nyt)
-    news.append(sfc)
-    return news
+    sfc = sfcscrape()
+
+    # append objects into list, return list
+    newslist = []
+    newslist.append(nyt)
+    newslist.append(sfc)
+    # returns list
+    return newslist
 
 
+# main name thing
 if __name__ == '__main__':
     main()
