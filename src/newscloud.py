@@ -7,10 +7,13 @@
 import newscrape as ns
 import pandas as pd
 
-#set font size based on frequency
+# set font size based on frequency
+
+
 def setFont():
     News = ns.main()
     print(News[0].wordbank)
+<<<<<<< HEAD
     Words = []
     freq = []
 
@@ -26,6 +29,13 @@ def setFont():
    #get unique values of the freq and assign font sizes based off it
 
     
+=======
+    numWords = 0
+    for words in News[0].wordbank:
+        numWords += 1
+    print(numWords)
+>>>>>>> a2ab0c54659e51637abfd71b81efd8ad486ea3c0
+
 
 if __name__ == '__main__':
     setFont()
