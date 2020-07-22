@@ -7,7 +7,7 @@ cffi==1.14.0
 chardet==3.0.4
 click==7.1.2
 constantly==15.1.0
-cryptography==2.9.2
+cryptography==3.0
 cssselect==1.1.0
 cycler==0.10.0
 Flask==1.1.2
@@ -33,14 +33,14 @@ pycodestyle==2.6.0
 pycparser==2.20
 PyDispatcher==2.0.5
 PyHamcrest==2.0.2
-pynytimes==0.3.2
+pynytimes==0.4.0
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
 queuelib==1.5.0
 requests==2.24.0
-Scrapy==2.2.0
+Scrapy==2.2.1
 selenium==3.141.0
 service-identity==18.1.0
 six==1.15.0

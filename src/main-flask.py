@@ -31,6 +31,10 @@ def main():
     return render_template('index.html', list=[], url=[])
 
 
+@app.route('/wordcloud')
+def wc():
+    return render_template('wordcloud.html')
+
 """
 Helper function to zip the headline and url together
 """

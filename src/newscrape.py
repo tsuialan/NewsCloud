@@ -161,8 +161,11 @@ def nytscrape():
         # if less than 3 words, ignore headline
         if (len(h_split) <= 3):
             continue
-        # get url from headline's href
-        hurl = headline['href']
+        # get url from headline's href if exists
+        if headline.has_attr('href'):
+            hurl = headline['href']
+        else:
+            continue
         # if no url, ignore headlinen
         if ('/' not in hurl):
             continue
@@ -214,13 +217,16 @@ def sfcscrape():
         if (len(h_split) <= 3):
             continue
         # get url from headline's href
-        hurl = headline['href']
+        if headline.has_attr('href'):
+            hurl = headline['href']
+        else:
+            continue
         # if no url, ignore headlinen
         if ('/' not in hurl):
             continue
         # completes incomplete url
         if ('https://' not in hurl):
-            base = 'https://www.nytimes.com/'
+            base = 'https://www.sfchronicle.com/'
             hurl = urljoin(base, hurl)
         # get texts from html headline
         headline = ""
