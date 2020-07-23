@@ -5,7 +5,7 @@
 from flask import Flask, render_template, request, redirect, url_for
 import matplotlib.pyplot as plt
 import mpld3
-import newscloud as nc
+import json
 import newscrape as ns
 
 app = Flask(__name__, instance_relative_config=True,
@@ -32,8 +32,13 @@ def main():
 
 
 @app.route('/wordcloud')
-def wc():
-    return render_template('wordcloud.html')
+def wordcloud():
+    # get json object
+    l = ns.main()
+    d = l[0].writejson()
+    p = l[0].paper
+    return render_template('wordcloud.html', data=d, paper=p)
+
 
 """
 Helper function to zip the headline and url together

@@ -7,15 +7,15 @@ San Quentin: 8th Death Row inmate dies of suspected coronavirus infection 	https
 Apple co-founder Wozniak sues YouTube, Google, over Bitcoin scam 	https://www.sfchronicle.com/business/article/Apple-co-founder-Wozniak-sues-YouTube-Google-15427288.php
 SF supes interested in preserving murals at UCSF Parnassus campus 	https://www.sfchronicle.com/bayarea/article/SF-supervisors-take-an-interest-in-preserving-WPA-15427125.php
 Alameda police chief retires after 28 years on the force 	https://www.sfchronicle.com/crime/article/Alameda-police-chief-retires-after-28-years-on-15427045.php
+California reports record daily cases, passes New York for most in U.S. 	https://www.sfchronicle.com/health/article/Report-California-has-the-most-coronavirus-cases-15426093.php
+On the same day California broke its own record for new daily coronavirus cases, it also reported the highest total coronavirus cases of any state in the U.S., surpassing New York. 	https://www.sfchronicle.com/health/article/Report-California-has-the-most-coronavirus-cases-15426093.php
+Is traffic returning to ‘normal’? Here’s how close we are 	https://www.sfchronicle.com/bayarea/article/Is-traffic-on-Bay-Area-highways-and-bridges-15426050.php
+Newsom extends California’s medical-mask deal with BYD 	https://www.sfchronicle.com/politics/article/Newsom-extends-California-s-medical-mask-deal-15426955.php
 Ferry Building closure further threatens its status as a local food oasis 	https://www.sfchronicle.com/food/article/Ferry-Building-closure-further-threatens-its-15427044.php
 The coronavirus has raised big questions about the future of the Ferry Building, especially as it came right when its tenant makeup had already started dramatically changing. 	https://www.sfchronicle.com/food/article/Ferry-Building-closure-further-threatens-its-15427044.php
 SF's Ferry Building to close under coronavirus health orders 	https://www.sfchronicle.com/food/article/San-Francisco-s-Ferry-Building-to-close-under-15426509.php
 SF’s malls are closed, but smaller stores also have coronavirus risks 	https://www.sfchronicle.com/business/article/SF-s-malls-are-closed-but-smaller-stores-also-15427178.php
 SF’s reopening timeline further on hold: New key dates to know 	https://www.sfchronicle.com/bayarea/article/SF-reopening-calendar-Dates-when-restaurants-15301361.php
-Is traffic on highways and bridges returning to ‘normal’? Here’s how close we are 	https://www.sfchronicle.com/bayarea/article/Is-traffic-on-Bay-Area-highways-and-bridges-15426050.php
-Traffic has started picking back up again on Bay Area highways as the region begins reopening from coronavirus shelter-in-place. But how much? Here’s a look at the data showing what’s happening on the roads. 	https://www.sfchronicle.com/bayarea/article/Is-traffic-on-Bay-Area-highways-and-bridges-15426050.php
-California reports record daily cases, passes New York for most in U.S. 	https://www.sfchronicle.com/health/article/Report-California-has-the-most-coronavirus-cases-15426093.php
-Newsom extends California’s medical-mask deal with BYD 	https://www.sfchronicle.com/politics/article/Newsom-extends-California-s-medical-mask-deal-15426955.php
 Child care is on the verge of collapse in the Bay Area. Can parents go back to work? 	https://www.sfchronicle.com/bayarea/article/Child-care-is-on-the-verge-of-collapse-in-the-Bay-15424605.php
 A new report from UC Berkeley finds that the state’s halting efforts to reopen have only escalated a financial crisis for child care centers, leaving parents with fewer options. 	https://www.sfchronicle.com/bayarea/article/Child-care-is-on-the-verge-of-collapse-in-the-Bay-15424605.php
 When will Bay Area schools reopen for in-person instruction? 	https://www.sfchronicle.com/bayarea/article/When-will-Bay-Area-schools-reopen-in-person-Here-15419182.php
@@ -27,12 +27,7 @@ More than half of people receiving unemployment benefits are getting more than t
 Sierra Club distances itself from John Muir, apologizes for 'perpetuating white supremacy' 	https://www.sfchronicle.com/politics/article/Sierra-Club-distances-itself-from-John-Muir-15426324.php
 The executive director of the Sierra Club apologized Wednesday for the Oakland-based environmental group’s “substantial role in perpetuating white supremacy,” and said John Muir, the club’s founder and an icon of the environmentalist movement, was a racist. 	https://www.sfchronicle.com/politics/article/Sierra-Club-distances-itself-from-John-Muir-15426324.php
 List of over 50 John Muir namesakes shows widespread memory in state 	https://www.sfchronicle.com/bayarea/article/List-of-over-50-John-Muir-namesakes-shows-how-15427102.php
-See what’s open and what’s still shut down by county 	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
-The latest on wildfires across the state 	https://projects.sfchronicle.com/trackers/california-fire-map/
-How COVID-19 ravages the body 	https://projects.sfchronicle.com/2020/virus-organs-graphic/
-Changes restaurants may make to reopen 	https://projects.sfchronicle.com/2020/future-of-restaurants/
-What school will look like with pandemic protocols 	https://projects.sfchronicle.com/2020/schools-pandemic-protocols-graphic/
-The micro-hood, a new vision for downtown SF 	https://projects.sfchronicle.com/2020/welcome-to-the-micro-hood-graphic/
+Tracking COVID-19 cases across California 	https://projects.sfchronicle.com/2020/coronavirus-map/
 Mike Krukow’s path to work, and other broadcasting notes 	https://www.sfchronicle.com/giants/jenkins/article/Mike-Krukow-s-path-to-work-and-other-15424448.php
 Giants broadcaster Mike Krukow has moved back to San Francisco, with his trusty dog in hand and an even more comfortable path from his apartment to Oracle Park. 	https://www.sfchronicle.com/giants/jenkins/article/Mike-Krukow-s-path-to-work-and-other-15424448.php
 Antibody study: Virus infections may have been 10 times higher in Bay Area 	https://www.sfchronicle.com/bayarea/article/Antibody-study-finds-coronavirus-infections-may-15424491.php
@@ -178,88 +173,84 @@ Willie Brown: It’s not in the bag for Joe Biden. Far from it 	https://www.sfch
 Given President Trump’s missteps and mistakes on everything from his handling the coronavirus pandemic to his racially charged rhetoric, Joe... 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-It-s-not-in-the-bag-for-Joe-15416772.php
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 
-the : 100
-to : 61
-a : 52
-in : 48
-of : 46
-and : 41
+the : 96
+to : 60
+a : 50
+in : 49
+of : 47
+and : 39
 for : 32
-bay : 28
-area : 27
-on : 27
-coronavirus : 19
-with : 18
-sf : 15
-how : 14
-as : 13
-new : 13
+bay : 27
+area : 26
+on : 24
+coronavirus : 20
+with : 17
+sf : 14
+new : 14
+as : 12
 giants : 12
+how : 12
 are : 12
-from : 12
+california : 11
 when : 11
-have : 9
-reopening : 9
+from : 11
 is : 9
-up : 9
-california : 9
-will : 9
+have : 9
 more : 9
 his : 9
 not : 8
 san : 8
-at : 8
+reopening : 8
 that : 8
-by : 8
-has : 7
-but : 7
-back : 7
-latest : 7
-pandemic : 7
+will : 8
+up : 8
+at : 7
+its : 7
+by : 7
 should : 7
 get : 7
 season : 6
 after : 6
-its : 6
+has : 6
 about : 6
+but : 6
 can : 6
+back : 6
 than : 6
 they : 6
 some : 6
-restaurants : 6
-what : 6
 other : 6
 francisco : 6
+pandemic : 6
+latest : 6
 i : 6
 national : 6
 do : 5
 gabe : 5
 kapler : 5
-open : 5
 over : 5
 sfs : 5
-heres : 5
-whats : 5
-see : 5
-still : 5
-county : 5
 covid-19 : 5
-may : 5
 many : 5
 workers : 5
 you : 5
+what : 5
 players : 5
 why : 5
+restaurants : 5
 president : 5
 my : 4
+open : 4
+cases : 4
+it : 4
+heres : 4
 future : 4
 right : 4
 had : 4
-started : 4
 health : 4
 care : 4
-reopen : 4
-down : 4
+see : 4
+still : 4
 trader : 4
 joes : 4
 products : 4
@@ -269,8 +260,10 @@ week : 4
 john : 4
 mike : 4
 path : 4
+may : 4
 federal : 4
 rules : 4
+county : 4
 be : 4
 city : 4
 protests : 4
@@ -281,13 +274,17 @@ lives : 4
 parks : 4
 chief : 3
 years : 3
+most : 3
+also : 3
+state : 3
+newsom : 3
 ferry : 3
 building : 3
 food : 3
-it : 3
-most : 3
-newsom : 3
+started : 3
 work : 3
+reopen : 3
+down : 3
 teen : 3
 two : 3
 high : 3
@@ -303,9 +300,6 @@ muir : 3
 white : 3
 an : 3
 list : 3
-state : 3
-changes : 3
-school : 3
 even : 3
 been : 3
 times : 3
@@ -347,31 +341,31 @@ infections : 2
 social : 2
 era : 2
 finally : 2
-begins : 2
 death : 2
 dies : 2
 sues : 2
 supes : 2
 ucsf : 2
 28 : 2
+record : 2
+daily : 2
+york : 2
+us : 2
+day : 2
+total : 2
+close : 2
+we : 2
+deal : 2
 further : 2
 local : 2
 changing : 2
-close : 2
-also : 2
 timeline : 2
 know : 2
-traffic : 2
-highways : 2
-we : 2
-shelter-in-place : 2
-look : 2
-deal : 2
 child : 2
 parents : 2
 finds : 2
 only : 2
-shut : 2
+whats : 2
 racism : 2
 fired : 2
 nation : 2
@@ -407,8 +401,6 @@ was : 2
 shows : 2
 memory : 2
 across : 2
-make : 2
-protocols : 2
 krukows : 2
 broadcasting : 2
 notes : 2
@@ -432,6 +424,7 @@ following : 2
 marin : 2
 anxiety : 2
 each : 2
+school : 2
 districts : 2
 face : 2
 if : 2
@@ -464,6 +457,7 @@ takeout : 2
 im : 2
 restaurant : 2
 black-owned : 2
+changes : 2
 housing : 2
 covenants : 2
 found : 2
@@ -528,6 +522,7 @@ studies : 1
 justice : 1
 course : 1
 requirement : 1
+begins : 1
 dodgers : 1
 quentin: : 1
 8th : 1
@@ -551,6 +546,22 @@ alameda : 1
 police : 1
 retires : 1
 force : 1
+reports : 1
+passes : 1
+same : 1
+broke : 1
+own : 1
+reported : 1
+highest : 1
+any : 1
+surpassing : 1
+traffic : 1
+returning : 1
+normal : 1
+extends : 1
+californias : 1
+medical-mask : 1
+byd : 1
 closure : 1
 threatens : 1
 status : 1
@@ -574,28 +585,6 @@ risks : 1
 hold: : 1
 key : 1
 dates : 1
-bridges : 1
-returning : 1
-normal : 1
-picking : 1
-again : 1
-region : 1
-much : 1
-data : 1
-showing : 1
-happening : 1
-roads : 1
-reports : 1
-record : 1
-daily : 1
-cases : 1
-passes : 1
-york : 1
-us : 1
-extends : 1
-californias : 1
-medical-mask : 1
-byd : 1
 verge : 1
 collapse : 1
 go : 1
@@ -615,6 +604,7 @@ schools : 1
 in-person : 1
 instruction : 1
 tracker: : 1
+shut : 1
 characterized : 1
 harmful : 1
 acts : 1
@@ -647,13 +637,7 @@ environmentalist : 1
 movement : 1
 namesakes : 1
 widespread : 1
-wildfires : 1
-ravages : 1
-body : 1
-like : 1
-micro-hood : 1
-vision : 1
-downtown : 1
+tracking : 1
 hand : 1
 oracle : 1
 study: : 1
@@ -744,10 +728,10 @@ their : 1
 voices : 1
 progress : 1
 one : 1
-day : 1
 media : 1
 demand : 1
 safe : 1
+protocols : 1
 starting : 1
 association : 1
 made : 1
@@ -805,12 +789,14 @@ crowd-sourced : 1
 directory : 1
 businesses : 1
 interactive: : 1
+make : 1
 152 : 1
 outdoor : 1
 dining : 1
 permanent : 1
 closures : 1
 since : 1
+shelter-in-place : 1
 which : 1
 often : 1
 contained : 1
@@ -1186,7 +1172,6 @@ cannabis : 1
 growers : 1
 called : 1
 army : 1
-total : 1
 polio : 1
 area: : 1
 ko : 1

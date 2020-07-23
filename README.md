@@ -6,18 +6,17 @@ by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/ga
 - html tags are not refined, incorrectly assigned some url to headlines
 #### In Progress
 - Flask
-  - link keyword to headlines
+  - write new interface for the word cloud
 - NewScrape
   - script can prob be rewritten for efficiency
   - need to specify html classes
   - add more newspaper sites
-  - json formatting?
 - NewsCloud
-  - word cloud python matplitlib implementation
-    - matplotlib to html port
-    - clickable word cloud
   - javascript implementation of word cloud
-    - read json from javascript
+    - add categories
+    - clickable keywords to headlines/urls
+    - take out common words
+    - combine all newspaper to one word cloud option
 ### Setting Up
 #### If virtual environment is not set up, run: 
 MacOs: 

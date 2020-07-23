@@ -6,7 +6,6 @@
 from bs4 import BeautifulSoup
 import requests
 from urllib.parse import urlparse, urlsplit, urljoin
-import newscloud as nc
 import json
 
 """ OBJECT DIAGRAM
@@ -110,16 +109,14 @@ class News:
         f.close()
 
     def writejson(self):
-        d = {
-            "data": []
-        }
+        d = []
         # go through each keyword in news object
         for keyword in self.keywords:
             # creates a list object out of the data
             l = {}
-            l["x"] = (keyword.word)
-            l["value"] = (keyword.freq)
-            """
+            l["x"] = keyword.word
+            l["value"] = keyword.freq
+            """         URL IMPLEMENTATION FOR LATER
             H = []
             for headline in keyword.headlines:
                 h = []
@@ -128,13 +125,15 @@ class News:
                 H.append(h)
             l.append(H)
             """
-            d["data"].append(l)
-        # dump dict into json
-        data = json.dumps(d, indent=1)
+            d.append(l)
+        # creates a json object out of the list
+        data = json.dumps(d)
         # dump json to local file
-        fname = './data/data_' + str(self.paper) + '.json'
+        paper = self.paper.replace(" ", "").lower()
+        fname = './data/data_' + str(paper) + '.json'
         with open(fname, 'w') as f:
             json.dump(data, f)
+        # returns json object
         return data
 
 # KEYWORD OBJECT
@@ -178,7 +177,7 @@ def nytscrape():
     bs_nyt = bs1.find_all('a')
 
     # creates headline object for nyt
-    nyt = News("newyorktimes")
+    nyt = News("New York Times")
 
     # writes headlines into local txt file
     tfile = "./data/newyorktimes.txt"
@@ -233,7 +232,7 @@ def sfcscrape():
     bs_sfc = bs1.find_all("a", {"class": "hdn-analytics"})
 
     # creates news object
-    sfc = News("sfchronicle")
+    sfc = News("SF Chronicle")
 
     # writes headlines into local txt file
     tfile = "./data/sfchronicle.txt"
@@ -289,7 +288,7 @@ def main():
     sfc = sfcscrape()
 
     nyt.writejson()
-    sfc.writejson()
+    print(sfc.writejson())
 
     # append objects into list, return list
     newslist = []
