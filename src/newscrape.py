@@ -170,6 +170,7 @@ class Headline:
 
 
 def nytscrape():
+    print("Begin New York Times ... ")
     # scrapes new york times
     r1 = requests.get('https://www.nytimes.com/')
     nyt = r1.content
@@ -225,6 +226,8 @@ def nytscrape():
 
 
 def sfcscrape():
+    print("Begin San Francisco Chronicle ... ")
+
     # scrapes sf chronicle
     r1 = requests.get('https://www.sfchronicle.com/')
     sfc = r1.content
@@ -281,19 +284,22 @@ def sfcscrape():
 
 
 def main():
+    print("[*] NEWSCRAPE MAIN ...")
     # calling webscraping functions
     print("[*] Starting New York Times ... ")
     nyt = nytscrape()
     print("[*] Starting SF Chronicle ... ")
     sfc = sfcscrape()
 
+    # create json file just in case
     nyt.writejson()
-    print(sfc.writejson())
+    sfc.writejson()
 
     # append objects into list, return list
     newslist = []
     newslist.append(nyt)
     newslist.append(sfc)
+
     # returns list
     return newslist
 

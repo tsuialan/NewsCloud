@@ -15,15 +15,12 @@ run:
 			#python -m flask run --host=0.0.0.0
 
 cl:
+			@echo "[*] [++++++++++ NewsCloud - CL ++++++++++]"	
 			python3 main-cl.py
 
 newscrape:
 			@echo "[*] Testing newscrape.py"
 			python3 newscrape.py
-
-newscloud:
-			@echo "[*] Testing newscloud.py"
-			python3 newscloud.py
 
 install:
 			@echo "[*] Installing required pytho packages"

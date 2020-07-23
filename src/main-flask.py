@@ -3,8 +3,6 @@
 # Description: a flask app for newscloud
 
 from flask import Flask, render_template, request, redirect, url_for
-import matplotlib.pyplot as plt
-import mpld3
 import json
 import newscrape as ns
 
@@ -17,17 +15,16 @@ def main():
     news = ''
 
     if request.method == 'POST':
-        all_news = ns.main()
         if request.form['news'] == "nyt":
-            head_url = get_head_url(all_news[0].headlines)
+            head_url = get_head_url(ns.nytscrape().headlines)
         elif request.form['news'] == "sfchron":
-            head_url = get_head_url(all_news[1].headlines)
+            head_url = get_head_url(ns.sfcscrape().headlines)
         else:
             head_url = zip(["Not a supported news site"], ['www.google.com'])
 
         return render_template('index.html', list=head_url)
     else:
-        print("bad news")
+        print("booted or really bad news")
     return render_template('index.html', list=[], url=[])
 
 
