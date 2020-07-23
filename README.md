@@ -1,10 +1,10 @@
 # NewsCloud
 ### News Centralized and Simplified 
 by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/gakwong) and [@anchen31](https://github.com/anchen31)
-### To-Do Checklist
-#### Bugs
+## To-Do Checklist
+### Bugs
 - html tags are not refined, incorrectly assigned some url to headlines
-#### In Progress
+### In Progress
 - Flask
   - write new interface for the word cloud
 - NewScrape
@@ -17,7 +17,7 @@ by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/ga
     - clickable keywords to headlines/urls
     - take out common words
     - combine all newspaper to one word cloud option
-### Setting Up
+## Setting Up
 #### If virtual environment is not set up, run: 
 MacOs: 
 ``` MAC
@@ -45,7 +45,7 @@ Windows:
 ``` WIN
 pip install -r requirements.txt
 ```
-### Run
+## Run
 #### To execute flask program, run inside src/ folder:
 MacOs: 
 ``` MAC
@@ -74,13 +74,4 @@ make newscrape
 Windows:
 ``` WIN
 python newscrape.py
-```
-#### To execute news-cloud script, run inside src/ folder:
-MacOs:
-``` MAC
-make newscloud
-```
-Windows:
-``` WIN
-python newscloud.py
 ```
