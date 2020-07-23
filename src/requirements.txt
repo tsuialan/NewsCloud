@@ -22,7 +22,7 @@ lxml==4.5.2
 MarkupSafe==1.1.1
 matplotlib==3.3.0
 mpld3==0.5.1
-numpy==1.19.0
+numpy==1.19.1
 pandas==1.0.5
 parsel==1.6.0
 Pillow==7.2.0
@@ -47,7 +47,7 @@ six==1.15.0
 soupsieve==2.0.1
 toml==0.10.1
 Twisted==20.3.0
-urllib3==1.25.9
+urllib3==1.25.10
 w3lib==1.22.0
 Werkzeug==1.0.1
 wordcloud==1.7.0

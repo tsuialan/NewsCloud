@@ -130,9 +130,9 @@ class News:
             """
             d["data"].append(l)
         # dump dict into json
-        data = json.dumps(d)
+        data = json.dumps(d, indent=1)
         # dump json to local file
-        fname = './data_' + str(self.paper) + '.json'
+        fname = './data/data_' + str(self.paper) + '.json'
         with open(fname, 'w') as f:
             json.dump(data, f)
         return data
@@ -181,7 +181,7 @@ def nytscrape():
     nyt = News("newyorktimes")
 
     # writes headlines into local txt file
-    tfile = "./headlines/newyorktimes.txt"
+    tfile = "./data/newyorktimes.txt"
     f = open(tfile, "w+")
 
     for headline in bs_nyt:
@@ -236,7 +236,7 @@ def sfcscrape():
     sfc = News("sfchronicle")
 
     # writes headlines into local txt file
-    tfile = "./headlines/sfchronicle.txt"
+    tfile = "./data/sfchronicle.txt"
     f = open(tfile, "w+")
 
     for headline in bs_sfc:

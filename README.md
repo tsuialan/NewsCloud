@@ -8,12 +8,16 @@ by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/ga
 - Flask
   - link keyword to headlines
 - NewScrape
+  - script can prob be rewritten for efficiency
   - need to specify html classes
   - add more newspaper sites
+  - json formatting?
 - NewsCloud
-  - word cloud python implementation
-  - matplotlib to html port
-  - clickable word cloud
+  - word cloud python matplitlib implementation
+    - matplotlib to html port
+    - clickable word cloud
+  - javascript implementation of word cloud
+    - read json from javascript
 ### Setting Up
 #### If virtual environment is not set up, run: 
 MacOs: 

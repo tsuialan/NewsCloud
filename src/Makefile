@@ -39,6 +39,5 @@ clean:
 
 delete:
 			@echo "[*] Deleting files"
-			-rm -rf headlines/
-			mkdir headlines/
-			-rm -f *.json
+			-rm -rf data/
+			mkdir data/
