@@ -8,6 +8,7 @@
     <title>JavaScript Tag Cloud Chart</title>
     <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
     <script src="https://cdn.anychart.com/releases/v8/js/anychart-tag-cloud.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/8.7.1/js/anychart-data-adapter.min.js"></script>
     <style>
         html,
         body,
@@ -24,6 +25,8 @@
     <div id="container"></div>
     <script>
         anychart.onDocumentReady(function() {
+
+            /*
             var data = [{
                 "x": "Mandarin chinese",
                 "value": 1090000000,
@@ -85,23 +88,29 @@
                 "value": 121000000,
                 category: "Indo-European"
             }];
-            // create a tag (word) cloud chart
-            var chart = anychart.tagCloud(data);
-            // set a chart title
-            chart.title('15 most spoken languages')
-                // set an array of angles at which the words will be laid out
-            chart.angles([0])
-                // enable a color range
-            chart.colorRange(true);
-            // set the color range length
-            chart.colorRange().length('80%');
-            // display the word cloud chart
-            chart.container("container");
-            chart.draw();
+            */
 
-            chart.listen("pointClick", function(e) {
-                var url = "https://en.wikipedia.org/wiki/" + e.point.get("x");
-                window.open(url, "_blank");
+            anychart.data.loadJsonFile("data.json", function(data) {
+
+                // create a tag (word) cloud chart
+                var chart = anychart.tagCloud(data);
+                // set a chart title
+                chart.title('15 most spoken languages')
+                    // set an array of angles at which the words will be laid out
+                chart.angles([0])
+                    // enable a color range
+                chart.colorRange(true);
+                // set the color range length
+                chart.colorRange().length('80%');
+                // display the word cloud chart
+                chart.container("container");
+                chart.draw();
+
+                chart.listen("pointClick", function(e) {
+                    var url = "https://en.wikipedia.org/wiki/" + e.point.get("x");
+                    window.open(url, "_blank");
+                });
+
             });
         });
     </script>

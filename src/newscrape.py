@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import requests
 from urllib.parse import urlparse, urlsplit, urljoin
 import newscloud as nc
+import json
 
 """ OBJECT DIAGRAM
 
@@ -108,6 +109,34 @@ class News:
             f.write(index[0] + " : " + str(index[1]) + '\n')
         f.close()
 
+    def writejson(self):
+        d = {
+            "data": []
+        }
+        # go through each keyword in news object
+        for keyword in self.keywords:
+            # creates a list object out of the data
+            l = {}
+            l["x"] = (keyword.word)
+            l["value"] = (keyword.freq)
+            """
+            H = []
+            for headline in keyword.headlines:
+                h = []
+                h.append(headline.headline)
+                h.append(headline.url)
+                H.append(h)
+            l.append(H)
+            """
+            d["data"].append(l)
+        # dump dict into json
+        data = json.dumps(d)
+        # dump json to local file
+        fname = './data_' + str(self.paper) + '.json'
+        with open(fname, 'w') as f:
+            json.dump(data, f)
+        return data
+
 # KEYWORD OBJECT
 
 
@@ -149,7 +178,7 @@ def nytscrape():
     bs_nyt = bs1.find_all('a')
 
     # creates headline object for nyt
-    nyt = News("New York Times")
+    nyt = News("newyorktimes")
 
     # writes headlines into local txt file
     tfile = "./headlines/newyorktimes.txt"
@@ -204,7 +233,7 @@ def sfcscrape():
     bs_sfc = bs1.find_all("a", {"class": "hdn-analytics"})
 
     # creates news object
-    sfc = News("SF Chronicle")
+    sfc = News("sfchronicle")
 
     # writes headlines into local txt file
     tfile = "./headlines/sfchronicle.txt"
@@ -258,6 +287,9 @@ def main():
     nyt = nytscrape()
     print("[*] Starting SF Chronicle ... ")
     sfc = sfcscrape()
+
+    nyt.writejson()
+    sfc.writejson()
 
     # append objects into list, return list
     newslist = []

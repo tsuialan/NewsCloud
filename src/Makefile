@@ -41,3 +41,4 @@ delete:
 			@echo "[*] Deleting files"
 			-rm -rf headlines/
 			mkdir headlines/
+			-rm -f *.json
