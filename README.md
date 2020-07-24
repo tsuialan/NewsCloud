@@ -4,6 +4,7 @@ by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/ga
 ## To-Do Checklist
 ### Bugs
 - html tags are not refined, incorrectly assigned some url to headlines
+- cannot localize css files for some reason
 ### In Progress
 - Flask
   - write new interface for the word cloud
@@ -16,7 +17,7 @@ by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/ga
     - add categories
     - clickable keywords to headlines/urls
     - take out common words
-    - combine all newspaper to one word cloud option
+    - combine all newspaper to one word cloud option  <br>
 ## Setting Up
 #### If virtual environment is not set up, run: 
 MacOs: 
