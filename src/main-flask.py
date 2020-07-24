@@ -12,6 +12,7 @@ app = Flask(__name__, instance_relative_config=True,
 
 @app.route('/', methods=('GET', 'POST'))
 def main():
+    page='index'
     news = ''
 
     if request.method == 'POST':
@@ -22,19 +23,23 @@ def main():
         else:
             head_url = zip(["Not a supported news site"], ['www.google.com'])
 
-        return render_template('index.html', list=head_url)
+        return render_template('index.html', page=page, list=head_url)
     else:
         print("booted or really bad news")
-    return render_template('index.html', list=[], url=[])
+    return render_template('index.html', page=page, list=[], url=[])
 
 
+'''
+https://medium.com/@AnyChart/how-to-create-javascript-word-cloud-chart-tutorial-for-web-developers-7ccf12a37513
+'''
 @app.route('/wordcloud')
 def wordcloud():
     # get json object
+    page = 'wordcloud'
     l = ns.main()
     d = l[0].writejson()
     p = l[0].paper
-    return render_template('wordcloud.html', data=d, paper=p)
+    return render_template('wordcloud.html',page=page, data=d, paper=p)
 
 
 """
