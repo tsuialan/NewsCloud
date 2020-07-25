@@ -91,11 +91,23 @@ class News:
                 h = Headline(hl, url)
                 k.addHeadline(h)
 
+    # quick sorts the list of keywords in news object
+    def sortKeywords(self):
+        kw_l = self.keywords
+        length = len(kw_l)
+        quickSort(kw_l, 0, length-1)
+        self.keywords = kw_l
+
     # sorts the dictionary either alphabetically or by frequency
     def sortDictionary(self, tfile):
         # sort by frequency keywords
         keywords = self.wordbank.items()
         l_wb = sorted(keywords, key=lambda x: x[1], reverse=True)
+
+        """ ALPHABETIZED
+        keywords = words.items()
+        keywords = sorted(keywords, key = lambda x : x[0])
+        """
 
         # write to txt file
         f = open(tfile, "a")
@@ -110,11 +122,6 @@ class News:
             wb[key] = value
         self.wordbank = wb
 
-        """ ALPHABETIZED
-        keywords = words.items()
-        keywords = sorted(keywords, key = lambda x : x[0])
-        """
-
     def writejson(self):
         # ignore common words
         fcommon = './common.txt'
@@ -125,29 +132,16 @@ class News:
 
         d = []
         counter = 0
-        # get top 2 words
-        """ TEMP FIX BY GOING THROUGH DICTIONARY """
-        for key, value in self.wordbank.items():
-            # skip common words
-            if (key in common):
-                continue
-            # limit 20 words
-            if (counter == 20):
-                break
-            l = {}
-            l["x"] = key
-            l["value"] = value
-            d.append(l)
-            counter += 1
-
-        """ HAVE TO DO THIS IF WE WANT URL/HEADLINE ON NC
         # go through each keyword in news object
         for keyword in self.keywords:
+            # limit words
+            if (counter >= 20):
+                break
             # creates a list object out of the data
             l = {}
             l["x"] = keyword.word
             l["value"] = keyword.freq
-            //        URL IMPLEMENTATION FOR LATER
+            """ sURL IMPLEMENTATION FOR LATER
             H = []
             for headline in keyword.headlines:
                 h = []
@@ -155,9 +149,9 @@ class News:
                 h.append(headline.url)
                 H.append(h)
             l.append(H)
-            //
+            """
             d.append(l)
-        """
+            counter += 1
 
         # creates a json object out of the list
         data = json.dumps(d)
@@ -195,6 +189,29 @@ class Headline:
     def __init__(self, h, u):
         self.headline = h
         self.url = u
+
+
+""" HELPER METHODS """
+
+
+def quickSort(arr, low, high):
+    if (low < high):
+        pindex = partition(arr, low, high)
+        quickSort(arr, low, pindex-1)
+        quickSort(arr, pindex+1, high)
+
+
+def partition(arr, low, high):
+    index = (low-1)
+    pivot = arr[high]
+
+    for j in range(low, high):
+        if (arr[j].freq >= pivot.freq):
+            index += 1
+            arr[index], arr[j] = arr[j], arr[index]
+    arr[index+1], arr[high] = arr[high], arr[index+1]
+
+    return index+1
 
 
 """ WEBSCRAPING FUNCTIONS """
@@ -252,6 +269,7 @@ def nytscrape():
 
     # sort dictionary
     nyt.sortDictionary(tfile)
+    nyt.sortKeywords()
     # returns news object
     return nyt
 
@@ -309,6 +327,7 @@ def sfcscrape():
 
     # sort dictionary
     sfc.sortDictionary(tfile)
+    sfc.sortKeywords()
     # returns news object
     return sfc
 
