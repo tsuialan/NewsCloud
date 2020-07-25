@@ -137,6 +137,8 @@ class News:
             # limit words
             if (counter >= 20):
                 break
+            if (keyword.word in common):
+                continue
             # creates a list object out of the data
             l = {}
             l["x"] = keyword.word
