@@ -31,42 +31,38 @@
 </head>
 
 <body>
-    {% include 'navbar.html' %}
-    <br>
     <div class="fit">
-        <h1 style="font-size:30px; justify-content:center; text-align:center;">NewsCloud | {{ paper }}</h1>
+        {% include 'navbar.html' %}
+        <h1 style="font-size:30px; justify-content:center; text-align:center; z-index: 1;">NewsCloud | {{ paper }}</h1>
         <div id="container"></div>
-        <script>
-            anychart.onDocumentReady(function() {
-
-                var data = JSON.parse('{{ data | safe }}');
-
-                // create a tag (word) cloud chart
-                var chart = anychart.tagCloud(data);
-                // set a chart title
-                // chart.title('NewsCloud | {{ paper }}');
-                // set an array of angles at which the words will be laid out
-                chart.angles([0]);
-                // enable a color range
-                chart.colorRange(true);
-                // set the color range length
-                chart.colorRange().length('80%');
-                // display the word cloud chart
-                chart.container("container");
-                chart.draw();
-
-                chart.listen("pointClick", function(e) {
-                    var url = "https://en.wikipedia.org/wiki/" + e.point.get("x");
-                    window.open(url, "_blank");
-                });
-
-            });
-        </script>
     </div>
 
-    <!--
-    <script src="../static/js/main.js"> </script>
-    -->
+    <script>
+        anychart.onDocumentReady(function() {
+
+            var data = JSON.parse('{{ data | safe }}');
+
+            // create a tag (word) cloud chart
+            var chart = anychart.tagCloud(data);
+            // set a chart title
+            // chart.title('NewsCloud | {{ paper }}');
+            // set an array of angles at which the words will be laid out
+            chart.angles([0]);
+            // enable a color range
+            chart.colorRange(true);
+            // set the color range length
+            chart.colorRange().length('80%');
+            // display the word cloud chart
+            chart.container("container");
+            chart.draw();
+
+            chart.listen("pointClick", function(e) {
+                var url = "https://en.wikipedia.org/wiki/" + e.point.get("x");
+                window.open(url, "_blank");
+            });
+
+        });
+    </script>
 
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
     </script>
@@ -74,6 +70,7 @@
     </script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
     </script>
+
 </body>
 
 </html>

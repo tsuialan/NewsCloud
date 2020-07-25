@@ -6,7 +6,6 @@ Beloved host Regis Philbin dies at 88 	https://www.sfchronicle.com/news/article/
 Vallejo cops vow to crack down on sideshows 	https://www.sfchronicle.com/bayarea/article/Vallejo-cops-vow-to-crack-down-on-sideshows-15434085.php
 Vallejo police release video showing Sean Monterrosa in final moments 	https://www.sfchronicle.com/crime/article/Vallejo-police-release-gruesome-police-video-15433477.php
 Cruise robot cars deliver food to needy. Is it pretext to resume testing? 	https://www.sfchronicle.com/business/article/Cruise-robot-cars-deliver-food-to-needy-Are-they-15433157.php
-SF fire officials confirm ‘Spire’ fire was human-caused 	https://www.sfchronicle.com/bayarea/article/SF-fire-officials-confirm-Spire-fire-was-15433486.php
 Muni driver beaten with bat after telling passengers to wear masks 	https://www.sfchronicle.com/crime/article/SF-Muni-driver-beaten-with-bat-after-telling-15432830.php
 California requires masks, but not everyone wears one. Here’s how to fix that 	https://www.sfchronicle.com/business/article/California-requires-masks-but-not-everyone-wears-15433031.php
 Persuading people to wear masks is a delicate task, and different messages may resonate with different people. 	https://www.sfchronicle.com/business/article/California-requires-masks-but-not-everyone-wears-15433031.php
@@ -188,7 +187,7 @@ with : 22
 on : 19
 coronavirus : 18
 how : 16
-sf : 14
+sf : 13
 new : 12
 from : 12
 is : 11
@@ -278,8 +277,6 @@ we : 4
 live : 3
 record : 3
 high : 3
-fire : 3
-was : 3
 masks : 3
 heres : 3
 different : 3
@@ -349,7 +346,6 @@ vallejo : 2
 down : 2
 police : 2
 moments : 2
-officials : 2
 wear : 2
 everyone : 2
 remain : 2
@@ -383,6 +379,7 @@ then : 2
 finally : 2
 crisis : 2
 into : 2
+was : 2
 programs : 2
 outside : 2
 world : 2
@@ -534,9 +531,6 @@ deliver : 1
 needy : 1
 pretext : 1
 resume : 1
-confirm : 1
-spire : 1
-human-caused : 1
 muni : 1
 driver : 1
 beaten : 1
@@ -986,6 +980,7 @@ hold : 1
 pg&e : 1
 says : 1
 camp : 1
+fire : 1
 potential : 1
 hazard : 1
 areas : 1
@@ -1002,6 +997,7 @@ need : 1
 facing : 1
 economic : 1
 distress : 1
+officials : 1
 taken : 1
 block : 1
 evictions : 1
