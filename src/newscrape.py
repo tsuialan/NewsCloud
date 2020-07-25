@@ -95,28 +95,59 @@ class News:
     def sortDictionary(self, tfile):
         # sort by frequency keywords
         keywords = self.wordbank.items()
-        self.wordbank = sorted(keywords, key=lambda x: x[1], reverse=True)
+        l_wb = sorted(keywords, key=lambda x: x[1], reverse=True)
+
+        # write to txt file
+        f = open(tfile, "a")
+        for index in l_wb:
+            f.write(index[0] + " : " + str(index[1]) + '\n')
+        f.close()
+
+        # convert from sorted list back to dictionary
+        wb = {}
+        for t in l_wb:
+            key, value = t
+            wb[key] = value
+        self.wordbank = wb
 
         """ ALPHABETIZED
         keywords = words.items()
         keywords = sorted(keywords, key = lambda x : x[0])
         """
 
-        # write to txt file
-        f = open(tfile, "a")
-        for index in self.wordbank:
-            f.write(index[0] + " : " + str(index[1]) + '\n')
-        f.close()
-
     def writejson(self):
+        # ignore common words
+        fcommon = './common.txt'
+        # read each line into list
+        with open(fcommon) as fc:
+            common = fc.readlines()
+        common = [x.lower().strip() for x in common] 
+
         d = []
+        counter = 0
+        # get top 2 words
+        """ TEMP FIX BY GOING THROUGH DICTIONARY """
+        for key, value in self.wordbank.items():
+            # skip common words
+            if (key in common):
+                continue
+            # limit 20 words
+            if (counter == 20):
+                break
+            l = {}
+            l["x"] = key
+            l["value"] = value
+            d.append(l)
+            counter += 1
+
+        """ HAVE TO DO THIS IF WE WANT URL/HEADLINE ON NC
         # go through each keyword in news object
         for keyword in self.keywords:
             # creates a list object out of the data
             l = {}
             l["x"] = keyword.word
             l["value"] = keyword.freq
-            """         URL IMPLEMENTATION FOR LATER
+            //        URL IMPLEMENTATION FOR LATER
             H = []
             for headline in keyword.headlines:
                 h = []
@@ -124,8 +155,10 @@ class News:
                 h.append(headline.url)
                 H.append(h)
             l.append(H)
-            """
+            //
             d.append(l)
+        """
+
         # creates a json object out of the list
         data = json.dumps(d)
         # dump json to local file
