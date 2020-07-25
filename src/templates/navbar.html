@@ -6,12 +6,12 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
             {% if page=='index' %}
-                <a class="nav-item nav-link active" href="{{url_for('main')}}">Home<span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="{{url_for('wordcloud')}}">WordCloud</a>
-            {% elif page=='wordcloud' %}
-                <a class="nav-item nav-link" href="{{url_for('main')}}">Home</a>
-                <a class="nav-item nav-link active" href="{{url_for('wordcloud')}}">WordCloud<span class="sr-only">(current)</span></a>
-            {% endif %}
+            <a class="nav-item nav-link active" href="{{url_for('main')}}">Home<span
+                    class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="{{url_for('wordcloud')}}">WordCloud</a> {% elif page=='wordcloud' %}
+            <a class="nav-item nav-link" href="{{url_for('main')}}">Home</a>
+            <a class="nav-item nav-link active" href="{{url_for('wordcloud')}}">WordCloud<span
+                    class="sr-only">(current)</span></a> {% endif %}
         </div>
     </div>
 </nav>

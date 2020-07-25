@@ -12,7 +12,7 @@ app = Flask(__name__, instance_relative_config=True,
 
 @app.route('/', methods=('GET', 'POST'))
 def main():
-    page='index'
+    page = 'index'
     news = ''
 
     if request.method == 'POST':
@@ -32,14 +32,16 @@ def main():
 '''
 https://medium.com/@AnyChart/how-to-create-javascript-word-cloud-chart-tutorial-for-web-developers-7ccf12a37513
 '''
+
+
 @app.route('/wordcloud')
 def wordcloud():
     # get json object
     page = 'wordcloud'
     l = ns.main()
-    d = l[0].writejson()
-    p = l[0].paper
-    return render_template('wordcloud.html',page=page, data=d, paper=p)
+    d = l[1].writejson()
+    p = l[1].paper
+    return render_template('wordcloud.html', page=page, data=d, paper=p)
 
 
 """

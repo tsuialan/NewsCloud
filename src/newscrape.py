@@ -121,7 +121,7 @@ class News:
         # read each line into list
         with open(fcommon) as fc:
             common = fc.readlines()
-        common = [x.lower().strip() for x in common] 
+        common = [x.lower().strip() for x in common]
 
         d = []
         counter = 0
