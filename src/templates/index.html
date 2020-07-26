@@ -12,8 +12,8 @@
     {% include 'navbar.html' %}
     <h1>NewsCloud: </h1>
     <form method="post">
-        <input type="submit" name="news" id="news" value="nyt" class="button" />
-        <input type="submit" name="news" id="news" value="sfchron" class="button" />
+        <button type="submit" name="news" id="news" value="nyt" class="button"> New York Times </button>
+        <button type="submit" name="news" id="news" value="sfchron" class="button"> SF Chronicle </button>
     </form>
     {% for item in list %}
     <a href="{{item.1}}" target="_blank"> {{item.0}} </a>

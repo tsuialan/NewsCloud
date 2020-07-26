@@ -16,7 +16,7 @@
             margin: 0;
             padding: 0;
         }
-        
+
         div.fit {
             position: fixed;
             top: 0;
@@ -34,7 +34,12 @@
     <div class="fit">
         {% include 'navbar.html' %}
         <h1 style="font-size:30px; justify-content:center; text-align:center; z-index: 1;">NewsCloud | {{ paper }}</h1>
+        <form style="text-align:center;" method="post">
+            <button type="submit" name="news" id="news" value="nyt" class="button"> New York Times </button>
+            <button type="submit" name="news" id="news" value="sfchron" class="button"> SF Chronicle </button>
+        </form>
         <div id="container"></div>
+
     </div>
 
     <script>

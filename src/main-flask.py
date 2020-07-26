@@ -34,14 +34,24 @@ https://medium.com/@AnyChart/how-to-create-javascript-word-cloud-chart-tutorial-
 '''
 
 
-@app.route('/wordcloud')
+@app.route('/wordcloud', methods=('GET', 'POST'))
 def wordcloud():
     # get json object
     page = 'wordcloud'
-    l = ns.main()
-    d = l[1].writejson()
-    p = l[1].paper
-    return render_template('wordcloud.html', page=page, data=d, paper=p)
+    data = None
+    paper = None
+    if request.method == 'POST':
+        news = ns.main()
+        if request.form['news'] == "nyt":
+            data = news[0].writejson()
+            paper = news[0].paper
+        elif request.form['news'] == "sfchron":
+            data = news[1].writejson()
+            paper = news[1].paper
+        else:
+            data = news[0].writejson()
+            paper = "Default: NYT"
+    return render_template('wordcloud.html', page=page, data=data, paper=paper)
 
 
 """
