@@ -41,15 +41,17 @@ def wordcloud():
     data = None
     paper = None
     if request.method == 'POST':
-        news = ns.main()
         if request.form['news'] == "nyt":
-            data = news[0].writejson()
-            paper = news[0].paper
+            nyt = ns.nytscrape()
+            data = nyt.writejson()
+            paper = nyt.paper
         elif request.form['news'] == "sfchron":
-            data = news[1].writejson()
-            paper = news[1].paper
+            sfc = ns.sfcscrape()
+            data = sfc.writejson()
+            paper = sfc.paper
         else:
-            data = news[0].writejson()
+            nyt = ns.nytscrape()
+            data = nyt.writejson()
             paper = "Default: NYT"
     return render_template('wordcloud.html', page=page, data=data, paper=paper)
 

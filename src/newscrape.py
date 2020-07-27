@@ -55,6 +55,50 @@ class News:
             if (kw.word.lower() == word.lower()):
                 return kw
 
+    # webscraping function
+    def webscrape(self, bs_data, paperUrl):
+        # writes headlines into local txt file
+        tfile = "./data/" + self.paper.replace(" ", "").lower() + ".txt"
+        f = open(tfile, "w+")
+
+        for headline in bs_data:
+            # split headline into individual words
+            h_split = headline.getText().split()
+            # if less than 3 words, ignore headline
+            if (len(h_split) <= 3):
+                continue
+            # get url from headline's href
+            if headline.has_attr('href'):
+                hurl = headline['href']
+            else:
+                continue
+            # if no url, ignore headlinen
+            if ('/' not in hurl):
+                continue
+            # completes incomplete url
+            if ('https://' not in hurl):
+                base = paperUrl
+                hurl = urljoin(base, hurl)
+            # get texts from html headline
+            headline = ""
+            for word in h_split:
+                headline += word + " "
+            # creates headline object
+            H = Headline(headline, hurl)
+            # adds it to news object
+            self.addHeadline(H)
+            # get keywords from headline
+            self.genKeywords(h_split, hurl)
+            # writes to local file
+            f.write(str(headline) + '\t' + hurl + '\n')
+        f.write('\n')
+        f.close()
+
+        # sort dictionary
+        self.sortDictionary(tfile)
+        self.sortKeywords()
+        # returns news object
+
     # generates 'keywords' from headline
     def genKeywords(self, headline, url):
         # creates a wordbank sorted by frequency
@@ -143,7 +187,7 @@ class News:
             l = {}
             l["x"] = keyword.word
             l["value"] = keyword.freq
-            """ sURL IMPLEMENTATION FOR LATER
+            """ URL IMPLEMENTATION FOR LATER
             H = []
             for headline in keyword.headlines:
                 h = []
@@ -154,7 +198,6 @@ class News:
             """
             d.append(l)
             counter += 1
-
         # creates a json object out of the list
         data = json.dumps(d)
         # dump json to local file
@@ -206,13 +249,11 @@ def quickSort(arr, low, high):
 def partition(arr, low, high):
     index = (low-1)
     pivot = arr[high]
-
     for j in range(low, high):
         if (arr[j].freq >= pivot.freq):
             index += 1
             arr[index], arr[j] = arr[j], arr[index]
     arr[index+1], arr[high] = arr[high], arr[index+1]
-
     return index+1
 
 
@@ -224,55 +265,17 @@ def partition(arr, low, high):
 def nytscrape():
     print("Begin New York Times ... ")
     # scrapes new york times
-    r1 = requests.get('https://www.nytimes.com/')
+    nyt_url = 'https://www.nytimes.com/'
+    r1 = requests.get(nyt_url)
     nyt = r1.content
     bs1 = BeautifulSoup(nyt, 'lxml')
     bs_nyt = bs1.find_all('a')
 
     # creates headline object for nyt
     nyt = News("New York Times")
-
-    # writes headlines into local txt file
-    tfile = "./data/newyorktimes.txt"
-    f = open(tfile, "w+")
-
-    for headline in bs_nyt:
-        # split headline into individual words
-        h_split = headline.getText().split()
-        # if less than 3 words, ignore headline
-        if (len(h_split) <= 3):
-            continue
-        # get url from headline's href if exists
-        if headline.has_attr('href'):
-            hurl = headline['href']
-        else:
-            continue
-        # if no url, ignore headlinen
-        if ('/' not in hurl):
-            continue
-        # completes incomplete url
-        if ('https://' not in hurl):
-            base = 'https://www.nytimes.com/'
-            hurl = urljoin(base, hurl)
-        # get texts from html headline
-        headline = ""
-        for word in h_split:
-            headline += word + " "
-        # creates headline object
-        H = Headline(headline, hurl)
-        # adds it to news object
-        nyt.addHeadline(H)
-        # get keywords from headline
-        nyt.genKeywords(h_split, hurl)
-        # writes to local file
-        f.write(str(headline) + '\t' + hurl + '\n')
-    f.write('\n')
-    f.close()
-
-    # sort dictionary
-    nyt.sortDictionary(tfile)
-    nyt.sortKeywords()
-    # returns news object
+    # call webscrape algorithm
+    nyt.webscrape(bs_nyt, nyt_url)
+    # return object
     return nyt
 
 # scrapes sf chroncile
@@ -280,57 +283,18 @@ def nytscrape():
 
 def sfcscrape():
     print("Begin San Francisco Chronicle ... ")
-
     # scrapes sf chronicle
-    r1 = requests.get('https://www.sfchronicle.com/')
+    sfc_url = 'https://www.sfchronicle.com/'
+    r1 = requests.get(sfc_url)
     sfc = r1.content
     bs1 = BeautifulSoup(sfc, 'lxml')
     bs_sfc = bs1.find_all("a", {"class": "hdn-analytics"})
 
     # creates news object
     sfc = News("SF Chronicle")
-
-    # writes headlines into local txt file
-    tfile = "./data/sfchronicle.txt"
-    f = open(tfile, "w+")
-
-    for headline in bs_sfc:
-        # split headline into individual words
-        h_split = headline.getText().split()
-        # if less than 3 words, ignore headline
-        if (len(h_split) <= 3):
-            continue
-        # get url from headline's href
-        if headline.has_attr('href'):
-            hurl = headline['href']
-        else:
-            continue
-        # if no url, ignore headlinen
-        if ('/' not in hurl):
-            continue
-        # completes incomplete url
-        if ('https://' not in hurl):
-            base = 'https://www.sfchronicle.com/'
-            hurl = urljoin(base, hurl)
-        # get texts from html headline
-        headline = ""
-        for word in h_split:
-            headline += word + " "
-        # creates headline object
-        H = Headline(headline, hurl)
-        # adds it to news object
-        sfc.addHeadline(H)
-        # get keywords from headline
-        sfc.genKeywords(h_split, hurl)
-        # writes to local file
-        f.write(str(headline) + '\t' + hurl + '\n')
-    f.write('\n')
-    f.close()
-
-    # sort dictionary
-    sfc.sortDictionary(tfile)
-    sfc.sortKeywords()
-    # returns news object
+    # call webscrape algorithm
+    sfc.webscrape(bs_sfc, sfc_url)
+    # return object
     return sfc
 
 
