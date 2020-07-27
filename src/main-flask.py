@@ -53,6 +53,12 @@ def wordcloud():
             paper = "Default: NYT"
     return render_template('wordcloud.html', page=page, data=data, paper=paper)
 
+@app.route('/headlines', methods=('GET', 'POST'))
+def headlines():
+    word="default"
+    word = request.args['word']
+    print(word)
+    return render_template('headlines.html', word=word)
 
 """
 Helper function to zip the headline and url together
