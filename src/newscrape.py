@@ -133,7 +133,7 @@ class News:
                 k = self.findKeyword(word)
                 # ignonre duplicates in hl
                 for h in k.headlines:
-                    if (hl.headline == hl):
+                    if (h.headline == hl):
                         continue
                 k.setFrequency(k.freq + 1)
                 H = Headline(hl, url)

@@ -19,12 +19,12 @@ The positive coronavirus tests for the Marlins disrupted the first road trip of 
 John Lewis Is First Black Lawmaker to Lie in State in Capitol RotundaA cross-section of influential lawmakers paid respects to the civil rights icon before his body was moved outside so the public could honor him. 	https://www.nytimes.com/2020/07/27/us/politics/john-lewis-memorial.html
 Susan Rice Wants to Run for Office. Will Her First Campaign Be for V.P.?The former national security adviser, who has never been elected to public office, is on the short list to be Joe Biden’s running mate. 	https://www.nytimes.com/2020/07/27/us/politics/susan-rice-biden-vice-president.html
 Trump Again Tries to Block Tax Subpoena, Calling It ‘Wildly Overbroad’President Trump mounted his most forceful and detailed legal attack yet on the subpoena for his tax returns from the Manhattan district attorney. 	https://www.nytimes.com/2020/07/27/nyregion/donald-trump-taxes-cyrus-vance.html
-LIVEElection updates: The Democratic convention will require daily virus tests. Joe Biden warned against vaccine “hype.” 	https://www.nytimes.com/2020/07/27/us/elections/biden-vs-trump.html
 The Great ReadThey Crossed Oceans to Lift Families Out of Poverty. Now, They Need Help.As the pandemic destroys paychecks, migrant workers are sending less money home, threatening a rise in poverty in South Asia, Eastern Europe and Latin America. 	https://www.nytimes.com/2020/07/27/business/global-remittances-coronavirus.html
 For years, Flavius Tudor has sent money to his mother in Romania. Now, he’s not working and his mother had to send him money for his bills. Suzie Howell for The New York Times 	https://www.nytimes.com/2020/07/27/business/global-remittances-coronavirus.html
 Brendan Miller and Adam Westbrook‘That’s Ridiculous.’ How America’s Coronavirus Response Looks Abroad.We showed people around the world the facts on how the U.S. has handled the pandemic. 	https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html
 The Editorial BoardChina’s Claims to the South China Sea Are Unlawful. Now What?Republican and Democratic administrations have failed to thwart aggressive expansion in one of the world’s busiest sea lanes. 	https://www.nytimes.com/2020/07/27/opinion/pompeo-south-china-sea.html
 Paul KrugmanThe Cult of Selfishness Is Killing America 	https://www.nytimes.com/2020/07/27/opinion/us-republicans-coronavirus.html
+Bret StephensWhat Will a Post-Trump G.O.P. Look Like? 	https://www.nytimes.com/2020/07/27/opinion/trump-2020.html
 Michelle GoldbergTwilight of the Liberal Right 	https://www.nytimes.com/2020/07/27/opinion/anne-applebaum-twilight-of-democracy.html
 Gail Collins and Bret StephensA Trumpless Future Is Hard to Get Your Head Around 	https://www.nytimes.com/2020/07/27/opinion/biden-trump-2020-vp.html
 Peter BeinartThe Real Reason Biden Is Ahead of Trump? He’s a Man 	https://www.nytimes.com/2020/07/27/opinion/trump-biden-popularity.html
@@ -32,14 +32,13 @@ Beppe SevergniniItaly Is Having the Strangest Summer 	https://www.nytimes.com/20
 Margaret RenklMy Son Got Married in a Pandemic. It Was Perfect. 	https://www.nytimes.com/2020/07/26/opinion/coronavirus-wedding.html
 Adom GetachewColonialism Made the Modern World. Let’s Remake It. 	https://www.nytimes.com/2020/07/27/opinion/decolonization-statues.html
 Jeffrey A. RosenThe Death Penalty Can Ensure ‘Justice Is Being Done’ 	https://www.nytimes.com/2020/07/27/opinion/federal-death-penalty.html
-A Conversation About the Economy We Need 	https://www.nytimes.com/2020/07/24/opinion/whats-fair-in-work-and-pay-a-conversation-about-the-economy-we-need.html
 Urban Explorers Give Modern Ruins a Second LifeIn photos and videos, researchers and thrill-seekers celebrate the allure of abandoned schools, factories, movie palaces and other forgotten properties. 	https://www.nytimes.com/2020/07/27/us/abandoned-properties-to-explore.html
 I Was a Screen Time Expert Before the PandemicAn author reflects on her pre-pandemic pronouncements about children’s technology use and offers new advice, like focus on feelings, not screens. 	https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html
 ‘We Were Somewhere in the 50s When We Noticed a Brass Quartet’A face in the crowd, how to carry a rocking chair and more reader tales of New York City in this week’s Metropolitan Diary. 	https://www.nytimes.com/2020/07/26/nyregion/metropolitan-diary.html
 Let us know what you think 	http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l
 © 2020 The New York Times Company 	https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
 
-the : 52
+the : 50
 to : 20
 in : 18
 of : 17
@@ -65,7 +64,6 @@ coronavirus : 4
 first : 4
 trump : 4
 what : 3
-need : 3
 at : 3
 republicans : 3
 after : 3
@@ -76,15 +74,14 @@ world : 3
 times : 3
 marlins : 3
 season : 3
-tests : 3
 not : 3
 has : 3
 it : 3
 now : 3
 money : 3
-we : 3
 your : 2
 you : 2
+need : 2
 know : 2
 day : 2
 made : 2
@@ -103,7 +100,6 @@ baseball : 2
 outbreak : 2
 latest : 2
 that : 2
-virus : 2
 city : 2
 plans : 2
 students : 2
@@ -112,12 +108,12 @@ scheduled : 2
 some : 2
 face : 2
 less : 2
-updates: : 2
 let : 2
 from : 2
 home : 2
 miami : 2
 positive : 2
+tests : 2
 yankees : 2
 pitch : 2
 were : 2
@@ -128,19 +124,18 @@ him : 2
 office : 2
 her : 2
 be : 2
-joe : 2
 tax : 2
 subpoena : 2
-democratic : 2
-biden : 2
 poverty : 2
 south : 2
 america : 2
 mother : 2
 hes : 2
 sea : 2
+bret : 2
+like : 2
 modern : 2
-about : 2
+we : 2
 monday : 1
 evening : 1
 briefingheres : 1
@@ -262,6 +257,7 @@ return : 1
 sport : 1
 only : 1
 sign : 1
+virus : 1
 spreading : 1
 record : 1
 levels : 1
@@ -301,6 +297,7 @@ making : 1
 disease : 1
 severe : 1
 livebusiness : 1
+updates: : 1
 target : 1
 close : 1
 thanksgiving : 1
@@ -390,6 +387,7 @@ been : 1
 elected : 1
 short : 1
 list : 1
+joe : 1
 bidens : 1
 running : 1
 mate : 1
@@ -410,14 +408,6 @@ returns : 1
 manhattan : 1
 district : 1
 attorney : 1
-liveelection : 1
-convention : 1
-require : 1
-daily : 1
-warned : 1
-against : 1
-vaccine : 1
-“hype” : 1
 great : 1
 readthey : 1
 crossed : 1
@@ -466,6 +456,7 @@ claims : 1
 china : 1
 unlawful : 1
 whatrepublican : 1
+democratic : 1
 administrations : 1
 failed : 1
 thwart : 1
@@ -480,13 +471,16 @@ krugmanthe : 1
 cult : 1
 selfishness : 1
 killing : 1
+stephenswhat : 1
+post-trump : 1
+gop : 1
+look : 1
 michelle : 1
 goldbergtwilight : 1
 liberal : 1
 right : 1
 gail : 1
 collins : 1
-bret : 1
 stephensa : 1
 trumpless : 1
 future : 1
@@ -497,6 +491,7 @@ peter : 1
 beinartthe : 1
 real : 1
 reason : 1
+biden : 1
 ahead : 1
 man : 1
 beppe : 1
@@ -523,8 +518,6 @@ ensure : 1
 justice : 1
 being : 1
 done : 1
-conversation : 1
-economy : 1
 urban : 1
 explorers : 1
 give : 1
@@ -554,12 +547,12 @@ author : 1
 reflects : 1
 pre-pandemic : 1
 pronouncements : 1
+about : 1
 childrens : 1
 technology : 1
 use : 1
 offers : 1
 advice : 1
-like : 1
 focus : 1
 feelings : 1
 screens : 1
