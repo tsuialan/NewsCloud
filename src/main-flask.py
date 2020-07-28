@@ -58,11 +58,16 @@ def wordcloud():
 @app.route('/headlines', methods=('GET', 'POST'))
 def headlines():
     word="default"
-    word = request.args['word']
-    paper = request.args['paper']
-    print(word)
-    print(paper)
-    return render_template('headlines.html', word=word)
+    word = request.args['word'].lower()
+    paper = request.args['paper'].replace(" ", "").lower()
+    newslist = ns.main()
+    for news in newslist:
+        if (news.paper == paper):
+            news_obj = news
+            break
+    keyword = news_obj.findKeyword(word)
+    headurl = get_head_url(keyword.headlines)
+    return render_template('headlines.html', word=word, list=headurl)
 
 """
 Helper function to zip the headline and url together
