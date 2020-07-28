@@ -30,6 +30,22 @@ def main():
             paper = "Default: NYT"
     return render_template('index.html', page=page, data=data, paper=paper)
 
+@app.route('/headline', methods=('GET', 'POST'))
+def headline():
+    page = 'headline'
+    news = ''
+    if request.method == 'POST':
+        if request.form['news'] == "nyt":
+            head_url = get_head_url(ns.nytscrape().headlines)
+        elif request.form['news'] == "sfchron":
+            head_url = get_head_url(ns.sfcscrape().headlines)
+        else:
+            head_url = zip(["Not a supported news site"], ['www.google.com'])
+
+        return render_template('headline.html', page=page, list=head_url)
+    else:
+        print("booted or really bad news")
+    return render_template('headline.html', page=page, list=[], url=[])
 
 @app.route('/headlines', methods=('GET', 'POST'))
 def headlines():
@@ -48,7 +64,7 @@ def headlines():
     else:
         headurl = zip(["No headlines found, back to wordcloud?"], ['/wordcloud'])
         links = False
-    return render_template('headlines.html', word=word, paper=paper, list=headurl, links=links)
+    return render_template('word.html', word=word, paper=paper, list=headurl, links=links)
 
 
 """

@@ -6,16 +6,30 @@
     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
         {% if page=='wordcloud' %}
-                <li class="nav-item active">
-                    <a class="nav-item nav-link active" href="{{url_for('main')}}">WordCloud<span class="sr-only">(current)</span></a>
-                </li>
-            </ul>
+            <li class="nav-item active">
+                <a class="nav-link" href="{{url_for('main')}}">WordCloud<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{url_for('headline')}}">Headlines</a>
+            </li>
+        </ul>
+        {% elif page=='headline' %}
+            <li class="nav-item">
+                <a class="nav-link" href="{{url_for('main')}}">WordCloud</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="{{url_for('headline')}}">Headlines<span class="sr-only">(current)</span></a>
+            </li>
+        </ul>
         {% else %}
                 <li class="nav-item">
                     <a class="nav-link" href="{{url_for('main')}}">WordCloud</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{url_for('headline')}}">Headlines</a>
+                </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Headlines<span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="#">Keyword: {{word}}<span class="sr-only">(current)</span></a>
                 </li>
             </ul>
             <form class="form-inline my-2 my-lg-0" method="get">
