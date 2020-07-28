@@ -15,10 +15,11 @@ newslist = ns.main()
 @app.route('/', methods=('GET', 'POST'))
 def main():
     global newslist
-    # get json object
+    # defaults to nyt wordcloud
     page = 'wordcloud'
-    data = None
-    paper = None
+    nyt = newslist[0]
+    data = nyt.writejson()
+    paper = nyt.paper
     if request.method == 'POST':
         if request.form['news'] == "nyt":
             nyt = newslist[0]
@@ -32,8 +33,19 @@ def main():
             nyt = ns.nytscrape()
             data = nyt.writejson()
             paper = "Default: NYT"
+    else:
+        print("booted or really bad news")
     return render_template('index.html', page=page, data=data, paper=paper)
 
+@app.route('/fupdate')
+def fupdate():
+    global newslist
+    newslist= ns.main()
+    page = 'wordcloud'
+    nyt = newslist[0]
+    data = nyt.writejson()
+    paper = nyt.paper
+    return render_template('index.html', page=page, data=data, paper=paper)
 
 @app.route('/headline', methods=('GET', 'POST'))
 def headline():
@@ -89,5 +101,4 @@ def get_head_url(headlines):
 
 
 if __name__ == "__main__":
-    newslist = ns.main()
     app.run(host='127.0.0.1', port=8000, debug=True)

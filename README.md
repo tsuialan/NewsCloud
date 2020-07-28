@@ -60,21 +60,3 @@ set FLASK_ENV=newscloud
 set FLASK_APP=main.py
 python -m flask run
 ```
-#### To run a command line version of the program, run inside src/ folder:
-MacOs: 
-``` MAC
-make cl
-```
-Windows: 
-``` WIN
-python main-cl.py
-```
-#### To execute news-scraping script, run inside src/ folder:
-MacOs:
-``` MAC
-make newscrape
-```
-Windows:
-``` WIN
-python newscrape.py
-```

@@ -15,9 +15,9 @@ House of the Day 	https://www.wsj.com/houseoftheday
 Google to Keep Employees Home Until Summer 2021 Amid Pandemic 	https://www.wsj.com/articles/google-to-keep-employees-home-until-summer-2021-amid-coronavirus-pandemic-11595854201?mod=error_page
 New York Rats Emboldened by Lockdowns Have a New Enemy: Sundrop 	https://www.wsj.com/articles/new-york-rats-emboldened-by-lockdowns-have-a-new-enemy-sundrop-11595860925?mod=error_page
 Moderna, Pfizer Coronavirus Vaccines Begin Final-Stage Testing 	https://www.wsj.com/articles/modernas-coronavirus-vaccine-begins-final-stage-testing-11595854440?mod=error_page
-Why Some States Are Narrowing Access to Covid-19 Tests 	https://www.wsj.com/video/why-some-states-are-narrowing-access-to-covid-19-tests/7D590227-0D42-4381-8EF8-DBCC80C2410C.html?mod=error_page
-U.S. Shift in China Strategy: End ‘Blind Engagement’ 	https://www.wsj.com/video/us-shift-in-china-strategy-end-blind-engagement/563E148A-D30A-430D-8A5B-4BB5151F6584.html?mod=error_page
-The Rise and Fall of J.Crew 	https://www.wsj.com/video/the-rise-and-fall-of-jcrew/0ECC1D6A-BC75-4059-AB56-DB8555814166.html?mod=error_page
+Gold Hits New High as Investors Look to Hedge Against Uncertainty 	https://www.wsj.com/video/gold-hits-new-high-as-investors-look-to-hedge-against-uncertainty/CFA9F9A5-6348-4C18-9371-35195323A0F7.html?mod=error_page
+Want to Know Where Covid-19 May Hit Next? Watch the Apple Store Closures 	https://www.wsj.com/video/want-to-know-where-covid-19-may-hit-next-watch-the-apple-store-closures/F0A81BC4-CCDD-4949-9291-D3B1D6B0C04B.html?mod=error_page
+U.S. Packs Up and Leaves Chengdu Consulate 	https://www.wsj.com/video/us-packs-up-and-leaves-chengdu-consulate/841ACA7E-F4E2-4AF5-8366-834A7DDC8A7D.html?mod=error_page
 Why Google's Keeping Workers Remote Until Summer 2021 	https://www.wsj.com/podcasts/why-google-keeping-workers-remote-until-summer-2021/D8234001-1C6D-4FB1-A88F-FB94891A269D.html?mod=error_page
 Fed's Economic Outlook Just Got a Lot Gloomier 	https://www.wsj.com/podcasts/fed-economic-outlook-just-got-a-lot-gloomier/5F684A24-B0E4-40E0-B535-70C6B0DC4D4C.html?mod=error_page
 Moderna Begins Final-Stage Testing on COVID-19 Vaccine 	https://www.wsj.com/podcasts/moderna-begins-final-stage-testing-on-covid-19-vaccine/1795D8D8-81C2-4980-B2C2-DCEAAD26CEEE.html?mod=error_page
@@ -31,13 +31,14 @@ Subscriber Agreement & Terms of Use 	https://www.wsj.com/policy/subscriber-agree
 Dow Jones & Company 	https://www.dowjones.com
 
 the : 11
-of : 8
+of : 7
 street : 4
 & : 4
+to : 4
 future : 3
 everything : 3
 on : 3
-to : 3
+new : 3
 a : 3
 wall : 2
 journal : 2
@@ -47,11 +48,10 @@ newsletter : 2
 until : 2
 summer : 2
 2021 : 2
-new : 2
 moderna : 2
 final-stage : 2
 testing : 2
-why : 2
+high : 2
 covid-19 : 2
 wsj : 2
 ads : 2
@@ -95,24 +95,32 @@ pfizer : 1
 coronavirus : 1
 vaccines : 1
 begin : 1
-some : 1
-states : 1
-are : 1
-narrowing : 1
-access : 1
-tests : 1
+gold : 1
+hits : 1
+as : 1
+investors : 1
+look : 1
+hedge : 1
+against : 1
+uncertainty : 1
+want : 1
+know : 1
+where : 1
+may : 1
+hit : 1
+next : 1
+watch : 1
+apple : 1
+store : 1
+closures : 1
 us : 1
-shift : 1
-in : 1
-china : 1
-strategy: : 1
-end : 1
-blind : 1
-engagement : 1
-rise : 1
+packs : 1
+up : 1
 and : 1
-fall : 1
-jcrew : 1
+leaves : 1
+chengdu : 1
+consulate : 1
+why : 1
 googles : 1
 keeping : 1
 workers : 1
@@ -126,7 +134,6 @@ lot : 1
 gloomier : 1
 begins : 1
 vaccine : 1
-high : 1
 school : 1
 program : 1
 commercial : 1
