@@ -122,18 +122,22 @@ class News:
                 wordbank[word] = 1
                 k = Keyword(word, 1)
                 # recombines headline into a string
-                h = Headline(hl, url)
-                k.addHeadline(h)
+                H = Headline(hl, url)
+                k.addHeadline(H)
                 # add keyword object to news object
                 self.addKeyword(k)
             # else
             else:
-                # increase frequency of word by one
                 wordbank[word] = wordbank.get(word) + 1
+                # increase frequency of word by one
                 k = self.findKeyword(word)
+                # ignonre duplicates in hl
+                for h in k.headlines:
+                    if (hl.headline == hl):
+                        continue
                 k.setFrequency(k.freq + 1)
-                h = Headline(hl, url)
-                k.addHeadline(h)
+                H = Headline(hl, url)
+                k.addHeadline(H)
 
     # quick sorts the list of keywords in news object
     def sortKeywords(self):
