@@ -1,24 +1,22 @@
 Portals of the Past 	http://www.sfchronicle.com/local/portalsofthepast/
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
+Coronavirus live updates: California may backfill $600 jobless benefits 	https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
 Former 49ers player Dana Stubblefield convicted of rape 	https://www.sfchronicle.com/crime/article/Former-49ers-player-Dana-Stubblefield-convicted-15438063.php
-Coronavirus live updates: California may backfill $600 jobless... 	https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
 CA may offer $600 a week in jobless benefits if Congress doesn’t act 	https://www.sfchronicle.com/politics/article/California-may-offer-600-a-week-in-extra-jobless-15438112.php
 San Mateo County stays off coronavirus watch list 	https://www.sfchronicle.com/business/article/San-Mateo-County-stays-off-coronavirus-watch-list-15437994.php
 Google extends work from home through June 2021 as virus cases surge 	https://www.sfchronicle.com/business/article/Google-extends-work-from-home-through-June-2021-15436649.php
 Coronavirus stalls housing construction in SF, lull may last a while 	https://www.sfchronicle.com/bayarea/article/Coronavirus-stalls-housing-construction-in-SF-15435608.php
-Matt Chapman shines on offense, defense; A’s shut out Angels 3-0 	https://www.sfchronicle.com/athletics/article/Matt-Chapman-shines-on-offense-defense-A-s-15438050.php
-California law designed to keep generic drugs on market allowed to stand 	https://www.sfchronicle.com/news/article/California-law-designed-to-keep-generic-drugs-on-15437862.php
 Union boss says passengers who attacked driver used slurs, police not sure 	https://www.sfchronicle.com/bayarea/article/Racial-slurs-part-of-bat-attack-on-SF-Muni-bus-15435871.php
-Coronavirus makes clear it’s past time for the national pastime to pull the plug 	https://www.sfchronicle.com/sports/annkillion/article/Coronavirus-makes-clear-it-s-past-time-for-the-15437765.php
-ANN KILLION: How did you like your four-day baseball season? Was it lovely and distracting and oh so much fun? It shouldn’t continue much longer because the concept of an unquarantined sports season in the middle of a raging pandemic has been dangerously flawed from the start. 	https://www.sfchronicle.com/sports/annkillion/article/Coronavirus-makes-clear-it-s-past-time-for-the-15437765.php
-Giants planning — hoping — for 2020 home opener 	https://www.sfchronicle.com/giants/article/Giants-planning-hoping-for-2020-home-15437549.php
-A’s ‘know the risk:’ MLB postpones 2 games after Marlins outbreak 	https://www.sfchronicle.com/athletics/article/A-s-know-the-risk-out-there-as-MLB-15437101.php
-Editorial: Baseball faces a big-league mess with coronavirus outbreak 	https://www.sfchronicle.com/opinion/editorials/article/Editorial-Baseball-faces-a-big-league-mess-with-15438111.php
 How safe are outdoor gatherings? Bay Area struggles to find the answer 	https://www.sfchronicle.com/bayarea/article/How-safe-are-outdoor-gatherings-Bay-Area-15438030.php
 Health experts say the risk of transmission is lower outside. But with surging cases, officials are asking residents to cut back on public gatherings. 	https://www.sfchronicle.com/bayarea/article/How-safe-are-outdoor-gatherings-Bay-Area-15438030.php
-Hot spots in Central Valley targeted in $52 million campaign 	https://www.sfchronicle.com/politics/article/Hot-spots-in-hard-hit-Central-Valley-targeted-in-15437871.php
+California aims to tamp down hot spots in hard-hit Central Valley 	https://www.sfchronicle.com/politics/article/Hot-spots-in-hard-hit-Central-Valley-targeted-in-15437871.php
 CA vs. NY: One state's pandemic deadlier, but the numbers are more complex 	https://www.sfchronicle.com/health/article/New-York-versus-California-A-tale-of-two-15435610.php
 Map: Tracking COVID-19 cases across California 	https://projects.sfchronicle.com/2020/coronavirus-map/
+Coronavirus makes clear it’s past time for baseball to pull the plug 	https://www.sfchronicle.com/sports/annkillion/article/Coronavirus-makes-clear-it-s-past-time-for-the-15437765.php
+ANN KILLION: How did you like your four-day baseball season? The concept of an unquarantined season in the middle of a pandemic was dangerously flawed from the start. 	https://www.sfchronicle.com/sports/annkillion/article/Coronavirus-makes-clear-it-s-past-time-for-the-15437765.php
+Giants planning — hoping — for 2020 home opener 	https://www.sfchronicle.com/giants/article/Giants-planning-hoping-for-2020-home-15437549.php
+MLB postpones 2 games after Marlins coronavirus outbreak 	https://www.sfchronicle.com/athletics/article/A-s-know-the-risk-out-there-as-MLB-15437101.php
+Editorial: Baseball faces a big-league mess with coronavirus outbreak 	https://www.sfchronicle.com/opinion/editorials/article/Editorial-Baseball-faces-a-big-league-mess-with-15438111.php
 Protest calls for SF police union to stand down in blocking reforms 	https://www.sfchronicle.com/crime/article/Protest-calls-for-SF-police-union-to-stand-down-15438008.php
 Outside ofthe San Francisco police union headquarters Monday, a coalition of about twenty-five workers and labor leaders gathered to denounce incidents of racism and brutality in policing and call on the union representing the city’s officers to stand down in attempting to block reform efforts. 	https://www.sfchronicle.com/crime/article/Protest-calls-for-SF-police-union-to-stand-down-15438008.php
 SF offers broad outline for redirecting funds away from police department 	https://www.sfchronicle.com/bayarea/article/San-Francisco-offers-broad-outline-for-15438061.php
@@ -181,46 +179,48 @@ Willie Brown: We’re creating separate and very unequal... 	https://www.sfchron
 Well-off parents are forming “pandemic pods” that amount to exclusive one-room schoolhouses for their kids. No such luck for poorer children,... 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-We-re-creating-separate-and-very-15432333.php
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 
-the : 93
-to : 62
+the : 91
+to : 61
 a : 49
 of : 40
-in : 39
-and : 38
+in : 38
+and : 36
 for : 34
-on : 26
-coronavirus : 25
+coronavirus : 26
+on : 24
 bay : 23
 area : 21
 with : 17
 how : 15
 from : 14
 are : 14
-as : 12
 pandemic : 12
 california : 11
 sf : 11
 is : 11
 san : 10
+as : 10
 will : 10
 not : 9
-it : 9
 have : 9
 that : 9
-has : 8
 covid-19 : 8
 when : 8
 may : 7
-— : 7
-after : 7
 but : 7
 more : 7
+— : 7
+after : 7
 up : 7
 testing : 7
+it : 7
 new : 7
 get : 7
+has : 7
 police : 6
+down : 6
 its : 6
+baseball : 6
 you : 6
 an : 6
 francisco : 6
@@ -230,13 +230,9 @@ i : 6
 do : 5
 week : 5
 who : 5
-national : 5
 did : 5
 your : 5
-baseball : 5
-much : 5
 outbreak : 5
-down : 5
 workers : 5
 they : 5
 rules : 5
@@ -251,16 +247,12 @@ past : 4
 my : 4
 $600 : 4
 county : 4
-out : 4
-stand : 4
 union : 4
-was : 4
-because : 4
-been : 4
 health : 4
 residents : 4
 valley : 4
 one : 4
+was : 4
 oakland : 4
 city : 4
 most : 4
@@ -282,11 +274,13 @@ water : 4
 50000 : 4
 ducklings : 4
 certain : 4
+national : 4
 be : 4
 veggie : 4
 burgers : 4
 food : 4
 buttar : 4
+benefits : 3
 49ers : 3
 ca : 3
 if : 3
@@ -296,23 +290,22 @@ home : 3
 cases : 3
 last : 3
 while : 3
-matt : 3
-shut : 3
-time : 3
-like : 3
-season : 3
-so : 3
-2 : 3
-editorial: : 3
 outdoor : 3
 officials : 3
 public : 3
 map: : 3
+time : 3
+like : 3
+season : 3
+2 : 3
+editorial: : 3
+stand : 3
 about : 3
 leaders : 3
 them : 3
 now : 3
 heres : 3
+out : 3
 reopen : 3
 downtown : 3
 chronicle : 3
@@ -330,11 +323,14 @@ ball : 3
 klamath : 3
 during : 3
 shelter-in-place : 3
+much : 3
+because : 3
 college : 3
 other : 3
 critic : 3
 soleil : 3
 ho : 3
+been : 3
 here : 3
 dining : 3
 people : 3
@@ -350,27 +346,21 @@ sell : 2
 info : 2
 jobless : 2
 offer : 2
-benefits : 2
 congress : 2
 stays : 2
 watch : 2
 june : 2
 virus : 2
-chapman : 2
-angels : 2
-3-0 : 2
 says : 2
+gatherings : 2
+find : 2
+say : 2
+outside : 2
+cut : 2
+across : 2
 makes : 2
 clear : 2
 four-day : 2
-lovely : 2
-distracting : 2
-oh : 2
-fun : 2
-shouldnt : 2
-continue : 2
-longer : 2
-know : 2
 mlb : 2
 postpones : 2
 games : 2
@@ -378,14 +368,6 @@ marlins : 2
 faces : 2
 big-league : 2
 mess : 2
-gatherings : 2
-find : 2
-say : 2
-outside : 2
-cut : 2
-million : 2
-campaign : 2
-across : 2
 protest : 2
 citys : 2
 block : 2
@@ -403,6 +385,7 @@ or : 2
 boost : 2
 economic : 2
 whats : 2
+shut : 2
 sites : 2
 dont : 2
 require : 2
@@ -424,6 +407,7 @@ use : 2
 job : 2
 cuts : 2
 castro : 2
+matt : 2
 arrives : 2
 saving : 2
 death : 2
@@ -436,6 +420,7 @@ top : 2
 day : 2
 left : 2
 had : 2
+so : 2
 many : 2
 developments : 2
 laney : 2
@@ -519,15 +504,15 @@ must : 2
 attorney : 2
 general : 2
 portals : 1
+live : 1
+updates: : 1
+backfill : 1
 former : 1
 player : 1
 dana : 1
 stubblefield : 1
 convicted : 1
 rape : 1
-live : 1
-updates: : 1
-backfill : 1
 doesnt : 1
 act : 1
 mateo : 1
@@ -541,16 +526,6 @@ stalls : 1
 housing : 1
 construction : 1
 lull : 1
-shines : 1
-offense : 1
-defense; : 1
-law : 1
-designed : 1
-keep : 1
-generic : 1
-drugs : 1
-market : 1
-allowed : 1
 boss : 1
 passengers : 1
 attacked : 1
@@ -558,25 +533,6 @@ driver : 1
 used : 1
 slurs : 1
 sure : 1
-pastime : 1
-pull : 1
-plug : 1
-ann : 1
-killion: : 1
-concept : 1
-unquarantined : 1
-sports : 1
-middle : 1
-raging : 1
-dangerously : 1
-flawed : 1
-start : 1
-giants : 1
-planning : 1
-hoping : 1
-2020 : 1
-opener : 1
-risk: : 1
 safe : 1
 struggles : 1
 answer : 1
@@ -587,11 +543,12 @@ lower : 1
 surging : 1
 asking : 1
 back : 1
+aims : 1
+tamp : 1
 hot : 1
 spots : 1
+hard-hit : 1
 central : 1
-targeted : 1
-$52 : 1
 vs : 1
 ny: : 1
 states : 1
@@ -599,6 +556,21 @@ deadlier : 1
 numbers : 1
 complex : 1
 tracking : 1
+pull : 1
+plug : 1
+ann : 1
+killion: : 1
+concept : 1
+unquarantined : 1
+middle : 1
+dangerously : 1
+flawed : 1
+start : 1
+giants : 1
+planning : 1
+hoping : 1
+2020 : 1
+opener : 1
 calls : 1
 blocking : 1
 reforms : 1
@@ -767,7 +739,10 @@ coliseum : 1
 olsons : 1
 struck : 1
 loveladys : 1
+chapman : 1
 shines; : 1
+angels : 1
+3-0 : 1
 richie : 1
 james : 1
 placed : 1
@@ -802,6 +777,13 @@ disturbing : 1
 unfolded : 1
 major : 1
 league : 1
+lovely : 1
+distracting : 1
+oh : 1
+fun : 1
+shouldnt : 1
+continue : 1
+longer : 1
 eagles : 1
 soar : 1
 stars : 1
@@ -873,6 +855,7 @@ lane : 1
 plan : 1
 bring : 1
 clean : 1
+million : 1
 nolte: : 1
 essence : 1
 alive : 1
@@ -964,6 +947,7 @@ seats : 1
 2018 : 1
 huge : 1
 leads : 1
+campaign : 1
 race : 1
 cash : 1
 activists : 1
@@ -1044,6 +1028,7 @@ eviction : 1
 ban: : 1
 landlords : 1
 need : 1
+know : 1
 facing : 1
 distress : 1
 taken : 1
