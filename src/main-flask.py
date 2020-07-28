@@ -67,7 +67,10 @@ def headlines():
             news_obj = news
             break
     keyword = news_obj.findKeyword(word)
-    headurl = get_head_url(keyword.headlines)
+    if keyword != None:
+        headurl = get_head_url(keyword.headlines)
+    else:
+        headurl = zip(["No headlines found, back to wordcloud?"], ['/wordcloud'])
     return render_template('headlines.html', word=word, list=headurl)
 
 
@@ -82,6 +85,7 @@ def get_head_url(headlines):
     for headline in headlines:
         head.append(headline.headline)
         urls.append(headline.url)
+    print(head)
     return zip(head, urls)
 
 
