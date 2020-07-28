@@ -10,7 +10,7 @@
 
 <body>
     {% include 'navbar.html' %}
-    <h1> Word: {{word}} </h1>
+    <h1> {{paper}} [{{word}}] </h1>
     {% for item in list %}
         {% if links %}
             <a href="{{item.1}}" target="_blank"> {{item.0}} </a>

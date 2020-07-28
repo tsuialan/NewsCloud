@@ -242,6 +242,7 @@ class Headline:
         self.headline = h
         self.url = u
 
+
 """ HELPER METHODS """
 
 
@@ -324,6 +325,7 @@ def usatodayscrape():
 
 # scrapes wsj
 
+
 def wsjscrape():
     print("Begin Wall Street Journal ...")
     # scrapes usatoday chronicle
@@ -341,6 +343,7 @@ def wsjscrape():
     return wsj
 
 # scrapes nyp
+
 
 def nypscrape():
     print("Begin New York Post ...")

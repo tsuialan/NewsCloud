@@ -9,19 +9,23 @@ import newscrape as ns
 app = Flask(__name__, instance_relative_config=True,
             static_folder='static', static_url_path='/static')
 
+newslist = ns.main()
+
+
 @app.route('/', methods=('GET', 'POST'))
 def main():
+    global newslist
     # get json object
     page = 'wordcloud'
     data = None
     paper = None
     if request.method == 'POST':
         if request.form['news'] == "nyt":
-            nyt = ns.nytscrape()
+            nyt = newslist[0]
             data = nyt.writejson()
             paper = nyt.paper
         elif request.form['news'] == "sfchron":
-            sfc = ns.sfcscrape()
+            sfc = newslist[1]
             data = sfc.writejson()
             paper = sfc.paper
         else:
@@ -29,6 +33,7 @@ def main():
             data = nyt.writejson()
             paper = "Default: NYT"
     return render_template('index.html', page=page, data=data, paper=paper)
+
 
 @app.route('/headline', methods=('GET', 'POST'))
 def headline():
@@ -47,12 +52,13 @@ def headline():
         print("booted or really bad news")
     return render_template('headline.html', page=page, list=[], url=[])
 
+
 @app.route('/headlines', methods=('GET', 'POST'))
 def headlines():
-    word="default"
+    global newslist
+    word = "default"
     word = request.args['word'].lower()
     paper = request.args['paper']
-    newslist = ns.main()
     for news in newslist:
         if (news.paper == paper):
             news_obj = news
@@ -78,9 +84,10 @@ def get_head_url(headlines):
     for headline in headlines:
         head.append(headline.headline)
         urls.append(headline.url)
-    print(head)
+    # print(head)
     return zip(head, urls)
 
 
 if __name__ == "__main__":
+    newslist = ns.main()
     app.run(host='127.0.0.1', port=8000, debug=True)
