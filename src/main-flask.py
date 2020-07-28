@@ -40,7 +40,7 @@ def headline():
         elif request.form['news'] == "sfchron":
             head_url = get_head_url(ns.sfcscrape().headlines)
         else:
-            head_url = zip(["Not a supported news site"], ['www.google.com'])
+            head_url = zip(["Not a supported news site"], ['/'])
 
         return render_template('headline.html', page=page, list=head_url)
     else:
@@ -62,7 +62,7 @@ def headlines():
         headurl = get_head_url(keyword.headlines)
         links = True
     else:
-        headurl = zip(["No headlines found, back to wordcloud?"], ['/wordcloud'])
+        headurl = zip(["No headlines found, back to wordcloud?"], ['/'])
         links = False
     return render_template('word.html', word=word, paper=paper, list=headurl, links=links)
 

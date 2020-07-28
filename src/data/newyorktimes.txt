@@ -5,7 +5,7 @@ G.O.P. Pushes $400 Cut in Weekly Jobless Aid, but Democrats Have LeverageSenate 
 The Doctor Behind the Disputed Covid DataDr. Sapan Desai, who supplied data for two prominent and later retracted studies, is said to have a history of cutting corners and misrepresenting information. 	https://www.nytimes.com/2020/07/27/science/coronavirus-retracted-studies-data.html
 How New Cases Are Changing by Day 	https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
 See all new cases around the world 	https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
-Clearwater, Fla. Eve Edelheit for The New York Times Santiago, Chile Martin Bernetti/AFP — Getty Images Flathead Valley, Mont. Hunter D’Antuono/Flathead Beacon, via AP Valletta, Malta Darrin Zammit Lupi/Reuters Weslaco,Texas Eric Gay/Associated Press Charmey, Switzerland Fabrice Coffrini/AFP — Getty Images Nairobi, Kenya Yasuyoshi Chiba/AFP — Getty Images Fair Oaks, Calif. Daniel Kim/The Sacramento Bee, via AP Cali, Colombia Luis Robayo/AFP — Getty Images 	https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html
+Hayward, Calif. Jim Wilson/The New York Times San Salvador Jose Cabezas/Reuters Mecca, Saudi Arabia Saudi Ministry of Media, via Reuters San José, Costa Rica Jeffrey Arguedas/EPA, via Shutterstock Kuala Lumpur, Malaysia Lim Huey Teng/Reuters Clearwater, Fla. Eve Edelheit for The New York Times Melbourne, Australia Daniel Pockett/EPA, via Shutterstock London Daniel Leal-Olivas/AFP — Getty Images Casablanca, Morocco Rizkou Abdelmjid/AFP — Getty Images Jerusalem Menahem Kahana/AFP — Getty Images Muscat, Oman Mohammed Mahjoub/AFP — Getty Images 	https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html
 New Reported Cases in the U.S. 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 See the U.S. hot spots 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 New Research Adds to Evidence of Masks’ Utility, Experts SayMasks have long been known to prevent infected people from spreading the virus. Research now suggests they also protect the uninfected. Here’s the latest. 	https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html
@@ -45,16 +45,16 @@ to : 24
 and : 20
 a : 19
 in : 19
-of : 17
-new : 12
+of : 18
+new : 13
 on : 11
 for : 11
+york : 8
 is : 8
-york : 7
+times : 6
 his : 6
 their : 5
 are : 5
-times : 5
 images : 5
 trump : 5
 have : 4
@@ -74,6 +74,7 @@ has : 4
 what : 3
 around : 3
 world : 3
+via : 3
 marlins : 3
 friday : 3
 had : 3
@@ -102,8 +103,11 @@ out : 2
 all : 2
 by : 2
 see : 2
-via : 2
-ap : 2
+san : 2
+saudi : 2
+jeffrey : 2
+shutterstock : 2
+daniel : 2
 research : 2
 been : 2
 people : 2
@@ -214,48 +218,48 @@ corners : 1
 misrepresenting : 1
 information : 1
 changing : 1
+hayward : 1
+calif : 1
+jim : 1
+wilson/the : 1
+salvador : 1
+jose : 1
+cabezas/reuters : 1
+mecca : 1
+arabia : 1
+ministry : 1
+media : 1
+reuters : 1
+josé : 1
+costa : 1
+rica : 1
+arguedas/epa : 1
+kuala : 1
+lumpur : 1
+malaysia : 1
+lim : 1
+huey : 1
+teng/reuters : 1
 clearwater : 1
 fla : 1
 eve : 1
 edelheit : 1
-santiago : 1
-chile : 1
-martin : 1
-bernetti/afp : 1
-flathead : 1
-valley : 1
-mont : 1
-hunter : 1
-dantuono/flathead : 1
-beacon : 1
-valletta : 1
-malta : 1
-darrin : 1
-zammit : 1
-lupi/reuters : 1
-weslacotexas : 1
-eric : 1
-gay/associated : 1
-press : 1
-charmey : 1
-switzerland : 1
-fabrice : 1
-coffrini/afp : 1
-nairobi : 1
-kenya : 1
-yasuyoshi : 1
-chiba/afp : 1
-fair : 1
-oaks : 1
-calif : 1
-daniel : 1
-kim/the : 1
-sacramento : 1
-bee : 1
-cali : 1
-colombia : 1
-luis : 1
-robayo/afp : 1
+melbourne : 1
+australia : 1
+pockett/epa : 1
+london : 1
+leal-olivas/afp : 1
+casablanca : 1
+morocco : 1
+rizkou : 1
+abdelmjid/afp : 1
+jerusalem : 1
+menahem : 1
+kahana/afp : 1
+muscat : 1
+oman : 1
+mohammed : 1
+mahjoub/afp : 1
 reported : 1
 hot : 1
 spots : 1
@@ -515,7 +519,6 @@ adom : 1
 getachewcolonialism : 1
 lets : 1
 remake : 1
-jeffrey : 1
 rosenthe : 1
 death : 1
 penalty : 1
