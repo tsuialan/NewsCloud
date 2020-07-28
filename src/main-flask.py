@@ -59,7 +59,9 @@ def wordcloud():
 def headlines():
     word="default"
     word = request.args['word']
+    paper = request.args['paper']
     print(word)
+    print(paper)
     return render_template('headlines.html', word=word)
 
 """
