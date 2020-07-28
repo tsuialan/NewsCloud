@@ -5,25 +5,21 @@ by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/ga
 ## To-Do Checklist
 ### Bugs
 - html tags are not refined, incorrectly assigned some url to headlines
-- cannot localize css files for some reason
 
 ### In Progress
 - Flask
-  - write new interface for the word cloud
-  - clean up html/css formatting
+  - get template for home/headline page
   - make site looks nicer
+  - add search bar in nav bar
+  - add about page
+  - combine home/headline page?
 - NewScrape
   - script can prob be rewritten for efficiency
-  - need to specify html classes
   - add more newspaper sites
+  - add more common words to file
 - NewsCloud
-  - javascript implementation of word cloud
-    - add categories
-    - clickable keywords to headlines/urls
-    - take out common words
-    - combine all newspaper to one word cloud option  
-
-
+  - combine all newspaper to one word cloud option  
+  
 ## Setting Up
 #### If virtual environment is not set up, run: 
 MacOs: 
