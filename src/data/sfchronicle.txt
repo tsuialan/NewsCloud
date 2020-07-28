@@ -2,8 +2,8 @@ Portals of the Past 	http://www.sfchronicle.com/local/portalsofthepast/
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 Coronavirus live updates: California may backfill $600 jobless benefits 	https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
 Former 49ers player Dana Stubblefield convicted of rape 	https://www.sfchronicle.com/crime/article/Former-49ers-player-Dana-Stubblefield-convicted-15438063.php
+Black Panther Activist Provides Food To North Oakland Community 	https://www.sfchronicle.com/local/article/Video-This-Is-My-Calling-Black-Panther-15438198.php
 CA may offer $600 a week in jobless benefits if Congress doesn’t act 	https://www.sfchronicle.com/politics/article/California-may-offer-600-a-week-in-extra-jobless-15438112.php
-San Mateo County stays off coronavirus watch list 	https://www.sfchronicle.com/business/article/San-Mateo-County-stays-off-coronavirus-watch-list-15437994.php
 Google extends work from home through June 2021 as virus cases surge 	https://www.sfchronicle.com/business/article/Google-extends-work-from-home-through-June-2021-15436649.php
 Coronavirus stalls housing construction in SF, lull may last a while 	https://www.sfchronicle.com/bayarea/article/Coronavirus-stalls-housing-construction-in-SF-15435608.php
 Union boss says passengers who attacked driver used slurs, police not sure 	https://www.sfchronicle.com/bayarea/article/Racial-slurs-part-of-bat-attack-on-SF-Muni-bus-15435871.php
@@ -134,10 +134,10 @@ Silicon Valley should not forget its troubles, and neither should we. 	https://w
 Survivors share battles with COVID-19 	https://www.sfchronicle.com/news/article/It-s-almost-like-there-s-this-monster-15347676.php
 Oakland's Wolfman bookstore closes permanently due to pandemic 	https://datebook.sfchronicle.com/books/oaklands-wolfman-bookstore-too-narrow-for-social-distancing-closes-permanently
 The six-year-old shop in Downtown Oakland will not re-open after shelter-in-place. 	https://datebook.sfchronicle.com/books/oaklands-wolfman-bookstore-too-narrow-for-social-distancing-closes-permanently
+Review: ‘Maid of Sker’ can’t get any scarier 	https://datebook.sfchronicle.com/entertainment/review-maid-of-sker-cant-get-any-scarier
 New Ron Howard documentary shows a town rising from the ashes 	https://datebook.sfchronicle.com/movies-tv/ron-howard-documentary-rebuilding-paradise-shows-a-town-rising-from-the-ashes
 Olivia de Havilland, Oscar-winning screen legend, dies at 104 	https://datebook.sfchronicle.com/movies-tv/bay-areas-olivia-de-havilland-two-time-oscar-winning-screen-legend-dies-at-104
 Hardly Strictly Bluegrass canceled, plans to move festival online 	https://datebook.sfchronicle.com/music/hardly-strictly-bluegrass-canceled-as-organizers-plan-to-move-festival-online
-Ways the pandemic might permanently change the arts 	https://datebook.sfchronicle.com/entertainment/as-the-pandemic-rages-on-an-artistic-landscape-of-the-future-comes-dimly-into-view
 Why did Tom Hanks become the great American actor? 	https://datebook.sfchronicle.com/movies-tv/why-did-tom-hanks-and-not-kevin-costner-become-the-great-american-actor
 In this edition of "Ask Mick," The Chronicle movie critic explains the love for Bay Area native Tom Hanks. 	https://datebook.sfchronicle.com/movies-tv/why-did-tom-hanks-and-not-kevin-costner-become-the-great-american-actor
 Pressure of being an Olympic athlete can kill in 'The Weight of Gold' 	https://datebook.sfchronicle.com/movies-tv/review-the-pressure-of-being-an-olympic-athlete-can-kill-in-the-weight-of-gold
@@ -179,14 +179,14 @@ Willie Brown: We’re creating separate and very unequal... 	https://www.sfchron
 Well-off parents are forming “pandemic pods” that amount to exclusive one-room schoolhouses for their kids. No such luck for poorer children,... 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-We-re-creating-separate-and-very-15432333.php
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 
-the : 91
-to : 61
+the : 89
+to : 62
 a : 49
-of : 40
+of : 41
 in : 38
 and : 36
 for : 34
-coronavirus : 26
+coronavirus : 25
 on : 24
 bay : 23
 area : 21
@@ -194,17 +194,18 @@ with : 17
 how : 15
 from : 14
 are : 14
-pandemic : 12
 california : 11
 sf : 11
 is : 11
-san : 10
+pandemic : 11
 as : 10
 will : 10
 not : 9
+san : 9
 have : 9
 that : 9
 covid-19 : 8
+get : 8
 when : 8
 may : 7
 but : 7
@@ -215,7 +216,6 @@ up : 7
 testing : 7
 it : 7
 new : 7
-get : 7
 has : 7
 police : 6
 down : 6
@@ -228,6 +228,8 @@ reopening : 6
 restaurants : 6
 i : 6
 do : 5
+food : 5
+oakland : 5
 week : 5
 who : 5
 did : 5
@@ -242,18 +244,15 @@ sfs : 5
 should : 5
 three : 5
 their : 5
-arts : 5
 past : 4
 my : 4
 $600 : 4
-county : 4
 union : 4
 health : 4
 residents : 4
 valley : 4
 one : 4
 was : 4
-oakland : 4
 city : 4
 most : 4
 state : 4
@@ -278,14 +277,13 @@ national : 4
 be : 4
 veggie : 4
 burgers : 4
-food : 4
 buttar : 4
+arts : 4
 benefits : 3
 49ers : 3
+black : 3
 ca : 3
 if : 3
-off : 3
-list : 3
 home : 3
 cases : 3
 last : 3
@@ -307,6 +305,7 @@ now : 3
 heres : 3
 out : 3
 reopen : 3
+county : 3
 downtown : 3
 chronicle : 3
 parents : 3
@@ -336,8 +335,7 @@ dining : 3
 people : 3
 unemployment : 3
 californians : 3
-permanently : 3
-ways : 3
+cant : 3
 future : 3
 these : 3
 works : 3
@@ -345,10 +343,9 @@ romney : 3
 sell : 2
 info : 2
 jobless : 2
+community : 2
 offer : 2
 congress : 2
-stays : 2
-watch : 2
 june : 2
 virus : 2
 says : 2
@@ -408,6 +405,7 @@ job : 2
 cuts : 2
 castro : 2
 matt : 2
+list : 2
 arrives : 2
 saving : 2
 death : 2
@@ -459,11 +457,11 @@ month: : 2
 martinez : 2
 blm : 2
 mural : 2
-black : 2
 lives : 2
 matter : 2
 names : 2
 washington : 2
+off : 2
 schools : 2
 being : 2
 income : 2
@@ -479,17 +477,16 @@ drop : 2
 renters : 2
 steps : 2
 interactive : 2
-cant : 2
 per : 2
 we : 2
-might : 2
-change : 2
+permanently : 2
 tom : 2
 hanks : 2
 movie : 2
 love : 2
 yes : 2
 would : 2
+ways : 2
 lesson : 2
 marching : 2
 exceptional : 2
@@ -513,9 +510,12 @@ dana : 1
 stubblefield : 1
 convicted : 1
 rape : 1
+panther : 1
+activist : 1
+provides : 1
+north : 1
 doesnt : 1
 act : 1
-mateo : 1
 google : 1
 extends : 1
 work : 1
@@ -792,7 +792,6 @@ u : 1
 u” : 1
 football : 1
 team : 1
-community : 1
 featured : 1
 netflix : 1
 series : 1
@@ -963,6 +962,7 @@ rule : 1
 trans : 1
 homeless : 1
 shelter : 1
+stays : 1
 measure : 1
 raising : 1
 malpractice : 1
@@ -1078,6 +1078,11 @@ due : 1
 six-year-old : 1
 shop : 1
 re-open : 1
+review: : 1
+maid : 1
+sker : 1
+any : 1
+scarier : 1
 ron : 1
 howard : 1
 documentary : 1
@@ -1133,6 +1138,7 @@ reader : 1
 decides : 1
 shed : 1
 rather : 1
+watch : 1
 guide : 1
 virtual : 1
 socially : 1
@@ -1179,6 +1185,8 @@ virtually : 1
 stepping : 1
 into : 1
 painting : 1
+might : 1
+change : 1
 creative : 1
 ecosystem : 1
 save : 1

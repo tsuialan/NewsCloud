@@ -132,9 +132,12 @@ class News:
                 # increase frequency of word by one
                 k = self.findKeyword(word)
                 # ignonre duplicates in hl
+                dup = False
                 for h in k.headlines:
                     if (h.headline == hl):
-                        continue
+                        dup = True
+                if (dup):
+                    continue
                 k.setFrequency(k.freq + 1)
                 H = Headline(hl, url)
                 k.addHeadline(H)
@@ -238,7 +241,6 @@ class Headline:
     def __init__(self, h, u):
         self.headline = h
         self.url = u
-
 
 """ HELPER METHODS """
 
