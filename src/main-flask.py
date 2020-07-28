@@ -59,7 +59,7 @@ def wordcloud():
 def headlines():
     word="default"
     word = request.args['word'].lower()
-    paper = request.args['paper'].replace(" ", "").lower()
+    paper = request.args['paper']
     newslist = ns.main()
     for news in newslist:
         if (news.paper == paper):
