@@ -3,7 +3,6 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-<<<<<<< HEAD
     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
         {% if page=='index' %}
@@ -38,20 +37,5 @@
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Enter Keyword</button>
             </form>
         {% endif %}
-=======
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-            {% if page=='index' %}
-                <a class="nav-item nav-link active" href="{{url_for('main')}}">Home<span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="{{url_for('wordcloud')}}">WordCloud</a>
-            {% elif page=='wordcloud' %}
-                <a class="nav-item nav-link" href="{{url_for('main')}}">Home</a>
-                <a class="nav-item nav-link active" href="{{url_for('wordcloud')}}">WordCloud<span class="sr-only">(current)</span></a>
-            {% else %}
-                <a class="nav-item nav-link" href="{{url_for('main')}}">Home</a>
-                <a class="nav-item nav-link" href="{{url_for('wordcloud')}}">WordCloud</a>
-            {% endif %}
-        </div>
->>>>>>> 1037b848077179b943848d1df19f527a10659b8f
     </div>
 </nav>
