@@ -391,6 +391,7 @@ def main():
     newslist.append(wsj)
     newslist.append(nyp)
 
+    print("[*] DONE")
     # returns list
     return newslist
 
