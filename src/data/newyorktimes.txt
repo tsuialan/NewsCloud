@@ -10,14 +10,14 @@ New Reported Cases in the U.S. 	https://www.nytimes.com/interactive/2020/us/coro
 See the U.S. hot spots 	https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 New Research Adds to Evidence of Masks’ Utility, Experts SayMasks have long been known to prevent infected people from spreading the virus. Research now suggests they also protect the uninfected. Here’s the latest. 	https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html
 A Small Georgia City Plans to Put Students in Classrooms This WeekIn-person classes without a mask requirement are scheduled to resume in Jefferson, worrying some parents, students and teachers as the pandemic rages. 	https://www.nytimes.com/2020/07/27/us/covid-georgia-schools-masks.html
-LIVEBusiness updates: Target will close on Thanksgiving. Google will let employees work from home until July 2021. 	https://www.nytimes.com/live/2020/07/27/business/stock-market-today-coronavirus
+A Chainsmokers concert in the Hamptons drew outrage and a state inquiry after video showed attendees crowded together. 	https://www.nytimes.com/2020/07/27/nyregion/hamptons-chainsmokers-concert-social-distancing.html
 Miami Marlins Outbreak Postpones 2 Games and Rocks M.L.B.’s ReturnFour days after baseball restarted its long-delayed season, a wave of positive coronavirus tests cast the league’s plans into serious doubt. 	https://www.nytimes.com/2020/07/27/sports/baseball/marlins-game-canceled.html
 Miami Marlins players after their first game of the season on Friday. Mitchell Leff/Getty Images 	https://www.nytimes.com/2020/07/27/sports/baseball/marlins-game-canceled.html
 Trump Announced, Then Canceled, a Yankees Pitch. Both Were Surprises.President Trump’s announcement that he would pitch at Yankee Stadium on Aug. 15 startled the team’s officials, who had not scheduled such an event. 	https://www.nytimes.com/2020/07/27/us/politics/trump-yankees-fauci.html
 The Yankees had to stay in their hotel while the Phillies, who just played a series with the Marlins, awaited test results. 	https://www.nytimes.com/2020/07/27/sports/baseball/coronavirus-yankees-marlins-phillies.html
 Peaceful Protesters Sympathize With Aggressive TacticsThe recent escalation in Portland, Ore., prompted by the forceful federal response, has led to debate among the protesters over their tactics and goals. 	https://www.nytimes.com/2020/07/27/us/protests-divisions-blm.html
 Federal agents tear-gassed protesters near the Mark O. Hatfield Courthouse in Portland, Ore., on Friday. Octavio Jones for The New York Times 	https://www.nytimes.com/2020/07/27/us/protests-divisions-blm.html
-Barr to Testify on Capitol Hill for First Time in More Than a YearAttorney General William Barr is expected to be pressed on the federal response to nationwide protests and his handling of the criminal cases of Trump advisers. 	https://www.nytimes.com/2020/07/27/us/politics/william-barr-house-judiciary-hearing.html
+Barr Defends Protest Response Ahead of TestimonyAttorney General William Barr is expected to be pressed on the federal response to nationwide protests and his handling of the criminal cases of Trump advisers. 	https://www.nytimes.com/2020/07/27/us/politics/william-barr-house-judiciary-hearing.html
 Federal agents tear-gassed protesters near the Mark O. Hatfield Courthouse in Portland, Ore., on Friday. Octavio Jones for The New York Times 	https://www.nytimes.com/2020/07/27/us/protests-divisions-blm.html
 Susan Rice Wants to Run for Office. Will Her First Campaign Be for V.P.?The former national security adviser, who has never been elected to public office, is on the short list to be Joe Biden’s running mate. 	https://www.nytimes.com/2020/07/27/us/politics/susan-rice-biden-vice-president.html
 Trump Again Tries to Block Tax Subpoena, Calling It ‘Wildly Overbroad’President Trump mounted his most forceful and detailed legal attack yet on the subpoena for his tax returns from the Manhattan district attorney. 	https://www.nytimes.com/2020/07/27/nyregion/donald-trump-taxes-cyrus-vance.html
@@ -40,15 +40,15 @@ I Was a Screen Time Expert Before the PandemicAn author reflects on her pre-pand
 Let us know what you think 	http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l
 © 2020 The New York Times Company 	https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
 
-the : 52
-to : 25
-and : 19
+the : 53
+to : 24
+and : 20
+a : 19
 in : 19
-a : 18
-of : 16
-on : 13
+of : 17
 new : 12
-for : 12
+on : 11
+for : 11
 is : 8
 york : 7
 his : 6
@@ -58,6 +58,7 @@ times : 5
 images : 5
 trump : 5
 have : 4
+after : 4
 who : 4
 how : 4
 cases : 4
@@ -66,23 +67,19 @@ getty : 4
 us : 4
 now : 4
 pandemic : 4
-will : 4
 protesters : 4
 federal : 4
+response : 4
 has : 4
 what : 3
-after : 3
 around : 3
 world : 3
-from : 3
 marlins : 3
-first : 3
 friday : 3
 had : 3
 not : 3
 portland : 3
 ore : 3
-response : 3
 be : 3
 it : 3
 money : 3
@@ -110,17 +107,18 @@ ap : 2
 research : 2
 been : 2
 people : 2
+from : 2
 they : 2
 city : 2
 plans : 2
 students : 2
 this : 2
 scheduled : 2
-let : 2
-home : 2
+showed : 2
 miami : 2
 season : 2
 coronavirus : 2
+first : 2
 yankees : 2
 pitch : 2
 were : 2
@@ -137,9 +135,9 @@ courthouse : 2
 octavio : 2
 jones : 2
 barr : 2
-time : 2
-more : 2
+ahead : 2
 office : 2
+will : 2
 her : 2
 tax : 2
 subpoena : 2
@@ -296,17 +294,17 @@ parents : 1
 teachers : 1
 as : 1
 rages : 1
-livebusiness : 1
-updates: : 1
-target : 1
-close : 1
-thanksgiving : 1
-google : 1
-employees : 1
-work : 1
-until : 1
-july : 1
-2021 : 1
+chainsmokers : 1
+concert : 1
+hamptons : 1
+drew : 1
+outrage : 1
+state : 1
+inquiry : 1
+video : 1
+attendees : 1
+crowded : 1
+together : 1
 outbreak : 1
 postpones : 1
 2 : 1
@@ -373,11 +371,9 @@ among : 1
 over : 1
 tactics : 1
 goals : 1
-testify : 1
-capitol : 1
-hill : 1
-than : 1
-yearattorney : 1
+defends : 1
+protest : 1
+testimonyattorney : 1
 general : 1
 william : 1
 expected : 1
@@ -435,6 +431,7 @@ migrant : 1
 workers : 1
 sending : 1
 less : 1
+home : 1
 threatening : 1
 rise : 1
 asia : 1
@@ -460,7 +457,6 @@ ridiculous : 1
 americas : 1
 looks : 1
 abroadwe : 1
-showed : 1
 facts : 1
 handled : 1
 editorial : 1
@@ -503,7 +499,6 @@ beinartthe : 1
 real : 1
 reason : 1
 biden : 1
-ahead : 1
 man : 1
 beppe : 1
 severgniniitaly : 1
@@ -551,6 +546,7 @@ forgotten : 1
 properties : 1
 i : 1
 screen : 1
+time : 1
 expert : 1
 before : 1
 pandemican : 1
@@ -578,11 +574,13 @@ crowd : 1
 carry : 1
 rocking : 1
 chair : 1
+more : 1
 reader : 1
 tales : 1
 weeks : 1
 metropolitan : 1
 diary : 1
+let : 1
 think : 1
 © : 1
 2020 : 1

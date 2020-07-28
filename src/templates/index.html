@@ -4,29 +4,84 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
+    <script src="{{ url_for('static', filename='js/anychart-base.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/anychart-tag-cloud.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery-3.5.1.min.js') }}"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
-    <title>NewsCloud</title>
+    <style>
+        html,
+        body,
+        #container {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        
+        div.fit {
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+    </style>
+
+    <title> NewsCloud | {{ paper }} </title>
+
 </head>
 
 <body>
-    {% include 'navbar.html' %}
-    <h1>NewsCloud: </h1>
-    <form method="post">
-        <button type="submit" name="news" id="news" value="nyt" class="button"> New York Times </button>
-        <button type="submit" name="news" id="news" value="sfchron" class="button"> SF Chronicle </button>
-    </form>
-    {% for item in list %}
-        <a href="{{item.1}}" target="_blank"> {{item.0}} </a>
-        <br>
-        <br> 
-    {% endfor %}
+    <div class="fit">
+        {% include 'navbar.html' %}
+        <h1 style="font-size:30px; justify-content:center; text-align:center; z-index: 1;">NewsCloud | {{ paper }}</h1>
+        <form style="text-align:center;" method="post">
+            <button type="submit" name="news" id="news" value="nyt" class="button"> New York Times </button>
+            <button type="submit" name="news" id="news" value="sfchron" class="button"> SF Chronicle </button>
+        </form>
+        <div id="container"></div>
 
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+    </div>
+
+    <script>
+        anychart.onDocumentReady(function() {
+
+            var data = JSON.parse('{{ data | safe }}');
+
+            // create a tag (word) cloud chart
+            var chart = anychart.tagCloud(data);
+            // set a chart title
+            // chart.title('NewsCloud | {{ paper }}');
+            // set an array of angles at which the words will be laid out
+            chart.angles([0]);
+            // enable a color range
+            chart.colorRange(true);
+            // set the color range length
+            chart.colorRange().length('80%');
+            // display the word cloud chart
+            chart.container("container");
+            chart.draw();
+
+            chart.listen("pointClick", function(e) {
+                var url = "https://en.wikipedia.org/wiki/" + e.point.get("x");
+                console.log(e.point.get("x"))
+                    //window.open(url, "_blank");
+                    //$.post('/headlines', {"word": e.point.get("x")})
+                var url = '/headlines?paper=' + '{{paper}}' + '&word=' + e.point.get("x");
+                window.open(url, "_blank")
+                console.log(e.point.get("x"))
+            });
+
+        });
     </script>
+
+
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
     </script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
     </script>
+
 </body>
 
 </html>

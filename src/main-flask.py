@@ -9,33 +9,8 @@ import newscrape as ns
 app = Flask(__name__, instance_relative_config=True,
             static_folder='static', static_url_path='/static')
 
-
 @app.route('/', methods=('GET', 'POST'))
 def main():
-    page = 'index'
-    news = ''
-
-    if request.method == 'POST':
-        if request.form['news'] == "nyt":
-            head_url = get_head_url(ns.nytscrape().headlines)
-        elif request.form['news'] == "sfchron":
-            head_url = get_head_url(ns.sfcscrape().headlines)
-        else:
-            head_url = zip(["Not a supported news site"], ['www.google.com'])
-
-        return render_template('index.html', page=page, list=head_url)
-    else:
-        print("booted or really bad news")
-    return render_template('index.html', page=page, list=[], url=[])
-
-
-'''
-https://medium.com/@AnyChart/how-to-create-javascript-word-cloud-chart-tutorial-for-web-developers-7ccf12a37513
-'''
-
-
-@app.route('/wordcloud', methods=('GET', 'POST'))
-def wordcloud():
     # get json object
     page = 'wordcloud'
     data = None
@@ -53,7 +28,7 @@ def wordcloud():
             nyt = ns.nytscrape()
             data = nyt.writejson()
             paper = "Default: NYT"
-    return render_template('wordcloud.html', page=page, data=data, paper=paper)
+    return render_template('index.html', page=page, data=data, paper=paper)
 
 
 @app.route('/headlines', methods=('GET', 'POST'))
