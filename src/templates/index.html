@@ -69,7 +69,7 @@
                     //window.open(url, "_blank");
                     //$.post('/headlines', {"word": e.point.get("x")})
                 var url = '/headlines?paper=' + '{{paper}}' + '&word=' + e.point.get("x");
-                window.open(url, "_blank")
+                window.open(url, "_self")
                 console.log(e.point.get("x"))
             });
 

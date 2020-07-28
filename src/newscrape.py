@@ -304,25 +304,92 @@ def sfcscrape():
     return sfc
 
 
+# scrapes usatoday
+
+def usatodayscrape():
+    print("Begin USA Today ...")
+    # scrapes usatoday chronicle
+    usat_url = 'https://www.usatoday.com/'
+    r1 = requests.get(usat_url)
+    usat = r1.content
+    bs1 = BeautifulSoup(usat, 'lxml')
+    bs_usat = bs1.find_all("a")
+
+    # creates news object
+    usat = News("USA Today")
+    # call webscrape algorithm
+    usat.webscrape(bs_usat, usat_url)
+    # return object
+    return usat
+
+# scrapes wsj
+
+def wsjscrape():
+    print("Begin Wall Street Journal ...")
+    # scrapes usatoday chronicle
+    wsj_url = 'https://www.wsj.com/'
+    r1 = requests.get(wsj_url)
+    wsj = r1.content
+    bs1 = BeautifulSoup(wsj, 'lxml')
+    bs_wsj = bs1.find_all("a")
+
+    # creates news object
+    wsj = News("Wall Street Journal")
+    # call webscrape algorithm
+    wsj.webscrape(bs_wsj, wsj_url)
+    # return object
+    return wsj
+
+# scrapes nyp
+
+def nypscrape():
+    print("Begin New York Post ...")
+    # scrapes usatoday chronicle
+    nyp_url = 'https://www.nypost.com/'
+    r1 = requests.get(nyp_url)
+    nyp = r1.content
+    bs1 = BeautifulSoup(nyp, 'lxml')
+    bs_nyp = bs1.find_all("a")
+
+    # creates news object
+    nyp = News("New York Post")
+    # call webscrape algorithm
+    nyp.webscrape(bs_nyp, nyp_url)
+    # return object
+    return nyp
+
+
 """ MAIN FUNCTION """
 
 
 def main():
-    print("[*] NEWSCRAPE MAIN ...")
+    print("[*] +++ NEWSCRAPE MAIN +++")
     # calling webscraping functions
     print("[*] Starting New York Times ... ")
     nyt = nytscrape()
     print("[*] Starting SF Chronicle ... ")
     sfc = sfcscrape()
+    print("[*] Starting USA Today ... ")
+    usat = usatodayscrape()
+    print("[*] Starting Wall Street Journal... ")
+    wsj = wsjscrape()
+    print("[*] Starting New York Post... ")
+    nyp = nypscrape()
 
     # create json file just in case
     nyt.writejson()
     sfc.writejson()
+    usat.writejson()
+    wsj.writejson()
+    nyp.writejson()
 
     # append objects into list, return list
     newslist = []
     newslist.append(nyt)
     newslist.append(sfc)
+    newslist.append(usat)
+    newslist.append(wsj)
+    newslist.append(nyp)
 
     # returns list
     return newslist
