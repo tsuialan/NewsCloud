@@ -69,9 +69,11 @@ def headlines():
     keyword = news_obj.findKeyword(word)
     if keyword != None:
         headurl = get_head_url(keyword.headlines)
+        links = True
     else:
         headurl = zip(["No headlines found, back to wordcloud?"], ['/wordcloud'])
-    return render_template('headlines.html', word=word, list=headurl)
+        links = False
+    return render_template('headlines.html', word=word, paper=paper, list=headurl, links=links)
 
 
 """

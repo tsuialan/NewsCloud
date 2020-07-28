@@ -10,7 +10,7 @@ Coronavirus stalls housing construction in SF, lull may last a while 	https://ww
 Union boss says passengers who attacked driver used slurs, police not sure 	https://www.sfchronicle.com/bayarea/article/Racial-slurs-part-of-bat-attack-on-SF-Muni-bus-15435871.php
 How safe are outdoor gatherings? Bay Area struggles to find the answer 	https://www.sfchronicle.com/bayarea/article/How-safe-are-outdoor-gatherings-Bay-Area-15438030.php
 Health experts say the risk of transmission is lower outside. But with surging cases, officials are asking residents to cut back on public gatherings. 	https://www.sfchronicle.com/bayarea/article/How-safe-are-outdoor-gatherings-Bay-Area-15438030.php
-Latinos far more worried about coronavirus than other Californians, poll... 	https://www.sfchronicle.com/politics/article/Latinos-far-more-worried-about-coronavirus-than-15438358.php
+Poll: Latinos more worried about coronavirus than other Californians 	https://www.sfchronicle.com/politics/article/Latinos-far-more-worried-about-coronavirus-than-15438358.php
 San Mateo County stays off coronavirus watch list 	https://www.sfchronicle.com/business/article/San-Mateo-County-stays-off-coronavirus-watch-list-15437994.php
 California aims to tamp down hot spots in hard-hit Central Valley 	https://www.sfchronicle.com/politics/article/Hot-spots-in-hard-hit-Central-Valley-targeted-in-15437871.php
 Map: Tracking COVID-19 cases across California 	https://projects.sfchronicle.com/2020/coronavirus-map/
@@ -549,10 +549,9 @@ lower : 1
 surging : 1
 asking : 1
 back : 1
+poll: : 1
 latinos : 1
-far : 1
 worried : 1
-poll : 1
 mateo : 1
 aims : 1
 tamp : 1
