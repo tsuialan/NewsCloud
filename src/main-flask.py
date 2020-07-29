@@ -47,26 +47,31 @@ def main():
             data = nyp.writejson()
             paper = nyp.paper
         elif select_news == "all":
-            nyp = newslist[5]
-            data = nyp.writejson()
-            paper = nyp.paper
+            allnews = newslist[5]
+            data = allnews.writejson()
+            paper = allnews.paper
         else:
             nyt = ns.nytscrape()
             data = nyt.writejson()
-            paper = nyp.paper
+            paper = nyt.paper
     else:
         print("booted or really bad news")
     return render_template('index.html', page=page, data=data, paper=paper, all_news=all_info)
 
+
 @app.route('/fupdate')
 def fupdate():
     global newslist
-    newslist= ns.main()
+    newslist = ns.main()
     page = 'wordcloud'
     nyt = newslist[0]
     data = nyt.writejson()
     paper = nyt.paper
-    return render_template('index.html', page=page, data=data, paper=paper)
+    papers = get_papers(newslist)
+    abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp', 'all']
+    all_info = zip(papers, abbrv)
+    return render_template('index.html', page=page, data=data, paper=paper, all_news=all_info)
+
 
 @app.route('/headline', methods=('GET', 'POST'))
 def headline():
@@ -135,13 +140,13 @@ def get_head_url(headlines):
     # print(head)
     return zip(head, urls)
 
+
 def get_papers(newslist):
     papers = []
     for news in newslist:
         if news.paper not in papers:
             papers.append(news.paper)
     return papers
-
 
 
 if __name__ == "__main__":

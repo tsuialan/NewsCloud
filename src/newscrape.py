@@ -6,7 +6,9 @@
 from bs4 import BeautifulSoup
 import requests
 from urllib.parse import urlparse, urlsplit, urljoin
-import json, sys, copy
+import json
+import sys
+import copy
 
 """ OBJECT DIAGRAM
 
@@ -263,41 +265,41 @@ def partition(arr, low, high):
     arr[index+1], arr[high] = arr[high], arr[index+1]
     return index+1
 
+
 def allnews(newslist):
     print("Starting All ...")
     allnews = News("All")
     for news in newslist:
+        # check if keyword exists in all
         for kw in news.keywords:
-            check = False
             for akw in allnews.keywords:
+                # if it does, append head/url
                 if kw.word == akw.word:
-                    check = True
                     akw.headlines += kw.headlines
                     akw.freq += kw.freq
                     break
-            if (check):
-                continue
             nkw = copy.deepcopy(kw)
             allnews.keywords.append(nkw)
+        # check if headline exists in all
         for hl in news.headlines:
-            check = False
             for ahl in allnews.headlines:
+                # ignore, else append
                 if hl.headline == ahl.headline:
-                    check = True
                     break
-            if (check):
-                continue
             nhl = copy.deepcopy(hl)
             allnews.headlines.append(nhl)
+        # wordbankn update
         for key, value in news.wordbank.items():
             if key not in allnews.wordbank:
                 allnews.wordbank[key] = value
             else:
                 allnews.wordbank[key] += value
-    sys.setrecursionlimit(10000)
+    # increase recursion depth
+    sys.setrecursionlimit(1500)
     allnews.sortKeywords()
     allnews.sortDictionary('./data/all.txt')
     return allnews
+
 
 """ WEBSCRAPING FUNCTIONS """
 
@@ -431,6 +433,7 @@ def main():
 
     print("[*] Combining All ...")
     a = allnews(newslist)
+    a.writejson()
     newslist.append(a)
 
     print("[*] DONE")

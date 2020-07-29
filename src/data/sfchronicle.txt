@@ -1,7 +1,7 @@
 Portals of the Past 	http://www.sfchronicle.com/local/portalsofthepast/
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 Coronavirus live updates: Record number of patients hospitalized in San Francisco 	https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
-Giants lose to Padres 5-3 in home opener that wasn’t seen in person by... 	https://www.sfchronicle.com/giants/article/Giants-lose-to-Padres-5-3-in-home-opener-that-15441607.php
+Giants lose to Padres 5-3 in home opener 	https://www.sfchronicle.com/giants/article/Giants-lose-to-Padres-5-3-in-home-opener-that-15441607.php
 10-year-old boy struck, killed by delivery vehicle in Lafayette 	https://www.sfchronicle.com/crime/article/10-year-old-boy-struck-killed-by-delivery-15441634.php
 SF passes sales tax measure to save Caltrain; San Mateo says it’s DOA 	https://www.sfchronicle.com/bayarea/article/San-Francisco-is-set-to-pass-a-sales-tax-measure-15441008.php
 Genentech to cut 474 Bay Area-based jobs 	https://www.sfchronicle.com/business/article/Genentech-to-cut-474-Bay-Area-jobs-15441204.php
@@ -17,7 +17,6 @@ For months, enforcement of coronavirus health orders has been relatively minimal
 Coronavirus cases across the Bay Area top 50,000 	https://www.sfchronicle.com/bayarea/article/Bay-Area-coronavirus-cases-poised-to-top-50-000-15440780.php
 $100 for not wearing a mask? Contra Costa approves fines for violators 	https://www.sfchronicle.com/bayarea/article/100-for-not-wearing-a-mask-Contra-Costa-15440641.php
 Should I isolate my newborn? Stories of pandemic risk, hard choices 	https://www.sfchronicle.com/bayarea/article/Should-I-isolate-my-newborn-Move-to-Bay-Area-for-15437844.php
-Map: Tracking COVID-19 cases across California 	https://projects.sfchronicle.com/2020/coronavirus-map/
 The SF schools plan: Weeks — or more likely months — of distance learning 	https://www.sfchronicle.com/education/article/The-SF-schools-plan-Weeks-or-more-likely-15440953.php
 The SF school board was expected to approve a plan for the start of the school year, including up to six weeks of getting used to learning online and then a deep dive into academic content. 	https://www.sfchronicle.com/education/article/The-SF-schools-plan-Weeks-or-more-likely-15440953.php
 Quarantine, social bubbles to define campus experience for college students 	https://www.sfchronicle.com/education/article/Quarantine-social-bubbles-will-define-on-campus-15440920.php
@@ -28,12 +27,7 @@ Senate Republicans want to cut the expired $600 per week federal unemployment su
 They defied health rules for a SF wedding. The virus didn’t spare them 	https://www.sfchronicle.com/bayarea/article/They-defied-health-rules-for-a-storybook-San-15434220.php
 Despite a warning to Catholic authorities in San Francisco to follow the local health order, a city official said the leadership of SS Peter and Paul’s, one of the city’s most famous churches, helped a young couple organize an illegal indoor wedding. Now several attendees and the newlyweds have tested positive for the coronavirus, guests say. 	https://www.sfchronicle.com/bayarea/article/They-defied-health-rules-for-a-storybook-San-15434220.php
 SF won’t cite Catholic archdiocese after wedding 	https://www.sfchronicle.com/bayarea/article/San-Francisco-won-t-cite-Catholic-archdiocese-15438363.php
-See what’s open and what’s still shut down by county 	https://projects.sfchronicle.com/2020/coronavirus-map/california-reopening/
-COVID-19 testing sites that don’t require a referral 	https://projects.sfchronicle.com/projects/2020/map-coronavirus-testing-near-me/
-How COVID-19 ravages the body 	https://projects.sfchronicle.com/2020/virus-organs-graphic/
-Changes restaurants may make to reopen 	https://projects.sfchronicle.com/2020/future-of-restaurants/
-What school will look like with pandemic protocols 	https://projects.sfchronicle.com/2020/schools-pandemic-protocols-graphic/
-The micro-hood, a new vision for downtown SF 	https://projects.sfchronicle.com/2020/welcome-to-the-micro-hood-graphic/
+Tracking COVID-19 cases across California 	https://projects.sfchronicle.com/2020/coronavirus-map/
 Humans are bad at assessing their risk, and that’s a problem 	https://www.sfchronicle.com/bayarea/article/Humans-are-notoriously-bad-at-assessing-their-15438167.php
 People face more choices amid the Bay Area’s coronavirus reopening, but humans are notoriously bad at assessing their own risk. Here are the psychological reasons behind the problem, and... 	https://www.sfchronicle.com/bayarea/article/Humans-are-notoriously-bad-at-assessing-their-15438167.php
 San Mateo County stays off coronavirus watch list 	https://www.sfchronicle.com/business/article/San-Mateo-County-stays-off-coronavirus-watch-list-15437994.php
@@ -101,8 +95,8 @@ Critic Soleil Ho has been on a veggie burger kick. Here are three that she enjoy
 Photos of the Month: Top images from June 	https://projects.sfchronicle.com/app/june-best-photos/
 Old, new Martinez clash amid debate over defacing of BLM mural 	https://www.sfchronicle.com/bayarea/otisrtaylorjr/article/Old-new-Martinez-clash-amid-debate-over-defacing-15411610.php
 Martinez became a flash point in the racial uprising engulfing the nation when two white people defaced a Black Lives Matter mural. Some residents... 	https://www.sfchronicle.com/bayarea/otisrtaylorjr/article/Old-new-Martinez-clash-amid-debate-over-defacing-15411610.php
-SF Chief Bill Scott defends Black Lives Matter posters hung in... 	https://www.sfchronicle.com/bayarea/philmatier/article/SF-Chief-Bill-Scott-defends-Black-Lives-Matter-15424671.php
-The chief had a frank discussion with officers at Ingleside Station about race, policing and his support for Black Lives Matter posters going up... 	https://www.sfchronicle.com/bayarea/philmatier/article/SF-Chief-Bill-Scott-defends-Black-Lives-Matter-15424671.php
+At least one street in SF’s Tenderloin has been cleaned up,... 	https://www.sfchronicle.com/bayarea/philmatier/article/At-least-one-street-in-SF-s-Tenderloin-has-been-15441069.php
+Out of the tents and into hotels, the City cleans up Larch Street and other encampments, but at a cost of $500,000 a night. And that’s just the... 	https://www.sfchronicle.com/bayarea/philmatier/article/At-least-one-street-in-SF-s-Tenderloin-has-been-15441069.php
 ‘I feel desperate’: Some workers with COVID-19 couldn’t... 	https://www.sfchronicle.com/bayarea/heatherknight/article/I-feel-desperate-Some-workers-with-COVID-15414563.php
 It’s good to get tested for the coronavirus, right? Maybe not if a positive result means you have no income while you quarantine. A new San... 	https://www.sfchronicle.com/bayarea/heatherknight/article/I-feel-desperate-Some-workers-with-COVID-15414563.php
 CA will be on the ballot, too, if Harris or Bass is VP pick 	https://www.sfchronicle.com/politics/article/California-will-be-on-the-ballot-too-if-Kamala-15438388.php
@@ -178,51 +172,46 @@ Well-off parents are forming “pandemic pods” that amount to exclusive one-ro
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 
 the : 96
-to : 68
-a : 55
-of : 45
-and : 42
-for : 40
-in : 29
+to : 67
+a : 54
+of : 47
+and : 43
+for : 38
+in : 28
 bay : 26
 coronavirus : 25
 area : 22
 on : 19
-how : 16
-sf : 15
+how : 15
 san : 13
+sf : 13
 are : 13
-that : 12
-with : 12
 its : 11
 francisco : 10
+with : 10
+that : 10
 from : 10
 california : 10
+at : 10
 an : 9
 have : 9
-at : 9
 is : 8
 i : 8
 — : 8
+city : 8
 it : 8
 get : 8
-by : 7
-pandemic : 7
-city : 7
 as : 7
 not : 6
 cut : 6
-county : 6
 health : 6
+but : 6
 more : 6
 heres : 6
 should : 6
-covid-19 : 6
-black : 6
+pandemic : 6
+up : 6
 week : 6
-restaurants : 6
-will : 6
-new : 6
 reopening : 6
 when : 6
 if : 6
@@ -230,37 +219,42 @@ no : 6
 past : 5
 do : 5
 my : 5
+by : 5
 they : 5
 police : 5
 their : 5
-but : 5
-what : 5
+county : 5
+has : 5
+been : 5
 50000 : 5
-school : 5
-up : 5
 want : 5
 unemployment : 5
 them : 5
+one : 5
 after : 5
+will : 5
 baseball : 5
 this : 5
 national : 5
 you : 5
 your : 5
+restaurants : 5
+new : 5
 giants : 4
-may : 4
 former : 4
 he : 4
 each : 4
-has : 4
-been : 4
 across : 4
+what : 4
 order : 4
+school : 4
 was : 4
+into : 4
+out : 4
+black : 4
 republicans : 4
 rules : 4
-one : 4
-testing : 4
+covid-19 : 4
 here : 4
 list : 4
 latest : 4
@@ -270,30 +264,24 @@ ducklings : 4
 certain : 4
 were : 4
 food : 4
-his : 4
-lives : 4
-matter : 4
 info : 3
 home : 3
 delivery : 3
 chase : 3
 center : 3
 workers : 3
+may : 3
 vallejo : 3
 people : 3
 some : 3
-chief : 3
 state : 3
-like : 3
+thats : 3
 cases : 3
 top : 3
 risk : 3
-map: : 3
 or : 3
 then : 3
-into : 3
 firefighter : 3
-out : 3
 early : 3
 would : 3
 per : 3
@@ -303,13 +291,11 @@ said : 3
 most : 3
 now : 3
 positive : 3
-see : 3
-open : 3
-dont : 3
-make : 3
 face : 3
 outdoor : 3
+sfs : 3
 test : 3
+testing : 3
 where : 3
 can : 3
 klamath : 3
@@ -318,12 +304,14 @@ than : 3
 during : 3
 much : 3
 because : 3
+other : 3
 three : 3
 veggie : 3
 burgers : 3
 racial : 3
 against : 3
 who : 3
+his : 3
 californians : 3
 shahid : 3
 market : 3
@@ -358,16 +346,15 @@ badges : 2
 mark : 2
 department : 2
 him : 2
-officers : 2
 video : 2
 rules: : 2
 orders : 2
 months : 2
 enforcement : 2
 minimal : 2
-thats : 2
 change : 2
 fines : 2
+like : 2
 mask : 2
 newborn : 2
 stories : 2
@@ -402,15 +389,6 @@ didnt : 2
 catholic : 2
 tested : 2
 say : 2
-whats : 2
-still : 2
-down : 2
-sites : 2
-require : 2
-referral : 2
-changes : 2
-reopen : 2
-protocols : 2
 humans : 2
 bad : 2
 assessing : 2
@@ -420,8 +398,8 @@ areas : 2
 behind : 2
 safe : 2
 find : 2
-sfs : 2
 community : 2
+see : 2
 districts : 2
 plans : 2
 use : 2
@@ -448,14 +426,12 @@ refuge : 2
 travel : 2
 shelter-in-place : 2
 day : 2
-had : 2
 so : 2
 many : 2
 developments : 2
 first : 2
 did : 2
 warriors : 2
-other : 2
 lola : 2
 wines : 2
 wine : 2
@@ -468,17 +444,19 @@ comforting : 2
 leveled-up : 2
 dining : 2
 black-owned : 2
+open : 2
 right : 2
+make : 2
 engineer : 2
 discrimination : 2
 harassment : 2
 while : 2
 offer : 2
 free : 2
-station : 2
 faces : 2
 life : 2
-about : 2
+map: : 2
+dont : 2
 soleil : 2
 ho : 2
 barry : 2
@@ -492,7 +470,9 @@ martinez : 2
 blm : 2
 mural : 2
 two : 2
-posters : 2
+lives : 2
+matter : 2
+street : 2
 income : 2
 ca : 2
 harris : 2
@@ -541,9 +521,6 @@ hospitalized : 1
 lose : 1
 padres : 1
 5-3 : 1
-wasnt : 1
-seen : 1
-person : 1
 10-year-old : 1
 boy : 1
 struck : 1
@@ -551,7 +528,7 @@ lafayette : 1
 passes : 1
 measure : 1
 save : 1
-caltrain; : 1
+caltrain : 1
 says : 1
 doa : 1
 genentech : 1
@@ -579,8 +556,10 @@ flagging : 1
 misconduct : 1
 included : 1
 concerns : 1
+officers : 1
 fatal : 1
 shootings : 1
+chief : 1
 told : 1
 underling : 1
 “burn” : 1
@@ -615,7 +594,6 @@ approves : 1
 violators : 1
 isolate : 1
 hard : 1
-tracking : 1
 schools : 1
 plan: : 1
 likely : 1
@@ -685,13 +663,7 @@ guests : 1
 wont : 1
 cite : 1
 archdiocese : 1
-shut : 1
-ravages : 1
-body : 1
-look : 1
-micro-hood : 1
-vision : 1
-downtown : 1
+tracking : 1
 notoriously : 1
 own : 1
 psychological : 1
@@ -723,6 +695,7 @@ database : 1
 uses : 1
 team : 1
 tighten : 1
+protocols : 1
 manager : 1
 gabe : 1
 views : 1
@@ -770,6 +743,7 @@ opening : 1
 left : 1
 desired : 1
 fans : 1
+had : 1
 difficult : 1
 remain : 1
 optimistic : 1
@@ -836,6 +810,8 @@ crowd-sourced : 1
 directory : 1
 businesses : 1
 interactive: : 1
+changes : 1
+reopen : 1
 following : 1
 152 : 1
 permanent : 1
@@ -851,6 +827,7 @@ working : 1
 ucsf : 1
 mission : 1
 bart : 1
+station : 1
 ex-49ers : 1
 player : 1
 dana : 1
@@ -870,6 +847,7 @@ activist : 1
 provides : 1
 north : 1
 confused : 1
+about : 1
 restrictions : 1
 timeline : 1
 counties : 1
@@ -877,6 +855,9 @@ constantly : 1
 changing : 1
 vary : 1
 depending : 1
+sites : 1
+require : 1
+referral : 1
 seeing : 1
 friends : 1
 family : 1
@@ -919,17 +900,18 @@ nation : 1
 white : 1
 defaced : 1
 residents : 1
-bill : 1
-scott : 1
-defends : 1
-hung : 1
-frank : 1
-discussion : 1
-ingleside : 1
-race : 1
-policing : 1
-support : 1
-going : 1
+least : 1
+tenderloin : 1
+cleaned : 1
+tents : 1
+hotels : 1
+cleans : 1
+larch : 1
+encampments : 1
+cost : 1
+$500000 : 1
+night : 1
+just : 1
 feel : 1
 desperate: : 1
 couldnt : 1
@@ -988,6 +970,7 @@ different : 1
 picture : 1
 devastated : 1
 twitter : 1
+still : 1
 expanding : 1
 slashed : 1
 grocery : 1
@@ -1253,6 +1236,7 @@ language : 1
 2 : 1
 measures : 1
 comes : 1
+down : 1
 issues : 1
 agree : 1
 campaigns : 1
