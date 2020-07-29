@@ -9,8 +9,7 @@ import newscrape as ns
 app = Flask(__name__, instance_relative_config=True,
             static_folder='static', static_url_path='/static')
 
-newslist = ns.main()
-
+newslist = []
 
 @app.route('/', methods=('GET', 'POST'))
 def main():

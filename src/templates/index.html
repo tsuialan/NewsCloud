@@ -20,7 +20,8 @@
         }
 
         div.fit {
-            position: fixed;
+            position: absolute;
+            text-align: center;
             top: 0;
             bottom: 0;
             left: 0;
@@ -33,24 +34,26 @@
 </head>
 
 <body>
-    {% include 'navbar.html' %}
-    <h1 style="font-size:30px; justify-content:center; text-align:center; z-index: 1;">NewsCloud | {{ paper }}</h1>
-    <form class="form-inline my-2 my-lg-0" method="post">
-        <select class="form-control mr-sm-2" name="news" id="news">
-            {% for news in all_news %}
+    <div class="fit">
+        {% include 'navbar.html' %}
+        <h1 style="font-size:30px; justify-content:center; text-align:center; z-index: 1;">NewsCloud | {{ paper }}</h1>
+        <form class="form-inline my-2 my-lg-0" method="post">
+            <select class="form-control mr-sm-2" name="news" id="news">
+                {% for news in all_news %}
                 {% if news.0==paper %}
-                    <option value="{{news.1}}" selected>{{news.0}}</option>
+                <option value="{{news.1}}" selected>{{news.0}}</option>
                 {% else %}
-                    <option value="{{news.1}}">{{news.0}}</option>
+                <option value="{{news.1}}">{{news.0}}</option>
                 {% endif %}
-            {% endfor %}
-        </select>
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Generate</button>
-    </form>
-    <div id="container"></div>
+                {% endfor %}
+            </select>
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Generate</button>
+        </form>
+        <div id="container"></div>
+    </div>
 
     <script>
-        anychart.onDocumentReady(function() {
+        anychart.onDocumentReady(function () {
 
             var data = JSON.parse('{{ data | safe }}');
 
@@ -68,11 +71,11 @@
             chart.container("container");
             chart.draw();
 
-            chart.listen("pointClick", function(e) {
+            chart.listen("pointClick", function (e) {
                 var url = "https://en.wikipedia.org/wiki/" + e.point.get("x");
                 console.log(e.point.get("x"))
-                    //window.open(url, "_blank");
-                    //$.post('/headlines', {"word": e.point.get("x")})
+                //window.open(url, "_blank");
+                //$.post('/headlines', {"word": e.point.get("x")})
                 var url = '/word?paper=' + '{{paper}}' + '&word=' + e.point.get("x");
                 window.open(url, "_self")
                 console.log(e.point.get("x"))
@@ -82,9 +85,11 @@
     </script>
 
 
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
     </script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
     </script>
 
 </body>

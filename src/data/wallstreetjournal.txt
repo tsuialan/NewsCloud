@@ -15,9 +15,9 @@ House of the Day 	https://www.wsj.com/houseoftheday
 How Face Masks Work and Which Ones Best Protect Against Covid-19 	https://www.wsj.com/articles/how-face-masks-work-and-which-types-offer-the-best-covid-19-protection-11595946178?mod=error_page
 Mystery Seeds Postmarked From China to Be Tested by U.S. Officials 	https://www.wsj.com/articles/federal-officials-testing-mystery-seeds-mailed-to-u-s-residents-11595978122?mod=error_page
 Kodak Shifts Into Drug Production With Help of $765 Million U.S. Loan 	https://www.wsj.com/articles/kodak-lands-765-million-u-s-loan-in-start-of-medical-supply-chain-fix-11595930400?mod=error_page
-Hajj Pilgrimage Amid Covid-19: Social Distancing, Temperature Checks and Crowd Control 	https://www.wsj.com/video/hajj-pilgrimage-amid-covid-19-social-distancing-temperature-checks-and-crowd-control/E1D532E9-BDE0-4F86-A669-AC46625FCAE3.html?mod=error_page
-Why Some States Are Narrowing Access to Covid-19 Tests 	https://www.wsj.com/video/why-some-states-are-narrowing-access-to-covid-19-tests/7D590227-0D42-4381-8EF8-DBCC80C2410C.html?mod=error_page
-U.S. Packs Up and Leaves Chengdu Consulate 	https://www.wsj.com/video/us-packs-up-and-leaves-chengdu-consulate/841ACA7E-F4E2-4AF5-8366-834A7DDC8A7D.html?mod=error_page
+Protest Chaos Rocks Cities Across U.S. 	https://www.wsj.com/video/protest-chaos-rocks-cities-across-us/F8C72505-2E54-4B5B-BE1C-93C29EF5445A.html?mod=error_page
+Can Wearables Detect Covid-19 Symptoms? I Wore Six to Find Out 	https://www.wsj.com/video/series/joanna-stern-personal-technology/can-wearables-detect-covid-19-symptoms-i-wore-six-to-find-out/43F5487F-AF45-4F05-A7D9-B94B8E2CBB40?mod=error_page
+What It Would Take to Reach Herd Immunity for the Coronavirus 	https://www.wsj.com/video/what-it-would-take-to-reach-herd-immunity-for-the-coronavirus/77E526F6-6F70-445A-95E8-3F7C32D32D0D.html?mod=error_page
 Lawmakers Grill Big Tech CEOs in Antitrust Hearing 	https://www.wsj.com/podcasts/lawmakers-grill-big-tech-ceos-in-antitrust-hearing/D780C00B-7057-487F-9090-B2851E119B93.html?mod=error_page
 How Portland Became a National Battleground 	https://www.wsj.com/podcasts/how-portland-became-a-national-battleground/E8150C7A-6F68-48D4-AB98-D2CFC47358AD.html?mod=error_page
 Stocks Rise, As Fed Pledges Continued Support 	https://www.wsj.com/podcasts/stocks-rise-as-fed-pledges-continued-support/6DC9D381-C0F6-479E-AD05-2AFD0F50AD01.html?mod=error_page
@@ -30,14 +30,13 @@ WSJ Pro Central Banking 	https://www.wsj.com/pro/centralbanking
 Subscriber Agreement & Terms of Use 	https://www.wsj.com/policy/subscriber-agreement
 Dow Jones & Company 	https://www.dowjones.com
 
-the : 10
+the : 11
 of : 8
 street : 4
 & : 4
+to : 4
 future : 3
 everything : 3
-to : 3
-and : 3
 us : 3
 wall : 2
 journal : 2
@@ -75,6 +74,7 @@ day : 1
 face : 1
 masks : 1
 work : 1
+and : 1
 which : 1
 ones : 1
 protect : 1
@@ -98,28 +98,29 @@ help : 1
 $765 : 1
 million : 1
 loan : 1
-hajj : 1
-pilgrimage : 1
-amid : 1
-covid-19: : 1
-social : 1
-distancing : 1
-temperature : 1
-checks : 1
-crowd : 1
-control : 1
-why : 1
-some : 1
-states : 1
-are : 1
-narrowing : 1
-access : 1
-tests : 1
-packs : 1
-up : 1
-leaves : 1
-chengdu : 1
-consulate : 1
+protest : 1
+chaos : 1
+rocks : 1
+cities : 1
+across : 1
+can : 1
+wearables : 1
+detect : 1
+symptoms : 1
+i : 1
+wore : 1
+six : 1
+find : 1
+out : 1
+what : 1
+it : 1
+would : 1
+take : 1
+reach : 1
+herd : 1
+immunity : 1
+for : 1
+coronavirus : 1
 lawmakers : 1
 grill : 1
 big : 1
