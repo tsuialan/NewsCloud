@@ -21,7 +21,7 @@ def main():
     data = nyt.writejson()
     paper = nyt.paper
     papers = get_papers(newslist)
-    abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp']
+    abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp', 'all']
     all_info = zip(papers, abbrv)
     print(all_info)
     if request.method == 'POST':
@@ -46,10 +46,14 @@ def main():
             nyp = newslist[4]
             data = nyp.writejson()
             paper = nyp.paper
+        elif select_news == "all":
+            nyp = newslist[5]
+            data = nyp.writejson()
+            paper = nyp.paper
         else:
             nyt = ns.nytscrape()
             data = nyt.writejson()
-            paper = "Default: NYT"
+            paper = nyp.paper
     else:
         print("booted or really bad news")
     return render_template('index.html', page=page, data=data, paper=paper, all_news=all_info)
@@ -70,7 +74,7 @@ def headline():
     page = 'headline'
     news = ''
     papers = get_papers(newslist)
-    abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp']
+    abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp', 'all']
     all_info = zip(papers, abbrv)
     print(all_info)
     if request.method == 'POST':
@@ -85,6 +89,9 @@ def headline():
             head_url = get_head_url(ns.wsjscrape().headlines)
         elif select_news == "nyp":
             head_url = get_head_url(ns.nypscrape().headlines)
+        elif select_news == "all":
+            nl = ns.main()
+            head_url = get_head_url(nl[5].headlines)
         else:
             head_url = zip(["Not a supported news site"], ['/'])
         return render_template('headline.html', page=page, list=head_url, all_news=all_info)

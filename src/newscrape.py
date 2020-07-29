@@ -6,7 +6,7 @@
 from bs4 import BeautifulSoup
 import requests
 from urllib.parse import urlparse, urlsplit, urljoin
-import json
+import json, sys
 
 """ OBJECT DIAGRAM
 
@@ -263,6 +263,37 @@ def partition(arr, low, high):
     arr[index+1], arr[high] = arr[high], arr[index+1]
     return index+1
 
+def allnews(newslist):
+    allnews = News("All")
+    for news in newslist:
+        for kw in news.keywords:
+            check = False
+            for akw in allnews.keywords:
+                if kw.word == akw.word:
+                    check = True
+                    akw.headlines += kw.headlines
+                    akw.freq += kw.freq
+                    break
+            if (check):
+                continue
+            allnews.keywords.append(kw)
+        for hl in news.headlines:
+            check = False
+            for ahl in allnews.headlines:
+                if hl.headline == ahl.headline:
+                    check = True
+                    break
+            if (check):
+                continue
+            allnews.headlines.append(hl)
+        for key, value in news.wordbank.items():
+            if key not in allnews.wordbank:
+                allnews.wordbank[key] = value
+            else:
+                allnews.wordbank[key] += value
+    sys.setrecursionlimit(10000)
+    allnews.sortKeywords()
+    return allnews
 
 """ WEBSCRAPING FUNCTIONS """
 
@@ -393,6 +424,11 @@ def main():
     newslist.append(usat)
     newslist.append(wsj)
     newslist.append(nyp)
+
+    print("[*] Combining All ...")
+    temp = newslist
+    a = allnews(temp)
+    newslist.append(a)
 
     print("[*] DONE")
     # returns list
