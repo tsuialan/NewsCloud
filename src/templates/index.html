@@ -18,7 +18,7 @@
             margin: 0;
             padding: 0;
         }
-        
+
         div.fit {
             position: fixed;
             top: 0;
@@ -68,7 +68,7 @@
                 console.log(e.point.get("x"))
                     //window.open(url, "_blank");
                     //$.post('/headlines', {"word": e.point.get("x")})
-                var url = '/headlines?paper=' + '{{paper}}' + '&word=' + e.point.get("x");
+                var url = '/word?paper=' + '{{paper}}' + '&word=' + e.point.get("x");
                 window.open(url, "_self")
                 console.log(e.point.get("x"))
             });

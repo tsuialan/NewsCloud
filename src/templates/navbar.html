@@ -35,7 +35,15 @@
             </ul>
             <form class="form-inline my-2 my-lg-0" method="get">
                 <input class="form-control mr-sm-2" type="search" name="word" id="word" placeholder="Keyword" aria-label="Keyword">
-                <input type="hidden" name="paper" id="paper" value="{{paper}}">
+                <select class="form-control mr-sm-2" name="paper" id="paper">
+                    {% for news in all_news %}
+                        {% if news==paper %}
+                            <option value="{{news}}" selected>{{news}}</option>
+                        {% else %}
+                            <option value="{{news}}">{{news}}</option>
+                        {% endif %}
+                    {% endfor %}
+                </select>
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Enter Keyword</button>
             </form>
         {% endif %}

@@ -58,20 +58,20 @@ def headline():
             head_url = get_head_url(ns.sfcscrape().headlines)
         else:
             head_url = zip(["Not a supported news site"], ['/'])
-
         return render_template('headline.html', page=page, list=head_url)
     else:
         print("booted or really bad news")
     return render_template('headline.html', page=page, list=[], url=[])
 
 
-@app.route('/headlines', methods=('GET', 'POST'))
-def headlines():
+@app.route('/word', methods=('GET', 'POST'))
+def word():
     global newslist
     word = "default"
     word = request.args['word'].lower()
     paper = request.args['paper']
     for news in newslist:
+        print(news.paper)
         if (news.paper == paper):
             news_obj = news
             break
@@ -82,7 +82,8 @@ def headlines():
     else:
         headurl = zip(["No headlines found, back to wordcloud?"], ['/'])
         links = False
-    return render_template('word.html', word=word, paper=paper, list=headurl, links=links)
+    papers = get_papers(newslist)
+    return render_template('word.html', word=word, paper=paper, list=headurl, links=links, all_news=papers)
 
 
 """
@@ -98,6 +99,14 @@ def get_head_url(headlines):
         urls.append(headline.url)
     # print(head)
     return zip(head, urls)
+
+def get_papers(newslist):
+    papers = []
+    for news in newslist:
+        if news.paper not in papers:
+            papers.append(news.paper)
+    return papers
+
 
 
 if __name__ == "__main__":
