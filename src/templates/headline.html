@@ -11,7 +11,7 @@
 <body>
     {% include 'navbar.html' %}
     <h1>NewsCloud: </h1>
-    <form class="my-2 my-lg-0" method="post">
+    <form class="form-inline my-2 my-lg-0" method="post">
         <select class="form-control mr-sm-2" name="news" id="news">
             {% for news in all_news %}
                 {% if news.0==paper %}

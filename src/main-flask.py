@@ -14,6 +14,7 @@ newslist = ns.main()
 
 @app.route('/', methods=('GET', 'POST'))
 def main():
+    fupdate()
     global newslist
     # defaults to nyt wordcloud
     page = 'wordcloud'
@@ -59,20 +60,6 @@ def main():
     return render_template('index.html', page=page, data=data, paper=paper, all_news=all_info)
 
 
-@app.route('/fupdate')
-def fupdate():
-    global newslist
-    newslist = ns.main()
-    page = 'wordcloud'
-    nyt = newslist[0]
-    data = nyt.writejson()
-    paper = nyt.paper
-    papers = get_papers(newslist)
-    abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp', 'all']
-    all_info = zip(papers, abbrv)
-    return render_template('index.html', page=page, data=data, paper=paper, all_news=all_info)
-
-
 @app.route('/headline', methods=('GET', 'POST'))
 def headline():
     global newslist
@@ -81,27 +68,33 @@ def headline():
     papers = get_papers(newslist)
     abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp', 'all']
     all_info = zip(papers, abbrv)
-    print(all_info)
+    paper="None"
     if request.method == 'POST':
         select_news = request.form['news']
         if select_news == "nyt":
             head_url = get_head_url(newslist[0].headlines)
+            paper = newslist[0].paper
         elif select_news == "sfchron":
             head_url = get_head_url(newslist[1].headlines)
+            paper = newslist[1].paper
         elif select_news == "usat":
             head_url = get_head_url(newslist[2].headlines)
+            paper = newslist[2].paper
         elif select_news == "wsj":
             head_url = get_head_url(newslist[3].headlines)
+            paper = newslist[3].paper
         elif select_news == "nyp":
             head_url = get_head_url(newslist[4].headlines)
+            paper = newslist[4].paper
         elif select_news == "all":
             head_url = get_head_url(newslist[5].headlines)
+            paper = newslist[5].paper
         else:
             head_url = zip(["Not a supported news site"], ['/'])
-        return render_template('headline.html', page=page, list=head_url, all_news=all_info)
+        return render_template('headline.html', page=page, list=head_url, all_news=all_info, paper=paper)
     else:
         print("booted or really bad news")
-    return render_template('headline.html', page=page, list=[], url=[], all_news=all_info)
+    return render_template('headline.html', page=page, list=[], url=[], all_news=all_info, paper=paper)
 
 
 @app.route('/word', methods=('GET', 'POST'))
@@ -130,6 +123,9 @@ def word():
 Helper function to zip the headline and url together
 """
 
+def fupdate():
+    global newslist
+    newslist = ns.main()
 
 def get_head_url(headlines):
     head = []
