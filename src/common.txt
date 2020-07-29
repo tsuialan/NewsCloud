@@ -7,7 +7,6 @@ in
 on
 to
 from
-that
 is
 are
 were
@@ -26,3 +25,4 @@ so
 be
 at
 —
+&

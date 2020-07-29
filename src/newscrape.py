@@ -113,7 +113,7 @@ class News:
             word = word.replace(",", "").replace(
                 ".", "").replace("?", "").replace("!", "")
             word = word.replace("'", "").replace(
-                '"', "").replace("’", "").replace("‘", "")
+                '"', "").replace("’", "").replace("‘", "").replace(";", "")
             word = word.lower()
             # check if word is in the word bank
             # if it is not
