@@ -20,22 +20,39 @@ def main():
     nyt = newslist[0]
     data = nyt.writejson()
     paper = nyt.paper
+    papers = get_papers(newslist)
+    abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp']
+    all_info = zip(papers, abbrv)
+    print(all_info)
     if request.method == 'POST':
-        if request.form['news'] == "nyt":
+        select_news = request.form['news']
+        if select_news == "nyt":
             nyt = newslist[0]
             data = nyt.writejson()
             paper = nyt.paper
-        elif request.form['news'] == "sfchron":
+        elif select_news == "sfchron":
             sfc = newslist[1]
             data = sfc.writejson()
             paper = sfc.paper
+        elif select_news == "usat":
+            usat = newslist[2]
+            data = usat.writejson()
+            paper = usat.paper
+        elif select_news == "wsj":
+            wsj = newslist[3]
+            data = wsj.writejson()
+            paper = wsj.paper
+        elif select_news == "nyp":
+            nyp = newslist[4]
+            data = nyp.writejson()
+            paper = nyp.paper
         else:
             nyt = ns.nytscrape()
             data = nyt.writejson()
             paper = "Default: NYT"
     else:
         print("booted or really bad news")
-    return render_template('index.html', page=page, data=data, paper=paper)
+    return render_template('index.html', page=page, data=data, paper=paper, all_news=all_info)
 
 @app.route('/fupdate')
 def fupdate():
@@ -49,19 +66,28 @@ def fupdate():
 
 @app.route('/headline', methods=('GET', 'POST'))
 def headline():
+    global newslist
     page = 'headline'
     news = ''
+    papers = get_papers(newslist)
     if request.method == 'POST':
-        if request.form['news'] == "nyt":
+        select_news = request.form['news']
+        if select_news == "nyt":
             head_url = get_head_url(ns.nytscrape().headlines)
-        elif request.form['news'] == "sfchron":
+        elif select_news == "sfchron":
             head_url = get_head_url(ns.sfcscrape().headlines)
+        elif select_news == "usat":
+            head_url = get_head_url(ns.usatodayscrape().headlines)
+        elif select_news == "wsj":
+            head_url = get_head_url(ns.wsjscrape().headlines)
+        elif select_news == "nyp":
+            head_url = get_head_url(ns.nypscrape().headlines)
         else:
             head_url = zip(["Not a supported news site"], ['/'])
-        return render_template('headline.html', page=page, list=head_url)
+        return render_template('headline.html', page=page, list=head_url, all_news=papers)
     else:
         print("booted or really bad news")
-    return render_template('headline.html', page=page, list=[], url=[])
+    return render_template('headline.html', page=page, list=[], url=[], all_news=papers)
 
 
 @app.route('/word', methods=('GET', 'POST'))

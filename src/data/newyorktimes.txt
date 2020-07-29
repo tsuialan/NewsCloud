@@ -31,12 +31,12 @@ The Editorial BoardFour of the World’s Wealthiest Men Are Preparing for BattleMe
 Jennifer WeinerTrump Is Dog-Whistling. Are ‘Suburban Housewives’ Listening?Or are they too busy organizing protests, posting links to bail funds and discussing antidotes for tear gas? 	https://www.nytimes.com/2020/07/28/opinion/trump-white-women.html
 Thomas L. FriedmanIf Our Masks Could Speak 	https://www.nytimes.com/2020/07/28/opinion/coronavirus-masks.html
 Michael ChertoffThe Hijacking of Homeland Security 	https://www.nytimes.com/2020/07/28/opinion/homeland-security-portland-trump.html
+Amy Kapczynski, Paul Biddinger and Rochelle WalenskyRemdesivir Could Be in Short Supply. Here’s a Fix. 	https://www.nytimes.com/2020/07/28/opinion/remdesivir-shortage-coronavirus.html
 Noemie NakaiHave You Considered the Benefits of Crying? 	https://www.nytimes.com/2020/07/28/opinion/tears-teacher-crying-japan.html
 Emily OsterWhat Will Schools Do When a Teacher Gets Covid-19? 	https://www.nytimes.com/2020/07/28/opinion/coronavirus-schools-reopening.html
 Kate ManneWomen Can Have a Little Power, as a Treat 	https://www.nytimes.com/2020/07/28/opinion/biden-vice-president-woman.html
 Aaron E. CarrollWe Made a Mistake With Masks. Now It Could Be Tests. 	https://www.nytimes.com/2020/07/28/opinion/coronavirus-testing-antigen-pooling.html
 Spencer Bokat-LindellWhat Would a Cold War With China Look Like? 	https://www.nytimes.com/2020/07/28/opinion/trump-china.html
-Paul KrugmanThe Cult of Selfishness Is Killing America 	https://www.nytimes.com/2020/07/27/opinion/us-republicans-coronavirus.html
 Jessica GoudeauRefugee Resettlement Is Close to Collapse. That Was Trump’s Plan. 	https://www.nytimes.com/2020/07/28/opinion/us-refugee-resettlement-trump.html
 Fathers, Sons and Soccer: Reflections on the Family BusinessErling Haaland, Gio Reyna, Marcus Thuram and their famous fathers discuss lineage, legacy and the weight of carrying a famous name on your jersey. 	https://www.nytimes.com/2020/07/28/sports/soccer/erling-haaland-gio-reyna-thuram.html
 What Does It Mean to ‘Look Like a Mom’?The Wall of Moms movement spreading across the country has raised the question. 	https://www.nytimes.com/2020/07/28/style/wall-of-moms-image.html
@@ -45,17 +45,17 @@ Let us know what you think 	http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l
 © 2020 The New York Times Company 	https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
 
 the : 50
-a : 30
-of : 19
-and : 18
+a : 31
+and : 19
+of : 18
 to : 16
 for : 16
-in : 14
+in : 15
 new : 13
 on : 9
-is : 8
 times : 8
 that : 7
+is : 7
 york : 7
 are : 6
 about : 6
@@ -73,8 +73,11 @@ with : 4
 william : 4
 as : 4
 have : 4
+heres : 4
 press : 4
 it : 4
+could : 4
+be : 4
 you : 3
 at : 3
 over : 3
@@ -90,11 +93,8 @@ claims : 3
 they : 3
 their : 3
 will : 3
-heres : 3
 — : 3
 biden : 3
-could : 3
-be : 3
 emmy : 3
 television : 3
 our : 3
@@ -487,6 +487,15 @@ chertoffthe : 1
 hijacking : 1
 homeland : 1
 security : 1
+amy : 1
+kapczynski : 1
+paul : 1
+biddinger : 1
+rochelle : 1
+walenskyremdesivir : 1
+short : 1
+supply : 1
+fix : 1
 noemie : 1
 nakaihave : 1
 considered : 1
@@ -514,12 +523,6 @@ bokat-lindellwhat : 1
 cold : 1
 war : 1
 china : 1
-paul : 1
-krugmanthe : 1
-cult : 1
-selfishness : 1
-killing : 1
-america : 1
 jessica : 1
 goudeaurefugee : 1
 resettlement : 1

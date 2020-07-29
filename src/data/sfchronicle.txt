@@ -2,13 +2,13 @@ Portals of the Past 	http://www.sfchronicle.com/local/portalsofthepast/
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 SF schools plan: Weeks — or months — of distance learning 	https://www.sfchronicle.com/education/article/The-SF-schools-plan-Weeks-or-more-likely-15440953.php
 Coronavirus live updates: Record number of patients... 	https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php
-Court: Pet owners may sue producers of prescription pet foods over price... 	https://www.sfchronicle.com/news/article/Court-rules-pet-owners-may-sue-producers-of-15441144.php
+Genentech to cut 474 Bay Area jobs 	https://www.sfchronicle.com/business/article/Genentech-to-cut-474-Bay-Area-jobs-15441204.php
 SF set to pass tax measure to save Caltrain, San Mateo vows to reject 	https://www.sfchronicle.com/bayarea/article/San-Francisco-is-set-to-pass-a-sales-tax-measure-15441008.php
+SF tax on companies with highly paid CEO’s goes to November ballot 	https://www.sfchronicle.com/bayarea/article/SF-tax-on-companies-with-highly-compensated-15441165.php
+Court: Pet owners may sue makers of pet foods over price inflation 	https://www.sfchronicle.com/news/article/Court-rules-pet-owners-may-sue-producers-of-15441144.php
 That email asking you to check your voter information? It’s legit 	https://www.sfchronicle.com/politics/article/That-email-asking-you-to-check-your-California-15440864.php
-Warriors get OK for Chase Center hotel, condo, retail complex 	https://www.sfchronicle.com/business/article/Warriors-get-OK-for-Chase-Center-hotel-condo-15440802.php
 Devastated by virus, the Market in SF’s Twitter building still expanding 	https://www.sfchronicle.com/business/article/The-coronavirus-devastated-the-Market-in-SF-s-15440766.php
 UCSF to offer free coronavirus testing at Mission BART station 	https://www.sfchronicle.com/bayarea/article/UCSF-to-offer-free-coronavirus-testing-at-Mission-15440473.php
-Former SF firefighter, engineer sue city for racial discrimination 	https://www.sfchronicle.com/bayarea/article/Former-San-Francisco-firefighter-engineer-sue-15440531.php
 Coronavirus cases across the Bay Area top 50,000 	https://www.sfchronicle.com/bayarea/article/Bay-Area-coronavirus-cases-poised-to-top-50-000-15440780.php
 The seemingly endless summer of coronavirus restrictions continued Tuesday as the Bay Area topped 50,000 cases, an ignominous milestone in a year already loaded with misfortune. 	https://www.sfchronicle.com/bayarea/article/Bay-Area-coronavirus-cases-poised-to-top-50-000-15440780.php
 Coronavirus rules: How each Bay Area county enforces health orders 	https://www.sfchronicle.com/bayarea/article/Cost-of-ignoring-coronavirus-rules-is-rising-How-15441092.php
@@ -50,12 +50,12 @@ What to do if symptoms show up 	https://www.sfchronicle.com/bayarea/article/Coro
 Updates on transit and parking 	https://www.sfchronicle.com/bayarea/article/Bay-Area-coronavirus-shutdown-What-you-need-to-15135704.php
 When will California have ‘herd immunity’? 	https://www.sfchronicle.com/science/article/Coronavirus-FAQ-Is-it-possible-to-be-reinfected-15154426.php
 Regional database for job cuts by company and city 	https://projects.sfchronicle.com/2020/layoff-tracker/
+Giants’ Kapler uses Marlins outbreak to have team ‘tighten’ protocols 	https://www.sfchronicle.com/giants/article/Giants-Kapler-uses-Marlins-outbreak-to-have-15441188.php
+San Francisco Giants manager Gabe Kapler views the Miami Marlins coronavirus epidemic as a teaching moment and said Tuesday he planned to hold a meeting before the home opener to reinforce and... 	https://www.sfchronicle.com/giants/article/Giants-Kapler-uses-Marlins-outbreak-to-have-15441188.php
 With baseball no help at all, the NBA prepares its restart 	https://www.sfchronicle.com/sports/jenkins/article/With-baseball-no-help-at-all-the-NBA-prepares-15440574.php
-The NBA’s restarted season is scheduled to open Thursday. If the league hoped to gain any encouragement from baseball’s attempt to play, it’s not happening. 	https://www.sfchronicle.com/sports/jenkins/article/With-baseball-no-help-at-all-the-NBA-prepares-15440574.php
 Coronavirus makes clear it’s past time for baseball to pull the plug 	https://www.sfchronicle.com/sports/annkillion/article/Coronavirus-makes-clear-it-s-past-time-for-the-15437765.php
 Giants’ Jeff Samardzija set for ‘traditional start’ in home opener 	https://www.sfchronicle.com/giants/article/Giants-Jeff-Samardzija-set-for-traditional-15440175.php
 Giants planning — hoping — for 2020 home opener 	https://www.sfchronicle.com/giants/article/Giants-planning-hoping-for-2020-home-15437549.php
-49ers GM John Lynch indicates his extension is imminent 	https://www.sfchronicle.com/49ers/article/49ers-John-Lynch-indicates-his-extension-is-15439766.php
 Klamath water arrives, saving 50,000 ducklings from certain death 	https://www.sfchronicle.com/bayarea/article/Klamath-water-arrives-saving-50-000-ducklings-15428989.php
 More than 50,000 ducklings were saved from certain deaths this week after an emergency delivery of water to the Klamath Basin National Wildlife Refuge. 	https://www.sfchronicle.com/bayarea/article/Klamath-water-arrives-saving-50-000-ducklings-15428989.php
 How to take advantage of national parks during pandemic 	https://www.sfchronicle.com/outdoors/stienstra/article/How-to-take-advantage-of-national-parks-in-15413117.php
@@ -114,12 +114,12 @@ Dems winning money wars in several CA congressional races 	https://www.sfchronic
 Activists defend Buttar against sex harassment accusations 	https://www.sfchronicle.com/politics/article/Longtime-activists-defend-Pelosi-foe-Shahid-15432809.php
 California will be on the ballot, too, if Kamala Harris or... 	https://www.sfchronicle.com/politics/article/California-will-be-on-the-ballot-too-if-Kamala-15438388.php
 Joe Biden has said he’ll pick a running mate as early as Saturday, and two Californians — Sen. Kamala Harris and Rep. Karen Bass — are on... 	https://www.sfchronicle.com/politics/article/California-will-be-on-the-ballot-too-if-Kamala-15438388.php
+Warriors get OK for Chase Center hotel, condo, retail complex 	https://www.sfchronicle.com/business/article/Warriors-get-OK-for-Chase-Center-hotel-condo-15440802.php
+The Golden State Warriors won final approval from San Francisco’s Board of Supervisors on Tuesday to build a 129-room hotel with condos and retail space next to their Chase Center arena in... 	https://www.sfchronicle.com/business/article/Warriors-get-OK-for-Chase-Center-hotel-condo-15440802.php
 Google extends work-from-home through June 2021 as virus cases surge 	https://www.sfchronicle.com/business/article/Google-extends-work-from-home-through-June-2021-15436649.php
-Google will allow most employees to work from home through June 2021 as coronavirus infections surge, keeping one of biggest workforces in tech and the Bay Area away from the office. 	https://www.sfchronicle.com/business/article/Google-extends-work-from-home-through-June-2021-15436649.php
 Bay Area company starts making coronavirus proteins 	https://www.sfchronicle.com/business/article/This-Bay-Area-company-thought-it-might-not-15434078.php
 Keeping unemployment, health coverage in California: questions answered 	https://www.sfchronicle.com/business/networth/article/Keeping-unemployment-health-coverage-in-15432748.php
 Cruise robot cars deliver food to needy. Is it a pretext to resume testing? 	https://www.sfchronicle.com/business/article/Cruise-robot-cars-deliver-food-to-needy-Are-they-15433157.php
-Businesses in SF’s Transbay center stat closed as Ferry Building reopens 	https://www.sfchronicle.com/business/article/Businesses-in-SF-s-Transbay-center-remain-15432850.php
 Eviction ban: What renters and landlords need to know 	https://www.sfchronicle.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
 With many Californians facing economic distress because of the coronavirus, state officials have taken steps to block evictions and protect renters. 	https://www.sfchronicle.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
 Interactive Database: Bay Area Layoff Tracker 	https://projects.sfchronicle.com/2020/layoff-tracker/
@@ -178,52 +178,52 @@ Willie Brown: We’re creating separate and very unequal... 	https://www.sfchronic
 Well-off parents are forming “pandemic pods” that amount to exclusive one-room schoolhouses for their kids. No such luck for poorer children,... 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-We-re-creating-separate-and-very-15432333.php
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 
-the : 98
-to : 61
-a : 48
-for : 45
+the : 97
+to : 64
+a : 51
+for : 44
 of : 41
-and : 38
-in : 37
+and : 40
+in : 36
 bay : 25
 coronavirus : 23
 area : 23
-on : 21
+on : 23
 how : 18
 sf : 16
+with : 14
 california : 14
 that : 13
-from : 13
-with : 12
-will : 12
-is : 12
 — : 11
-its : 11
-as : 10
+san : 11
+will : 11
+from : 11
+its : 10
 are : 10
-san : 9
+is : 10
+as : 9
 get : 9
-city : 8
 it : 8
-not : 7
+have : 8
 at : 7
 an : 7
 i : 7
 pandemic : 7
+francisco : 7
+city : 7
 restaurants : 7
 national : 7
-have : 7
+not : 6
+cut : 6
 you : 6
 by : 6
 50000 : 6
 county : 6
 covid-19 : 6
 should : 6
-francisco : 6
 after : 6
 week : 6
 be : 6
-if : 6
 new : 6
 when : 6
 no : 6
@@ -232,26 +232,26 @@ do : 5
 my : 5
 may : 5
 your : 5
-sfs : 5
 testing : 5
 cases : 5
 college : 5
 what : 5
 want : 5
-cut : 5
 unemployment : 5
 heres : 5
+if : 5
 time : 5
-open : 5
 reopening : 5
 baseball : 5
 black : 5
 or : 4
-firefighter : 4
-racial : 4
+sfs : 4
+tuesday : 4
 each : 4
 health : 4
 like : 4
+their : 4
+said : 4
 only : 4
 republicans : 4
 would : 4
@@ -260,14 +260,13 @@ during : 4
 they : 4
 rules : 4
 them : 4
-one : 4
-most : 4
 see : 4
+open : 4
 down : 4
 latest : 4
 up : 4
 can : 4
-his : 4
+giants : 4
 ducklings : 4
 certain : 4
 were : 4
@@ -277,30 +276,29 @@ food : 4
 lives : 4
 matter : 4
 cant : 4
-sue : 3
+ballot : 3
 virus : 3
 still : 3
-former : 3
-engineer : 3
-discrimination : 3
 across : 3
 top : 3
 outdoor : 3
 map: : 3
 students : 3
 life : 3
-their : 3
 fire : 3
 central : 3
+firefighter : 3
 major : 3
 out : 3
 several : 3
-said : 3
 per : 3
 kamala : 3
 harris : 3
+state : 3
 wedding : 3
 order : 3
+one : 3
+most : 3
 now : 3
 positive : 3
 dont : 3
@@ -315,8 +313,8 @@ been : 3
 face : 3
 test : 3
 where : 3
-any : 3
 home : 3
+opener : 3
 klamath : 3
 water : 3
 this : 3
@@ -326,9 +324,9 @@ because : 3
 other : 3
 veggie : 3
 burgers : 3
+racial : 3
 here : 3
-june : 3
-surge : 3
+his : 3
 californians : 3
 we : 3
 why : 3
@@ -339,19 +337,18 @@ works : 3
 romney : 3
 sell : 2
 info : 2
-pet : 2
-producers : 2
-over : 2
 set : 2
+tax : 2
 mateo : 2
-center : 2
-building : 2
+november : 2
+pet : 2
+sue : 2
+over : 2
 offer : 2
 free : 2
 station : 2
 summer : 2
 restrictions : 2
-tuesday : 2
 rules: : 2
 mask : 2
 find : 2
@@ -370,7 +367,6 @@ around : 2
 authorities : 2
 suffer : 2
 aid : 2
-work : 2
 senate : 2
 expired : 2
 $600 : 2
@@ -382,13 +378,11 @@ october : 2
 then : 2
 tie : 2
 persons : 2
-ballot : 2
 too : 2
 karen : 2
 bass : 2
 pick : 2
 mean : 2
-state : 2
 all : 2
 didnt : 2
 catholic : 2
@@ -399,6 +393,7 @@ require : 2
 referral : 2
 changes : 2
 reopen : 2
+protocols : 2
 downtown : 2
 valley : 2
 districts : 2
@@ -407,14 +402,15 @@ use : 2
 job : 2
 cuts : 2
 company : 2
+kapler : 2
+marlins : 2
+outbreak : 2
+team : 2
+he : 2
+before : 2
 help : 2
-season : 2
-league : 2
-baseballs : 2
 makes : 2
 clear : 2
-giants : 2
-opener : 2
 arrives : 2
 saving : 2
 more : 2
@@ -439,18 +435,20 @@ wines : 2
 wine : 2
 us : 2
 restaurant : 2
+space : 2
 closes : 2
 comforting : 2
 leveled-up : 2
 dining : 2
 black-owned : 2
-businesses : 2
 right : 2
+former : 2
+engineer : 2
+discrimination : 2
 against : 2
 harassment : 2
 while : 2
 faces : 2
-away : 2
 police : 2
 protest : 2
 about : 2
@@ -462,6 +460,7 @@ iron : 2
 who : 2
 era : 2
 month: : 2
+june : 2
 martinez : 2
 blm : 2
 mural : 2
@@ -477,10 +476,13 @@ bernie : 2
 sanders : 2
 rep : 2
 sen : 2
-google : 2
-through : 2
-2021 : 2
-keeping : 2
+surge : 2
+warriors : 2
+chase : 2
+center : 2
+hotel : 2
+retail : 2
+build : 2
 renters : 2
 steps : 2
 interactive : 2
@@ -495,6 +497,7 @@ emmy : 2
 permanently : 2
 maid : 2
 sker : 2
+any : 2
 scarier : 2
 nominations : 2
 artists : 2
@@ -525,34 +528,36 @@ updates: : 1
 record : 1
 number : 1
 patients : 1
-court: : 1
-owners : 1
-prescription : 1
-foods : 1
-price : 1
+genentech : 1
+474 : 1
+jobs : 1
 pass : 1
-tax : 1
 measure : 1
 save : 1
 caltrain : 1
 vows : 1
 reject : 1
+companies : 1
+highly : 1
+paid : 1
+ceos : 1
+goes : 1
+court: : 1
+owners : 1
+makers : 1
+foods : 1
+price : 1
+inflation : 1
 email : 1
 asking : 1
 check : 1
 voter : 1
 information : 1
 legit : 1
-warriors : 1
-ok : 1
-chase : 1
-hotel : 1
-condo : 1
-retail : 1
-complex : 1
 devastated : 1
 market : 1
 twitter : 1
+building : 1
 expanding : 1
 ucsf : 1
 mission : 1
@@ -614,6 +619,7 @@ stations : 1
 nigerian : 1
 spot : 1
 setback : 1
+work : 1
 wages : 1
 bidens : 1
 vp : 1
@@ -655,7 +661,6 @@ archdiocese : 1
 shut : 1
 ravages : 1
 body : 1
-protocols : 1
 micro-hood : 1
 vision : 1
 stays : 1
@@ -695,19 +700,22 @@ herd : 1
 immunity : 1
 regional : 1
 database : 1
+uses : 1
+tighten : 1
+manager : 1
+gabe : 1
+views : 1
+miami : 1
+epidemic : 1
+teaching : 1
+moment : 1
+planned : 1
+hold : 1
+meeting : 1
+reinforce : 1
 nba : 1
 prepares : 1
 restart : 1
-nbas : 1
-restarted : 1
-scheduled : 1
-thursday : 1
-hoped : 1
-gain : 1
-encouragement : 1
-attempt : 1
-play : 1
-happening : 1
 pull : 1
 plug : 1
 jeff : 1
@@ -717,13 +725,6 @@ start : 1
 planning : 1
 hoping : 1
 2020 : 1
-49ers : 1
-gm : 1
-john : 1
-lynch : 1
-indicates : 1
-extension : 1
-imminent : 1
 basin : 1
 wildlife : 1
 take : 1
@@ -738,6 +739,7 @@ car : 1
 10 : 1
 beaches : 1
 visit : 1
+baseballs : 1
 long-anticipated : 1
 opening : 1
 left : 1
@@ -748,7 +750,9 @@ remain : 1
 optimistic : 1
 disturbing : 1
 unfolded : 1
+league : 1
 four-day : 1
+season : 1
 lovely : 1
 distracting : 1
 oh : 1
@@ -764,7 +768,6 @@ u : 1
 “last : 1
 u” : 1
 football : 1
-team : 1
 featured : 1
 netflix : 1
 series : 1
@@ -786,6 +789,7 @@ $20 : 1
 bottle : 1
 bonus: : 1
 hes : 1
+producers : 1
 italian : 1
 fish-roe : 1
 delicacy : 1
@@ -796,7 +800,6 @@ dance : 1
 cafe : 1
 finally : 1
 nabs : 1
-space : 1
 napas : 1
 foley-johnson : 1
 winery : 1
@@ -811,6 +814,7 @@ lifeline : 1
 searchable : 1
 crowd-sourced : 1
 directory : 1
+businesses : 1
 interactive: : 1
 following : 1
 152 : 1
@@ -836,6 +840,7 @@ broad : 1
 outline : 1
 redirecting : 1
 funds : 1
+away : 1
 department : 1
 calls : 1
 union : 1
@@ -855,7 +860,6 @@ constantly : 1
 changing : 1
 vary : 1
 depending : 1
-before : 1
 seeing : 1
 friends : 1
 family : 1
@@ -961,18 +965,29 @@ hell : 1
 running : 1
 mate : 1
 saturday : 1
+ok : 1
+condo : 1
+complex : 1
+golden : 1
+won : 1
+final : 1
+approval : 1
+franciscos : 1
+board : 1
+supervisors : 1
+129-room : 1
+condos : 1
+next : 1
+arena : 1
+google : 1
 extends : 1
 work-from-home : 1
-allow : 1
-employees : 1
-infections : 1
-biggest : 1
-workforces : 1
-tech : 1
-office : 1
+through : 1
+2021 : 1
 starts : 1
 making : 1
 proteins : 1
+keeping : 1
 coverage : 1
 california: : 1
 questions : 1
@@ -984,11 +999,6 @@ deliver : 1
 needy : 1
 pretext : 1
 resume : 1
-transbay : 1
-stat : 1
-closed : 1
-ferry : 1
-reopens : 1
 eviction : 1
 ban: : 1
 landlords : 1
@@ -1129,7 +1139,6 @@ painting : 1
 might : 1
 change : 1
 opportunity : 1
-build : 1
 13 : 1
 becoming : 1
 car-free : 1
@@ -1141,7 +1150,6 @@ inspired : 1
 fathers : 1
 battle : 1
 17 : 1
-he : 1
 watched : 1
 father : 1
 bitter : 1
@@ -1211,11 +1219,9 @@ allies : 1
 equality : 1
 big-league : 1
 mess : 1
-outbreak : 1
 loads : 1
 language : 1
 2 : 1
-november : 1
 measures : 1
 comes : 1
 issues : 1
