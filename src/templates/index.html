@@ -40,11 +40,11 @@
         <form class="form-inline my-2 my-lg-0" method="post">
             <select class="form-control mr-sm-2" name="news" id="news">
                 {% for news in all_news %}
-                {% if news.0==paper %}
-                <option value="{{news.1}}" selected>{{news.0}}</option>
-                {% else %}
-                <option value="{{news.1}}">{{news.0}}</option>
-                {% endif %}
+                    {% if news.0==paper %}
+                        <option value="{{news.1}}" selected>{{news.0}}</option>
+                    {% else %}
+                        <option value="{{news.1}}">{{news.0}}</option>
+                    {% endif %}
                 {% endfor %}
             </select>
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Generate</button>
@@ -78,7 +78,6 @@
                 //$.post('/headlines', {"word": e.point.get("x")})
                 var url = '/word?paper=' + '{{paper}}' + '&word=' + e.point.get("x");
                 window.open(url, "_self")
-                console.log(e.point.get("x"))
             });
 
         });
