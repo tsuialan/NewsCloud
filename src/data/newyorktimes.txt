@@ -6,7 +6,7 @@ Attorney General William P. Barr testified before Congress on Tuesday for the fi
 From the Start, Federal Agents Demanded a Role in Suppressing ProtestsGovernment memos show how a gung-ho federal law enforcement response may have been driven by a shaky understanding of the demonstrations’ roots. 	https://www.nytimes.com/2020/07/28/us/federal-agents-portland-seattle-protests.html
 We fact-checked the attorney general’s claims about Portland protesters targeting federal officers. 	https://www.nytimes.com/2020/07/28/us/portland-protests-fact-check.html
 Attorney General William P. Barr testified before Congress on Tuesday for the first time in over a year. Pool photo by Chip Somodevilla 	https://www.nytimes.com/2020/07/28/us/politics/barr-testimony.html
-Trump Falsely Claims That Much of U.S. Is ‘Corona Free’President Trump made claims about the trajectory of the virus that clash with his own administration’s assessments and again defended a discredited drug.Federal officials distributed a new report which found that 21 states had outbreaks so severe that they were in the “red zone.”The Miami Marlins now have 17 cases within their traveling party and will stop playing games until at least Monday. Here’s the latest. 	https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html
+Trump Falsely Claims That Much of U.S. Is ‘Corona Free’President Trump made claims about the trajectory of the virus that clash with his own administration’s assessments and again defended a discredited drug.Federal officials distributed a new report which found that 21 states had outbreaks so severe that they were in the “red zone.”Pilgrims to Mecca are finding a reconfigured hajj. Here’s the latest. 	https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html
 How New Cases Are Changing by Day 	https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
 See all new cases around the world 	https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
 São Paulo, Brazil Victor Moriyama for The New York Times Houston Go Nakamura/Getty Images New Orleans William Widmer for The New York Times Beijing Andy Wong/Associated Press Ostend, Belgium Francois Lenoir/Reuters Machakos, Kenya Simon Maina/AFP — Getty Images Lampedusa, Italy Alberto Pizzoli/AFP — Getty Images Mecca, Saudi Arabia Saudi Ministry of Media, via Reuters St. Petersburg, Fla. Eve Edelheit for The New York Times Hong Kong Anthony Wallace/AFP — Getty Images Santiago, Chile Ivan Alvarado/Reuters 	https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html
@@ -42,15 +42,15 @@ Let us know what you think 	http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l
 © 2020 The New York Times Company 	https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
 
 the : 44
-a : 26
-and : 20
+a : 27
 of : 19
+and : 19
+to : 14
 in : 14
 for : 14
-to : 13
 new : 9
+are : 8
 on : 8
-are : 7
 is : 7
 — : 7
 about : 6
@@ -58,13 +58,13 @@ by : 6
 what : 5
 barr : 5
 federal : 5
-cases : 5
 that : 5
 us : 5
 times : 5
 tuesday : 4
 with : 4
 william : 4
+cases : 4
 as : 4
 york : 4
 images : 4
@@ -72,7 +72,6 @@ it : 4
 could : 4
 be : 4
 you : 3
-at : 3
 over : 3
 protests : 3
 general : 3
@@ -81,11 +80,8 @@ attorney : 3
 congress : 3
 first : 3
 how : 3
-have : 3
 claims : 3
 they : 3
-their : 3
-will : 3
 getty : 3
 this : 3
 earned : 3
@@ -97,6 +93,7 @@ look : 3
 like : 3
 your : 2
 know : 2
+at : 2
 day : 2
 “the : 2
 king : 2
@@ -116,14 +113,14 @@ somodevilla : 2
 from : 2
 role : 2
 show : 2
+have : 2
 been : 2
 we : 2
 trump : 2
 made : 2
 virus : 2
 had : 2
-now : 2
-within : 2
+mecca : 2
 heres : 2
 see : 2
 saudi : 2
@@ -144,9 +141,11 @@ tests : 2
 hbos : 2
 most : 2
 nominations : 2
+their : 2
 or : 2
 critics : 2
 would : 2
+will : 2
 masks : 2
 do : 2
 fathers : 2
@@ -234,18 +233,10 @@ so : 1
 severe : 1
 were : 1
 “red : 1
-zone”the : 1
-miami : 1
-marlins : 1
-17 : 1
-traveling : 1
-party : 1
-stop : 1
-playing : 1
-games : 1
-until : 1
-least : 1
-monday : 1
+zone”pilgrims : 1
+finding : 1
+reconfigured : 1
+hajj : 1
 latest : 1
 changing : 1
 all : 1
@@ -277,7 +268,6 @@ lampedusa : 1
 italy : 1
 alberto : 1
 pizzoli/afp : 1
-mecca : 1
 arabia : 1
 ministry : 1
 via : 1
@@ -303,6 +293,7 @@ onlinesocial : 1
 companies : 1
 took : 1
 down : 1
+within : 1
 hours : 1
 but : 1
 then : 1
@@ -484,6 +475,7 @@ aaron : 1
 e : 1
 carrollwe : 1
 mistake : 1
+now : 1
 spencer : 1
 bokat-lindellwhat : 1
 cold : 1

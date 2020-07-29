@@ -6,7 +6,7 @@
 from bs4 import BeautifulSoup
 import requests
 from urllib.parse import urlparse, urlsplit, urljoin
-import json, sys
+import json, sys, copy
 
 """ OBJECT DIAGRAM
 
@@ -128,9 +128,10 @@ class News:
                 self.addKeyword(k)
             # else
             else:
-                wordbank[word] = wordbank.get(word) + 1
                 # increase frequency of word by one
                 k = self.findKeyword(word)
+                k.setFrequency(k.freq + 1)
+                wordbank[word] = wordbank.get(word) + 1
                 # ignonre duplicates in hl
                 dup = False
                 for h in k.headlines:
@@ -138,7 +139,6 @@ class News:
                         dup = True
                 if (dup):
                     continue
-                k.setFrequency(k.freq + 1)
                 H = Headline(hl, url)
                 k.addHeadline(H)
 
@@ -276,7 +276,8 @@ def allnews(newslist):
                     break
             if (check):
                 continue
-            allnews.keywords.append(kw)
+            nkw = copy.deepcopy(kw)
+            allnews.keywords.append(nkw)
         for hl in news.headlines:
             check = False
             for ahl in allnews.headlines:
@@ -285,7 +286,8 @@ def allnews(newslist):
                     break
             if (check):
                 continue
-            allnews.headlines.append(hl)
+            nhl = copy.deepcopy(hl)
+            allnews.headlines.append(nhl)
         for key, value in news.wordbank.items():
             if key not in allnews.wordbank:
                 allnews.wordbank[key] = value
@@ -293,6 +295,7 @@ def allnews(newslist):
                 allnews.wordbank[key] += value
     sys.setrecursionlimit(10000)
     allnews.sortKeywords()
+    allnews.sortDictionary('./data/all.txt')
     return allnews
 
 """ WEBSCRAPING FUNCTIONS """
@@ -426,8 +429,7 @@ def main():
     newslist.append(nyp)
 
     print("[*] Combining All ...")
-    temp = newslist
-    a = allnews(temp)
+    a = allnews(newslist)
     newslist.append(a)
 
     print("[*] DONE")

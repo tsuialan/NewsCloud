@@ -5,12 +5,12 @@ Manhattan protester busted by NYPD, loaded into unmarked minivan 	https://nypost
 Manhattan protester busted by NYPD, loaded into unmarked minivan 	https://nypost.com/2020/07/28/manhattan-protester-busted-by-nypd-loaded-into-unmarked-minivan/
 Influencer Arielle Charnas snagged up to $350K in April PPP loan 	https://pagesix.com/2020/07/28/influencer-arielle-charnas-snagged-up-to-350k-in-ppp-loan/
 Influencer Arielle Charnas snagged up to $350K in April PPP loan 	https://pagesix.com/2020/07/28/influencer-arielle-charnas-snagged-up-to-350k-in-ppp-loan/
-Mets rookie puts on a show in debut 	https://nypost.com/2020/07/28/mets-roll-as-rookie-david-peterson-shuts-down-red-sox/
-Mets rookie puts on a show in debut 	https://nypost.com/2020/07/28/mets-roll-as-rookie-david-peterson-shuts-down-red-sox/
 NYC woman killed by shark in Maine 'just started screaming': neighbor 	https://nypost.com/2020/07/28/nyc-woman-killed-by-shark-in-maine-just-started-screaming/
 NYC woman killed by shark in Maine 'just started screaming': neighbor 	https://nypost.com/2020/07/28/nyc-woman-killed-by-shark-in-maine-just-started-screaming/
 Harvard researchers figure out why coronavirus causes loss of smell 	https://nypost.com/2020/07/28/harvard-researchers-discover-why-covd-19-causes-loss-of-smell/
 Harvard researchers figure out why coronavirus causes loss of smell 	https://nypost.com/2020/07/28/harvard-researchers-discover-why-covd-19-causes-loss-of-smell/
+MLB blaming 'one' team for coronavirus fiasco 	https://nypost.com/2020/07/28/mlb-blames-marlins-adjusts-schedule-in-coronavirus-aftershock/
+MLB blaming 'one' team for coronavirus fiasco 	https://nypost.com/2020/07/28/mlb-blames-marlins-adjusts-schedule-in-coronavirus-aftershock/
 Michael Goodwin Barr destroys Nadler in another House Dem testimony disaster: Goodwin 	https://nypost.com/2020/07/28/barr-destroys-nadler-in-another-house-democrat-testimony-disaster-goodwin/
 Barr destroys Nadler in another House Dem testimony disaster: Goodwin 	https://nypost.com/2020/07/28/barr-destroys-nadler-in-another-house-democrat-testimony-disaster-goodwin/
 Wild video shows the moment two pedestrians are swallowed by giant sinkhole 	https://nypost.com/2020/07/28/video-shows-moment-two-people-are-swallowed-by-sidewalk-in-china/
@@ -192,29 +192,30 @@ Letters to the Editor 	https://nypost.com/contact/
 Your California Privacy Rights 	https://nypost.com/ca-privacy-rights/
 
 to : 39
-in : 39
+in : 37
+for : 25
 and : 25
-for : 23
 new : 22
-a : 21
 of : 21
+a : 19
 have : 16
 the : 16
 is : 16
-on : 15
 video : 14
+on : 13
 more : 12
 says : 12
 by : 11
 into : 10
-show : 10
 nyc : 10
 with : 10
 will : 10
+one : 9
 another : 9
 house : 9
 may : 8
 up : 8
+coronavirus : 8
 shows : 8
 two : 8
 this : 8
@@ -223,15 +224,13 @@ during : 8
 be : 8
 as : 8
 her : 8
-mets : 7
-debut : 7
+show : 8
 goodwin : 7
 are : 7
-one : 7
 masks : 7
 now : 7
 kardashian : 6
-coronavirus : 6
+team : 6
 length : 6
 seconds : 6
 star : 6
@@ -255,6 +254,8 @@ nadler : 5
 dem : 5
 testimony : 5
 disaster: : 5
+mets : 5
+debut : 5
 nycs : 5
 kim : 4
 fears : 4
@@ -271,9 +272,10 @@ $350k : 4
 april : 4
 ppp : 4
 loan : 4
-rookie : 4
-puts : 4
 started : 4
+mlb : 4
+blaming : 4
+fiasco : 4
 giant : 4
 body : 4
 30 : 4
@@ -305,7 +307,6 @@ skirt : 4
 his : 4
 make : 4
 all : 4
-team : 4
 nearly : 4
 football : 4
 that : 4
@@ -536,12 +537,11 @@ yankees : 2
 powerful : 2
 statement : 2
 madness : 2
-mlb : 2
-blaming : 2
-fiasco : 2
 rangers : 2
 give : 2
 defenseman : 2
+rookie : 2
+puts : 2
 caused : 2
 $1m : 2
 damages : 2

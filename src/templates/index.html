@@ -33,24 +33,21 @@
 </head>
 
 <body>
-    <div class="fit">
-        {% include 'navbar.html' %}
-        <h1 style="font-size:30px; justify-content:center; text-align:center; z-index: 1;">NewsCloud | {{ paper }}</h1>
-        <form class="my-2 my-lg-0" method="post">
-            <select class="form-control mr-sm-2" name="news" id="news">
-                {% for news in all_news %}
-                    {% if news.0==paper %}
-                        <option value="{{news.1}}" selected>{{news.0}}</option>
-                    {% else %}
-                        <option value="{{news.1}}">{{news.0}}</option>
-                    {% endif %}
-                {% endfor %}
-            </select>
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Generate</button>
-        </form>
-        <div id="container"></div>
-
-    </div>
+    {% include 'navbar.html' %}
+    <h1 style="font-size:30px; justify-content:center; text-align:center; z-index: 1;">NewsCloud | {{ paper }}</h1>
+    <form class="my-2 my-lg-0" method="post">
+        <select class="form-control mr-sm-2" name="news" id="news">
+            {% for news in all_news %}
+                {% if news.0==paper %}
+                    <option value="{{news.1}}" selected>{{news.0}}</option>
+                {% else %}
+                    <option value="{{news.1}}">{{news.0}}</option>
+                {% endif %}
+            {% endfor %}
+        </select>
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Generate</button>
+    </form>
+    <div id="container"></div>
 
     <script>
         anychart.onDocumentReady(function() {
