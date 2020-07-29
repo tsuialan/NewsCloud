@@ -36,7 +36,6 @@
     <div class="fit">
         {% include 'navbar.html' %}
         <h1 style="font-size:30px; justify-content:center; text-align:center; z-index: 1;">NewsCloud | {{ paper }}</h1>
-        <div style="text-align:center;">
         <form class="my-2 my-lg-0" method="post">
             <select class="form-control mr-sm-2" name="news" id="news">
                 {% for news in all_news %}
@@ -49,7 +48,6 @@
             </select>
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Generate</button>
         </form>
-        </div>
         <div id="container"></div>
 
     </div>

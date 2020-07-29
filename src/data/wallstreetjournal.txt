@@ -15,9 +15,9 @@ House of the Day 	https://www.wsj.com/houseoftheday
 Kodak Shifts Into Drug Production With Help of $765 Million U.S. Loan 	https://www.wsj.com/articles/kodak-lands-765-million-u-s-loan-in-start-of-medical-supply-chain-fix-11595930400?mod=error_page
 How Face Masks Work and Which Ones Best Protect Against Covid-19 	https://www.wsj.com/articles/how-face-masks-work-and-which-types-offer-the-best-covid-19-protection-11595946178?mod=error_page
 Americans Receive Mystery Seeds in the Mail, Mostly From China 	https://www.wsj.com/articles/agriculture-department-states-investigate-foreign-seed-packages-11595901682?mod=error_page
-Why Some States Are Narrowing Access to Covid-19 Tests 	https://www.wsj.com/video/why-some-states-are-narrowing-access-to-covid-19-tests/7D590227-0D42-4381-8EF8-DBCC80C2410C.html?mod=error_page
-U.S. Shift in China Strategy: End ‘Blind Engagement’ 	https://www.wsj.com/video/us-shift-in-china-strategy-end-blind-engagement/563E148A-D30A-430D-8A5B-4BB5151F6584.html?mod=error_page
-What It Would Take to Reach Herd Immunity for the Coronavirus 	https://www.wsj.com/video/what-it-would-take-to-reach-herd-immunity-for-the-coronavirus/77E526F6-6F70-445A-95E8-3F7C32D32D0D.html?mod=error_page
+U.S. Fighter Jet Flies Close to Iranian Passenger Plane 	https://www.wsj.com/video/us-fighter-jet-flies-close-to-iranian-passenger-plane/9E38883A-7221-4AB3-A9BA-1AE7B2DEE9CE.html?mod=error_page
+Barr, House Democrats Clash Over Federal Response to Protests 	https://www.wsj.com/video/barr-house-democrats-clash-over-federal-response-to-protests/2476D7EE-7D39-40F7-93DE-556D758D48ED.html?mod=error_page
+The Rise and Fall of J.Crew 	https://www.wsj.com/video/the-rise-and-fall-of-jcrew/0ECC1D6A-BC75-4059-AB56-DB8555814166.html?mod=error_page
 Kodak Pivots to Drug Production, With Federal Loan Support 	https://www.wsj.com/podcasts/kodak-pivots-to-drug-production-with-federal-loan-support/FE7A4AEC-2673-4D3A-AD73-31131C8CE278.html?mod=error_page
 Stocks Pressured By Lower Corporate Earnings 	https://www.wsj.com/podcasts/stocks-pressured-by-lower-corporate-earnings/0FBFF3B6-068E-4062-A9B9-1C754801855F.html?mod=error_page
 Life-and-Death Choices in a Rural Texas County 	https://www.wsj.com/podcasts/life-and-death-choices-in-a-rural-texas-county/38A87AB8-BAB4-40A2-8F7B-2F15BCEAC506.html?mod=error_page
@@ -31,13 +31,12 @@ Subscriber Agreement & Terms of Use 	https://www.wsj.com/policy/subscriber-agree
 Dow Jones & Company 	https://www.dowjones.com
 
 the : 12
-of : 8
+of : 9
 street : 4
 & : 4
 to : 4
 future : 3
 everything : 3
-in : 3
 wall : 2
 journal : 2
 heard : 2
@@ -45,14 +44,16 @@ on : 2
 podcast : 2
 best : 2
 newsletter : 2
+house : 2
 kodak : 2
 drug : 2
 production : 2
 with : 2
 us : 2
 loan : 2
-covid-19 : 2
-china : 2
+and : 2
+in : 2
+federal : 2
 a : 2
 wsj : 2
 ads : 2
@@ -75,7 +76,6 @@ web : 1
 morning : 1
 editorial : 1
 report : 1
-house : 1
 day : 1
 shifts : 1
 into : 1
@@ -86,11 +86,11 @@ how : 1
 face : 1
 masks : 1
 work : 1
-and : 1
 which : 1
 ones : 1
 protect : 1
 against : 1
+covid-19 : 1
 americans : 1
 receive : 1
 mystery : 1
@@ -98,29 +98,24 @@ seeds : 1
 mail : 1
 mostly : 1
 from : 1
-why : 1
-some : 1
-states : 1
-are : 1
-narrowing : 1
-access : 1
-tests : 1
-shift : 1
-strategy: : 1
-end : 1
-blind : 1
-engagement : 1
-what : 1
-it : 1
-would : 1
-take : 1
-reach : 1
-herd : 1
-immunity : 1
-for : 1
-coronavirus : 1
+china : 1
+fighter : 1
+jet : 1
+flies : 1
+close : 1
+iranian : 1
+passenger : 1
+plane : 1
+barr : 1
+democrats : 1
+clash : 1
+over : 1
+response : 1
+protests : 1
+rise : 1
+fall : 1
+jcrew : 1
 pivots : 1
-federal : 1
 support : 1
 stocks : 1
 pressured : 1

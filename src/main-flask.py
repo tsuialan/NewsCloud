@@ -70,6 +70,9 @@ def headline():
     page = 'headline'
     news = ''
     papers = get_papers(newslist)
+    abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp']
+    all_info = zip(papers, abbrv)
+    print(all_info)
     if request.method == 'POST':
         select_news = request.form['news']
         if select_news == "nyt":
@@ -84,10 +87,10 @@ def headline():
             head_url = get_head_url(ns.nypscrape().headlines)
         else:
             head_url = zip(["Not a supported news site"], ['/'])
-        return render_template('headline.html', page=page, list=head_url, all_news=papers)
+        return render_template('headline.html', page=page, list=head_url, all_news=all_info)
     else:
         print("booted or really bad news")
-    return render_template('headline.html', page=page, list=[], url=[], all_news=papers)
+    return render_template('headline.html', page=page, list=[], url=[], all_news=all_info)
 
 
 @app.route('/word', methods=('GET', 'POST'))

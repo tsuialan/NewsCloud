@@ -11,14 +11,22 @@
 <body>
     {% include 'navbar.html' %}
     <h1>NewsCloud: </h1>
-    <form method="post">
-        <button type="submit" name="news" id="news" value="nyt" class="button"> New York Times </button>
-        <button type="submit" name="news" id="news" value="sfchron" class="button"> SF Chronicle </button>
+    <form class="my-2 my-lg-0" method="post">
+        <select class="form-control mr-sm-2" name="news" id="news">
+            {% for news in all_news %}
+                {% if news.0==paper %}
+                    <option value="{{news.1}}" selected>{{news.0}}</option>
+                {% else %}
+                    <option value="{{news.1}}">{{news.0}}</option>
+                {% endif %}
+            {% endfor %}
+        </select>
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Get Headlines</button>
     </form>
     {% for item in list %}
         <a href="{{item.1}}" target="_blank"> {{item.0}} </a>
         <br>
-        <br> 
+        <br>
     {% endfor %}
 
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
