@@ -80,18 +80,17 @@ def headline():
     if request.method == 'POST':
         select_news = request.form['news']
         if select_news == "nyt":
-            head_url = get_head_url(ns.nytscrape().headlines)
+            head_url = get_head_url(newslist[0].headlines)
         elif select_news == "sfchron":
-            head_url = get_head_url(ns.sfcscrape().headlines)
+            head_url = get_head_url(newslist[1].headlines)
         elif select_news == "usat":
-            head_url = get_head_url(ns.usatodayscrape().headlines)
+            head_url = get_head_url(newslist[2].headlines)
         elif select_news == "wsj":
-            head_url = get_head_url(ns.wsjscrape().headlines)
+            head_url = get_head_url(newslist[3].headlines)
         elif select_news == "nyp":
-            head_url = get_head_url(ns.nypscrape().headlines)
+            head_url = get_head_url(newslist[4].headlines)
         elif select_news == "all":
-            nl = ns.main()
-            head_url = get_head_url(nl[5].headlines)
+            head_url = get_head_url(newslist[5].headlines)
         else:
             head_url = zip(["Not a supported news site"], ['/'])
         return render_template('headline.html', page=page, list=head_url, all_news=all_info)

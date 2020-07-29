@@ -15,9 +15,9 @@ House of the Day 	https://www.wsj.com/houseoftheday
 Kodak Shifts Into Drug Production With Help of $765 Million U.S. Loan 	https://www.wsj.com/articles/kodak-lands-765-million-u-s-loan-in-start-of-medical-supply-chain-fix-11595930400?mod=error_page
 How Face Masks Work and Which Ones Best Protect Against Covid-19 	https://www.wsj.com/articles/how-face-masks-work-and-which-types-offer-the-best-covid-19-protection-11595946178?mod=error_page
 Americans Receive Mystery Seeds in the Mail, Mostly From China 	https://www.wsj.com/articles/agriculture-department-states-investigate-foreign-seed-packages-11595901682?mod=error_page
-Gold Hits New High as Investors Look to Hedge Against Uncertainty 	https://www.wsj.com/video/gold-hits-new-high-as-investors-look-to-hedge-against-uncertainty/CFA9F9A5-6348-4C18-9371-35195323A0F7.html?mod=error_page
-Protest Chaos Rocks Cities Across U.S. 	https://www.wsj.com/video/protest-chaos-rocks-cities-across-us/F8C72505-2E54-4B5B-BE1C-93C29EF5445A.html?mod=error_page
-The Rise and Fall of J.Crew 	https://www.wsj.com/video/the-rise-and-fall-of-jcrew/0ECC1D6A-BC75-4059-AB56-DB8555814166.html?mod=error_page
+What It Would Take to Reach Herd Immunity for the Coronavirus 	https://www.wsj.com/video/what-it-would-take-to-reach-herd-immunity-for-the-coronavirus/77E526F6-6F70-445A-95E8-3F7C32D32D0D.html?mod=error_page
+Scientists Work to Produce Covid-19 Treatments Under New Conditions 	https://www.wsj.com/video/scientists-work-to-produce-covid-19-treatments-under-new-conditions/BEE30B15-4A10-43A1-9156-6AA2B3B74EC7.html?mod=error_page
+Want to Know Where Covid-19 May Hit Next? Watch the Apple Store Closures 	https://www.wsj.com/video/want-to-know-where-covid-19-may-hit-next-watch-the-apple-store-closures/F0A81BC4-CCDD-4949-9291-D3B1D6B0C04B.html?mod=error_page
 Kodak Pivots to Drug Production, With Federal Loan Support 	https://www.wsj.com/podcasts/kodak-pivots-to-drug-production-with-federal-loan-support/FE7A4AEC-2673-4D3A-AD73-31131C8CE278.html?mod=error_page
 Stocks Pressured By Lower Corporate Earnings 	https://www.wsj.com/podcasts/stocks-pressured-by-lower-corporate-earnings/0FBFF3B6-068E-4062-A9B9-1C754801855F.html?mod=error_page
 Life-and-Death Choices in a Rural Texas County 	https://www.wsj.com/podcasts/life-and-death-choices-in-a-rural-texas-county/38A87AB8-BAB4-40A2-8F7B-2F15BCEAC506.html?mod=error_page
@@ -30,13 +30,14 @@ WSJ Pro Central Banking 	https://www.wsj.com/pro/centralbanking
 Subscriber Agreement & Terms of Use 	https://www.wsj.com/policy/subscriber-agreement
 Dow Jones & Company 	https://www.dowjones.com
 
-the : 12
-of : 9
+the : 13
+of : 8
+to : 5
 street : 4
 & : 4
 future : 3
 everything : 3
-to : 3
+covid-19 : 3
 wall : 2
 journal : 2
 heard : 2
@@ -48,12 +49,9 @@ kodak : 2
 drug : 2
 production : 2
 with : 2
-us : 2
 loan : 2
-and : 2
-against : 2
+work : 2
 in : 2
-high : 2
 a : 2
 wsj : 2
 ads : 2
@@ -83,14 +81,15 @@ into : 1
 help : 1
 $765 : 1
 million : 1
+us : 1
 how : 1
 face : 1
 masks : 1
-work : 1
+and : 1
 which : 1
 ones : 1
 protect : 1
-covid-19 : 1
+against : 1
 americans : 1
 receive : 1
 mystery : 1
@@ -99,22 +98,31 @@ mail : 1
 mostly : 1
 from : 1
 china : 1
-gold : 1
-hits : 1
+what : 1
+it : 1
+would : 1
+take : 1
+reach : 1
+herd : 1
+immunity : 1
+for : 1
+coronavirus : 1
+scientists : 1
+produce : 1
+treatments : 1
+under : 1
 new : 1
-as : 1
-investors : 1
-look : 1
-hedge : 1
-uncertainty : 1
-protest : 1
-chaos : 1
-rocks : 1
-cities : 1
-across : 1
-rise : 1
-fall : 1
-jcrew : 1
+conditions : 1
+want : 1
+know : 1
+where : 1
+may : 1
+hit : 1
+next : 1
+watch : 1
+apple : 1
+store : 1
+closures : 1
 pivots : 1
 federal : 1
 support : 1
@@ -129,6 +137,7 @@ choices : 1
 rural : 1
 texas : 1
 county : 1
+high : 1
 school : 1
 program : 1
 commercial : 1

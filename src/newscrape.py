@@ -264,6 +264,7 @@ def partition(arr, low, high):
     return index+1
 
 def allnews(newslist):
+    print("Starting All ...")
     allnews = News("All")
     for news in newslist:
         for kw in news.keywords:
