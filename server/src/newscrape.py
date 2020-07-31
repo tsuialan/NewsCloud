@@ -60,8 +60,8 @@ class News:
     # webscraping function
     def webscrape(self, bs_data, paperUrl):
         # writes headlines into local txt file
-        tfile = "./data/" + self.paper.replace(" ", "").lower() + ".txt"
-        f = open(tfile, "w+")
+        #tfile = "./data/" + self.paper.replace(" ", "").lower() + ".txt"
+        #f = open(tfile, "w+")
 
         for headline in bs_data:
             # split headline into individual words
@@ -92,12 +92,12 @@ class News:
             # get keywords from headline
             self.genKeywords(h_split, hurl)
             # writes to local file
-            f.write(str(headline) + '\t' + hurl + '\n')
-        f.write('\n')
-        f.close()
+            #f.write(str(headline) + '\t' + hurl + '\n')
+        #f.write('\n')
+        #f.close()
 
         # sort dictionary
-        self.sortDictionary(tfile)
+        #self.sortDictionary(tfile)
         self.sortKeywords()
         # returns news object
 
@@ -163,10 +163,10 @@ class News:
         """
 
         # write to txt file
-        f = open(tfile, "a")
-        for index in l_wb:
-            f.write(index[0] + " : " + str(index[1]) + '\n')
-        f.close()
+        #f = open(tfile, "a")
+        #for index in l_wb:
+        #    f.write(index[0] + " : " + str(index[1]) + '\n')
+        #f.close()
 
         # convert from sorted list back to dictionary
         wb = {}
@@ -211,9 +211,9 @@ class News:
         data = json.dumps(d)
         # dump json to local file
         paper = self.paper.replace(" ", "").lower()
-        fname = './data/data_' + str(paper) + '.json'
-        with open(fname, 'w') as f:
-            json.dump(data, f)
+        #fname = './data/data_' + str(paper) + '.json'
+        #with open(fname, 'w') as f:
+        #    json.dump(data, f)
         # returns json object
         return data
 
@@ -417,11 +417,11 @@ def main():
     nyp = nypscrape()
 
     # create json file just in case
-    nyt.writejson()
-    sfc.writejson()
-    usat.writejson()
-    wsj.writejson()
-    nyp.writejson()
+    #nyt.writejson()
+    #sfc.writejson()
+    #usat.writejson()
+    #wsj.writejson()
+    #nyp.writejson()
 
     # append objects into list, return list
     newslist = []
@@ -433,7 +433,7 @@ def main():
 
     print("[*] Combining All ...")
     a = allnews(newslist)
-    a.writejson()
+    #a.writejson()
     newslist.append(a)
 
     print("[*] DONE")

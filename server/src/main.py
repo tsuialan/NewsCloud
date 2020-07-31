@@ -6,8 +6,7 @@ from flask import Flask, render_template, request, redirect, url_for
 import json
 import newscrape as ns
 
-app = Flask(__name__, instance_relative_config=True,
-            static_folder='static', static_url_path='/static')
+app = Flask(__name__)
 
 newslist = []
 

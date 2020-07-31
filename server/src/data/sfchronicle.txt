@@ -7,7 +7,6 @@ Nevada sheriff to library supporting BLM: 'Don't feel need to call 911’ 	https:/
 Newsom announces plan to improve EDD unemployment benefits system 	https://www.sfchronicle.com/business/article/Newsom-announces-plan-to-improve-EDD-unemployment-15444359.php
 DA: Alameda sheriff’s technician supplied meth to jail inmate to sell 	https://www.sfchronicle.com/crime/article/DA-Alameda-County-sheriff-s-technician-15444349.php
 SFPD arrest man in Muni assault that left passenger with face fractures 	https://www.sfchronicle.com/crime/article/SFPD-arrest-22-year-old-man-in-Muni-bus-assault-15444182.php
-Court: Uber can’t be sued for undercutting taxi prices 	https://www.sfchronicle.com/business/article/Uber-can-t-be-sued-for-undercutting-taxi-15443987.php
 Huge new Mill Valley beer garden opens with pies from PizzaHacker 	https://www.sfchronicle.com/food/article/Huge-new-Mill-Valley-beer-garden-opens-with-pies-15444022.php
 SF priest slams parishioners for putting ‘safety over sacraments’ 	https://www.sfchronicle.com/bayarea/article/SF-priest-calling-fears-of-COVID-19-overblown-15443702.php
 No stranger to controversy, a San Francisco Catholic priest sent a note to parishioners challenging COVID-19 numbers and chastising them for staying away from mass to avoid the virus. The priest’s missive comes in the wake of city officials shutting down a covert Catholic wedding at a North Beach church in early July. 	https://www.sfchronicle.com/bayarea/article/SF-priest-calling-fears-of-COVID-19-overblown-15443702.php
@@ -117,10 +116,10 @@ Longtime activists defend Pelosi foe Shahid Buttar against sex... 	https://www.s
 Activists who have known Shahid Buttar for decades say the sexual harassment allegations made against him “draw a different picture of Shahid... 	https://www.sfchronicle.com/politics/article/Longtime-activists-defend-Pelosi-foe-Shahid-15432809.php
 California approves $40M sale of Daly City hospital with conditions 	https://www.sfchronicle.com/business/article/California-approves-40-million-sale-of-Daly-City-15443612.php
 The state has conditionally approved the $40 million sale of Seton Medical Center in Daly City and its Moss Beach facility, which serve many low-income and elderly patients in the Bay Area. 	https://www.sfchronicle.com/business/article/California-approves-40-million-sale-of-Daly-City-15443612.php
+Uber can’t be sued for undercutting taxi prices, CA Supreme Court says 	https://www.sfchronicle.com/business/article/Uber-can-t-be-sued-for-undercutting-taxi-15443987.php
 Tesla limits employees’ info about virus exposure at Fremont plant 	https://www.sfchronicle.com/business/article/Tesla-limits-employees-information-about-virus-15443367.php
 Covered California extends enrollment deadline through August 	https://www.sfchronicle.com/business/article/Covered-California-extends-enrollment-deadline-15443512.php
 Genentech to cut 474 Bay Area-affiliated jobs 	https://www.sfchronicle.com/business/article/Genentech-to-cut-474-Bay-Area-jobs-15441204.php
-Virus devastated the Market in Twitter building. It’s still expanding 	https://www.sfchronicle.com/business/article/The-coronavirus-devastated-the-Market-in-SF-s-15440766.php
 Eviction ban: What renters and landlords need to know 	https://www.sfchronicle.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
 With many Californians facing economic distress because of the coronavirus, state officials have taken steps to block evictions and protect renters. 	https://www.sfchronicle.com/business/article/Coronavirus-eviction-ban-What-Bay-Area-renters-15188641.php
 Interactive Database: Bay Area Layoff Tracker 	https://projects.sfchronicle.com/2020/layoff-tracker/
@@ -179,12 +178,12 @@ Willie Brown: We’re creating separate and very unequal... 	https://www.sfchronic
 Well-off parents are forming “pandemic pods” that amount to exclusive one-room schoolhouses for their kids. No such luck for poorer children,... 	https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-We-re-creating-separate-and-very-15432333.php
 Do Not Sell My Info 	https://www.sfchronicle.com/mydata/
 
-the : 90
+the : 89
 to : 75
 a : 57
 of : 47
 and : 40
-in : 37
+in : 36
 for : 35
 bay : 24
 on : 24
@@ -199,9 +198,9 @@ california : 14
 that : 14
 from : 12
 by : 12
-its : 12
 san : 11
 but : 11
+its : 11
 sf : 10
 as : 9
 up : 9
@@ -211,7 +210,6 @@ have : 8
 new : 7
 covid-19 : 7
 get : 7
-still : 7
 will : 7
 i : 7
 if : 7
@@ -229,6 +227,7 @@ pandemic : 6
 county : 6
 you : 6
 has : 6
+still : 6
 school : 6
 reopening : 6
 when : 6
@@ -254,8 +253,6 @@ out : 5
 — : 5
 info : 4
 police : 4
-be : 4
-virus : 4
 rules : 4
 been : 4
 they : 4
@@ -275,6 +272,7 @@ rockies : 4
 national : 4
 natural : 4
 black : 4
+be : 4
 californians : 4
 past : 3
 sell : 3
@@ -284,6 +282,7 @@ dont : 3
 unemployment : 3
 over : 3
 catholic : 3
+virus : 3
 wedding : 3
 after : 3
 were : 3
@@ -327,6 +326,7 @@ street : 3
 most : 3
 about : 3
 heres : 3
+ca : 3
 shahid : 3
 cut : 3
 want : 3
@@ -342,9 +342,6 @@ need : 2
 call : 2
 benefits : 2
 man : 2
-uber : 2
-cant : 2
-sued : 2
 opens : 2
 priest : 2
 parishioners : 2
@@ -379,7 +376,9 @@ gatherings : 2
 backers : 2
 description : 2
 november : 2
+uber : 2
 workers : 2
+sued : 2
 measure : 2
 since : 2
 him : 2
@@ -476,7 +475,6 @@ mural : 2
 sfs : 2
 other : 2
 income : 2
-ca : 2
 harris : 2
 bass : 2
 pick : 2
@@ -491,6 +489,7 @@ sale : 2
 daly : 2
 which : 2
 many : 2
+cant : 2
 covered : 2
 renters : 2
 steps : 2
@@ -557,10 +556,6 @@ assault : 1
 left : 1
 passenger : 1
 fractures : 1
-court: : 1
-undercutting : 1
-taxi : 1
-prices : 1
 huge : 1
 mill : 1
 valley : 1
@@ -1003,6 +998,12 @@ serve : 1
 low-income : 1
 elderly : 1
 patients : 1
+undercutting : 1
+taxi : 1
+prices : 1
+supreme : 1
+court : 1
+says : 1
 tesla : 1
 limits : 1
 employees : 1
@@ -1018,11 +1019,6 @@ genentech : 1
 474 : 1
 area-affiliated : 1
 jobs : 1
-devastated : 1
-market : 1
-twitter : 1
-building : 1
-expanding : 1
 eviction : 1
 ban: : 1
 landlords : 1
