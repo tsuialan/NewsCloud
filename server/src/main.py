@@ -8,11 +8,10 @@ import newscrape as ns
 
 app = Flask(__name__)
 
-newslist = []
+newslist = ns.main()
 
 @app.route('/', methods=('GET', 'POST'))
 def main():
-    fupdate()
     global newslist
     # defaults to nyt wordcloud
     page = 'wordcloud'
@@ -121,9 +120,11 @@ def word():
 Helper function to zip the headline and url together
 """
 
+@app.route('/fupdate')
 def fupdate():
     global newslist
     newslist = ns.main()
+    return main()
 
 def get_head_url(headlines):
     head = []

@@ -1,11 +1,14 @@
 # local cache / virtual environment
 .DS_Store
 ./src/.DS_Store
-./template/.DS_Store
+./src/template/.DS_Store
 ./src/__pycache__/
 newscloud/
 .vscode/
 newscloud.xcworkspace/
+
+# data
+./src/data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
