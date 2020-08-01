@@ -1,3 +1,7 @@
+# Newscloud
+./src/__pycache__/*
+./src/data/*
+
 # Logs
 logs
 *.log

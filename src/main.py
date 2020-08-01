@@ -10,6 +10,7 @@ app = Flask(__name__)
 
 newslist = ns.main()
 
+
 @app.route('/', methods=('GET', 'POST'))
 def main():
     global newslist
@@ -65,7 +66,7 @@ def headline():
     papers = get_papers(newslist)
     abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp', 'all']
     all_info = zip(papers, abbrv)
-    paper="None"
+    paper = "None"
     if request.method == 'POST':
         select_news = request.form['news']
         if select_news == "nyt":
@@ -120,11 +121,13 @@ def word():
 Helper function to zip the headline and url together
 """
 
+
 @app.route('/fupdate')
 def fupdate():
     global newslist
     newslist = ns.main()
     return main()
+
 
 def get_head_url(headlines):
     head = []

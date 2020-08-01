@@ -62,7 +62,6 @@ class News:
         # writes headlines into local txt file
         #tfile = "./data/" + self.paper.replace(" ", "").lower() + ".txt"
         #f = open(tfile, "w+")
-
         for headline in bs_data:
             # split headline into individual words
             h_split = headline.getText().split()
@@ -93,11 +92,10 @@ class News:
             self.genKeywords(h_split, hurl)
             # writes to local file
             #f.write(str(headline) + '\t' + hurl + '\n')
-        #f.write('\n')
-        #f.close()
-
+        # f.write('\n')
+        # f.close()
         # sort dictionary
-        #self.sortDictionary(tfile)
+        self.sortDictionary()
         self.sortKeywords()
         # returns news object
 
@@ -152,22 +150,22 @@ class News:
         self.keywords = kw_l
 
     # sorts the dictionary either alphabetically or by frequency
-    def sortDictionary(self, tfile):
+    def sortDictionary(self):
         # sort by frequency keywords
         keywords = self.wordbank.items()
         l_wb = sorted(keywords, key=lambda x: x[1], reverse=True)
-
         """ ALPHABETIZED
         keywords = words.items()
         keywords = sorted(keywords, key = lambda x : x[0])
         """
-
+        """ WRITE FREQS
         # write to txt file
-        #f = open(tfile, "a")
-        #for index in l_wb:
-        #    f.write(index[0] + " : " + str(index[1]) + '\n')
-        #f.close()
-
+        tfile = "./data/" + self.paper.replace(" ", "").lower() + ".txt"
+        f = open(tfile, "a")
+        for index in l_wb:
+            f.write(index[0] + " : " + str(index[1]) + '\n')
+        f.close()
+        """
         # convert from sorted list back to dictionary
         wb = {}
         for t in l_wb:
@@ -212,7 +210,7 @@ class News:
         # dump json to local file
         paper = self.paper.replace(" ", "").lower()
         #fname = './data/data_' + str(paper) + '.json'
-        #with open(fname, 'w') as f:
+        # with open(fname, 'w') as f:
         #    json.dump(data, f)
         # returns json object
         return data
@@ -297,7 +295,7 @@ def allnews(newslist):
     # increase recursion depth
     sys.setrecursionlimit(1500)
     allnews.sortKeywords()
-    allnews.sortDictionary('./data/all.txt')
+    allnews.sortDictionary()
     return allnews
 
 
@@ -417,11 +415,11 @@ def main():
     nyp = nypscrape()
 
     # create json file just in case
-    #nyt.writejson()
-    #sfc.writejson()
-    #usat.writejson()
-    #wsj.writejson()
-    #nyp.writejson()
+    # nyt.writejson()
+    # sfc.writejson()
+    # usat.writejson()
+    # wsj.writejson()
+    # nyp.writejson()
 
     # append objects into list, return list
     newslist = []
@@ -433,7 +431,7 @@ def main():
 
     print("[*] Combining All ...")
     a = allnews(newslist)
-    #a.writejson()
+    # a.writejson()
     newslist.append(a)
 
     print("[*] DONE")
