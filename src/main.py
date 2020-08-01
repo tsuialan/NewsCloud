@@ -125,7 +125,7 @@ Helper function to zip the headline and url together
 """
 
 
-@app.route('/fupdate')
+@app.route('/fupdate', methods=('GET', 'POST'))
 def fupdate():
     global newslist
     newslist = ns.main()
