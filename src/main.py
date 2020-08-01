@@ -91,8 +91,11 @@ def headline():
             head_url = zip(["Not a supported news site"], ['/'])
         return render_template('headline.html', page=page, list=head_url, all_news=all_info, paper=paper)
     else:
+        paper = newslist[0].paper
+        head_url = get_head_url(newslist[0].headlines)
+        all_info = zip(papers, abbrv)
         print("booted or really bad news")
-    return render_template('headline.html', page=page, list=[], url=[], all_news=all_info, paper=paper)
+    return render_template('headline.html', page=page, list=head_url, all_news=all_info, paper=paper)
 
 
 @app.route('/word', methods=('GET', 'POST'))

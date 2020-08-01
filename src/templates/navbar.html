@@ -13,6 +13,18 @@
                 <a class="nav-link" href="{{url_for('headline')}}">Headlines</a>
             </li>
         </ul>
+        <form class="form-inline my-2 my-lg-0" method="post">
+            <select class="form-control mr-sm-2" name="news" id="news">
+                {% for news in all_news %}
+                    {% if news.0==paper %}
+                        <option value="{{news.1}}" selected>{{news.0}}</option>
+                    {% else %}
+                        <option value="{{news.1}}">{{news.0}}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Generate</button>
+        </form>
         {% elif page=='headline' %}
             <li class="nav-item">
                 <a class="nav-link" href="{{url_for('main')}}">WordCloud</a>
@@ -21,6 +33,18 @@
                 <a class="nav-link" href="{{url_for('headline')}}">Headlines<span class="sr-only">(current)</span></a>
             </li>
         </ul>
+        <form class="form-inline my-2 my-lg-0" method="post">
+            <select class="form-control mr-sm-2" name="news" id="news">
+                {% for news in all_news %}
+                    {% if news.0==paper %}
+                        <option value="{{news.1}}" selected>{{news.0}}</option>
+                    {% else %}
+                        <option value="{{news.1}}">{{news.0}}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Get Headlines</button>
+        </form>
         {% else %}
                 <li class="nav-item">
                     <a class="nav-link" href="{{url_for('main')}}">WordCloud</a>
