@@ -104,7 +104,8 @@
                 <div class="row">
                     {% for item in list %}
                     {% if links %}
-                    <div class="col-md-6 cms-boxes-outer">
+                    <div class="col-md-6 cms-boxes-outer" onclick="location.href='{{item.1}}';"
+                    style="cursor: pointer;">
                         <div class="cms-boxes-items cms-documentation">
                             <div class="boxes-align">
                                 <div class="large-box">
@@ -114,7 +115,8 @@
                         </div>
                     </div>
                     {% else %}
-                    <div class="col-md-6 cms-boxes-outer">
+                    <div class="col-md-6 cms-boxes-outer" onclick="location.href='{{item.1}}';"
+                    style="cursor: pointer;">
                         <div class="cms-boxes-items cms-documentation">
                             <div class="boxes-align">
                                 <div class="large-box">

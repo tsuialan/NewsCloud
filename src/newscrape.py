@@ -111,7 +111,7 @@ class News:
         for word in headline:
             # removes punctuation
             word = word.replace(",", "").replace(
-                ".", "").replace("?", "").replace("!", "")
+                ".", "").replace("?", "").replace("!", "").replace("(", "").replace(")", "")
             word = word.replace("'", "").replace(
                 '"', "").replace("’", "").replace("‘", "").replace(";", "")
             word = word.lower()
