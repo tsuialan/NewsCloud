@@ -1,5 +1,5 @@
 <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="{{url_for('fupdate')}}">News Cloud</a>
+    <a class="navbar-brand" href="{{url_for('fupdate')}}">NewsCloud</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -11,6 +11,9 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="{{url_for('headline')}}">Headlines</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{url_for('about')}}">About Us</a>
             </li>
         </ul>
         <form class="form-inline my-2 my-lg-0" method="post">
@@ -32,6 +35,9 @@
             <li class="nav-item active">
                 <a class="nav-link" href="{{url_for('headline')}}">Headlines<span class="sr-only">(current)</span></a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{url_for('about')}}">About Us</a>
+            </li>
         </ul>
         <form class="form-inline my-2 my-lg-0" method="post">
             <select class="form-control mr-sm-2" name="news" id="news">
@@ -45,12 +51,25 @@
             </select>
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Get Headlines</button>
         </form>
+        {% elif page=='about' %}
+            <li class="nav-item">
+                <a class="nav-link" href="{{url_for('main')}}">WordCloud</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{url_for('headline')}}">Headlines<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="{{url_for('about')}}">About Us</a>
+            </li>
         {% else %}
                 <li class="nav-item">
                     <a class="nav-link" href="{{url_for('main')}}">WordCloud</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{url_for('headline')}}">Headlines</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{url_for('about')}}">About Us</a>
                 </li>
                 <!--
                 <li class="nav-item active">

@@ -131,6 +131,10 @@ def fupdate():
     newslist = ns.main()
     return main()
 
+@app.route('/about')
+def about():
+    return render_template('about.html', page="about")
+
 
 def get_head_url(headlines):
     head = []
