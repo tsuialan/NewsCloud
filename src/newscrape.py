@@ -73,7 +73,7 @@ class News:
                 hurl = headline['href']
             else:
                 continue
-            # if no url, ignore headlinen
+            # if no url, ignore headline
             if ('/' not in hurl):
                 continue
             # completes incomplete url
@@ -86,12 +86,19 @@ class News:
                 headline += word + " "
             # creates headline object
             H = Headline(headline, hurl)
-            # adds it to news object
-            self.addHeadline(H)
-            # get keywords from headline
-            self.genKeywords(h_split, hurl)
-            # writes to local file
-            #f.write(str(headline) + '\t' + hurl + '\n')
+            # check duplicates
+            dup = False
+            for hl in self.headlines:
+                if hl.headline == headline:
+                    dup = True
+                    break
+            if dup == False:
+                # adds it to news object
+                self.addHeadline(H)
+                # get keywords from headline
+                self.genKeywords(h_split, hurl)
+                # writes to local file
+                #f.write(str(headline) + '\t' + hurl + '\n')
         # f.write('\n')
         # f.close()
         # sort dictionary
@@ -194,15 +201,6 @@ class News:
             l = {}
             l["x"] = keyword.word
             l["value"] = keyword.freq
-            """ URL IMPLEMENTATION FOR LATER
-            H = []
-            for headline in keyword.headlines:
-                h = []
-                h.append(headline.headline)
-                h.append(headline.url)
-                H.append(h)
-            l.append(H)
-            """
             d.append(l)
             counter += 1
         # creates a json object out of the list
@@ -293,7 +291,7 @@ def allnews(newslist):
             else:
                 allnews.wordbank[key] += value
     # increase recursion depth
-    sys.setrecursionlimit(1500)
+    sys.setrecursionlimit(2000)
     allnews.sortKeywords()
     allnews.sortDictionary()
     return allnews
@@ -368,7 +366,7 @@ def wsjscrape():
     r1 = requests.get(wsj_url)
     wsj = r1.content
     bs1 = BeautifulSoup(wsj, 'lxml')
-    bs_wsj = bs1.find_all("a")
+    bs_wsj = bs1.find_all("a", {"class": ""})
 
     # creates news object
     wsj = News("Wall Street Journal")

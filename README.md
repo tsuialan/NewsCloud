@@ -16,6 +16,7 @@ by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/ga
   - script can prob be rewritten for efficiency
   - add more newspaper sites
   - add more common words to file
+  - wsj is not working properly, might have to replace
 - NewsCloud
   - combine all newspaper to one word cloud option
   
