@@ -20,7 +20,7 @@ def main():
     data = nyt.writejson()
     paper = nyt.paper
     papers = get_papers(newslist)
-    abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp', 'all']
+    abbrv = ['nyt', 'sfchron', 'usat', 'tg', 'nyp', 'all']
     all_info = zip(papers, abbrv)
     print(all_info)
     if request.method == 'POST':
@@ -37,10 +37,10 @@ def main():
             usat = newslist[2]
             data = usat.writejson()
             paper = usat.paper
-        elif select_news == "wsj":
-            wsj = newslist[3]
-            data = wsj.writejson()
-            paper = wsj.paper
+        elif select_news == "tg":
+            tg = newslist[3]
+            data = tg.writejson()
+            paper = tg.paper
         elif select_news == "nyp":
             nyp = newslist[4]
             data = nyp.writejson()
@@ -64,7 +64,7 @@ def headline():
     page = 'headline'
     news = ''
     papers = get_papers(newslist)
-    abbrv = ['nyt', 'sfchron', 'usat', 'wsj', 'nyp', 'all']
+    abbrv = ['nyt', 'sfchron', 'usat', 'tg', 'nyp', 'all']
     all_info = zip(papers, abbrv)
     paper = "None"
     if request.method == 'POST':
@@ -78,7 +78,7 @@ def headline():
         elif select_news == "usat":
             head_url = get_head_url(newslist[2].headlines)
             paper = newslist[2].paper
-        elif select_news == "wsj":
+        elif select_news == "tg":
             head_url = get_head_url(newslist[3].headlines)
             paper = newslist[3].paper
         elif select_news == "nyp":

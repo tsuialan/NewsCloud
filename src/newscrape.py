@@ -356,24 +356,24 @@ def usatodayscrape():
     # return object
     return usat
 
-# scrapes wsj
+# scrapes tg
 
 
-def wsjscrape():
-    print("Begin Wall Street Journal ...")
+def tgscrape():
+    print("Begin The Guardian ...")
     # scrapes usatoday chronicle
-    wsj_url = 'https://www.wsj.com/'
-    r1 = requests.get(wsj_url)
-    wsj = r1.content
-    bs1 = BeautifulSoup(wsj, 'lxml')
-    bs_wsj = bs1.find_all("a", {"class": ""})
+    tg_url = 'https://www.theguardian.com/us'
+    r1 = requests.get(tg_url)
+    tg = r1.content
+    bs1 = BeautifulSoup(tg, 'lxml')
+    bs_tg = bs1.find_all("a")
 
     # creates news object
-    wsj = News("Wall Street Journal")
+    tg = News("The Guardian")
     # call webscrape algorithm
-    wsj.webscrape(bs_wsj, wsj_url)
+    tg.webscrape(bs_tg, tg_url)
     # return object
-    return wsj
+    return tg
 
 # scrapes nyp
 
@@ -407,8 +407,8 @@ def main():
     sfc = sfcscrape()
     print("[*] Starting USA Today ... ")
     usat = usatodayscrape()
-    print("[*] Starting Wall Street Journal... ")
-    wsj = wsjscrape()
+    print("[*] Starting The Guardian... ")
+    tg = tgscrape()
     print("[*] Starting New York Post... ")
     nyp = nypscrape()
 
@@ -416,7 +416,7 @@ def main():
     # nyt.writejson()
     # sfc.writejson()
     # usat.writejson()
-    # wsj.writejson()
+    # tg.writejson()
     # nyp.writejson()
 
     # append objects into list, return list
@@ -424,7 +424,7 @@ def main():
     newslist.append(nyt)
     newslist.append(sfc)
     newslist.append(usat)
-    newslist.append(wsj)
+    newslist.append(tg)
     newslist.append(nyp)
 
     print("[*] Combining All ...")
