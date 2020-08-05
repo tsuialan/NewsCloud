@@ -6,11 +6,136 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
     <title>NewsCloud</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 </head>
 
 <body>
     {% include 'navbar.html' %}
     <h1> {{paper}} [{{word}}] </h1>
+
+    <style>
+        /* unvisited link */
+        a:link {
+            text-decoration: none;
+            color: white;
+        }
+
+        /* visited link */
+        a:visited {
+            text-decoration: none;
+            color: white;
+        }
+
+        /* mouse over link */
+        a:hover {
+            text-decoration: none;
+            color: white;
+        }
+
+        section.cms-boxes .cms-boxes-outer {
+            text-align: left;
+            margin-bottom: 6px;
+            padding: 0 3px;
+        }
+
+        section.cms-boxes .cms-boxes-outer .cms-boxes-items {
+            height: 350px;
+            display: table;
+            width: 100%;
+        }
+
+        section.cms-boxes .cms-boxes-outer .cms-boxes-items p {
+            color: #fff;
+        }
+
+        section.cms-boxes .cms-features {
+            background-color: #b70457;
+        }
+
+        section.cms-boxes .boxes-align {
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        section.cms-boxes .small-box,
+        section.cms-boxes .large-box {
+            max-width: 350px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        section.cms-boxes .cms-boxes-items h2 {
+            font-size: 35px;
+            color: #fff;
+            font-weight: 400;
+            line-height: 37px;
+            text-align: center;
+            margin: 20px 0 10px;
+            text-transform: uppercase;
+        }
+
+        section.cms-boxes .cms-security {
+            background-color: #0489b7;
+        }
+
+        section.cms-boxes .cms-security,
+        section.cms-boxes .cms-documentation {
+            background-color: rgb(66, 16, 88);
+        }
+
+        section.cms-boxes .cms-scalability {
+            background: url(https://www.solodev.com/assets/tiles/scalability.jpg) 0 0 no-repeat;
+            background-size: cover;
+        }
+
+        section.cms-boxes .cms-built {
+            background: url(https://www.solodev.com/assets/tiles/customer-service.jpg) 0 0 no-repeat;
+            background-size: cover;
+        }
+
+        section.cms-boxes .cms-security,
+        section.cms-boxes .cms-documentation {
+            background-color: rgb(66, 16, 88);
+        }
+    </style>
+
+    <div class="container">
+        <section class="cms-boxes">
+          <div class="container-fluid">
+            <div class="row">
+                {% for item in list %}
+                    {% if links %}
+                    <div class="col-md-6 cms-boxes-outer">
+                        <div class="cms-boxes-items cms-documentation">
+                          <div class="boxes-align">
+                            <div class="large-box">
+                                <a style="font-size: 20x;" href="{{item.1}}" target="_blank"> {{item.0}} </a>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                    {% else %}
+                    <div class="col-md-6 cms-boxes-outer">
+                        <div class="cms-boxes-items cms-documentation">
+                          <div class="boxes-align">
+                            <div class="large-box">
+                                <a style="font-size: 20px;" href="{{item.1}}"> {{item.0}} </a>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+          </div>
+        </section>
+      </div>
+
+    <!--
     {% for item in list %}
         {% if links %}
             <a href="{{item.1}}" target="_blank"> {{item.0}} </a>
@@ -20,13 +145,16 @@
             <a href="{{item.1}}"> {{item.0}} </a>
         {% endif %}
     {% endfor %}
+    -->
 
-
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
     </script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
     </script>
 </body>
 
