@@ -6,16 +6,11 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
     <title>NewsCloud</title>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 </head>
 
 <body>
     {% include 'navbar.html' %}
-    <h1> {{paper}} [{{word}}] </h1>
+    <h1 style="text-align: center;"> {{paper}} [{{word}}] </h1>
 
     <style>
         /* unvisited link */
@@ -105,35 +100,35 @@
 
     <div class="container">
         <section class="cms-boxes">
-          <div class="container-fluid">
-            <div class="row">
-                {% for item in list %}
+            <div class="container-fluid">
+                <div class="row">
+                    {% for item in list %}
                     {% if links %}
                     <div class="col-md-6 cms-boxes-outer">
                         <div class="cms-boxes-items cms-documentation">
-                          <div class="boxes-align">
-                            <div class="large-box">
-                                <a style="font-size: 20x;" href="{{item.1}}" target="_blank"> {{item.0}} </a>
+                            <div class="boxes-align">
+                                <div class="large-box">
+                                    <a style="font-size: 20x;" href="{{item.1}}" target="_blank"> {{item.0}} </a>
                                 </div>
                             </div>
-                            </div>
                         </div>
+                    </div>
                     {% else %}
                     <div class="col-md-6 cms-boxes-outer">
                         <div class="cms-boxes-items cms-documentation">
-                          <div class="boxes-align">
-                            <div class="large-box">
-                                <a style="font-size: 20px;" href="{{item.1}}"> {{item.0}} </a>
+                            <div class="boxes-align">
+                                <div class="large-box">
+                                    <a style="font-size: 20px;" href="{{item.1}}"> {{item.0}} </a>
                                 </div>
                             </div>
-                            </div>
                         </div>
+                    </div>
                     {% endif %}
-                {% endfor %}
+                    {% endfor %}
+                </div>
             </div>
-          </div>
         </section>
-      </div>
+    </div>
 
     <!--
     {% for item in list %}

@@ -10,8 +10,7 @@ by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/ga
 
 ### In Progress
 - Flask
-  - get template for home/headline page
-  - make site looks nicer
+  - make tiles looks nicer
   - add about page
 - NewScrape
   - script can prob be rewritten for efficiency
