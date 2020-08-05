@@ -38,3 +38,4 @@ their
 they
 via
 getty
+wsj
