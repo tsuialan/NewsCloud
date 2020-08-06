@@ -9,7 +9,7 @@ by [@tsuialan](https://github.com/tsuialan) and [@gakwong](https://github.com/ga
 
 ## To-Do Checklist
 ### Bugs
-- occasion incorrect headline assignment to url
+- occasional incorrect headline assignment to url
 ### In Progress
 - Flask
   - make tiles look nicer
