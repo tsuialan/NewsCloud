@@ -99,7 +99,7 @@
             <div class="container-fluid">
                 <div class="row">
                     {% for item in list %}
-                    <div class="col-md-6 cms-boxes-outer" onclick="location.href='{{item.1}}';"
+                    <div class="col-md-6 cms-boxes-outer" onclick="window.open({{item.1}}, "_blank");"
                         style="cursor: pointer;">
                         <div class="cms-boxes-items cms-documentation">
                             <div class="boxes-align">

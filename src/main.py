@@ -101,6 +101,7 @@ def headline():
 @app.route('/word', methods=('GET', 'POST'))
 def word():
     global newslist
+    page = 'headline'
     word = "default"
     word = request.args['word'].lower()
     paper = request.args['paper']
@@ -117,7 +118,7 @@ def word():
         headurl = zip(["No headlines found, back to wordcloud?"], ['/'])
         links = False
     papers = get_papers(newslist)
-    return render_template('word.html', word=word, paper=paper, list=headurl, links=links, all_news=papers)
+    return render_template('word.html', page=page, word=word, paper=paper, list=headurl, links=links, all_news=papers)
 
 
 """
