@@ -101,7 +101,7 @@ def headline():
 @app.route('/word', methods=('GET', 'POST'))
 def word():
     global newslist
-    page = 'headline'
+    page = 'word'
     word = "default"
     word = request.args['word'].lower()
     paper = request.args['paper']
@@ -150,9 +150,11 @@ def get_head_url(headlines):
 
 def get_papers(newslist):
     papers = []
+    helper = []
     for news in newslist:
         if news.paper not in papers:
             papers.append(news.paper)
+            helper.append(1)
     return papers
 
 
