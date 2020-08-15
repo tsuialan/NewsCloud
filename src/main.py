@@ -141,11 +141,15 @@ def about():
 def get_head_url(headlines):
     head = []
     urls = []
+    index = []
+    i=0
     for headline in headlines:
         head.append(headline.headline)
         urls.append(headline.url)
+        index.append(i)
+        i = i+1
     # print(head)
-    return zip(head, urls)
+    return zip(head, urls, index)
 
 
 def get_papers(newslist):
