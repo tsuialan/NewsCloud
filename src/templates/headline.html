@@ -6,6 +6,12 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
     <title>NewsCloud</title>
+
+    <script>
+        function openItem(link){
+            window.open(link, "_blank");
+        }
+    </script>
 </head>
 
 <body>
@@ -99,11 +105,10 @@
             <div class="container-fluid">
                 <div class="row">
                     {% for item in list %}
-                    <div class="col-md-6 cms-boxes-outer" onclick="window.open({{item.1}}, "_blank");"
-                        style="cursor: pointer;">
+                    <div class="col-md-6 cms-boxes-outer" onclick="openItem('{{item.1}}');" style="cursor: pointer;">
                         <div class="cms-boxes-items cms-documentation">
                             {% if item.2 % 2 == 0 %}
-                                <div class="boxes-align" style="background-color: pink">
+                                <div class="boxes-align" style="background-color:pink">
                             {% else %}
                                 <div class="boxes-align">
                             {% endif %}

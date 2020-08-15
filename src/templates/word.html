@@ -104,7 +104,7 @@
                 <div class="row">
                     {% for item in list %}
                         {% if links %}
-                            <div class="col-md-6 cms-boxes-outer" onclick="window.open({{item.1}}, "_blank");"
+                            <div class="col-md-6 cms-boxes-outer" onclick="window.open('{{item.1}}', '_blank');"
                             style="cursor: pointer;">
                                 <div class="cms-boxes-items cms-documentation">
                                     {% if item.2 % 2 == 0 %}
